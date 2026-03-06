@@ -1,0 +1,9 @@
+paddlepaddle==2.6.0
+paddleocr>=2.7.0
+opencv-python
+flask
+numpy
+albumentations
+editdistance
+matplotlib
+requests
