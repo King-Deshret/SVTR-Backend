@@ -2,18 +2,23 @@
 __pycache__/
 *.pyc
 *.pyo
-.env
-venv/
+*.pyd
+.Python
 env/
+venv/
+ENV/
 
-# Dataset 
+# Dataset besar (opsional - jika tidak mau di-commit)
 data/raw/
-data/synthetic/
+data/processed/
 models/
 
-# OS & Editor
+# Logs & cache
+*.log
+*.cache
 .DS_Store
 Thumbs.db
-.vscode/
-*.log
 
+# IDE
+.vscode/
+.idea/
