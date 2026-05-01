@@ -1,24 +1,48 @@
-# Python
+# Virtual Environment
+ocr_env/
+venv/
+env/
+
+# Dataset & Gambar
+Data/Raw/
+Data/Processed/
+Data/Cropped/
+Data/Augmented/
+Data/Training/
+
+# Cache Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.Python
-env/
-venv/
-ENV/
 
-# Dataset besar (opsional - jika tidak mau di-commit)
-data/raw/
-data/processed/
-models/
+# PaddleOCR Model Cache
+.paddlex/
+*.pdparams
+*.pdopt
+*.pdmodel
+*.pdiparams
+*.pdiparams.info
 
-# Logs & cache
-*.log
-*.cache
+# Output Model Training
+output/
+
+# File Development
+Src/Debug/
+
+# VS Code
+.vscode/
+
+# Notebooks
+Notebooks/
+
+# OS Files
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# IDE
-.vscode/
-.idea/
+# Log Files
+*.log
+
+# Environment Variables
+.env
