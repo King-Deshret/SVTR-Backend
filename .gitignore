@@ -1,4 +1,4 @@
-# Virtual Environment
+﻿# Virtual Environment
 ocr_env/
 venv/
 env/
@@ -16,15 +16,10 @@ __pycache__/
 *.pyo
 *.pyd
 
-# PaddleOCR Model Cache
+# PaddleOCR Model Cache (global cache, bukan model kita)
 .paddlex/
-*.pdparams
-*.pdopt
-*.pdmodel
-*.pdiparams
-*.pdiparams.info
 
-# Output Model Training
+# Output Model Training (bukan inference)
 output/
 
 # File Development
@@ -46,3 +41,6 @@ desktop.ini
 
 # Environment Variables
 .env
+
+# NOTE: Src/Model/Inference/ TIDAK diignore
+# supaya model bisa di-deploy ke Railway
