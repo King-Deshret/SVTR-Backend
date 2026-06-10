@@ -1,8 +1,6 @@
 ﻿[build]
-builder = "nixpacks"
-
-[build.nixpacksPlan.phases.setup]
-nixPkgs = ["python310", "gcc"]
+builder = "dockerfile"
+dockerfilePath = "Dockerfile"
 
 [deploy]
 startCommand = "python -m Src.API.app"
