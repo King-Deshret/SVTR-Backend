@@ -1,7 +1,0 @@
-﻿[build]
-builder = "dockerfile"
-dockerfilePath = "Dockerfile"
-
-[deploy]
-startCommand = "python -m Src.API.app"
-restartPolicyType = "on_failure"

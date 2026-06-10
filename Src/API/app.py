@@ -9,10 +9,6 @@ os.environ['PADDLE_PDX_DISABLE_MODEL_SOURCE_CHECK'] = 'True'
 
 import sys
 
-paddle_base = os.path.join(os.path.dirname(sys.executable), 'Lib', 'site-packages', 'paddle', 'base')
-if os.path.exists(paddle_base):
-    os.add_dll_directory(paddle_base)
-
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import cv2
@@ -32,7 +28,8 @@ PROCESSED_FOLDER = 'Data/Processed'
 os.makedirs(RAW_FOLDER,       exist_ok=True)
 os.makedirs(PROCESSED_FOLDER, exist_ok=True)
 
-REC_MODEL_DIR = r"D:\SVTR-Project\Src\Model\Inference"
+BASE_DIR      = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+REC_MODEL_DIR = os.path.join(BASE_DIR, 'Src', 'Model', 'Inference')
 
 ai_engine    = SVTRModel(rec_model_dir=REC_MODEL_DIR, debug=False)
 preprocessor = EnhancedPicture(debug=False)

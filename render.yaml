@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: svtr-ocr-api
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn --bind 0.0.0.0:$PORT --workers 1 --timeout 120 Src.API.app:app
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.0
+      - key: FLAGS_use_onednn
+        value: "0"
+      - key: PADDLE_PDX_DISABLE_MODEL_SOURCE_CHECK
+        value: "True"
