@@ -1,0 +1,1126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<meta name="theme-color" content="#ffffff" id="theme-meta"/>
+<meta name="mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="default"/>
+<meta name="apple-mobile-web-app-title" content="TextProduct Scanner"/>
+<title>ScanProduk Kemasan Pangan</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet"/>
+<style>
+/* =====================================================
+   RESET & BASE
+===================================================== */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%;width:100%;overflow:hidden;font-family:'DM Sans',sans-serif;-webkit-tap-highlight-color:transparent;user-select:none;}
+button{background:none;border:none;cursor:pointer;font-family:inherit;}
+input{font-family:inherit;}
+.hidden{display:none!important;}
+
+/* =====================================================
+   THEME VARIABLES
+===================================================== */
+body.tw {
+  --bg:#ffffff; --bg2:#f5f5f5; --surf:#ffffff; --surf2:#f0f0f0;
+  --brd:#e0e0e0; --brd2:#cccccc; --txt:#111111; --txt2:#555555;
+  --txt3:#999999; --acc:#00a86b; --acc-bg:#e6f7f1;
+  --acc2:#e63946; --shd:0 2px 16px rgba(0,0,0,.08);
+}
+body.tb {
+  --bg:#0d0d0d; --bg2:#181818; --surf:#1a1a1a; --surf2:#242424;
+  --brd:#2e2e2e; --brd2:#3a3a3a; --txt:#f0f0f0; --txt2:#aaaaaa;
+  --txt3:#666666; --acc:#4fffb0; --acc-bg:rgba(79,255,176,.10);
+  --acc2:#ff6b6b; --shd:0 2px 16px rgba(0,0,0,.5);
+}
+
+/* =====================================================
+   SCREEN SYSTEM
+===================================================== */
+.screen{
+  position:fixed;inset:0;background:var(--bg);
+  display:flex;flex-direction:column;
+  opacity:0;pointer-events:none;
+  transform:translateX(20px);
+  transition:opacity .22s ease,transform .22s ease;
+  overflow:hidden;
+}
+.screen.active{opacity:1;pointer-events:all;transform:translateX(0);}
+
+/* =====================================================
+   TOPBAR (shared)
+===================================================== */
+.topbar{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:14px 16px;border-bottom:1px solid var(--brd);
+  background:var(--surf);flex-shrink:0;
+}
+.topbar-title{font-size:16px;font-weight:700;color:var(--txt);}
+.tb-back{
+  width:36px;height:36px;border-radius:10px;
+  display:flex;align-items:center;justify-content:center;
+  background:var(--surf2);color:var(--txt);border:1px solid var(--brd);
+  transition:background .15s;
+}
+.tb-back:active{background:var(--brd);}
+
+/* =====================================================
+   HOME SCREEN
+===================================================== */
+#sh{justify-content:space-between;}
+.home-wrap{
+  display:flex;flex-direction:column;align-items:center;
+  padding:32px 24px 28px;height:100%;justify-content:space-between;
+}
+.home-logo-area{
+  display:flex;flex-direction:column;align-items:center;
+  gap:10px;flex:1;justify-content:center;
+}
+.home-icon-ring{
+  width:116px;height:116px;border-radius:28px;
+  background:var(--acc-bg);border:1.5px solid var(--acc);
+  display:flex;align-items:center;justify-content:center;
+  margin-bottom:8px;box-shadow:0 0 0 6px var(--acc-bg);
+}
+.home-title{
+  font-size:34px;font-weight:800;color:var(--txt);
+  text-align:center;line-height:1.12;letter-spacing:-1px;
+}
+.home-title span{color:var(--acc);}
+.home-sub{font-size:12px;color:var(--txt3);letter-spacing:3px;text-transform:uppercase;margin-top:2px;}
+.home-btns{width:100%;display:flex;flex-direction:column;gap:13px;}
+
+/* Primary button */
+.btn-pri{
+  width:100%;display:flex;align-items:center;gap:14px;
+  background:var(--acc);border-radius:16px;padding:18px 20px;
+  box-shadow:0 4px 20px rgba(0,168,107,.22);
+  transition:transform .1s,filter .15s;
+}
+.btn-pri:active{transform:scale(.97);filter:brightness(.92);}
+
+/* Secondary button */
+.btn-sec{
+  width:100%;display:flex;align-items:center;gap:14px;
+  background:var(--surf);border-radius:16px;padding:18px 20px;
+  border:1px solid var(--brd2);box-shadow:var(--shd);
+  transition:transform .1s,background .15s;
+}
+.btn-sec:active{transform:scale(.97);background:var(--surf2);}
+
+.btn-ico{
+  width:44px;height:44px;border-radius:12px;
+  display:flex;align-items:center;justify-content:center;
+  flex-shrink:0;
+}
+.btn-pri .btn-ico{background:rgba(0,0,0,.12);color:#000;}
+.btn-sec .btn-ico{background:var(--acc-bg);color:var(--acc);}
+.btn-content{flex:1;display:flex;flex-direction:column;gap:2px;text-align:left;}
+.btn-title{font-size:16px;font-weight:700;}
+.btn-pri .btn-title{color:#000;}
+.btn-sec .btn-title{color:var(--txt);}
+.btn-desc{font-size:12px;}
+.btn-pri .btn-desc{color:rgba(0,0,0,.6);}
+.btn-sec .btn-desc{color:var(--txt3);}
+.btn-arrow{font-size:22px;font-weight:300;}
+.btn-pri .btn-arrow{color:rgba(0,0,0,.45);}
+.btn-sec .btn-arrow{color:var(--txt3);}
+
+.chips{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;}
+.chip{
+  background:var(--surf2);border:1px solid var(--brd);
+  border-radius:20px;padding:5px 13px;
+  font-size:12px;color:var(--txt2);font-weight:500;
+}
+.home-ver{font-size:11px;color:var(--txt3);}
+
+/* =====================================================
+   SETTINGS SCREEN
+===================================================== */
+.sett-body{flex:1;overflow-y:auto;padding:8px 0 32px;}
+.sett-label{
+  font-size:11px;font-weight:700;color:var(--acc);
+  letter-spacing:1.5px;padding:18px 20px 8px;
+}
+.sett-card{
+  background:var(--surf);margin:0 16px;
+  border-radius:16px;border:1px solid var(--brd);padding:18px;
+}
+.sett-desc{font-size:13px;color:var(--txt2);margin-bottom:14px;line-height:1.6;}
+
+/* Resolution pills */
+.res-pills{display:flex;gap:10px;margin-bottom:14px;}
+.res-pill{
+  flex:1;padding:10px 6px;border-radius:10px;
+  background:var(--surf2);border:1.5px solid var(--brd);
+  font-size:13px;font-weight:700;color:var(--txt2);transition:all .15s;
+}
+.res-pill.active{background:var(--acc-bg);border-color:var(--acc);color:var(--acc);}
+.res-pill:active{transform:scale(.96);}
+.rec-tag{font-size:9px;font-weight:600;display:block;margin-top:2px;}
+.res-info{font-size:12px;color:var(--txt3);background:var(--surf2);border-radius:8px;padding:8px 12px;}
+
+/* Theme options */
+.theme-opts{display:flex;gap:14px;}
+.theme-opt{
+  flex:1;border-radius:14px;border:2px solid var(--brd);padding:14px 12px;
+  display:flex;flex-direction:column;align-items:center;gap:8px;
+  font-size:13px;font-weight:600;color:var(--txt2);transition:border-color .15s;
+}
+.theme-opt.active{border-color:var(--acc);color:var(--acc);}
+.theme-sw{width:100%;height:44px;border-radius:8px;overflow:hidden;}
+.sw-white{background:#fff;border:1px solid #ddd;display:flex;}
+.sw-black{background:#0d0d0d;border:1px solid #333;display:flex;}
+.sw-acc{width:40%;height:100%;}
+.sw-acc-w{background:#00a86b;}
+.sw-acc-b{background:#4fffb0;}
+.theme-chk{font-size:16px;font-weight:700;}
+
+/* API input */
+.api-input{
+  width:100%;padding:12px 14px;border-radius:10px;
+  background:var(--surf2);border:1.5px solid var(--brd);
+  color:var(--txt);font-size:13px;outline:none;
+  transition:border-color .15s;margin-bottom:12px;display:block;
+}
+.api-input:focus{border-color:var(--acc);}
+.api-input::placeholder{color:var(--txt3);}
+.test-btn{
+  background:var(--acc);color:#000;
+  border-radius:10px;padding:10px 20px;
+  font-size:13px;font-weight:700;transition:filter .15s;
+}
+.test-btn:active{filter:brightness(.9);}
+.api-stat{margin-top:10px;padding:10px 14px;border-radius:8px;font-size:13px;font-weight:500;}
+.api-ok{background:#e6f7f1;color:#00703a;border:1px solid #00a86b;}
+.api-err{background:#fdf0f0;color:#c0392b;border:1px solid #e63946;}
+.tb .api-ok{background:rgba(79,255,176,.1);color:#4fffb0;border-color:#4fffb0;}
+.tb .api-err{background:rgba(255,107,107,.1);color:#ff6b6b;border-color:#ff6b6b;}
+.divider{height:1px;background:var(--brd);margin:14px 0;}
+
+/* =====================================================
+   CAMERA SCREEN
+===================================================== */
+#sc{background:#000;}
+.cam-topbar{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:max(14px,env(safe-area-inset-top)) 16px 14px;
+  background:rgba(0,0,0,.6);backdrop-filter:blur(8px);
+  position:absolute;top:0;left:0;right:0;z-index:10;
+}
+.cam-tb-btn{
+  width:38px;height:38px;border-radius:10px;
+  background:rgba(255,255,255,.15);
+  display:flex;align-items:center;justify-content:center;
+  color:#fff;transition:background .15s;
+}
+.cam-tb-btn:active{background:rgba(255,255,255,.28);}
+.cam-tb-title{font-size:13px;font-weight:700;color:#fff;letter-spacing:1.5px;}
+
+/* Viewport */
+.cam-vp{flex:1;position:relative;overflow:hidden;background:#000;}
+#vid{width:100%;height:100%;object-fit:cover;display:block;}
+#cvs{display:none;}
+
+/* Scan overlay */
+.scan-ov{position:absolute;inset:0;pointer-events:none;}
+.sc-corner{position:absolute;width:26px;height:26px;border-color:#4fffb0;border-style:solid;}
+.sc-corner.tl{top:18%;left:8%;border-width:3px 0 0 3px;border-radius:3px 0 0 0;}
+.sc-corner.tr{top:18%;right:8%;border-width:3px 3px 0 0;border-radius:0 3px 0 0;}
+.sc-corner.bl{bottom:32%;left:8%;border-width:0 0 3px 3px;border-radius:0 0 0 3px;}
+.sc-corner.br{bottom:32%;right:8%;border-width:0 3px 3px 0;border-radius:0 0 3px 0;}
+.sc-beam{
+  position:absolute;left:8%;right:8%;height:2px;
+  background:linear-gradient(90deg,transparent,#4fffb0 30%,#4fffb0 70%,transparent);
+  box-shadow:0 0 10px #4fffb0;
+  animation:beamAnim 2.8s ease-in-out infinite;top:18%;
+}
+@keyframes beamAnim{0%,100%{top:18%;opacity:.5;}50%{top:68%;opacity:1;}}
+
+.cam-badge{
+  position:absolute;top:14%;left:50%;transform:translateX(-50%);
+  background:rgba(79,255,176,.18);border:1px solid rgba(79,255,176,.5);
+  color:#4fffb0;font-size:11px;font-weight:700;letter-spacing:1.5px;
+  padding:5px 14px;border-radius:20px;backdrop-filter:blur(6px);
+}
+.cam-hint{
+  position:absolute;bottom:33%;left:50%;transform:translateX(-50%);
+  background:rgba(0,0,0,.55);backdrop-filter:blur(6px);
+  color:rgba(255,255,255,.8);font-size:12px;
+  padding:5px 14px;border-radius:20px;white-space:nowrap;
+}
+
+/* Flash */
+.flash-ov{
+  position:absolute;inset:0;background:#fff;pointer-events:none;
+  animation:flashOut .28s ease-out forwards;
+}
+@keyframes flashOut{0%{opacity:.85;}100%{opacity:0;}}
+
+/* Processing overlay */
+.proc-ov{
+  position:absolute;inset:0;
+  background:rgba(0,0,0,.80);backdrop-filter:blur(4px);
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  gap:16px;z-index:20;padding:24px;
+}
+.proc-spin{
+  width:48px;height:48px;border-radius:50%;
+  border:3px solid rgba(79,255,176,.2);border-top-color:#4fffb0;
+  animation:spin .8s linear infinite;
+}
+@keyframes spin{to{transform:rotate(360deg);}}
+.proc-txt{color:#fff;font-size:15px;font-weight:600;}
+.proc-steps{display:flex;flex-direction:column;gap:8px;width:100%;max-width:280px;}
+.proc-step{
+  font-size:13px;color:rgba(255,255,255,.35);
+  padding:8px 14px;border-radius:10px;
+  background:rgba(255,255,255,.05);transition:color .3s,background .3s;
+}
+.proc-step.active{color:#4fffb0;background:rgba(79,255,176,.12);font-weight:600;}
+.proc-step.done{color:rgba(255,255,255,.55);}
+
+/* No cam */
+.no-cam{
+  position:absolute;inset:0;
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  gap:10px;text-align:center;padding:24px;color:#888;
+}
+.no-cam h3{color:#fff;font-size:18px;font-weight:700;}
+.no-cam p{font-size:13px;line-height:1.6;max-width:280px;}
+.retry-btn{
+  margin-top:8px;background:#4fffb0;color:#000;
+  border-radius:10px;padding:11px 28px;font-weight:700;font-size:14px;
+}
+
+/* Camera controls */
+.cam-ctrl{
+  position:absolute;bottom:0;left:0;right:0;
+  background:rgba(13,13,13,.95);
+  border-top:1px solid rgba(255,255,255,.08);
+  padding:12px 20px max(20px,env(safe-area-inset-bottom));
+}
+.mode-row{display:flex;justify-content:center;gap:10px;margin-bottom:14px;}
+.mode-pill{
+  display:flex;align-items:center;gap:7px;
+  padding:8px 20px;border-radius:30px;
+  font-size:13px;font-weight:600;color:#888;
+  background:rgba(255,255,255,.07);border:1.5px solid rgba(255,255,255,.1);
+  transition:all .2s;
+}
+.mode-pill.active{background:rgba(79,255,176,.14);border-color:rgba(79,255,176,.45);color:#4fffb0;}
+.mode-pill:active{transform:scale(.95);}
+
+.shutter-row{display:flex;align-items:center;justify-content:space-between;padding:0 12px;}
+.shutter-btn{
+  width:72px;height:72px;border-radius:50%;
+  border:3px solid rgba(255,255,255,.65);
+  display:flex;align-items:center;justify-content:center;
+  position:relative;transition:transform .1s;
+}
+.shutter-btn:active{transform:scale(.9);}
+.shutter-ring{position:absolute;inset:4px;border-radius:50%;border:1.5px solid rgba(255,255,255,.15);}
+.shutter-dot{width:56px;height:56px;border-radius:50%;background:#fff;transition:background .15s,transform .1s;}
+.shutter-btn:active .shutter-dot{transform:scale(.88);}
+.shutter-dot.scan{background:#4fffb0;}
+.shutter-btn.scan{border-color:#4fffb0;}
+
+.thumb-btn{
+  width:52px;height:52px;border-radius:12px;
+  background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.1);
+  overflow:hidden;display:flex;align-items:center;justify-content:center;
+  color:rgba(255,255,255,.35);transition:transform .1s;
+}
+.thumb-btn:active{transform:scale(.9);}
+#thumb-img{width:100%;height:100%;object-fit:cover;}
+
+/* =====================================================
+   RESULT SCREEN
+===================================================== */
+.result-scroll{flex:1;overflow-y:auto;padding-bottom:20px;}
+.result-img-wrap{
+  margin:14px 16px;border-radius:14px;overflow:hidden;
+  background:#000;max-height:230px;
+  display:flex;align-items:center;justify-content:center;
+}
+.result-img-wrap img{max-width:100%;max-height:230px;object-fit:contain;display:block;}
+
+.err-banner{
+  display:flex;align-items:center;gap:10px;
+  background:#fdf0f0;border:1px solid #e63946;
+  border-radius:12px;margin:0 16px 12px;padding:12px 14px;
+  font-size:13px;color:#c0392b;
+}
+.tb .err-banner{background:rgba(255,107,107,.1);border-color:rgba(255,107,107,.4);color:#ff6b6b;}
+
+.result-card{
+  background:var(--surf);margin:0 16px 14px;
+  border-radius:14px;border:1px solid var(--brd);overflow:hidden;
+}
+.result-card-hdr{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:13px 16px 10px;border-bottom:1px solid var(--brd);
+}
+.result-card-title{font-size:14px;font-weight:700;color:var(--txt);}
+.meta-row{display:flex;gap:8px;}
+.meta-chip{
+  background:var(--surf2);border-radius:20px;
+  padding:3px 10px;font-size:11px;font-weight:500;color:var(--txt2);
+}
+.meta-chip.acc{background:var(--acc-bg);color:var(--acc);}
+
+.result-tb{
+  padding:14px 16px;min-height:90px;max-height:170px;overflow-y:auto;
+  font-family:'DM Mono',monospace;font-size:14px;line-height:1.7;
+  color:var(--txt);white-space:pre-wrap;word-break:break-word;
+  user-select:text;-webkit-user-select:text;outline:none;
+}
+.result-tb:focus{background:var(--surf2);}
+.ph-txt{color:var(--txt3);font-style:italic;}
+
+.result-acts{display:flex;gap:10px;padding:0 16px;margin-bottom:12px;}
+.act-btn{
+  flex:1;display:flex;align-items:center;justify-content:center;gap:7px;
+  padding:13px 8px;border-radius:12px;
+  font-size:13px;font-weight:600;transition:transform .1s,filter .15s;
+}
+.act-btn:active{transform:scale(.96);filter:brightness(.88);}
+.act-green{background:var(--acc-bg);color:var(--acc);border:1px solid var(--acc);}
+.act-grey{background:var(--surf);color:var(--txt);border:1px solid var(--brd);}
+
+.tts-bar{
+  display:flex;align-items:center;gap:10px;
+  background:var(--acc-bg);border:1px solid var(--acc);
+  margin:0 16px 12px;padding:11px 14px;border-radius:12px;
+}
+.tts-waves{display:flex;align-items:center;gap:3px;}
+.tts-waves span{display:block;width:3px;background:var(--acc);border-radius:3px;animation:wv .8s ease-in-out infinite;}
+.tts-waves span:nth-child(1){height:6px;animation-delay:0s;}
+.tts-waves span:nth-child(2){height:12px;animation-delay:.1s;}
+.tts-waves span:nth-child(3){height:18px;animation-delay:.2s;}
+.tts-waves span:nth-child(4){height:12px;animation-delay:.3s;}
+.tts-waves span:nth-child(5){height:6px;animation-delay:.4s;}
+@keyframes wv{0%,100%{transform:scaleY(.5);}50%{transform:scaleY(1.4);}}
+.tts-lbl{flex:1;font-size:13px;color:var(--acc);font-weight:600;}
+.tts-stop-btn{
+  background:var(--acc2);color:#fff;opacity:.85;
+  border-radius:8px;padding:5px 14px;font-size:12px;font-weight:700;
+}
+.tts-stop-btn:active{opacity:1;}
+
+.scan-again-btn{
+  display:block;width:calc(100% - 32px);margin:0 16px;
+  background:var(--acc);color:#000;font-size:16px;font-weight:700;
+  border-radius:14px;padding:15px;text-align:center;transition:filter .15s;
+}
+.scan-again-btn:active{filter:brightness(.9);}
+
+/* Toast */
+.toast{
+  position:fixed;bottom:90px;left:50%;transform:translateX(-50%);
+  background:var(--surf);color:var(--txt);border:1px solid var(--brd);
+  padding:9px 20px;border-radius:30px;font-size:13px;
+  white-space:nowrap;z-index:9999;pointer-events:none;
+  box-shadow:var(--shd);animation:toastIn .2s ease;
+}
+.toast.ok{background:var(--acc-bg);color:var(--acc);border-color:var(--acc);}
+.toast.err{background:#fdf0f0;color:var(--acc2);border-color:var(--acc2);}
+.tb .toast.err{background:rgba(255,107,107,.12);}
+@keyframes toastIn{from{opacity:0;transform:translateX(-50%) translateY(6px);}to{opacity:1;transform:translateX(-50%) translateY(0);}}
+
+::-webkit-scrollbar{width:3px;}
+::-webkit-scrollbar-track{background:transparent;}
+::-webkit-scrollbar-thumb{background:var(--brd);border-radius:3px;}
+</style>
+</head>
+<body class="tw">
+
+<!-- ======================================================
+     HOME SCREEN
+====================================================== -->
+<div id="sh" class="screen active">
+  <div class="home-wrap">
+    <div class="home-logo-area">
+      <div class="home-icon-ring">
+        <svg viewBox="0 0 56 56" fill="none" width="48" height="48">
+          <rect x="4" y="10" width="48" height="36" rx="7" stroke="var(--acc)" stroke-width="2.2"/>
+          <circle cx="28" cy="28" r="9" stroke="var(--acc)" stroke-width="2.2"/>
+          <circle cx="28" cy="28" r="3.5" fill="var(--acc)"/>
+          <rect x="20" y="6" width="16" height="6" rx="3" fill="var(--acc)"/>
+          <circle cx="46" cy="17" r="2.2" fill="var(--acc)"/>
+          <path d="M10 38h9M10 42h6" stroke="var(--acc)" stroke-width="1.8" stroke-linecap="round" opacity=".7"/>
+        </svg>
+      </div>
+      <h1 class="home-title">ScanProduk<br/><span>Kemasan Pangan</span></h1>
+      <p class="home-sub">Solusi Kenali Produk Pangan Favoritmu</p>
+    </div>
+
+    <div class="home-btns">
+      <button class="btn-pri" id="boc">
+        <span class="btn-ico">
+          <svg viewBox="0 0 24 24" fill="none" width="22" height="22">
+            <rect x="2" y="6" width="20" height="15" rx="3" stroke="currentColor" stroke-width="1.8"/>
+            <circle cx="12" cy="13.5" r="3.5" stroke="currentColor" stroke-width="1.8"/>
+            <path d="M8 6l1.5-2.5h5L16 6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </span>
+        <span class="btn-content">
+          <span class="btn-title">Open Camera</span>
+          <span class="btn-desc">Scan or capture with your camera</span>
+        </span>
+        <span class="btn-arrow">›</span>
+      </button>
+
+      <button class="btn-sec" id="bos">
+        <span class="btn-ico">
+          <svg viewBox="0 0 24 24" fill="none" width="22" height="22">
+            <circle cx="12" cy="12" r="3" stroke="currentColor" stroke-width="1.8"/>
+            <path d="M12 2v2M12 20v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M2 12h2M20 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+          </svg>
+        </span>
+        <span class="btn-content">
+          <span class="btn-title">Settings</span>
+          <span class="btn-desc">Resolution &amp; theme colour</span>
+        </span>
+        <span class="btn-arrow">›</span>
+      </button>
+    </div>
+
+    <div class="chips">
+      <span class="chip">📷 OCR</span>
+      <span class="chip">🔊 Text-to-Speech</span>
+      <span class="chip">💾 Save Photo</span>
+      <span class="chip">🔀 Flip Camera</span>
+    </div>
+    <p class="home-ver">v2.0 · TextProduct Scanner</p>
+  </div>
+</div>
+
+<!-- ======================================================
+     SETTINGS SCREEN
+====================================================== -->
+<div id="ss" class="screen">
+  <div class="topbar">
+    <button class="tb-back" id="sb">
+      <svg viewBox="0 0 24 24" fill="none" width="18" height="18">
+        <path d="M19 12H5M5 12l7 7M5 12l7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </button>
+    <span class="topbar-title">⚙️ Settings</span>
+    <span style="width:36px"></span>
+  </div>
+
+  <div class="sett-body">
+    <div class="sett-label">CAMERA RESOLUTION</div>
+    <div class="sett-card">
+      <p class="sett-desc">Higher resolution = clearer scan but slightly slower.</p>
+      <div class="res-pills">
+        <button class="res-pill" data-res="720">720p</button>
+        <button class="res-pill active" data-res="1080">1080p<span class="rec-tag">Recommended</span></button>
+        <button class="res-pill" data-res="2160">4K</button>
+      </div>
+      <div class="res-info" id="res-info">1920 × 1080 — Balanced quality and speed</div>
+    </div>
+
+    <div class="sett-label">APP THEME COLOUR</div>
+    <div class="sett-card">
+      <p class="sett-desc">Choose white or black background for the app.</p>
+      <div class="theme-opts">
+        <button class="theme-opt active" data-theme="w" id="tow">
+          <div class="theme-sw sw-white"><div class="sw-acc sw-acc-w"></div></div>
+          <span>White</span>
+          <span class="theme-chk" id="chk-w">✓</span>
+        </button>
+        <button class="theme-opt" data-theme="b" id="tob">
+          <div class="theme-sw sw-black"><div class="sw-acc sw-acc-b"></div></div>
+          <span>Black</span>
+          <span class="theme-chk hidden" id="chk-b">✓</span>
+        </button>
+      </div>
+    </div>
+
+    <div class="sett-label">API SERVER (BACKEND CONNECTION)</div>
+    <div class="sett-card">
+      <p class="sett-desc">Enter your Azure/AWS API server URL. This connects the frontend to your OCR backend.</p>
+      <input type="url" id="api-url" class="api-input" placeholder="https://your-azure-server.com"/>
+      <button class="test-btn" id="test-api">Test Connection</button>
+      <div id="api-stat" class="api-stat hidden"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ======================================================
+     CAMERA SCREEN
+====================================================== -->
+<div id="sc" class="screen">
+  <div class="cam-topbar">
+    <button class="cam-tb-btn" id="cb">
+      <svg viewBox="0 0 24 24" fill="none" width="18" height="18">
+        <path d="M19 12H5M5 12l7 7M5 12l7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </button>
+    <span class="cam-tb-title" id="cam-mode-lbl">SCAN MODE</span>
+    <button class="cam-tb-btn" id="flip-btn">
+      <svg viewBox="0 0 24 24" fill="none" width="18" height="18">
+        <path d="M20 7h-7M20 7l-3-3M20 7l-3 3" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M4 17h7M4 17l3 3M4 17l3-3" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M4 7h3a5 5 0 015 5M20 17h-3a5 5 0 01-5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+      </svg>
+    </button>
+  </div>
+
+  <div class="cam-vp">
+    <video id="vid" autoplay playsinline muted></video>
+    <canvas id="cvs"></canvas>
+
+    <div class="scan-ov" id="scan-ov">
+      <div class="sc-corner tl"></div>
+      <div class="sc-corner tr"></div>
+      <div class="sc-corner bl"></div>
+      <div class="sc-corner br"></div>
+      <div class="sc-beam"></div>
+    </div>
+
+    <div class="cam-badge" id="cam-badge">SCAN</div>
+    <div class="cam-hint" id="cam-hint">Point at text and tap the button</div>
+    <div class="flash-ov hidden" id="flash-ov"></div>
+
+    <div class="proc-ov hidden" id="proc-ov">
+      <div class="proc-spin"></div>
+      <p class="proc-txt" id="proc-txt">Processing…</p>
+      <div class="proc-steps">
+        <div class="proc-step" id="ps0">📸 Capturing image</div>
+        <div class="proc-step" id="ps1">📤 Sending to API server</div>
+        <div class="proc-step" id="ps2">🔧 Preprocessing image</div>
+        <div class="proc-step" id="ps3">🔍 Running OCR + SVTR</div>
+        <div class="proc-step" id="ps4">✅ Receiving result</div>
+      </div>
+    </div>
+
+    <div class="no-cam hidden" id="no-cam">
+      <svg viewBox="0 0 48 48" fill="none" width="48" height="48">
+        <rect x="4" y="10" width="40" height="28" rx="5" stroke="currentColor" stroke-width="2" opacity=".4"/>
+        <path d="M8 8l32 32" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity=".4"/>
+      </svg>
+      <h3>Camera unavailable</h3>
+      <p id="no-cam-msg">Allow camera permission to continue</p>
+      <button class="retry-btn" id="retry-cam">Retry</button>
+    </div>
+  </div>
+
+  <div class="cam-ctrl">
+    <div class="mode-row">
+      <button class="mode-pill active" data-mode="scan">
+        <svg viewBox="0 0 18 18" fill="none" width="13" height="13">
+          <path d="M2 5V2h3M13 2h3v3M16 13v3h-3M5 16H2v-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          <rect x="6" y="6" width="6" height="6" rx="1" stroke="currentColor" stroke-width="1.5"/>
+        </svg>
+        Scan Text
+      </button>
+      <button class="mode-pill" data-mode="photo">
+        <svg viewBox="0 0 18 18" fill="none" width="13" height="13">
+          <rect x="2" y="4" width="14" height="11" rx="2" stroke="currentColor" stroke-width="1.5"/>
+          <circle cx="9" cy="9.5" r="2.5" stroke="currentColor" stroke-width="1.5"/>
+          <path d="M6 4l1-1.5h4L12 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        Photo
+      </button>
+    </div>
+    <div class="shutter-row">
+      <button class="thumb-btn" id="thumb-btn">
+        <div id="thumb-empty">
+          <svg viewBox="0 0 22 22" fill="none" width="18" height="18">
+            <rect x="2" y="2" width="18" height="18" rx="3" stroke="currentColor" stroke-width="1.4" opacity=".4"/>
+            <path d="M2 14l5-5 4 4 3-3 6 6" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" opacity=".4"/>
+          </svg>
+        </div>
+        <img id="thumb-img" class="hidden" alt=""/>
+      </button>
+      <button class="shutter-btn" id="shutter-btn">
+        <div class="shutter-ring"></div>
+        <div class="shutter-dot" id="shutter-dot"></div>
+      </button>
+      <div style="width:52px;height:52px;"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ======================================================
+     RESULT SCREEN
+====================================================== -->
+<div id="sr" class="screen">
+  <div class="topbar">
+    <button class="tb-back" id="rb">
+      <svg viewBox="0 0 24 24" fill="none" width="18" height="18">
+        <path d="M19 12H5M5 12l7 7M5 12l7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </button>
+    <span class="topbar-title">Scan Result</span>
+    <button class="tb-back" id="rh">
+      <svg viewBox="0 0 24 24" fill="none" width="18" height="18">
+        <path d="M3 12L12 4l9 8M5 10v9a1 1 0 001 1h4v-5h4v5h4a1 1 0 001-1v-9" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </button>
+  </div>
+
+  <div class="result-scroll">
+    <div class="result-img-wrap">
+      <img id="res-img" src="" alt="Captured"/>
+    </div>
+
+    <div class="err-banner hidden" id="err-banner">
+      <span>⚠️</span><span id="err-msg">Error</span>
+    </div>
+
+    <div class="result-card">
+      <div class="result-card-hdr">
+        <span class="result-card-title">📝 Recognized Text</span>
+        <div class="meta-row">
+          <span class="meta-chip" id="wc-chip">0 words</span>
+          <span class="meta-chip acc" id="conf-chip" style="display:none"></span>
+        </div>
+      </div>
+      <div class="result-tb" id="res-tb" contenteditable="true" spellcheck="false">
+        <span class="ph-txt">No text detected</span>
+      </div>
+    </div>
+
+    <div class="result-acts">
+      <button class="act-btn act-green" id="act-speak">
+        <svg viewBox="0 0 22 22" fill="none" width="16" height="16">
+          <path d="M10 4L5 8H2v6h3l5 4V4z" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/>
+          <path d="M14.5 7.5a5 5 0 010 7" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/>
+        </svg>
+        <span id="speak-lbl">Read Aloud</span>
+      </button>
+      <button class="act-btn act-grey" id="act-copy">
+        <svg viewBox="0 0 22 22" fill="none" width="16" height="16">
+          <rect x="8" y="8" width="12" height="12" rx="2" stroke="currentColor" stroke-width="1.7"/>
+          <path d="M5 14H4a2 2 0 01-2-2V4a2 2 0 012-2h8a2 2 0 012 2v1" stroke="currentColor" stroke-width="1.7"/>
+        </svg>
+        <span id="copy-lbl">Copy Text</span>
+      </button>
+      <button class="act-btn act-grey" id="act-save">
+        <svg viewBox="0 0 22 22" fill="none" width="16" height="16">
+          <path d="M11 3v12M7 10l4 5 4-5" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M3 18h16" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/>
+        </svg>
+        Save Photo
+      </button>
+    </div>
+
+    <div class="tts-bar hidden" id="tts-bar">
+      <div class="tts-waves"><span></span><span></span><span></span><span></span><span></span></div>
+      <span class="tts-lbl">Speaking…</span>
+      <button class="tts-stop-btn" id="tts-stop">Stop</button>
+    </div>
+
+    <button class="scan-again-btn" id="scan-again">📷 Scan Again</button>
+    <div style="height:32px"></div>
+  </div>
+</div>
+
+<!-- Toast -->
+<div id="toast" class="toast hidden"></div>
+
+<!-- ======================================================
+     ALL JAVASCRIPT — inline, no external files needed
+====================================================== -->
+<script>
+'use strict';
+
+// ═══════════════════════════════════════════════════════════
+// SETTINGS MODULE
+// ═══════════════════════════════════════════════════════════
+const Settings = (() => {
+  const RES_INFO = {
+    '720':  '1280 × 720 — Fast scan, good for clear text',
+    '1080': '1920 × 1080 — Balanced quality and speed',
+    '2160': '3840 × 2160 — Best quality, slower processing',
+  };
+  let S = { res:'1080', theme:'w', apiUrl:'' };
+
+  function load() {
+    try { const r=localStorage.getItem('tps2_s'); if(r) S={...S,...JSON.parse(r)}; } catch(_){}
+    applyTheme(S.theme);
+  }
+  function save() {
+    try { localStorage.setItem('tps2_s', JSON.stringify(S)); } catch(_){}
+  }
+  function applyTheme(t) {
+    S.theme = t;
+    document.body.className = t === 'b' ? 'tb' : 'tw';
+    document.getElementById('theme-meta').content = t === 'b' ? '#0d0d0d' : '#ffffff';
+  }
+  function getRes()    { return S.res; }
+  function getApiUrl() { return S.apiUrl; }
+
+  function bindUI() {
+    // Resolution pills
+    document.querySelectorAll('.res-pill').forEach(p => {
+      p.classList.toggle('active', p.dataset.res === S.res);
+      p.addEventListener('click', () => {
+        document.querySelectorAll('.res-pill').forEach(x => x.classList.remove('active'));
+        p.classList.add('active');
+        S.res = p.dataset.res;
+        document.getElementById('res-info').textContent = RES_INFO[S.res];
+        save();
+      });
+    });
+    document.getElementById('res-info').textContent = RES_INFO[S.res];
+
+    // Theme
+    document.querySelectorAll('.theme-opt').forEach(o => {
+      o.classList.toggle('active', o.dataset.theme === S.theme);
+      o.addEventListener('click', () => {
+        document.querySelectorAll('.theme-opt').forEach(x => x.classList.remove('active'));
+        o.classList.add('active');
+        document.getElementById('chk-w').classList.toggle('hidden', o.dataset.theme !== 'w');
+        document.getElementById('chk-b').classList.toggle('hidden', o.dataset.theme !== 'b');
+        applyTheme(o.dataset.theme);
+        save();
+      });
+    });
+    document.getElementById('chk-w').classList.toggle('hidden', S.theme !== 'w');
+    document.getElementById('chk-b').classList.toggle('hidden', S.theme !== 'b');
+
+    // API URL
+    const inp = document.getElementById('api-url');
+    inp.value = S.apiUrl;
+    inp.addEventListener('change', () => { S.apiUrl = inp.value.trim(); save(); });
+
+    // Test connection
+    document.getElementById('test-api').addEventListener('click', async () => {
+      const el = document.getElementById('api-stat');
+      const url = S.apiUrl;
+      if (!url) { el.className='api-stat api-err'; el.textContent='⚠️ Enter server URL first'; el.classList.remove('hidden'); return; }
+      el.className='api-stat'; el.textContent='⏳ Testing…'; el.classList.remove('hidden');
+      try {
+        const r = await fetch(url.replace(/\/$/,'')+'/health', {signal:AbortSignal.timeout(6000)});
+        if (r.ok) { el.className='api-stat api-ok'; el.textContent='✅ Connection successful!'; }
+        else { el.className='api-stat api-err'; el.textContent=`❌ Server returned status ${r.status}`; }
+      } catch(_) {
+        el.className='api-stat api-err'; el.textContent='❌ Cannot reach server. Check URL and internet.';
+      }
+    });
+  }
+
+  return { load, save, bindUI, getRes, getApiUrl };
+})();
+
+// ═══════════════════════════════════════════════════════════
+// CAMERA MODULE
+// ═══════════════════════════════════════════════════════════
+const Camera = (() => {
+  let stream = null, facing = 'environment', mode = 'scan';
+  const vid = document.getElementById('vid');
+  const cvs = document.getElementById('cvs');
+  const ctx = cvs.getContext('2d');
+
+  async function start() {
+    stop();
+    document.getElementById('no-cam').classList.add('hidden');
+    const rmap = {'720':{width:{ideal:1280},height:{ideal:720}},'1080':{width:{ideal:1920},height:{ideal:1080}},'2160':{width:{ideal:3840},height:{ideal:2160}}};
+    const res = rmap[Settings.getRes()] || rmap['1080'];
+    try {
+      stream = await navigator.mediaDevices.getUserMedia({video:{facingMode:{ideal:facing},...res},audio:false});
+      vid.srcObject = stream;
+      await vid.play();
+    } catch(e) {
+      let msg='Allow camera permission to continue.';
+      if(e.name==='NotAllowedError') msg='Camera blocked. Tap 🔒 in address bar → Permissions → Allow Camera → reload page.';
+      else if(e.name==='NotFoundError') msg='No camera found on this device.';
+      else if(e.name==='NotReadableError') msg='Camera in use by another app. Close it and retry.';
+      document.getElementById('no-cam-msg').textContent=msg;
+      document.getElementById('no-cam').classList.remove('hidden');
+      // Retry without ideal constraints
+      if(e.name!=='NotAllowedError'&&e.name!=='NotFoundError'){
+        try{ stream=await navigator.mediaDevices.getUserMedia({video:true}); vid.srcObject=stream; await vid.play(); document.getElementById('no-cam').classList.add('hidden'); }catch(_){}
+      }
+    }
+  }
+
+  function stop() {
+    if(stream){ stream.getTracks().forEach(t=>t.stop()); stream=null; vid.srcObject=null; }
+  }
+
+  function flip() {
+    facing = facing==='environment'?'user':'environment';
+    start();
+    App.toast(facing==='environment'?'📷 Back camera':'🤳 Front camera');
+  }
+
+  function capture() {
+    if(!stream) return null;
+    cvs.width = vid.videoWidth||1280; cvs.height = vid.videoHeight||720;
+    ctx.drawImage(vid,0,0,cvs.width,cvs.height);
+    return cvs.toDataURL('image/jpeg',0.92);
+  }
+
+  function setMode(m) {
+    mode = m;
+    const isS = m==='scan';
+    document.getElementById('cam-badge').textContent = isS?'SCAN':'PHOTO';
+    document.getElementById('cam-hint').textContent  = isS?'Point at text and tap the button':'Tap the button to capture';
+    document.getElementById('scan-ov').style.display = isS?'block':'none';
+    document.getElementById('shutter-dot').className = isS?'shutter-dot scan':'shutter-dot';
+    document.getElementById('shutter-btn').className = isS?'shutter-btn scan':'shutter-btn';
+    document.getElementById('cam-mode-lbl').textContent = isS?'SCAN MODE':'PHOTO MODE';
+    document.querySelectorAll('.mode-pill').forEach(p=>p.classList.toggle('active',p.dataset.mode===m));
+  }
+
+  function getMode(){ return mode; }
+  return { start, stop, flip, capture, setMode, getMode };
+})();
+
+// ═══════════════════════════════════════════════════════════
+// OCR MODULE — sends image to your API server
+// ═══════════════════════════════════════════════════════════
+const OCR = (() => {
+  const STEPS = ['ps0','ps1','ps2','ps3','ps4'];
+  const LABELS = ['📸 Capturing image','📤 Sending to API server','🔧 Preprocessing image','🔍 Running OCR + SVTR','✅ Receiving result'];
+
+  function setStep(i) {
+    STEPS.forEach((id,j)=>{
+      const el=document.getElementById(id); if(!el) return;
+      el.classList.remove('active','done');
+      if(j<i) el.classList.add('done');
+      if(j===i) el.classList.add('active');
+    });
+    const t=document.getElementById('proc-txt');
+    if(t&&LABELS[i]) t.textContent=LABELS[i];
+  }
+  function show(){ document.getElementById('proc-ov').classList.remove('hidden'); }
+  function hide(){ document.getElementById('proc-ov').classList.add('hidden'); }
+
+  async function send(dataUrl) {
+    const apiUrl = Settings.getApiUrl();
+
+    // ── DEMO MODE (no server configured) ──
+    if (!apiUrl) {
+      for(let i=0;i<5;i++){ setStep(i); await new Promise(r=>setTimeout(r,500)); }
+      return { text:'DEMO MODE\n\nNo API server configured.\nGo to Settings → enter your Azure/AWS server URL to enable real OCR scanning.', confidence:0, demo:true };
+    }
+
+    // ── REAL MODE: send to your Azure API server ──
+    // The API server receives this POST request, then:
+    //   1. Forwards the image to your Backend
+    //   2. Backend runs preprocessing → SVTR → OCR → confidence scoring
+    //   3. Returns JSON result to API server
+    //   4. API server returns JSON to this frontend
+    setStep(1);
+    const base64 = dataUrl.replace(/^data:image\/\w+;base64,/,'');
+    try {
+      const res = await fetch(apiUrl.replace(/\/$/,'')+'/api/scan', {
+        method:'POST',
+        headers:{'Content-Type':'application/json'},
+        body:JSON.stringify({ image:base64, language:'eng' }),
+        signal:AbortSignal.timeout(30000),
+      });
+      setStep(4);
+      if(!res.ok) throw new Error(`Server status ${res.status}`);
+      const data = await res.json();
+      if(data.error) throw new Error(data.error);
+      return { text:(data.text||'').trim(), confidence:Math.round(data.confidence||0), regions:data.regions||[] };
+    } catch(e) {
+      let msg=e.message;
+      if(e.name==='TimeoutError') msg='Request timed out. Server took too long.';
+      if(e.name==='TypeError') msg='Cannot reach server. Check Settings → API URL and your internet connection.';
+      return { text:'', confidence:0, error:msg };
+    }
+  }
+
+  return { send, show, hide, setStep };
+})();
+
+// ═══════════════════════════════════════════════════════════
+// TTS MODULE — text to speech
+// ═══════════════════════════════════════════════════════════
+const TTS = (() => {
+  let speaking = false;
+
+  function speak(text, onDone) {
+    if(!('speechSynthesis' in window)){ App.toast('TTS not supported on this browser','err'); return; }
+    if(!text||!text.trim()){ App.toast('No text to speak','err'); return; }
+    stop();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang='en-US'; u.rate=0.92; u.pitch=1.0; u.volume=1.0;
+    u.onstart=()=>{ speaking=true; document.getElementById('tts-bar').classList.remove('hidden'); document.getElementById('speak-lbl').textContent='Stop Speaking'; };
+    u.onend=u.onerror=()=>{ speaking=false; document.getElementById('tts-bar').classList.add('hidden'); document.getElementById('speak-lbl').textContent='Read Aloud'; if(onDone)onDone(); };
+    speechSynthesis.speak(u);
+  }
+
+  function stop(){ if('speechSynthesis'in window) speechSynthesis.cancel(); speaking=false; document.getElementById('tts-bar').classList.add('hidden'); document.getElementById('speak-lbl').textContent='Read Aloud'; }
+  function isSpeaking(){ return speaking; }
+  return { speak, stop, isSpeaking };
+})();
+
+// ═══════════════════════════════════════════════════════════
+// APP — main controller
+// ═══════════════════════════════════════════════════════════
+const App = (() => {
+  let lastUrl='', lastText='';
+
+  function show(id) {
+    document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));
+    const el=document.getElementById(id); if(el) el.classList.add('active');
+  }
+
+  function init() {
+    Settings.load();
+    Settings.bindUI();
+    bindEvents();
+    show('sh');
+  }
+
+  function bindEvents() {
+    // Home
+    document.getElementById('boc').addEventListener('click',()=>{ show('sc'); Camera.start(); });
+    document.getElementById('bos').addEventListener('click',()=>show('ss'));
+
+    // Settings back
+    document.getElementById('sb').addEventListener('click',()=>show('sh'));
+
+    // Camera back
+    document.getElementById('cb').addEventListener('click',()=>{ Camera.stop(); TTS.stop(); show('sh'); });
+
+    // Flip
+    document.getElementById('flip-btn').addEventListener('click',()=>Camera.flip());
+
+    // Retry cam
+    document.getElementById('retry-cam').addEventListener('click',()=>Camera.start());
+
+    // Mode pills
+    document.querySelectorAll('.mode-pill').forEach(p=>p.addEventListener('click',()=>Camera.setMode(p.dataset.mode)));
+
+    // Shutter
+    document.getElementById('shutter-btn').addEventListener('click', handleShutter);
+
+    // Thumb → view last
+    document.getElementById('thumb-btn').addEventListener('click',()=>{
+      if(lastUrl) showResult(lastUrl,lastText,0,null);
+      else toast('No capture yet');
+    });
+
+    // Result back → camera
+    document.getElementById('rb').addEventListener('click',()=>{ TTS.stop(); show('sc'); });
+
+    // Result home
+    document.getElementById('rh').addEventListener('click',()=>{ TTS.stop(); Camera.stop(); show('sh'); });
+
+    // Speak
+    document.getElementById('act-speak').addEventListener('click',()=>{
+      if(TTS.isSpeaking()){ TTS.stop(); }
+      else { TTS.speak(document.getElementById('res-tb').textContent); }
+    });
+
+    // Copy
+    document.getElementById('act-copy').addEventListener('click',()=>{
+      const t=document.getElementById('res-tb').textContent;
+      if(!t||!t.trim()){ toast('No text to copy','err'); return; }
+      if(navigator.clipboard){ navigator.clipboard.writeText(t).then(()=>{ toast('Text copied! ✅','ok'); const l=document.getElementById('copy-lbl'); l.textContent='Copied!'; setTimeout(()=>l.textContent='Copy Text',2000); }).catch(()=>legacyCopy(t)); }
+      else legacyCopy(t);
+    });
+
+    // Save
+    document.getElementById('act-save').addEventListener('click',()=>savePhoto(lastUrl));
+
+    // TTS stop
+    document.getElementById('tts-stop').addEventListener('click',()=>TTS.stop());
+
+    // Scan again
+    document.getElementById('scan-again').addEventListener('click',()=>{ TTS.stop(); show('sc'); });
+
+    // Visibility change — stop camera when tab hidden
+    document.addEventListener('visibilitychange',()=>{
+      if(document.hidden){ Camera.stop(); TTS.stop(); }
+      else if(document.getElementById('sc').classList.contains('active')) Camera.start();
+    });
+  }
+
+  async function handleShutter() {
+    const dataUrl = Camera.capture();
+    if(!dataUrl){ toast('Camera not ready','err'); return; }
+    lastUrl=dataUrl;
+    triggerFlash();
+    updateThumb(dataUrl);
+
+    if(Camera.getMode()==='scan'){
+      OCR.show(); OCR.setStep(0);
+      await new Promise(r=>setTimeout(r,150));
+      const result = await OCR.send(dataUrl);
+      OCR.hide();
+      lastText=result.text||'';
+      showResult(dataUrl,result.text,result.confidence,result.error);
+    } else {
+      lastText='';
+      showResult(dataUrl,'',0,null);
+    }
+  }
+
+  function showResult(url,text,conf,err){
+    document.getElementById('res-img').src=url;
+    const tb=document.getElementById('res-tb');
+    if(text&&text.trim()){ tb.textContent=text; tb.style.color=''; }
+    else { tb.innerHTML='<span class="ph-txt">No text detected in this image.</span>'; }
+    const wc=text?text.split(/\s+/).filter(Boolean).length:0;
+    document.getElementById('wc-chip').textContent=`${wc} word${wc!==1?'s':''}`;
+    const cc=document.getElementById('conf-chip');
+    if(conf>0){ cc.textContent=`${conf}% confidence`; cc.style.display=''; } else { cc.style.display='none'; }
+    const eb=document.getElementById('err-banner');
+    if(err){ document.getElementById('err-msg').textContent=err; eb.classList.remove('hidden'); } else { eb.classList.add('hidden'); }
+    document.getElementById('tts-bar').classList.add('hidden');
+    document.getElementById('speak-lbl').textContent='Read Aloud';
+    show('sr');
+  }
+
+  function savePhoto(url){
+    if(!url){ toast('No photo to save','err'); return; }
+    if(navigator.share&&navigator.canShare){
+      fetch(url).then(r=>r.blob()).then(blob=>{
+        const f=new File([blob],`scan_${Date.now()}.jpg`,{type:'image/jpeg'});
+        if(navigator.canShare({files:[f]})) return navigator.share({files:[f],title:'TextProduct Scanner'});
+        throw new Error('no file share');
+      }).then(()=>toast('Photo saved! ✅','ok')).catch(()=>dlFallback(url));
+    } else dlFallback(url);
+  }
+
+  function dlFallback(url){
+    const a=document.createElement('a'); a.href=url; a.download=`scan_${Date.now()}.jpg`;
+    document.body.appendChild(a); a.click(); document.body.removeChild(a);
+    toast('Photo downloaded! 📥','ok');
+  }
+
+  function legacyCopy(text){
+    const ta=document.createElement('textarea'); ta.value=text;
+    ta.style.cssText='position:fixed;opacity:0;'; document.body.appendChild(ta);
+    ta.select(); document.execCommand('copy'); document.body.removeChild(ta);
+    toast('Text copied! ✅','ok');
+  }
+
+  function triggerFlash(){
+    const el=document.getElementById('flash-ov');
+    el.classList.remove('hidden'); setTimeout(()=>el.classList.add('hidden'),300);
+  }
+
+  function updateThumb(url){
+    document.getElementById('thumb-empty').classList.add('hidden');
+    const img=document.getElementById('thumb-img'); img.src=url; img.classList.remove('hidden');
+  }
+
+  let toastTimer;
+  function toast(msg,type=''){
+    const el=document.getElementById('toast');
+    el.textContent=msg; el.className='toast'+(type?` ${type}`:'');
+    clearTimeout(toastTimer); toastTimer=setTimeout(()=>el.classList.add('hidden'),2600);
+  }
+
+  return { init, toast, show };
+})();
+
+window.addEventListener('load',()=>App.init());
+</script>
+</body>
+</html>

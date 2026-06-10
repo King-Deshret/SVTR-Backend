@@ -1,0 +1,2402 @@
+Data/Training/train_data_real+icdar/train/A28_jpeg_artifacts.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_335.png	CAUTION
+Data/Training/train_data_27_2_2025_1024/rec/train/A18_jpeg_artifacts.png	14062025
+Data/Training/train_data_Real+Sintetik/train/A34.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_2147.png	GABU!
+Data/Training/Dataset_train_1/word_1651.png	PERCENT
+Data/Training/train_data_real+icdar/train/word_717.png	latue
+Data/Training/Dataset_train_1/word_1517.png	SALE
+Data/Training/Dataset_train_1/word_1140.png	Beverages
+Data/Training/Dataset_train_1/word_1103.png	EXIT
+Data/Training/train_data_real+icdar/train/A25_histogram_equalization.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_1325.png	SIDE-GATE
+Data/Training/train_data ICDAR/rec/train/word_708.png	ROBINSO
+Data/Training/train_data_Real+Sintetik/train/18_brightness_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_4400.png	Garden
+Data/Training/train_data_27_2_2025_1024/rec/train/A12_jpeg_artifacts.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_1237.png	Kaya
+Data/Training/train_data_real+icdar/train/word_1042.png	GIANT
+Data/Training/train_data_real+icdar/train/word_1089.png	GOLD
+Data/Training/train_data_Real+Sintetik/train/sintetik_71.png	ASJQ60C7HV
+Data/Training/Dataset_train_1/word_787.png	outside
+Data/Training/train_data_real+icdar/train/1_skewed.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_1079.png	ZB1HI0QLWA
+Data/Training/train_data_real+icdar/train/word_1823.png	CINEMAS
+Data/Training/Dataset_train_1/word_1493.png	LOBBY
+Data/Training/train_data ICDAR/rec/train/word_965.png	BODY
+Data/Training/train_data_Real+Sintetik/train/sintetik_1139.png	6SD71FZ9SN
+Data/Training/Dataset_train_1/word_2346.png	Moving
+Data/Training/Dataset_train_1/word_148.png	ONE
+Data/Training/train_data ICDAR/rec/train/word_533.png	HARA
+Data/Training/train_data ICDAR/rec/train/word_89.png	$20
+Data/Training/train_data_Real+Sintetik/train/sintetik_681.png	ZCDJJ6S0Q9
+Data/Training/train_data_real+icdar/train/word_1645.png	Deals
+Data/Training/train_data_real+icdar/train/word_756.png	SALE
+Data/Training/train_data_real+icdar/train/word_1878.png	PREMIER
+Data/Training/train_data_Real+Sintetik/train/17_skewed.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_2464.png	grand
+Data/Training/train_data ICDAR/rec/train/word_726.png	SALE
+Data/Training/train_data ICDAR/rec/train/word_189.png	SAMSUNG
+Data/Training/train_data_Real+Sintetik/train/sintetik_694.png	5UAPTCP899
+Data/Training/train_data ICDAR/rec/train/word_348.png	your
+Data/Training/train_data_real+icdar/train/word_278.png	Tokyo
+Data/Training/Dataset_train_1/word_4138.png	Amor
+Data/Training/Dataset_train_1/word_911.png	Tower
+Data/Training/train_data_27_2_2025_1024/rec/train/27_eroded.png	ORIGINAL
+Data/Training/Dataset_train_1/word_3388.png	LIVE
+Data/Training/train_data_Real+Sintetik/train/sintetik_347.png	E7RUSFN7IN
+Data/Training/train_data_Real+Sintetik/train/15_eroded.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_1908.png	DNU8WB2WKO
+Data/Training/train_data_Real+Sintetik/train/sintetik_1993.png	L7AWTAEQL0
+Data/Training/train_data_Real+Sintetik/train/A18_jpeg_artifacts.png	14062025
+Data/Training/train_data_27_2_2025_1024/rec/train/A20_jpeg_artifacts.png	OK14703AA0
+Data/Training/train_data_27_2_2025_1024/rec/train/A13_contrast_increase.png	OK14703AA0
+Data/Training/Dataset_train_1/word_1551.png	Thinnest
+Data/Training/train_data_Real+Sintetik/train/sintetik_1394.png	O3ZOXBAL2U
+Data/Training/Dataset_train_1/word_1814.png	CAN!
+Data/Training/Dataset_train_1/word_115.png	MARIGOLD
+Data/Training/Dataset_train_1/word_2862.png	Nature
+Data/Training/Dataset_train_1/word_3187.png	DISCOVER
+Data/Training/train_data_real+icdar/train/A30_contrast_increase.png	14062025
+Data/Training/train_data_Real+Sintetik/train/sintetik_467.png	XU43CEAXGK
+Data/Training/Dataset_train_1/word_2691.png	$15
+Data/Training/Dataset_train_1/word_165.png	Seating
+Data/Training/train_data_Real+Sintetik/train/sintetik_1912.png	7WPP73UZA6
+Data/Training/Dataset_train_1/word_2114.png	bos
+Data/Training/train_data_Real+Sintetik/train/sintetik_715.png	GHVVDCI1SX
+Data/Training/Dataset_train_1/word_1203.png	Better
+Data/Training/train_data_27_2_2025_1024/rec/train/23_dilated.png	BB 17072025 ORIGINAL
+Data/Training/train_data_real+icdar/train/word_175.png	Bread
+Data/Training/Dataset_train_1/word_670.png	PERKINS
+Data/Training/Dataset_train_1/word_2388.png	TEL:
+Data/Training/train_data_real+icdar/train/word_500.png	ORO
+Data/Training/train_data_Real+Sintetik/train/sintetik_2016.png	LO3PTQ11TV
+Data/Training/train_data ICDAR/rec/train/word_909.png	VICTORIA'S
+Data/Training/train_data_real+icdar/train/word_417.png	cro
+Data/Training/train_data_real+icdar/train/7_histogram_equalization.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/word_861.png	EAT
+Data/Training/Dataset_train_1/word_408.png	INFULSE
+Data/Training/train_data_real+icdar/train/word_1422.png	POH
+Data/Training/train_data ICDAR/rec/train/word_790.png	Buffet
+Data/Training/train_data_27_2_2025_1024/rec/train/2_contrast_increase.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_3474.png	G-STAR
+Data/Training/train_data_real+icdar/train/word_1367.png	Soup
+Data/Training/train_data_real+icdar/train/word_1903.png	Chicken
+Data/Training/train_data_Real+Sintetik/train/sintetik_1916.png	Y4JIAG1DNC
+Data/Training/train_data_Real+Sintetik/train/26.png	ORIGINAL
+Data/Training/train_data_real+icdar/train/9_gaussian_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_941.png	K98DF53LG1
+Data/Training/Dataset_train_1/word_2552.png	drepublic
+Data/Training/train_data ICDAR/rec/train/word_308.png	LITTLE
+Data/Training/Dataset_train_1/word_173.png	EW15
+Data/Training/train_data_Real+Sintetik/train/A18_inverted_colors.png	14062025
+Data/Training/Dataset_train_1/word_4378.png	Indulge
+Data/Training/train_data_Real+Sintetik/train/A4_shadows.png	OJ25708AA0
+Data/Training/train_data_27_2_2025_1024/rec/train/14_inverted_colors.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_895.png	Lecture
+Data/Training/train_data_real+icdar/train/word_234.png	next
+Data/Training/Dataset_train_1/word_3685.png	inl
+Data/Training/Dataset_train_1/word_3984.png	Klein
+Data/Training/train_data_27_2_2025_1024/rec/train/16_gaussian_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_72.png	UECFUU38GQ
+Data/Training/Dataset_train_1/word_1788.png	acer
+Data/Training/train_data_real+icdar/train/word_750.png	-70%
+Data/Training/train_data_27_2_2025_1024/rec/train/A22_salt_pepper_noise.png	AYAM BAKAR
+Data/Training/train_data_27_2_2025_1024/rec/train/23_skewed.png	BB 17072025 ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_628.png	96559R0SXZ
+Data/Training/Dataset_train_1/word_2159.png	CORDIAL
+Data/Training/Dataset_train_1/word_710.png	bento
+Data/Training/train_data_real+icdar/train/word_1085.png	Level
+Data/Training/Dataset_train_1/word_3249.png	CCI
+Data/Training/train_data_Real+Sintetik/train/sintetik_1670.png	FQ7GJK9Q4U
+Data/Training/train_data_Real+Sintetik/train/sintetik_863.png	1SSUBA5UAM
+Data/Training/train_data_Real+Sintetik/train/sintetik_582.png	ZX88KYVUQ1
+Data/Training/Dataset_train_1/word_2529.png	JAY
+Data/Training/train_data_Real+Sintetik/train/sintetik_523.png	0NASA5XQWE
+Data/Training/Dataset_train_1/word_3144.png	SKYPARK
+Data/Training/Dataset_train_1/word_732.png	OUT
+Data/Training/train_data_real+icdar/train/word_1982.png	COMING
+Data/Training/train_data_real+icdar/train/19_brightness_increase.png	BB 17072025 ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_516.png	WSLQ2MNS00
+Data/Training/Dataset_train_1/word_891.png	POST
+Data/Training/train_data_Real+Sintetik/train/A4_salt_pepper_noise.png	OJ25708AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_1581.png	777G8YURLB
+Data/Training/train_data_real+icdar/train/word_607.png	BRITISH
+Data/Training/train_data_real+icdar/train/word_1785.png	BUTTER
+Data/Training/train_data_real+icdar/train/3_shadows.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_3415.png	SALE
+Data/Training/Dataset_train_1/word_1095.png	EXIT
+Data/Training/train_data_real+icdar/train/word_301.png	LEVEL2
+Data/Training/train_data ICDAR/rec/train/word_461.png	SPEED
+Data/Training/train_data_real+icdar/train/word_1312.png	FENDI
+Data/Training/Dataset_train_1/word_3071.png	SUSHI
+Data/Training/train_data_Real+Sintetik/train/sintetik_292.png	QWBVHT8UZX
+Data/Training/Dataset_train_1/word_2091.png	Mum
+Data/Training/Dataset_train_1/word_3671.png	ION
+Data/Training/Dataset_train_1/word_3134.png	MASTER
+Data/Training/Dataset_train_1/word_2352.png	BIOAPEX
+Data/Training/train_data_27_2_2025_1024/rec/train/A16_gaussian_noise.png	AYAM BAKAR
+Data/Training/train_data_27_2_2025_1024/rec/train/A22_brightness_decrease.png	AYAM BAKAR
+Data/Training/train_data ICDAR/rec/train/word_46.png	Care
+Data/Training/train_data_real+icdar/train/word_1190.png	SSI
+Data/Training/Dataset_train_1/word_1757.png	Santa's
+Data/Training/train_data_real+icdar/train/word_909.png	VICTORIA'S
+Data/Training/train_data_Real+Sintetik/train/A3_jpeg_artifacts.png	25052025
+Data/Training/Dataset_train_1/word_3954.png	YELLOW
+Data/Training/Dataset_train_1/word_326.png	Points
+Data/Training/Dataset_train_1/word_510.png	BELOW
+Data/Training/train_data_real+icdar/train/13_inverted_colors.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_2548.png	patronage
+Data/Training/train_data ICDAR/rec/train/word_195.png	big
+Data/Training/Dataset_train_1/word_3950.png	ALL
+Data/Training/Dataset_train_1/word_3901.png	SKINCARE
+Data/Training/Dataset_train_1/word_971.png	FIT
+Data/Training/train_data_Real+Sintetik/train/8_inverted_colors.png	OL17707AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_1033.png	NZP0B5JQRU
+Data/Training/train_data_27_2_2025_1024/rec/train/A27_salt_pepper_noise.png	14062025
+Data/Training/Dataset_train_1/word_134.png	EARTH
+Data/Training/train_data_Real+Sintetik/train/sintetik_1459.png	GZKZKRMTFK
+Data/Training/Dataset_train_1/word_516.png	NETS
+Data/Training/train_data_real+icdar/train/A2_brightness_decrease.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/12_salt_pepper_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_336.png	PLAIN
+Data/Training/train_data ICDAR/rec/train/word_602.png	ROBINSONS
+Data/Training/train_data_real+icdar/train/word_1817.png	JANUARY8
+Data/Training/train_data_27_2_2025_1024/rec/train/A10_contrast_increase.png	OK14703AA0
+Data/Training/train_data_real+icdar/train/word_1420.png	MULBERRY
+Data/Training/train_data_Real+Sintetik/train/A21_skewed.png	14062025
+Data/Training/train_data_real+icdar/train/word_721.png	G20
+Data/Training/train_data_real+icdar/train/14_inverted_colors.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data ICDAR/rec/train/word_951.png	Swatch
+Data/Training/Dataset_train_1/word_8.png	fusionopolis
+Data/Training/train_data_Real+Sintetik/train/A20.png	OK14703AA0
+Data/Training/Dataset_train_1/word_1847.png	FOX
+Data/Training/train_data_27_2_2025_1024/rec/train/A21_gaussian_noise.png	14062025
+Data/Training/train_data_real+icdar/train/A36_inverted_colors.png	14062025
+Data/Training/train_data_Real+Sintetik/train/A18_gaussian_noise.png	14062025
+Data/Training/train_data_real+icdar/train/word_2066.png	24\7
+Data/Training/train_data_Real+Sintetik/train/sintetik_1701.png	367FYVCBGB
+Data/Training/train_data ICDAR/rec/train/word_115.png	OPEN
+Data/Training/Dataset_train_1/word_1026.png	HAND
+Data/Training/Dataset_train_1/word_1202.png	4-HR
+Data/Training/Dataset_train_1/word_7.png	fusionopolis
+Data/Training/Dataset_train_1/word_1091.png	zero
+Data/Training/Dataset_train_1/word_859.png	PASSBO
+Data/Training/train_data_Real+Sintetik/train/A1_jpeg_artifacts.png	OJ25708AA0
+Data/Training/Dataset_train_1/word_4194.png	Price
+Data/Training/train_data_real+icdar/train/word_922.png	aster
+Data/Training/train_data_Real+Sintetik/train/A17_salt_pepper_noise.png	OK14703AA0
+Data/Training/Dataset_train_1/word_4318.png	BAKING
+Data/Training/train_data_real+icdar/train/word_1364.png	Spoon
+Data/Training/Dataset_train_1/word_2905.png	Standard
+Data/Training/Dataset_train_1/word_2315.png	CELEBRATE
+Data/Training/train_data_real+icdar/train/A12_speckle_noise.png	AYAM BAKAR
+Data/Training/train_data_real+icdar/train/word_993.png	Theatre
+Data/Training/Dataset_train_1/word_2137.png	Everyday
+Data/Training/train_data ICDAR/rec/train/word_562.png	OFF
+Data/Training/train_data_Real+Sintetik/train/sintetik_1503.png	WF5EYH5MFE
+Data/Training/Dataset_train_1/word_30.png	CHOICES
+Data/Training/train_data_real+icdar/train/A34_jpeg_artifacts.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_2800.png	TAG
+Data/Training/train_data_Real+Sintetik/train/7_contrast_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_27_2_2025_1024/rec/train/27_skewed.png	ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/A22_contrast_decrease.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/sintetik_896.png	RRSR3XD91W
+Data/Training/train_data_real+icdar/train/word_1864.png	diploma
+Data/Training/Dataset_train_1/word_1019.png	DEAR
+Data/Training/Dataset_train_1/word_3644.png	Crate
+Data/Training/train_data_Real+Sintetik/train/sintetik_1919.png	OB3G9FY2YZ
+Data/Training/Dataset_train_1/word_295.png	MAO
+Data/Training/train_data_Real+Sintetik/train/sintetik_1060.png	TI89XG8MBX
+Data/Training/train_data_Real+Sintetik/train/sintetik_1930.png	FWBDF5YMAQ
+Data/Training/train_data_real+icdar/train/9_resized.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_705.png	J76RUYDAY6
+Data/Training/Dataset_train_1/word_3887.png	LANCOME
+Data/Training/Dataset_train_1/word_390.png	NOW!
+Data/Training/train_data ICDAR/rec/train/word_290.png	$100
+Data/Training/train_data_Real+Sintetik/train/15_jpeg_artifacts.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/20_resized.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_27_2_2025_1024/rec/train/A27_jpeg_artifacts.png	14062025
+Data/Training/train_data ICDAR/rec/train/word_844.png	1954
+Data/Training/Dataset_train_1/word_269.png	ratio.
+Data/Training/Dataset_train_1/word_2943.png	LOOK
+Data/Training/train_data_Real+Sintetik/train/sintetik_1623.png	G9C691Q8GB
+Data/Training/Dataset_train_1/word_1143.png	LOBBY
+Data/Training/Dataset_train_1/word_3941.png	ROUND
+Data/Training/train_data ICDAR/rec/train/word_103.png	JUR
+Data/Training/train_data_Real+Sintetik/train/26_shadows.png	ORIGINAL
+Data/Training/train_data ICDAR/rec/train/word_689.png	CEDELE
+Data/Training/Dataset_train_1/word_2409.png	HENG
+Data/Training/Dataset_train_1/word_2537.png	$150
+Data/Training/train_data_real+icdar/train/word_1363.png	Soup
+Data/Training/Dataset_train_1/word_1211.png	For
+Data/Training/Dataset_train_1/word_2168.png	FalrPrice
+Data/Training/Dataset_train_1/word_1917.png	CROSS
+Data/Training/Dataset_train_1/word_4288.png	RECIPES
+Data/Training/Dataset_train_1/word_3691.png	Bay
+Data/Training/Dataset_train_1/word_511.png	It's
+Data/Training/train_data_Real+Sintetik/train/sintetik_879.png	FOKAQLZZ1G
+Data/Training/train_data_Real+Sintetik/train/21_contrast_increase.png	BB 17072025 ORIGINAL
+Data/Training/train_data ICDAR/rec/train/word_800.png	BEERY
+Data/Training/train_data_Real+Sintetik/train/sintetik_64.png	FLNZLAYDQP
+Data/Training/Dataset_train_1/word_1024.png	THE
+Data/Training/Dataset_train_1/word_3646.png	OAKS
+Data/Training/Dataset_train_1/word_3287.png	smrt
+Data/Training/Dataset_train_1/word_1100.png	REWARDS
+Data/Training/train_data_real+icdar/train/21_shadows.png	BB 17072025 ORIGINAL
+Data/Training/Dataset_train_1/word_2951.png	SHOPPING
+Data/Training/Dataset_train_1/word_3108.png	EXIT
+Data/Training/Dataset_train_1/word_3345.png	WITH
+Data/Training/Dataset_train_1/word_32.png	FOR
+Data/Training/Dataset_train_1/word_3781.png	Grand
+Data/Training/train_data_real+icdar/train/word_559.png	REDUCTIONS
+Data/Training/Dataset_train_1/word_3964.png	SALE
+Data/Training/train_data_Real+Sintetik/train/9_jpeg_artifacts.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/A4_gaussian_noise.png	OJ25708AA0
+Data/Training/train_data_real+icdar/train/word_1136.png	JAPAN
+Data/Training/train_data_Real+Sintetik/train/sintetik_1515.png	7QDRKBUSFI
+Data/Training/train_data_27_2_2025_1024/rec/train/A33_histogram_equalization.png	14062025
+Data/Training/Dataset_train_1/word_200.png	optons
+Data/Training/Dataset_train_1/word_3463.png	SALE
+Data/Training/train_data_Real+Sintetik/train/sintetik_510.png	4PG3RTMPPA
+Data/Training/train_data_real+icdar/train/word_1444.png	step
+Data/Training/Dataset_train_1/word_2559.png	ENJOY
+Data/Training/train_data_27_2_2025_1024/rec/train/27_speckle_noise.png	ORIGINAL
+Data/Training/train_data_real+icdar/train/word_297.png	GAIN
+Data/Training/train_data_real+icdar/train/word_1837.png	SHOWING
+Data/Training/train_data_real+icdar/train/word_523.png	FINAL
+Data/Training/Dataset_train_1/word_3942.png	HEBE
+Data/Training/train_data_27_2_2025_1024/rec/train/4_brightness_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_4085.png	BEST
+Data/Training/train_data_real+icdar/train/A26.png	OK14703AA0
+Data/Training/Dataset_train_1/word_4281.png	100
+Data/Training/train_data_real+icdar/train/A24_salt_pepper_noise.png	14062025
+Data/Training/Dataset_train_1/word_4429.png	#12-02
+Data/Training/train_data_real+icdar/train/A29_skewed.png	OK14703AA0
+Data/Training/Dataset_train_1/word_2442.png	330
+Data/Training/train_data_Real+Sintetik/train/sintetik_1781.png	J90HW5CWSC
+Data/Training/Dataset_train_1/word_4198.png	Gold
+Data/Training/train_data ICDAR/rec/train/word_301.png	LEVEL2
+Data/Training/Dataset_train_1/word_1762.png	jam
+Data/Training/Dataset_train_1/word_4178.png	for
+Data/Training/train_data_Real+Sintetik/train/A3_contrast_increase.png	25052025
+Data/Training/train_data_Real+Sintetik/train/sintetik_770.png	O395XTP6NI
+Data/Training/train_data_Real+Sintetik/train/A31_contrast_decrease.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/sintetik_1759.png	2AJVFDKSST
+Data/Training/Dataset_train_1/word_1610.png	YOURS
+Data/Training/train_data_real+icdar/train/A10_eroded.png	OK14703AA0
+Data/Training/train_data ICDAR/rec/train/word_185.png	Klein
+Data/Training/Dataset_train_1/word_289.png	DOWN
+Data/Training/train_data_Real+Sintetik/train/sintetik_212.png	3CW4XZVRFC
+Data/Training/train_data_Real+Sintetik/train/22_histogram_equalization.png	BB 17072025 ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_470.png	SJZWF1HOKG
+Data/Training/Dataset_train_1/word_756.png	Airport
+Data/Training/train_data_real+icdar/train/word_1204.png	EXIT
+Data/Training/Dataset_train_1/word_2693.png	Accessories
+Data/Training/train_data_real+icdar/train/word_1874.png	FESTIVE
+Data/Training/train_data_real+icdar/train/word_1433.png	Office
+Data/Training/train_data_27_2_2025_1024/rec/train/10_shadows.png	OL17707AA0
+Data/Training/train_data_real+icdar/train/A19_skewed.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_378.png	cards
+Data/Training/train_data_Real+Sintetik/train/sintetik_369.png	5V0UJM1EWC
+Data/Training/Dataset_train_1/word_1986.png	Jem
+Data/Training/train_data_real+icdar/train/A33_shadows.png	14062025
+Data/Training/train_data_real+icdar/train/word_41.png	those
+Data/Training/train_data_Real+Sintetik/train/A8_shadows.png	25052025
+Data/Training/train_data_real+icdar/train/word_1272.png	ANN
+Data/Training/train_data_Real+Sintetik/train/sintetik_1497.png	HPYNHU0ND4
+Data/Training/Dataset_train_1/word_2361.png	Things
+Data/Training/Dataset_train_1/word_1175.png	Platform
+Data/Training/train_data_real+icdar/train/word_264.png	POST
+Data/Training/train_data_Real+Sintetik/train/A15_jpeg_artifacts.png	25052025
+Data/Training/train_data_Real+Sintetik/train/sintetik_56.png	ZUAXSJ376U
+Data/Training/train_data_real+icdar/train/word_50.png	HOU
+Data/Training/Dataset_train_1/word_2898.png	PUDDINGS
+Data/Training/train_data_real+icdar/train/word_1996.png	TANUKI
+Data/Training/train_data ICDAR/rec/train/word_168.png	concierge@L3
+Data/Training/Dataset_train_1/word_449.png	your
+Data/Training/train_data_27_2_2025_1024/rec/train/27_shadows.png	ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_608.png	IJ3CNBCUOJ
+Data/Training/Dataset_train_1/word_4303.png	MONEY
+Data/Training/train_data_27_2_2025_1024/rec/train/10_contrast_decrease.png	OL17707AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_245.png	1PC5FF553M
+Data/Training/train_data_real+icdar/train/word_1694.png	CANDY
+Data/Training/train_data_Real+Sintetik/train/sintetik_778.png	I71GQJSRJS
+Data/Training/Dataset_train_1/word_1872.png	LADIES
+Data/Training/Dataset_train_1/word_648.png	CREATE
+Data/Training/train_data_Real+Sintetik/train/13_resized.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_2059.png	OFF
+Data/Training/Dataset_train_1/word_3893.png	EVA
+Data/Training/Dataset_train_1/word_1393.png	Win:
+Data/Training/train_data_Real+Sintetik/train/sintetik_233.png	I7C2UV8TUP
+Data/Training/train_data_Real+Sintetik/train/sintetik_1166.png	WQB2XOYFVX
+Data/Training/train_data ICDAR/rec/train/word_190.png	Kinokuniya
+Data/Training/train_data ICDAR/rec/train/word_903.png	SALE
+Data/Training/Dataset_train_1/word_1850.png	spring
+Data/Training/train_data_real+icdar/train/word_320.png	Tony
+Data/Training/Dataset_train_1/word_2203.png	IMAX
+Data/Training/train_data_Real+Sintetik/train/sintetik_480.png	LTPWAB8YP6
+Data/Training/Dataset_train_1/word_4330.png	TARTS
+Data/Training/train_data ICDAR/rec/train/word_953.png	umP
+Data/Training/Dataset_train_1/word_432.png	$20
+Data/Training/train_data_27_2_2025_1024/rec/train/15_contrast_increase.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_4379.png	The
+Data/Training/train_data_real+icdar/train/word_1382.png	STORE
+Data/Training/train_data_real+icdar/train/A15_contrast_decrease.png	25052025
+Data/Training/Dataset_train_1/word_3426.png	SALE
+Data/Training/Dataset_train_1/word_4069.png	FANTASTIC
+Data/Training/Dataset_train_1/word_2998.png	SHOPS
+Data/Training/train_data_real+icdar/train/word_1147.png	sale
+Data/Training/train_data_Real+Sintetik/train/sintetik_679.png	DLAEAG4MOF
+Data/Training/train_data_real+icdar/train/word_990.png	14-17
+Data/Training/Dataset_train_1/word_1250.png	would
+Data/Training/Dataset_train_1/word_2876.png	Massage
+Data/Training/Dataset_train_1/word_1635.png	ZOOM
+Data/Training/Dataset_train_1/word_1705.png	LOVIS
+Data/Training/train_data ICDAR/rec/train/word_208.png	run.
+Data/Training/train_data_real+icdar/train/word_1810.png	THEORY
+Data/Training/train_data_real+icdar/train/word_651.png	toast
+Data/Training/train_data_Real+Sintetik/train/sintetik_744.png	25XK7IRVZ9
+Data/Training/Dataset_train_1/word_1120.png	POSB
+Data/Training/train_data_Real+Sintetik/train/sintetik_1464.png	CUO58A15MY
+Data/Training/train_data ICDAR/rec/train/word_574.png	giant
+Data/Training/train_data ICDAR/rec/train/word_126.png	cha
+Data/Training/Dataset_train_1/word_1312.png	AHEAD
+Data/Training/train_data_real+icdar/train/16_histogram_equalization.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_3372.png	LDO
+Data/Training/train_data_real+icdar/train/word_734.png	NEW
+Data/Training/train_data ICDAR/rec/train/word_398.png	the
+Data/Training/train_data_Real+Sintetik/train/A6_histogram_equalization.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/sintetik_68.png	VARE54FIF3
+Data/Training/train_data_Real+Sintetik/train/A14_salt_pepper_noise.png	OJ25708AA0
+Data/Training/train_data_27_2_2025_1024/rec/train/16_histogram_equalization.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_388.png	M3NVW0HO15
+Data/Training/train_data ICDAR/rec/train/word_920.png	chocolate
+Data/Training/train_data_Real+Sintetik/train/26_contrast_increase.png	ORIGINAL
+Data/Training/train_data_real+icdar/train/word_1648.png	Chicken
+Data/Training/train_data_real+icdar/train/11_inverted_colors.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/word_1627.png	SALE
+Data/Training/train_data_Real+Sintetik/train/sintetik_1537.png	O1OWHEYKW5
+Data/Training/train_data_Real+Sintetik/train/A23_speckle_noise.png	OK14703AA0
+Data/Training/Dataset_train_1/word_517.png	delight
+Data/Training/Dataset_train_1/word_1075.png	help
+Data/Training/train_data_Real+Sintetik/train/sintetik_54.png	XL8RU3C41J
+Data/Training/train_data_Real+Sintetik/train/sintetik_1532.png	5UKKWYIQ2Z
+Data/Training/train_data_real+icdar/train/22_dilated.png	BB 17072025 ORIGINAL
+Data/Training/Dataset_train_1/word_3819.png	SAL
+Data/Training/train_data ICDAR/rec/train/word_611.png	jacobs
+Data/Training/train_data_Real+Sintetik/train/sintetik_1027.png	9WZU0AQLAX
+Data/Training/Dataset_train_1/word_1239.png	Toast
+Data/Training/train_data_27_2_2025_1024/rec/train/4_histogram_equalization.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data ICDAR/rec/train/word_412.png	Marina
+Data/Training/train_data ICDAR/rec/train/word_347.png	SALE
+Data/Training/train_data_Real+Sintetik/train/A8_resized.png	25052025
+Data/Training/Dataset_train_1/word_3609.png	PHILIP
+Data/Training/Dataset_train_1/word_931.png	LTD
+Data/Training/train_data_real+icdar/train/word_1737.png	ALWAYS
+Data/Training/train_data_Real+Sintetik/train/A16_brightness_increase.png	AYAM BAKAR
+Data/Training/train_data_27_2_2025_1024/rec/train/A8_contrast_increase.png	25052025
+Data/Training/train_data ICDAR/rec/train/word_730.png	NAUTI
+Data/Training/train_data_27_2_2025_1024/rec/train/A1_eroded.png	OJ25708AA0
+Data/Training/Dataset_train_1/word_3971.png	MARKS
+Data/Training/train_data_27_2_2025_1024/rec/train/14.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/17_contrast_increase.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_809.png	79CKGNJNFR
+Data/Training/train_data_real+icdar/train/word_629.png	MARC
+Data/Training/train_data_Real+Sintetik/train/sintetik_670.png	SCBSEEN1LC
+Data/Training/train_data_real+icdar/train/word_1642.png	CHABUTON
+Data/Training/Dataset_train_1/word_1719.png	Beginning
+Data/Training/Dataset_train_1/word_3897.png	POSSIBLE
+Data/Training/train_data ICDAR/rec/train/word_714.png	MANY
+Data/Training/Dataset_train_1/word_2123.png	Christmas
+Data/Training/train_data ICDAR/rec/train/word_346.png	wotso
+Data/Training/train_data_Real+Sintetik/train/sintetik_983.png	NHDKWXZSC3
+Data/Training/train_data_real+icdar/train/word_1143.png	MUSEUM
+Data/Training/train_data_Real+Sintetik/train/27_brightness_decrease.png	ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/4_dilated.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data ICDAR/rec/train/word_98.png	Plunger
+Data/Training/train_data ICDAR/rec/train/word_862.png	House
+Data/Training/Dataset_train_1/word_2476.png	you
+Data/Training/train_data_Real+Sintetik/train/sintetik_1317.png	GTBWCB2Y4T
+Data/Training/train_data_27_2_2025_1024/rec/train/A5_histogram_equalization.png	25052025
+Data/Training/train_data_real+icdar/train/word_1109.png	Thank
+Data/Training/train_data_real+icdar/train/word_1912.png	crunchy
+Data/Training/train_data_Real+Sintetik/train/sintetik_1672.png	GH24WNM7M2
+Data/Training/train_data_Real+Sintetik/train/sintetik_1751.png	FK49D1SWDD
+Data/Training/train_data_real+icdar/train/22_jpeg_artifacts.png	BB 17072025 ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_1144.png	W339QFVQT1
+Data/Training/Dataset_train_1/word_3095.png	our
+Data/Training/train_data ICDAR/rec/train/word_589.png	shopping
+Data/Training/Dataset_train_1/word_3341.png	FOSSI
+Data/Training/train_data_Real+Sintetik/train/sintetik_695.png	6O2J5LZXKW
+Data/Training/train_data_real+icdar/train/25_brightness_decrease.png	ORIGINAL
+Data/Training/Dataset_train_1/word_612.png	Almond
+Data/Training/train_data_27_2_2025_1024/rec/train/A17_brightness_increase.png	OK14703AA0
+Data/Training/train_data ICDAR/rec/train/word_157.png	Note?
+Data/Training/Dataset_train_1/word_2687.png	TEAM
+Data/Training/train_data_27_2_2025_1024/rec/train/20_contrast_increase.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_383.png	YOUR
+Data/Training/train_data_real+icdar/train/word_1098.png	Open
+Data/Training/train_data_Real+Sintetik/train/sintetik_659.png	Z7ZHME407Q
+Data/Training/train_data_27_2_2025_1024/rec/train/A34_brightness_decrease.png	AYAM BAKAR
+Data/Training/train_data_27_2_2025_1024/rec/train/7_contrast_increase.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_2920.png	AEROPOSTALE
+Data/Training/Dataset_train_1/word_565.png	GATE
+Data/Training/train_data_Real+Sintetik/train/24_contrast_decrease.png	ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_133.png	BIOHHFLISA
+Data/Training/Dataset_train_1/word_3043.png	mentos
+Data/Training/Dataset_train_1/word_916.png	EXIT
+Data/Training/train_data_real+icdar/train/word_979.png	the
+Data/Training/train_data ICDAR/rec/train/word_38.png	BEWARE
+Data/Training/Dataset_train_1/word_2769.png	spinal
+Data/Training/train_data_27_2_2025_1024/rec/train/A8_speckle_noise.png	25052025
+Data/Training/Dataset_train_1/word_586.png	deserve
+Data/Training/train_data_real+icdar/train/4_contrast_increase.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_1810.png	RWWVGAGYFQ
+Data/Training/train_data_Real+Sintetik/train/sintetik_1366.png	WBDGXGHAZX
+Data/Training/Dataset_train_1/word_2165.png	WINE
+Data/Training/train_data_real+icdar/train/word_583.png	COTTON
+Data/Training/Dataset_train_1/word_3687.png	and
+Data/Training/train_data_Real+Sintetik/train/A20_resized.png	OK14703AA0
+Data/Training/Dataset_train_1/word_2670.png	ASUS
+Data/Training/Dataset_train_1/word_3666.png	KIKKI.K
+Data/Training/train_data_real+icdar/train/17_brightness_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_142.png	SMRT
+Data/Training/Dataset_train_1/word_936.png	Thank
+Data/Training/Dataset_train_1/word_2215.png	COURSE
+Data/Training/train_data_Real+Sintetik/train/A28_contrast_increase.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_952.png	Deep
+Data/Training/Dataset_train_1/word_350.png	payment
+Data/Training/train_data_real+icdar/train/word_1316.png	St.
+Data/Training/Dataset_train_1/word_1219.png	EXPERIENCE
+Data/Training/train_data_real+icdar/train/word_589.png	shopping
+Data/Training/Dataset_train_1/word_1162.png	BERTH
+Data/Training/train_data_Real+Sintetik/train/sintetik_1714.png	8T4T5KNQJV
+Data/Training/train_data_real+icdar/train/word_406.png	KFC
+Data/Training/Dataset_train_1/word_2432.png	Clementi
+Data/Training/train_data ICDAR/rec/train/word_835.png	EXPERIENCE
+Data/Training/train_data ICDAR/rec/train/word_554.png	that
+Data/Training/train_data_Real+Sintetik/train/sintetik_767.png	I92T4GZGJJ
+Data/Training/train_data_real+icdar/train/A25_inverted_colors.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_2371.png	The
+Data/Training/train_data ICDAR/rec/train/word_696.png	STERN
+Data/Training/Dataset_train_1/word_4341.png	YOURSELF
+Data/Training/train_data_Real+Sintetik/train/sintetik_469.png	ISFNCQP95G
+Data/Training/train_data_Real+Sintetik/train/sintetik_700.png	TRS4P0P2NG
+Data/Training/train_data_Real+Sintetik/train/sintetik_1105.png	83Q1BCOAEN
+Data/Training/Dataset_train_1/word_2953.png	YOUR
+Data/Training/Dataset_train_1/word_2402.png	YEO
+Data/Training/Dataset_train_1/word_3159.png	PRADA
+Data/Training/train_data_Real+Sintetik/train/sintetik_1031.png	PFBPD9ZO0T
+Data/Training/train_data ICDAR/rec/train/word_723.png	SALE
+Data/Training/train_data_Real+Sintetik/train/21_inverted_colors.png	BB 17072025 ORIGINAL
+Data/Training/Dataset_train_1/word_1442.png	Interview
+Data/Training/train_data_Real+Sintetik/train/sintetik_325.png	ZIXWELCO8I
+Data/Training/train_data_27_2_2025_1024/rec/train/27_salt_pepper_noise.png	ORIGINAL
+Data/Training/Dataset_train_1/word_1492.png	EXIT
+Data/Training/Dataset_train_1/word_1086.png	Rajah
+Data/Training/train_data_Real+Sintetik/train/sintetik_291.png	5TBXXNR83C
+Data/Training/train_data_Real+Sintetik/train/sintetik_1150.png	1Y616BNNPF
+Data/Training/Dataset_train_1/word_226.png	Ghaut
+Data/Training/Dataset_train_1/word_4089.png	FIRST
+Data/Training/train_data_Real+Sintetik/train/A2_histogram_equalization.png	AYAM BAKAR
+Data/Training/train_data_real+icdar/train/word_2057.png	Basah
+Data/Training/train_data_real+icdar/train/word_2003.png	LIFESTYLE
+Data/Training/Dataset_train_1/word_33.png	COME
+Data/Training/Dataset_train_1/word_1403.png	data
+Data/Training/train_data_real+icdar/train/word_632.png	desigual
+Data/Training/train_data_27_2_2025_1024/rec/train/A19_contrast_increase.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/27_skewed.png	ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_929.png	UMPS1L4ZEA
+Data/Training/train_data ICDAR/rec/train/word_167.png	Beaute
+Data/Training/Dataset_train_1/word_56.png	175
+Data/Training/train_data_Real+Sintetik/train/sintetik_1567.png	77S72LVL93
+Data/Training/train_data_Real+Sintetik/train/25_inverted_colors.png	ORIGINAL
+Data/Training/Dataset_train_1/word_3088.png	adidas
+Data/Training/Dataset_train_1/word_3940.png	YEAR
+Data/Training/train_data_27_2_2025_1024/rec/train/15_brightness_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_2475.png	WIN
+Data/Training/train_data_Real+Sintetik/train/sintetik_1758.png	Y6OSRO1PZ5
+Data/Training/train_data ICDAR/rec/train/word_625.png	RKET
+Data/Training/train_data ICDAR/rec/train/word_266.png	SALE
+Data/Training/train_data_Real+Sintetik/train/sintetik_1837.png	M5WOD0EQ35
+Data/Training/train_data ICDAR/rec/train/word_9.png	from
+Data/Training/train_data_Real+Sintetik/train/sintetik_2012.png	YMNXRC3EZS
+Data/Training/train_data_real+icdar/train/word_533.png	HARA
+Data/Training/train_data_27_2_2025_1024/rec/train/24_dilated.png	ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_1741.png	SGZQGHVTX0
+Data/Training/train_data_real+icdar/train/A17_contrast_decrease.png	OK14703AA0
+Data/Training/train_data_Real+Sintetik/train/A11_eroded.png	14062025
+Data/Training/Dataset_train_1/word_3242.png	HUBL
+Data/Training/train_data_Real+Sintetik/train/sintetik_1235.png	M6WDITAKRT
+Data/Training/train_data_Real+Sintetik/train/A15_eroded.png	25052025
+Data/Training/train_data_Real+Sintetik/train/sintetik_152.png	FKZHFXPEMY
+Data/Training/train_data_real+icdar/train/A9_histogram_equalization.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/sintetik_1792.png	RBTVZ2SCCN
+Data/Training/Dataset_train_1/word_1174.png	the
+Data/Training/train_data_Real+Sintetik/train/sintetik_1619.png	J13EBJ8WUE
+Data/Training/Dataset_train_1/word_1752.png	Pass
+Data/Training/Dataset_train_1/word_768.png	Delivering
+Data/Training/train_data_real+icdar/train/word_817.png	LONDON
+Data/Training/Dataset_train_1/word_1589.png	Style
+Data/Training/train_data ICDAR/rec/train/word_75.png	Way
+Data/Training/Dataset_train_1/word_1255.png	Mayo
+Data/Training/train_data_Real+Sintetik/train/sintetik_1991.png	TWDH7JA9SK
+Data/Training/Dataset_train_1/word_811.png	more
+Data/Training/train_data_real+icdar/train/word_1244.png	Glaillo
+Data/Training/train_data_Real+Sintetik/train/A28_eroded.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_568.png	VISA
+Data/Training/train_data_27_2_2025_1024/rec/train/17_resized.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_1094.png	EXIT
+Data/Training/Dataset_train_1/word_4336.png	Beauty's
+Data/Training/Dataset_train_1/word_725.png	GET
+Data/Training/Dataset_train_1/word_3351.png	tcc
+Data/Training/train_data_Real+Sintetik/train/sintetik_1037.png	ED5TU9ZVHY
+Data/Training/Dataset_train_1/word_2843.png	4.20
+Data/Training/train_data_Real+Sintetik/train/sintetik_714.png	IYIY553OZ4
+Data/Training/train_data ICDAR/rec/train/word_487.png	This
+Data/Training/train_data_real+icdar/train/A3_speckle_noise.png	25052025
+Data/Training/train_data_real+icdar/train/word_920.png	chocolate
+Data/Training/Dataset_train_1/word_1615.png	TIFFANY
+Data/Training/Dataset_train_1/word_3047.png	mentos
+Data/Training/train_data_Real+Sintetik/train/sintetik_1556.png	C5QW65J8EO
+Data/Training/train_data_Real+Sintetik/train/sintetik_1511.png	SYTIOL2RJF
+Data/Training/train_data_Real+Sintetik/train/sintetik_1256.png	ZVSCN0ICMG
+Data/Training/train_data_real+icdar/train/10_salt_pepper_noise.png	OL17707AA0
+Data/Training/Dataset_train_1/word_3356.png	7698
+Data/Training/train_data ICDAR/rec/train/word_859.png	INFOCOMM
+Data/Training/train_data_Real+Sintetik/train/sintetik_1986.png	J4KKG9OQIM
+Data/Training/train_data_Real+Sintetik/train/sintetik_1989.png	VJ6DGCEKDN
+Data/Training/Dataset_train_1/word_4076.png	Tel.
+Data/Training/Dataset_train_1/word_628.png	Centre
+Data/Training/Dataset_train_1/word_4010.png	SingTel
+Data/Training/train_data_real+icdar/train/word_1899.png	clearing
+Data/Training/Dataset_train_1/word_1006.png	ULTIMATE
+Data/Training/train_data_real+icdar/train/A21_eroded.png	14062025
+Data/Training/train_data_27_2_2025_1024/rec/train/A35_salt_pepper_noise.png	OK14703AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_675.png	LKZA62J36S
+Data/Training/train_data_27_2_2025_1024/rec/train/A33_eroded.png	14062025
+Data/Training/Dataset_train_1/word_3534.png	TENRY
+Data/Training/Dataset_train_1/word_426.png	BECAUSE
+Data/Training/train_data_27_2_2025_1024/rec/train/A33_resized.png	14062025
+Data/Training/train_data_real+icdar/train/23_brightness_increase.png	BB 17072025 ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/19_speckle_noise.png	BB 17072025 ORIGINAL
+Data/Training/Dataset_train_1/word_2108.png	DHC
+Data/Training/Dataset_train_1/word_4258.png	BAKERY
+Data/Training/train_data_27_2_2025_1024/rec/train/12_histogram_equalization.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_956.png	17x
+Data/Training/Dataset_train_1/word_1242.png	INTRODUCUCING...
+Data/Training/train_data_Real+Sintetik/train/A5_gaussian_noise.png	25052025
+Data/Training/Dataset_train_1/word_1920.png	LATEST
+Data/Training/train_data_27_2_2025_1024/rec/train/A24_speckle_noise.png	14062025
+Data/Training/train_data ICDAR/rec/train/word_717.png	latue
+Data/Training/train_data_Real+Sintetik/train/sintetik_201.png	EKCTGE399K
+Data/Training/Dataset_train_1/word_2851.png	VALUE
+Data/Training/train_data_Real+Sintetik/train/sintetik_350.png	LD48OSMUGH
+Data/Training/Dataset_train_1/word_1386.png	worth
+Data/Training/train_data_real+icdar/train/word_1948.png	FUJIFILM
+Data/Training/Dataset_train_1/word_3391.png	NEW
+Data/Training/train_data_27_2_2025_1024/rec/train/A29_shadows.png	OK14703AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_185.png	03TTZUOSY5
+Data/Training/train_data_Real+Sintetik/train/12_histogram_equalization.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_154.png	you
+Data/Training/Dataset_train_1/word_3140.png	COACH
+Data/Training/train_data_Real+Sintetik/train/sintetik_1191.png	6ZZ44YBEHM
+Data/Training/train_data_27_2_2025_1024/rec/train/A4_shadows.png	OJ25708AA0
+Data/Training/train_data_real+icdar/train/word_669.png	toast
+Data/Training/Dataset_train_1/word_2889.png	lehiban
+Data/Training/Dataset_train_1/word_951.png	Charcoal
+Data/Training/train_data_real+icdar/train/word_1179.png	MANGO
+Data/Training/train_data_real+icdar/train/A19_speckle_noise.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_2928.png	SHOP
+Data/Training/Dataset_train_1/word_2386.png	sunflower
+Data/Training/train_data_27_2_2025_1024/rec/train/1_speckle_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_4040.png	SING
+Data/Training/train_data_real+icdar/train/word_1693.png	EXIT
+Data/Training/train_data ICDAR/rec/train/word_343.png	Singapore
+Data/Training/train_data_Real+Sintetik/train/9_salt_pepper_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_540.png	FOR
+Data/Training/train_data_27_2_2025_1024/rec/train/A2_shadows.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/sintetik_1106.png	K2ON4968KA
+Data/Training/train_data_real+icdar/train/word_678.png	NORTH
+Data/Training/train_data_Real+Sintetik/train/sintetik_1955.png	3VH2MPX1ZL
+Data/Training/Dataset_train_1/word_2902.png	CANDY
+Data/Training/Dataset_train_1/word_616.png	Enjoy
+Data/Training/train_data_real+icdar/train/word_1778.png	Taiwanese
+Data/Training/train_data_Real+Sintetik/train/9.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_4043.png	MAIDS
+Data/Training/train_data ICDAR/rec/train/word_839.png	Open
+Data/Training/Dataset_train_1/word_599.png	$5,000
+Data/Training/Dataset_train_1/word_57.png	285
+Data/Training/train_data_real+icdar/train/word_821.png	Sapola
+Data/Training/Dataset_train_1/word_2912.png	VEIL
+Data/Training/Dataset_train_1/word_700.png	Japan
+Data/Training/train_data_real+icdar/train/word_956.png	off
+Data/Training/train_data_Real+Sintetik/train/sintetik_1790.png	KKK8NDGQ0D
+Data/Training/train_data_Real+Sintetik/train/sintetik_1312.png	O6HZPAQFSO
+Data/Training/train_data_real+icdar/train/word_1968.png	AGEING
+Data/Training/Dataset_train_1/word_3193.png	Appetit!
+Data/Training/Dataset_train_1/word_2831.png	delight
+Data/Training/train_data_Real+Sintetik/train/A5_contrast_decrease.png	25052025
+Data/Training/Dataset_train_1/word_3454.png	ODY
+Data/Training/train_data_Real+Sintetik/train/sintetik_1685.png	OZ58Z8GZ0V
+Data/Training/Dataset_train_1/word_1321.png	CARD
+Data/Training/train_data_Real+Sintetik/train/sintetik_1788.png	YBJNI9LK8E
+Data/Training/train_data_Real+Sintetik/train/sintetik_507.png	BV7556M5KJ
+Data/Training/Dataset_train_1/word_2022.png	ANGELES
+Data/Training/train_data_real+icdar/train/word_1113.png	GIORDANO
+Data/Training/Dataset_train_1/word_158.png	beats
+Data/Training/Dataset_train_1/word_3059.png	MARKETPLACE
+Data/Training/train_data_Real+Sintetik/train/sintetik_504.png	VLE6QK8MEX
+Data/Training/Dataset_train_1/word_2098.png	JOY
+Data/Training/Dataset_train_1/word_2941.png	Square
+Data/Training/Dataset_train_1/word_1661.png	SALE
+Data/Training/train_data_real+icdar/train/A25_brightness_decrease.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/4_skewed.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/A4_jpeg_artifacts.png	OJ25708AA0
+Data/Training/Dataset_train_1/word_751.png	by:
+Data/Training/train_data_Real+Sintetik/train/sintetik_1920.png	XRLV85IGPX
+Data/Training/Dataset_train_1/word_3308.png	shu
+Data/Training/train_data_Real+Sintetik/train/A35_resized.png	OK14703AA0
+Data/Training/Dataset_train_1/word_2894.png	BROWNIES
+Data/Training/train_data ICDAR/rec/train/word_361.png	DINING
+Data/Training/train_data_real+icdar/train/word_1618.png	VICTORIA'S
+Data/Training/Dataset_train_1/word_4025.png	LOVE
+Data/Training/train_data_real+icdar/train/word_10.png	PAIN
+Data/Training/train_data_Real+Sintetik/train/sintetik_697.png	Z8F9DVYXMD
+Data/Training/train_data_27_2_2025_1024/rec/train/7_contrast_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_271.png	VWVNM9T7ID
+Data/Training/Dataset_train_1/word_4371.png	Carpark
+Data/Training/train_data_real+icdar/train/word_1508.png	ntre
+Data/Training/train_data_real+icdar/train/15_brightness_increase.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_889.png	GMVV2JP19S
+Data/Training/train_data_real+icdar/train/word_1240.png	DIAMOND
+Data/Training/train_data_real+icdar/train/23_brightness_decrease.png	BB 17072025 ORIGINAL
+Data/Training/train_data_27_2_2025_1024/rec/train/8_brightness_decrease.png	OL17707AA0
+Data/Training/Dataset_train_1/word_393.png	GEOX
+Data/Training/train_data_27_2_2025_1024/rec/train/3_shadows.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_4338.png	NDS
+Data/Training/train_data_Real+Sintetik/train/A7_skewed.png	OJ25708AA0
+Data/Training/train_data ICDAR/rec/train/word_540.png	Robert
+Data/Training/Dataset_train_1/word_2682.png	Serenity
+Data/Training/train_data_Real+Sintetik/train/sintetik_571.png	PKEYH1FQVZ
+Data/Training/Dataset_train_1/word_1112.png	WWW.ite.edu.sg
+Data/Training/train_data ICDAR/rec/train/word_507.png	East
+Data/Training/Dataset_train_1/word_4320.png	and
+Data/Training/train_data_27_2_2025_1024/rec/train/A28_eroded.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/A1.png	OJ25708AA0
+Data/Training/train_data ICDAR/rec/train/word_288.png	Fresh
+Data/Training/train_data_real+icdar/train/1_jpeg_artifacts.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_2415.png	Knee
+Data/Training/train_data_27_2_2025_1024/rec/train/A32_inverted_colors.png	OK14703AA0
+Data/Training/Dataset_train_1/word_1557.png	Bedding
+Data/Training/train_data_real+icdar/train/A12_salt_pepper_noise.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/sintetik_1308.png	I4GE4FJDHA
+Data/Training/Dataset_train_1/word_2480.png	SONY
+Data/Training/train_data_real+icdar/train/word_1989.png	KONG
+Data/Training/train_data_Real+Sintetik/train/sintetik_833.png	DKVFS6VVPI
+Data/Training/Dataset_train_1/word_877.png	LOOKING
+Data/Training/train_data ICDAR/rec/train/word_44.png	for
+Data/Training/train_data_Real+Sintetik/train/sintetik_1315.png	Y0ADZ1S61Q
+Data/Training/train_data ICDAR/rec/train/word_866.png	THAN
+Data/Training/Dataset_train_1/word_587.png	LON
+Data/Training/train_data_Real+Sintetik/train/sintetik_1782.png	3BQAPLZ7RU
+Data/Training/Dataset_train_1/word_4309.png	Weddings
+Data/Training/train_data_real+icdar/train/2_contrast_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data ICDAR/rec/train/word_983.png	the
+Data/Training/train_data_27_2_2025_1024/rec/train/A23_contrast_decrease.png	OK14703AA0
+Data/Training/train_data_Real+Sintetik/train/25_dilated.png	ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_97.png	1ZZOHZLDEF
+Data/Training/Dataset_train_1/word_2499.png	2198
+Data/Training/train_data_real+icdar/train/9_contrast_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_1939.png	UUGU0JDXVP
+Data/Training/train_data ICDAR/rec/train/word_53.png	Communications
+Data/Training/Dataset_train_1/word_2202.png	TICKETS
+Data/Training/train_data_real+icdar/train/word_580.png	office
+Data/Training/train_data_real+icdar/train/word_904.png	IT'S
+Data/Training/train_data_real+icdar/train/word_1430.png	opping
+Data/Training/train_data_real+icdar/train/word_831.png	WET
+Data/Training/train_data_real+icdar/train/word_1529.png	EXIT
+Data/Training/Dataset_train_1/word_246.png	Ris
+Data/Training/Dataset_train_1/word_4193.png	Higest
+Data/Training/train_data_27_2_2025_1024/rec/train/A20_histogram_equalization.png	OK14703AA0
+Data/Training/train_data_real+icdar/train/word_100.png	FairPrice
+Data/Training/Dataset_train_1/word_2391.png	Chinese
+Data/Training/train_data_27_2_2025_1024/rec/train/A3_contrast_decrease.png	25052025
+Data/Training/Dataset_train_1/word_2536.png	YOUR
+Data/Training/train_data_Real+Sintetik/train/sintetik_1609.png	1CQ6UGBGGO
+Data/Training/train_data_Real+Sintetik/train/sintetik_453.png	7UUPZH821H
+Data/Training/train_data_real+icdar/train/A30_salt_pepper_noise.png	14062025
+Data/Training/train_data_27_2_2025_1024/rec/train/15_salt_pepper_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_401.png	MUXKLNNJCO
+Data/Training/train_data_real+icdar/train/word_876.png	SALE
+Data/Training/train_data_Real+Sintetik/train/sintetik_366.png	QFCSOWC4JL
+Data/Training/train_data_27_2_2025_1024/rec/train/23_resized.png	BB 17072025 ORIGINAL
+Data/Training/Dataset_train_1/word_3097.png	with
+Data/Training/train_data_real+icdar/train/word_619.png	SALE
+Data/Training/train_data_real+icdar/train/word_332.png	the
+Data/Training/train_data_Real+Sintetik/train/sintetik_2017.png	4BBQGG99SL
+Data/Training/Dataset_train_1/word_3862.png	ROBIN
+Data/Training/Dataset_train_1/word_3157.png	CASINO
+Data/Training/Dataset_train_1/word_4021.png	Available
+Data/Training/train_data_Real+Sintetik/train/sintetik_1116.png	4G10CFFA48
+Data/Training/Dataset_train_1/word_3029.png	WAREHOUS
+Data/Training/Dataset_train_1/word_175.png	Pagar
+Data/Training/Dataset_train_1/word_3654.png	LEVEL
+Data/Training/train_data_Real+Sintetik/train/sintetik_577.png	M3AUO0Q60V
+Data/Training/Dataset_train_1/word_4319.png	SOON
+Data/Training/train_data_27_2_2025_1024/rec/train/A32_gaussian_noise.png	OK14703AA0
+Data/Training/train_data_27_2_2025_1024/rec/train/A10_histogram_equalization.png	OK14703AA0
+Data/Training/train_data_Real+Sintetik/train/11_salt_pepper_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_3383.png	511
+Data/Training/Dataset_train_1/word_1938.png	SALADWORKS
+Data/Training/train_data_real+icdar/train/word_330.png	kolo
+Data/Training/train_data_Real+Sintetik/train/sintetik_47.png	HSQ3THK52H
+Data/Training/Dataset_train_1/word_3156.png	PRADA
+Data/Training/train_data_Real+Sintetik/train/A6_contrast_decrease.png	AYAM BAKAR
+Data/Training/train_data ICDAR/rec/train/word_600.png	raffles
+Data/Training/Dataset_train_1/word_1122.png	Set
+Data/Training/Dataset_train_1/word_3919.png	CARD
+Data/Training/train_data_Real+Sintetik/train/sintetik_349.png	OJBH1RZKMW
+Data/Training/train_data_Real+Sintetik/train/sintetik_549.png	HI93UB5FAQ
+Data/Training/train_data ICDAR/rec/train/word_779.png	SALE
+Data/Training/train_data_real+icdar/train/word_1784.png	BREAD
+Data/Training/train_data_Real+Sintetik/train/sintetik_268.png	LZCDJUAN7S
+Data/Training/train_data_Real+Sintetik/train/A15_brightness_decrease.png	25052025
+Data/Training/Dataset_train_1/word_2785.png	SHOP
+Data/Training/Dataset_train_1/word_4110.png	FILIPINO
+Data/Training/train_data_real+icdar/train/word_296.png	Boerien
+Data/Training/Dataset_train_1/word_1582.png	YOGA
+Data/Training/train_data ICDAR/rec/train/word_735.png	SALE
+Data/Training/Dataset_train_1/word_3989.png	ALDO
+Data/Training/train_data_Real+Sintetik/train/A18_eroded.png	14062025
+Data/Training/train_data_real+icdar/train/18_contrast_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_3751.png	Edition
+Data/Training/train_data ICDAR/rec/train/word_984.png	Bay
+Data/Training/train_data_real+icdar/train/word_796.png	BANGKOKJAM
+Data/Training/train_data_real+icdar/train/word_1858.png	MADE
+Data/Training/Dataset_train_1/word_4161.png	JMG
+Data/Training/Dataset_train_1/word_330.png	mooth
+Data/Training/train_data_real+icdar/train/word_519.png	SAL
+Data/Training/train_data_real+icdar/train/A29_brightness_decrease.png	OK14703AA0
+Data/Training/Dataset_train_1/word_2389.png	67782831
+Data/Training/Dataset_train_1/word_2828.png	steps
+Data/Training/Dataset_train_1/word_594.png	unity
+Data/Training/Dataset_train_1/word_961.png	MRT
+Data/Training/train_data ICDAR/rec/train/word_268.png	Say
+Data/Training/train_data_Real+Sintetik/train/sintetik_1836.png	3U6FN7RY3L
+Data/Training/train_data_Real+Sintetik/train/A7.png	OJ25708AA0
+Data/Training/Dataset_train_1/word_1460.png	DISPLAY
+Data/Training/Dataset_train_1/word_1643.png	AURORA
+Data/Training/Dataset_train_1/word_2640.png	BREAD
+Data/Training/train_data_Real+Sintetik/train/sintetik_619.png	B8BO6NMYBT
+Data/Training/train_data_real+icdar/train/word_704.png	earning
+Data/Training/train_data ICDAR/rec/train/word_428.png	SALE
+Data/Training/Dataset_train_1/word_1359.png	double
+Data/Training/train_data_real+icdar/train/word_812.png	Cadbury
+Data/Training/Dataset_train_1/word_827.png	Walking
+Data/Training/Dataset_train_1/word_1107.png	Sleeper
+Data/Training/train_data ICDAR/rec/train/word_996.png	Concert
+Data/Training/Dataset_train_1/word_2677.png	tech@vogue
+Data/Training/train_data_real+icdar/train/word_973.png	Eett
+Data/Training/Dataset_train_1/word_579.png	Health
+Data/Training/train_data ICDAR/rec/train/word_297.png	GAIN
+Data/Training/Dataset_train_1/word_908.png	BEAUTIFUL
+Data/Training/train_data_Real+Sintetik/train/sintetik_1971.png	HKHGGSB0CU
+Data/Training/Dataset_train_1/word_2741.png	GOURMEE
+Data/Training/train_data ICDAR/rec/train/word_729.png	GEOX
+Data/Training/train_data_Real+Sintetik/train/23_gaussian_noise.png	BB 17072025 ORIGINAL
+Data/Training/train_data_27_2_2025_1024/rec/train/A7_brightness_increase.png	OJ25708AA0
+Data/Training/Dataset_train_1/word_2156.png	GABU
+Data/Training/Dataset_train_1/word_3933.png	RETAIL
+Data/Training/Dataset_train_1/word_1922.png	Speed
+Data/Training/train_data_real+icdar/train/word_496.png	STEP
+Data/Training/Dataset_train_1/word_3746.png	Limited
+Data/Training/train_data_Real+Sintetik/train/sintetik_860.png	PAY4C75V8V
+Data/Training/train_data_27_2_2025_1024/rec/train/24_contrast_increase.png	ORIGINAL
+Data/Training/train_data_real+icdar/train/A16_histogram_equalization.png	AYAM BAKAR
+Data/Training/train_data_real+icdar/train/A29_histogram_equalization.png	OK14703AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_1032.png	NWV3SIOI57
+Data/Training/Dataset_train_1/word_2331.png	SHION
+Data/Training/train_data_real+icdar/train/word_1998.png	GALLERIA
+Data/Training/Dataset_train_1/word_4295.png	MILO
+Data/Training/train_data_Real+Sintetik/train/sintetik_616.png	VY8AXQYA8X
+Data/Training/Dataset_train_1/word_2479.png	TABLETS
+Data/Training/train_data_real+icdar/train/4_resized.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/word_1585.png	ERA
+Data/Training/Dataset_train_1/word_3377.png	Klein
+Data/Training/train_data_real+icdar/train/A33_dilated.png	14062025
+Data/Training/Dataset_train_1/word_1690.png	Kong
+Data/Training/Dataset_train_1/word_2827.png	simple
+Data/Training/Dataset_train_1/word_570.png	Japanese
+Data/Training/train_data_real+icdar/train/14_speckle_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/word_1768.png	RESTAURANT
+Data/Training/train_data_Real+Sintetik/train/sintetik_512.png	0LEE8LC8KL
+Data/Training/train_data_Real+Sintetik/train/sintetik_375.png	RDLTZ3HKUQ
+Data/Training/train_data_Real+Sintetik/train/A31_histogram_equalization.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/A28_histogram_equalization.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_2619.png	Drop-off
+Data/Training/train_data_Real+Sintetik/train/10_contrast_decrease.png	OL17707AA0
+Data/Training/train_data_Real+Sintetik/train/A37_skewed.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/sintetik_1231.png	8XY5BXVRQ5
+Data/Training/train_data_real+icdar/train/word_1300.png	MANGO
+Data/Training/Dataset_train_1/word_1320.png	Pit
+Data/Training/train_data_real+icdar/train/word_702.png	SALE
+Data/Training/Dataset_train_1/word_2936.png	the
+Data/Training/Dataset_train_1/word_325.png	WATSONS
+Data/Training/Dataset_train_1/word_1583.png	LENOVO
+Data/Training/train_data_27_2_2025_1024/rec/train/20_contrast_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_1850.png	PULBU8HOH1
+Data/Training/train_data_Real+Sintetik/train/sintetik_1981.png	P4GBZE4JO6
+Data/Training/train_data_27_2_2025_1024/rec/train/A24_dilated.png	14062025
+Data/Training/Dataset_train_1/word_3510.png	LOVE
+Data/Training/Dataset_train_1/word_341.png	Additional
+Data/Training/train_data_real+icdar/train/A24_contrast_increase.png	14062025
+Data/Training/Dataset_train_1/word_1238.png	Crackers
+Data/Training/Dataset_train_1/word_1054.png	NOMADS
+Data/Training/Dataset_train_1/word_2718.png	SALE
+Data/Training/train_data_real+icdar/train/word_698.png	SOL
+Data/Training/train_data_real+icdar/train/word_1018.png	Kenko
+Data/Training/train_data_Real+Sintetik/train/20_brightness_increase.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_842.png	M59WO9RXTE
+Data/Training/train_data_real+icdar/train/word_346.png	wotso
+Data/Training/train_data_Real+Sintetik/train/sintetik_1958.png	2DE4MYT0DY
+Data/Training/train_data_real+icdar/train/A12_histogram_equalization.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_274.png	YOU
+Data/Training/Dataset_train_1/word_2219.png	COURSE
+Data/Training/train_data_Real+Sintetik/train/sintetik_43.png	NX4L7AM8U2
+Data/Training/train_data_Real+Sintetik/train/sintetik_226.png	5NAX4I1FUF
+Data/Training/Dataset_train_1/word_2915.png	FRIENDS
+Data/Training/train_data_Real+Sintetik/train/sintetik_1520.png	M0F7HBARVB
+Data/Training/train_data_Real+Sintetik/train/sintetik_1361.png	WPAPGUKWY9
+Data/Training/Dataset_train_1/word_257.png	CLASSES
+Data/Training/train_data_Real+Sintetik/train/sintetik_861.png	IB2D338UYO
+Data/Training/Dataset_train_1/word_3886.png	SALE
+Data/Training/train_data_real+icdar/train/word_36.png	residential
+Data/Training/train_data_Real+Sintetik/train/21_dilated.png	BB 17072025 ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_1350.png	0IC8EG4H3I
+Data/Training/Dataset_train_1/word_2624.png	BEST
+Data/Training/train_data_Real+Sintetik/train/sintetik_1828.png	1F64T6UHA9
+Data/Training/Dataset_train_1/word_2503.png	ASUS
+Data/Training/Dataset_train_1/word_4197.png	NETS
+Data/Training/train_data ICDAR/rec/train/word_652.png	DAILY
+Data/Training/train_data_Real+Sintetik/train/A5_resized.png	25052025
+Data/Training/Dataset_train_1/word_2850.png	CUBES
+Data/Training/Dataset_train_1/word_991.png	CRANE
+Data/Training/Dataset_train_1/word_518.png	VISA
+Data/Training/train_data ICDAR/rec/train/word_568.png	and
+Data/Training/train_data_real+icdar/train/word_14.png	NUS
+Data/Training/train_data_real+icdar/train/word_23.png	Seating
+Data/Training/train_data_Real+Sintetik/train/sintetik_334.png	5U6EA81MJ2
+Data/Training/Dataset_train_1/word_1638.png	BEEN
+Data/Training/train_data_real+icdar/train/A5_contrast_increase.png	25052025
+Data/Training/Dataset_train_1/word_2441.png	ECONOMICS
+Data/Training/train_data_real+icdar/train/word_1679.png	SALE
+Data/Training/Dataset_train_1/word_2620.png	S ON
+Data/Training/train_data ICDAR/rec/train/word_345.png	the
+Data/Training/train_data_real+icdar/train/A9_speckle_noise.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_829.png	DAIKIN
+Data/Training/train_data_real+icdar/train/A31_inverted_colors.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_2265.png	FST
+Data/Training/Dataset_train_1/word_771.png	Freshest
+Data/Training/train_data_real+icdar/train/word_712.png	TOPMAN
+Data/Training/train_data_real+icdar/train/5_contrast_increase.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_3577.png	BOTTEGA
+Data/Training/Dataset_train_1/word_2236.png	out
+Data/Training/Dataset_train_1/word_3266.png	GUESS
+Data/Training/train_data_real+icdar/train/word_483.png	options
+Data/Training/train_data_27_2_2025_1024/rec/train/A34_dilated.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/sintetik_870.png	UYTP1RYHRR
+Data/Training/Dataset_train_1/word_1759.png	Accessories
+Data/Training/train_data ICDAR/rec/train/word_114.png	Conditioner
+Data/Training/train_data_Real+Sintetik/train/sintetik_1950.png	NJFFM5TBQH
+Data/Training/Dataset_train_1/word_3944.png	WAITING
+Data/Training/train_data_real+icdar/train/word_306.png	CHO
+Data/Training/train_data ICDAR/rec/train/word_847.png	HEAT
+Data/Training/train_data_27_2_2025_1024/rec/train/A36_inverted_colors.png	14062025
+Data/Training/Dataset_train_1/word_3811.png	SALE
+Data/Training/train_data_real+icdar/train/word_8.png	Free
+Data/Training/train_data ICDAR/rec/train/word_990.png	14-17
+Data/Training/Dataset_train_1/word_316.png	AMIN
+Data/Training/Dataset_train_1/word_1591.png	York
+Data/Training/Dataset_train_1/word_3866.png	SALE
+Data/Training/train_data_real+icdar/train/word_1440.png	TASTE
+Data/Training/train_data ICDAR/rec/train/word_520.png	SALE
+Data/Training/train_data_real+icdar/train/word_2028.png	COLD
+Data/Training/train_data_real+icdar/train/word_375.png	LONGINES
+Data/Training/Dataset_train_1/word_750.png	UOB
+Data/Training/train_data_27_2_2025_1024/rec/train/A19_jpeg_artifacts.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_1282.png	ITE
+Data/Training/Dataset_train_1/word_169.png	#ilovesciencecentre
+Data/Training/train_data_real+icdar/train/2_skewed.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/A22_brightness_increase.png	AYAM BAKAR
+Data/Training/train_data_27_2_2025_1024/rec/train/A13_brightness_decrease.png	OK14703AA0
+Data/Training/train_data_27_2_2025_1024/rec/train/A27_inverted_colors.png	14062025
+Data/Training/train_data ICDAR/rec/train/word_498.png	YOUR
+Data/Training/train_data_27_2_2025_1024/rec/train/3_brightness_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_1736.png	ALDO
+Data/Training/train_data_Real+Sintetik/train/sintetik_948.png	URR6PSENKU
+Data/Training/Dataset_train_1/word_4322.png	TREATS
+Data/Training/Dataset_train_1/word_765.png	eve
+Data/Training/Dataset_train_1/word_2732.png	TRAIN
+Data/Training/train_data_real+icdar/train/word_1103.png	Bean
+Data/Training/Dataset_train_1/word_1439.png	8200
+Data/Training/train_data ICDAR/rec/train/word_876.png	SALE
+Data/Training/train_data_real+icdar/train/word_355.png	Points
+Data/Training/Dataset_train_1/word_1500.png	PRO-AM
+Data/Training/train_data_real+icdar/train/A17_inverted_colors.png	OK14703AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_1468.png	Q0HSN4XJLH
+Data/Training/train_data_Real+Sintetik/train/A14_shadows.png	OJ25708AA0
+Data/Training/Dataset_train_1/word_2779.png	SALE
+Data/Training/train_data_Real+Sintetik/train/A33_contrast_decrease.png	14062025
+Data/Training/train_data_real+icdar/train/word_1319.png	OYSTER
+Data/Training/Dataset_train_1/word_655.png	service
+Data/Training/train_data_real+icdar/train/word_809.png	TREES
+Data/Training/Dataset_train_1/word_3829.png	WATCH
+Data/Training/train_data_real+icdar/train/A36_salt_pepper_noise.png	14062025
+Data/Training/train_data_real+icdar/train/A1_inverted_colors.png	OJ25708AA0
+Data/Training/Dataset_train_1/word_3090.png	PLASTIC
+Data/Training/train_data_Real+Sintetik/train/sintetik_515.png	FE73B4TO36
+Data/Training/train_data_real+icdar/train/word_1850.png	real
+Data/Training/Dataset_train_1/word_3952.png	SALE
+Data/Training/train_data_Real+Sintetik/train/11_contrast_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/A18_brightness_increase.png	14062025
+Data/Training/Dataset_train_1/word_111.png	Easy
+Data/Training/train_data_Real+Sintetik/train/A17_histogram_equalization.png	OK14703AA0
+Data/Training/Dataset_train_1/word_3546.png	RASPRODA
+Data/Training/train_data_real+icdar/train/word_966.png	STHES
+Data/Training/train_data_real+icdar/train/word_1941.png	TOPSHOP
+Data/Training/Dataset_train_1/word_3124.png	LIKE
+Data/Training/train_data_real+icdar/train/A14_brightness_decrease.png	OJ25708AA0
+Data/Training/train_data_real+icdar/train/word_59.png	Reserved
+Data/Training/train_data_real+icdar/train/word_442.png	diverse
+Data/Training/train_data_Real+Sintetik/train/sintetik_1785.png	95DXI9OR19
+Data/Training/Dataset_train_1/word_4271.png	WIN
+Data/Training/train_data_Real+Sintetik/train/8_histogram_equalization.png	OL17707AA0
+Data/Training/train_data_Real+Sintetik/train/A22.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_3210.png	Fresh
+Data/Training/train_data_real+icdar/train/word_1078.png	FISH
+Data/Training/train_data_real+icdar/train/8_contrast_decrease.png	OL17707AA0
+Data/Training/train_data_real+icdar/train/word_1488.png	TEES
+Data/Training/Dataset_train_1/word_1901.png	70%
+Data/Training/train_data_real+icdar/train/A37_dilated.png	AYAM BAKAR
+Data/Training/train_data_real+icdar/train/word_1953.png	EVEN
+Data/Training/train_data_Real+Sintetik/train/16_salt_pepper_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/12_resized.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/9_skewed.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_886.png	LE27PHLRQR
+Data/Training/Dataset_train_1/word_589.png	Real
+Data/Training/train_data_27_2_2025_1024/rec/train/A6_shadows.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/A15_dilated.png	25052025
+Data/Training/train_data_Real+Sintetik/train/sintetik_1525.png	7VXXQHAAUD
+Data/Training/Dataset_train_1/word_1509.png	BASKETBALL
+Data/Training/train_data_Real+Sintetik/train/sintetik_1683.png	H11O1SQ7BA
+Data/Training/train_data_27_2_2025_1024/rec/train/A3_jpeg_artifacts.png	25052025
+Data/Training/train_data_Real+Sintetik/train/sintetik_1862.png	47AH2QOQMK
+Data/Training/train_data_real+icdar/train/word_292.png	SUBWAY
+Data/Training/train_data_real+icdar/train/word_554.png	that
+Data/Training/train_data_Real+Sintetik/train/sintetik_1501.png	57NWLYLTK0
+Data/Training/train_data_real+icdar/train/word_266.png	SALE
+Data/Training/Dataset_train_1/word_2226.png	Jubilant
+Data/Training/Dataset_train_1/word_3468.png	SALE
+Data/Training/Dataset_train_1/word_1064.png	Mins
+Data/Training/train_data_Real+Sintetik/train/sintetik_721.png	CPPBNMEYKY
+Data/Training/train_data_Real+Sintetik/train/sintetik_3.png	GN0LJOB8LV
+Data/Training/train_data_real+icdar/train/word_1546.png	ECOIL
+Data/Training/train_data_Real+Sintetik/train/sintetik_1853.png	9EEZ6ZDZ2X
+Data/Training/train_data_Real+Sintetik/train/sintetik_1914.png	Q7W3V2LLCX
+Data/Training/Dataset_train_1/word_2720.png	citing
+Data/Training/Dataset_train_1/word_2299.png	LIVE
+Data/Training/train_data_Real+Sintetik/train/sintetik_565.png	WZCJ288SGJ
+Data/Training/train_data_Real+Sintetik/train/25_brightness_decrease.png	ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/A9_eroded.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/sintetik_1582.png	CXQUV1L37S
+Data/Training/train_data_real+icdar/train/word_633.png	desigual
+Data/Training/train_data ICDAR/rec/train/word_478.png	Shopping
+Data/Training/train_data ICDAR/rec/train/word_113.png	the
+Data/Training/Dataset_train_1/word_2864.png	and
+Data/Training/Dataset_train_1/word_4171.png	SALE
+Data/Training/Dataset_train_1/word_2364.png	com
+Data/Training/train_data_Real+Sintetik/train/21_jpeg_artifacts.png	BB 17072025 ORIGINAL
+Data/Training/Dataset_train_1/word_2387.png	sunflower
+Data/Training/train_data_Real+Sintetik/train/sintetik_1860.png	IULZ14QO1D
+Data/Training/Dataset_train_1/word_3547.png	SWAROVS
+Data/Training/Dataset_train_1/word_2231.png	THE
+Data/Training/train_data_Real+Sintetik/train/sintetik_1131.png	3JIYUOFPKI
+Data/Training/Dataset_train_1/word_718.png	Christmas
+Data/Training/train_data_27_2_2025_1024/rec/train/A22_eroded.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/A24_skewed.png	14062025
+Data/Training/train_data_real+icdar/train/word_12.png	441B
+Data/Training/train_data_real+icdar/train/word_265.png	CHRISTMAS
+Data/Training/Dataset_train_1/word_1915.png	40%
+Data/Training/Dataset_train_1/word_4140.png	EXPRESS
+Data/Training/train_data ICDAR/rec/train/word_81.png	CLASSROOMS
+Data/Training/Dataset_train_1/word_848.png	257
+Data/Training/train_data_Real+Sintetik/train/sintetik_762.png	DU9T33TNQQ
+Data/Training/train_data_Real+Sintetik/train/A26_skewed.png	OK14703AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_777.png	FSNB4JPGVB
+Data/Training/train_data_real+icdar/train/word_281.png	CUT
+Data/Training/train_data_real+icdar/train/word_1284.png	girls
+Data/Training/Dataset_train_1/word_3291.png	$1.50
+Data/Training/train_data_real+icdar/train/15_contrast_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_3222.png	BRITY
+Data/Training/Dataset_train_1/word_2875.png	meet
+Data/Training/train_data_27_2_2025_1024/rec/train/11_shadows.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data ICDAR/rec/train/word_682.png	SKECHER
+Data/Training/Dataset_train_1/word_2090.png	Mum
+Data/Training/train_data ICDAR/rec/train/word_140.png	Atm
+Data/Training/Dataset_train_1/word_3833.png	bread
+Data/Training/train_data ICDAR/rec/train/word_282.png	LOAVES
+Data/Training/train_data_27_2_2025_1024/rec/train/A4_speckle_noise.png	OJ25708AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_569.png	37G4WXDK6M
+Data/Training/train_data_real+icdar/train/22.png	BB 17072025 ORIGINAL
+Data/Training/Dataset_train_1/word_3172.png	LEVEL
+Data/Training/Dataset_train_1/word_2804.png	MAE
+Data/Training/Dataset_train_1/word_2644.png	SALE
+Data/Training/train_data_27_2_2025_1024/rec/train/16.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_232.png	Promenade
+Data/Training/train_data_real+icdar/train/word_978.png	Theatres
+Data/Training/train_data_Real+Sintetik/train/sintetik_1953.png	T6ORB263WW
+Data/Training/Dataset_train_1/word_1189.png	EXPERTS!
+Data/Training/train_data_real+icdar/train/word_287.png	VALUE
+Data/Training/Dataset_train_1/word_2540.png	SALE
+Data/Training/Dataset_train_1/word_2469.png	good
+Data/Training/train_data_Real+Sintetik/train/sintetik_1095.png	4E806RAUG7
+Data/Training/train_data_27_2_2025_1024/rec/train/23_speckle_noise.png	BB 17072025 ORIGINAL
+Data/Training/Dataset_train_1/word_1673.png	BOX
+Data/Training/train_data_real+icdar/train/24_speckle_noise.png	ORIGINAL
+Data/Training/Dataset_train_1/word_2408.png	Doctors
+Data/Training/train_data_real+icdar/train/word_527.png	FINAL
+Data/Training/train_data_real+icdar/train/word_1930.png	Wear
+Data/Training/Dataset_train_1/word_2248.png	VACANCY
+Data/Training/train_data_27_2_2025_1024/rec/train/A15_jpeg_artifacts.png	25052025
+Data/Training/train_data_Real+Sintetik/train/26_eroded.png	ORIGINAL
+Data/Training/train_data_27_2_2025_1024/rec/train/6_eroded.png	OL17707AA0
+Data/Training/Dataset_train_1/word_2706.png	NEW
+Data/Training/train_data_Real+Sintetik/train/sintetik_780.png	PMCIGSO98H
+Data/Training/train_data_real+icdar/train/A5_speckle_noise.png	25052025
+Data/Training/train_data_real+icdar/train/word_1682.png	SALE
+Data/Training/train_data_Real+Sintetik/train/23_dilated.png	BB 17072025 ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_87.png	XETGSQ8NBM
+Data/Training/train_data_27_2_2025_1024/rec/train/25.png	ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/A14_skewed.png	OJ25708AA0
+Data/Training/Dataset_train_1/word_626.png	Auditorium
+Data/Training/Dataset_train_1/word_3248.png	MADDEN
+Data/Training/train_data_real+icdar/train/18_speckle_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_1862.png	don't
+Data/Training/train_data_real+icdar/train/word_1514.png	SALE
+Data/Training/train_data_real+icdar/train/A6_eroded.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/sintetik_606.png	F9F06EPEVT
+Data/Training/Dataset_train_1/word_2015.png	NEW
+Data/Training/Dataset_train_1/word_1884.png	EXIT
+Data/Training/Dataset_train_1/word_2153.png	REAL
+Data/Training/Dataset_train_1/word_3014.png	CAFE
+Data/Training/train_data_real+icdar/train/25_inverted_colors.png	ORIGINAL
+Data/Training/Dataset_train_1/word_4090.png	FACTORY
+Data/Training/train_data_real+icdar/train/26_skewed.png	ORIGINAL
+Data/Training/Dataset_train_1/word_1339.png	AND
+Data/Training/Dataset_train_1/word_2242.png	New
+Data/Training/train_data_27_2_2025_1024/rec/train/12_salt_pepper_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_493.png	ARCHER
+Data/Training/Dataset_train_1/word_1664.png	havaianas
+Data/Training/train_data_Real+Sintetik/train/sintetik_796.png	03FOBX0AGG
+Data/Training/train_data_real+icdar/train/word_2002.png	WELLNESS
+Data/Training/Dataset_train_1/word_985.png	FALL
+Data/Training/train_data_Real+Sintetik/train/A14_contrast_increase.png	OJ25708AA0
+Data/Training/train_data_Real+Sintetik/train/15_contrast_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_29.png	LIFESTYLE
+Data/Training/Dataset_train_1/word_2560.png	HERE
+Data/Training/Dataset_train_1/word_3360.png	PATERSON
+Data/Training/Dataset_train_1/word_1416.png	Nature's
+Data/Training/train_data_Real+Sintetik/train/sintetik_1612.png	1BMTR7B4MU
+Data/Training/train_data ICDAR/rec/train/word_216.png	THE
+Data/Training/train_data_real+icdar/train/word_2037.png	Foods
+Data/Training/train_data_27_2_2025_1024/rec/train/A6_brightness_decrease.png	AYAM BAKAR
+Data/Training/train_data_real+icdar/train/word_901.png	woobo
+Data/Training/train_data ICDAR/rec/train/word_105.png	HALL
+Data/Training/train_data_real+icdar/train/word_1404.png	DOME
+Data/Training/Dataset_train_1/word_1337.png	THE
+Data/Training/train_data_Real+Sintetik/train/sintetik_868.png	KPAZI9S6QZ
+Data/Training/Dataset_train_1/word_297.png	GAP
+Data/Training/Dataset_train_1/word_3305.png	shu
+Data/Training/train_data_27_2_2025_1024/rec/train/A12_contrast_increase.png	AYAM BAKAR
+Data/Training/train_data ICDAR/rec/train/word_872.png	WRAP
+Data/Training/train_data_real+icdar/train/24_jpeg_artifacts.png	ORIGINAL
+Data/Training/Dataset_train_1/word_2757.png	GHO
+Data/Training/Dataset_train_1/word_366.png	Services
+Data/Training/Dataset_train_1/word_2756.png	PAR
+Data/Training/train_data_real+icdar/train/word_739.png	ADDED
+Data/Training/train_data ICDAR/rec/train/word_135.png	Collect
+Data/Training/train_data_real+icdar/train/word_928.png	always
+Data/Training/Dataset_train_1/word_1056.png	OUT!
+Data/Training/train_data_real+icdar/train/word_673.png	the
+Data/Training/train_data_Real+Sintetik/train/21_skewed.png	BB 17072025 ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_188.png	D9CDZ6YQJ0
+Data/Training/Dataset_train_1/word_1309.png	Toastwich
+Data/Training/train_data ICDAR/rec/train/word_299.png	MORE
+Data/Training/train_data_Real+Sintetik/train/sintetik_294.png	UTPN6CVRWL
+Data/Training/Dataset_train_1/word_2489.png	199
+Data/Training/Dataset_train_1/word_4421.png	RAMEN
+Data/Training/train_data_Real+Sintetik/train/22_skewed.png	BB 17072025 ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/A22_gaussian_noise.png	AYAM BAKAR
+Data/Training/train_data_27_2_2025_1024/rec/train/A33_brightness_increase.png	14062025
+Data/Training/train_data_real+icdar/train/5_salt_pepper_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data ICDAR/rec/train/word_481.png	B1
+Data/Training/Dataset_train_1/word_3542.png	HYDROGEN
+Data/Training/train_data_Real+Sintetik/train/sintetik_230.png	8ZND10YBN3
+Data/Training/Dataset_train_1/word_123.png	Paragon
+Data/Training/Dataset_train_1/word_554.png	ACCESS
+Data/Training/train_data ICDAR/rec/train/word_976.png	SEX
+Data/Training/train_data_Real+Sintetik/train/sintetik_615.png	I8KFIW4JPA
+Data/Training/train_data_real+icdar/train/word_342.png	ORGANI
+Data/Training/train_data ICDAR/rec/train/word_888.png	Prego
+Data/Training/train_data_Real+Sintetik/train/1_speckle_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_27_2_2025_1024/rec/train/A15_contrast_increase.png	25052025
+Data/Training/train_data ICDAR/rec/train/word_738.png	LINES
+Data/Training/train_data_real+icdar/train/17_shadows.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_866.png	MALL
+Data/Training/train_data ICDAR/rec/train/word_849.png	WELCOME
+Data/Training/Dataset_train_1/word_3101.png	MORE
+Data/Training/Dataset_train_1/word_780.png	Seating
+Data/Training/train_data ICDAR/rec/train/word_820.png	Mt.
+Data/Training/train_data_Real+Sintetik/train/A17_speckle_noise.png	OK14703AA0
+Data/Training/train_data ICDAR/rec/train/word_905.png	BIG
+Data/Training/Dataset_train_1/word_144.png	HAS
+Data/Training/Dataset_train_1/word_2235.png	Look
+Data/Training/train_data_Real+Sintetik/train/A29.png	OK14703AA0
+Data/Training/Dataset_train_1/word_2788.png	BEAR
+Data/Training/train_data_real+icdar/train/1_eroded.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/word_441.png	OFF
+Data/Training/Dataset_train_1/word_1933.png	SALE
+Data/Training/Dataset_train_1/word_1451.png	DIGI
+Data/Training/Dataset_train_1/word_2512.png	cache
+Data/Training/Dataset_train_1/word_3123.png	ENHANCED
+Data/Training/Dataset_train_1/word_186.png	simge.edu.sg
+Data/Training/train_data_real+icdar/train/word_282.png	LOAVES
+Data/Training/Dataset_train_1/word_141.png	Dine
+Data/Training/train_data_real+icdar/train/word_1262.png	EXIT
+Data/Training/Dataset_train_1/word_3119.png	HOT
+Data/Training/train_data_Real+Sintetik/train/sintetik_1022.png	XG3OYA6GPV
+Data/Training/train_data_Real+Sintetik/train/A32.png	OK14703AA0
+Data/Training/Dataset_train_1/word_4233.png	BODY
+Data/Training/Dataset_train_1/word_3314.png	shu
+Data/Training/train_data_real+icdar/train/word_98.png	Plunger
+Data/Training/train_data_Real+Sintetik/train/sintetik_1555.png	DSLFZHS27H
+Data/Training/train_data_27_2_2025_1024/rec/train/16_salt_pepper_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/A8_inverted_colors.png	25052025
+Data/Training/train_data_Real+Sintetik/train/sintetik_1407.png	OE1PI7QQXQ
+Data/Training/Dataset_train_1/word_2449.png	Mind
+Data/Training/train_data_real+icdar/train/A14_contrast_decrease.png	OJ25708AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_416.png	00TNPKUXBD
+Data/Training/Dataset_train_1/word_3806.png	Anniversary
+Data/Training/train_data_real+icdar/train/word_879.png	faster
+Data/Training/Dataset_train_1/word_2319.png	$12
+Data/Training/Dataset_train_1/word_149.png	times
+Data/Training/Dataset_train_1/word_2655.png	biggie.
+Data/Training/train_data_Real+Sintetik/train/19_brightness_decrease.png	BB 17072025 ORIGINAL
+Data/Training/Dataset_train_1/word_2051.png	Bank
+Data/Training/Dataset_train_1/word_1668.png	Discovered
+Data/Training/Dataset_train_1/word_3034.png	SALE
+Data/Training/Dataset_train_1/word_3573.png	GALERIES
+Data/Training/train_data_Real+Sintetik/train/A13_gaussian_noise.png	OK14703AA0
+Data/Training/Dataset_train_1/word_2577.png	Stadium
+Data/Training/train_data_27_2_2025_1024/rec/train/A4_resized.png	OJ25708AA0
+Data/Training/Dataset_train_1/word_3617.png	ENTRANCE
+Data/Training/Dataset_train_1/word_185.png	Seating
+Data/Training/train_data_real+icdar/train/word_404.png	BURGER
+Data/Training/train_data_Real+Sintetik/train/7_resized.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/word_546.png	Enjoy
+Data/Training/train_data_real+icdar/train/A31_salt_pepper_noise.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_1689.png	Hong
+Data/Training/Dataset_train_1/word_3015.png	GKO
+Data/Training/Dataset_train_1/word_4017.png	SingTel
+Data/Training/train_data_Real+Sintetik/train/sintetik_362.png	L1DJ9XWP2O
+Data/Training/Dataset_train_1/word_36.png	IPAL
+Data/Training/train_data_real+icdar/train/word_1811.png	INTO
+Data/Training/train_data_27_2_2025_1024/rec/train/A23_jpeg_artifacts.png	OK14703AA0
+Data/Training/train_data_27_2_2025_1024/rec/train/A27_skewed.png	14062025
+Data/Training/Dataset_train_1/word_2406.png	HONG
+Data/Training/train_data ICDAR/rec/train/word_149.png	Art
+Data/Training/Dataset_train_1/word_4251.png	fresh
+Data/Training/train_data_Real+Sintetik/train/A11_speckle_noise.png	14062025
+Data/Training/Dataset_train_1/word_2054.png	HOSEREEL
+Data/Training/train_data_real+icdar/train/17_dilated.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/A12_histogram_equalization.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_1820.png	Culture
+Data/Training/Dataset_train_1/word_618.png	rebate
+Data/Training/train_data_27_2_2025_1024/rec/train/A8_gaussian_noise.png	25052025
+Data/Training/train_data_real+icdar/train/word_760.png	Goat
+Data/Training/train_data_real+icdar/train/word_93.png	UNSEEN
+Data/Training/train_data_Real+Sintetik/train/18_contrast_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_27_2_2025_1024/rec/train/20_eroded.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_3533.png	John
+Data/Training/train_data_real+icdar/train/7_gaussian_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_27_2_2025_1024/rec/train/A8_shadows.png	25052025
+Data/Training/train_data_real+icdar/train/word_2019.png	rom
+Data/Training/train_data_27_2_2025_1024/rec/train/18_contrast_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_1036.png	JAD23UO6OJ
+Data/Training/Dataset_train_1/word_3200.png	CHA
+Data/Training/train_data ICDAR/rec/train/word_20.png	DOORS
+Data/Training/train_data_Real+Sintetik/train/sintetik_276.png	LZD5NANQNK
+Data/Training/train_data_Real+Sintetik/train/sintetik_139.png	TOA54O33Y8
+Data/Training/train_data_real+icdar/train/word_1082.png	YEAR
+Data/Training/train_data_real+icdar/train/word_1700.png	GOOD
+Data/Training/Dataset_train_1/word_2176.png	SEAFOOD
+Data/Training/train_data_real+icdar/train/3_speckle_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_3915.png	OCBC
+Data/Training/Dataset_train_1/word_471.png	ONLINE
+Data/Training/train_data_Real+Sintetik/train/6_salt_pepper_noise.png	OL17707AA0
+Data/Training/train_data_real+icdar/train/word_1716.png	underground
+Data/Training/train_data_real+icdar/train/word_1407.png	coast
+Data/Training/train_data_Real+Sintetik/train/A28_skewed.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_3364.png	KASE
+Data/Training/train_data_real+icdar/train/word_1910.png	STARBUCKS
+Data/Training/train_data_real+icdar/train/word_1177.png	PLACE
+Data/Training/train_data_Real+Sintetik/train/A7_contrast_decrease.png	OJ25708AA0
+Data/Training/train_data_27_2_2025_1024/rec/train/A1_gaussian_noise.png	OJ25708AA0
+Data/Training/Dataset_train_1/word_3344.png	SHOP
+Data/Training/train_data_real+icdar/train/word_299.png	MORE
+Data/Training/train_data ICDAR/rec/train/word_396.png	COFFEE
+Data/Training/train_data_27_2_2025_1024/rec/train/A2_salt_pepper_noise.png	AYAM BAKAR
+Data/Training/train_data ICDAR/rec/train/word_808.png	COCOA
+Data/Training/Dataset_train_1/word_2382.png	Toilet
+Data/Training/train_data_real+icdar/train/word_254.png	Doraeman
+Data/Training/train_data_27_2_2025_1024/rec/train/A7_salt_pepper_noise.png	OJ25708AA0
+Data/Training/Dataset_train_1/word_1894.png	takes
+Data/Training/train_data_Real+Sintetik/train/sintetik_184.png	N5RFF2TSZ5
+Data/Training/train_data_real+icdar/train/word_1616.png	SECRET
+Data/Training/train_data_Real+Sintetik/train/sintetik_1718.png	CVSUROVB2O
+Data/Training/train_data_real+icdar/train/A23_inverted_colors.png	OK14703AA0
+Data/Training/train_data_Real+Sintetik/train/15_gaussian_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data ICDAR/rec/train/word_397.png	Refishing
+Data/Training/Dataset_train_1/word_1676.png	OCO ICHIBI
+Data/Training/Dataset_train_1/word_1472.png	Alpha
+Data/Training/train_data_Real+Sintetik/train/sintetik_1096.png	8APCQWUCQW
+Data/Training/Dataset_train_1/word_2805.png	MAK
+Data/Training/train_data_27_2_2025_1024/rec/train/A11_gaussian_noise.png	14062025
+Data/Training/train_data_Real+Sintetik/train/sintetik_1472.png	F0DO7E8YUP
+Data/Training/Dataset_train_1/word_1159.png	243
+Data/Training/train_data_Real+Sintetik/train/sintetik_251.png	SM51G7SYGF
+Data/Training/Dataset_train_1/word_2.png	[06]
+Data/Training/train_data_real+icdar/train/word_1059.png	Republic
+Data/Training/Dataset_train_1/word_3091.png	don't
+Data/Training/train_data_real+icdar/train/word_1940.png	SURE
+Data/Training/train_data_Real+Sintetik/train/A15_inverted_colors.png	25052025
+Data/Training/train_data_real+icdar/train/A34_dilated.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/A5_histogram_equalization.png	25052025
+Data/Training/Dataset_train_1/word_2130.png	CARE
+Data/Training/Dataset_train_1/word_1702.png	SROCR
+Data/Training/train_data ICDAR/rec/train/word_214.png	SALE
+Data/Training/train_data_Real+Sintetik/train/sintetik_98.png	NDRK48SQGT
+Data/Training/Dataset_train_1/word_396.png	AND
+Data/Training/train_data_Real+Sintetik/train/15_shadows.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_3789.png	SALE
+Data/Training/Dataset_train_1/word_1609.png	CUSTOM
+Data/Training/Dataset_train_1/word_2698.png	$33
+Data/Training/Dataset_train_1/word_4312.png	OLD
+Data/Training/train_data_Real+Sintetik/train/sintetik_241.png	JYOSNAJW8X
+Data/Training/train_data_real+icdar/train/A17_eroded.png	OK14703AA0
+Data/Training/train_data_real+icdar/train/word_6.png	198
+Data/Training/train_data_27_2_2025_1024/rec/train/A31_gaussian_noise.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/sintetik_138.png	40ZLZFMQ48
+Data/Training/train_data_Real+Sintetik/train/A2_salt_pepper_noise.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/sintetik_429.png	XBQOU4OJ6K
+Data/Training/train_data_Real+Sintetik/train/sintetik_76.png	G4XASDBHAY
+Data/Training/Dataset_train_1/word_3537.png	DENHAM
+Data/Training/Dataset_train_1/word_578.png	6-3388-680
+Data/Training/Dataset_train_1/word_3479.png	BUTTER
+Data/Training/train_data_real+icdar/train/A26_skewed.png	OK14703AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_49.png	CD69MNYUR0
+Data/Training/Dataset_train_1/word_3720.png	Talk
+Data/Training/Dataset_train_1/word_966.png	Lift
+Data/Training/Dataset_train_1/word_139.png	Interchange
+Data/Training/Dataset_train_1/word_1166.png	ENVIRONMENTAL
+Data/Training/train_data_27_2_2025_1024/rec/train/A16_dilated.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/sintetik_1898.png	H3RASL9PGQ
+Data/Training/train_data_Real+Sintetik/train/sintetik_1171.png	LR8WZCKYAN
+Data/Training/Dataset_train_1/word_3610.png	STEIN
+Data/Training/train_data_real+icdar/train/word_1075.png	2015
+Data/Training/train_data_Real+Sintetik/train/sintetik_284.png	Q5BMFFSOF5
+Data/Training/train_data_Real+Sintetik/train/sintetik_107.png	85Q4ISBT7U
+Data/Training/train_data_real+icdar/train/19_brightness_decrease.png	BB 17072025 ORIGINAL
+Data/Training/train_data_real+icdar/train/26_contrast_increase.png	ORIGINAL
+Data/Training/Dataset_train_1/word_3830.png	EXIT
+Data/Training/Dataset_train_1/word_1148.png	Keppol
+Data/Training/train_data_27_2_2025_1024/rec/train/A29_salt_pepper_noise.png	OK14703AA0
+Data/Training/Dataset_train_1/word_3868.png	OUND
+Data/Training/train_data_real+icdar/train/word_1278.png	Opening
+Data/Training/train_data_Real+Sintetik/train/sintetik_623.png	SDA4NP3347
+Data/Training/Dataset_train_1/word_2401.png	MACHINE
+Data/Training/train_data_Real+Sintetik/train/A16_skewed.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_4425.png	Lift
+Data/Training/Dataset_train_1/word_549.png	SIDE-GATE
+Data/Training/train_data_27_2_2025_1024/rec/train/A30_shadows.png	14062025
+Data/Training/train_data ICDAR/rec/train/word_273.png	Garrett
+Data/Training/train_data_27_2_2025_1024/rec/train/A13_eroded.png	OK14703AA0
+Data/Training/train_data_real+icdar/train/word_2034.png	COLD
+Data/Training/train_data_27_2_2025_1024/rec/train/15_jpeg_artifacts.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/word_1712.png	@emerold
+Data/Training/train_data ICDAR/rec/train/word_323.png	Tonajs
+Data/Training/Dataset_train_1/word_1881.png	SALE
+Data/Training/Dataset_train_1/word_1418.png	Hair
+Data/Training/train_data_Real+Sintetik/train/sintetik_1117.png	YD75D2A2J1
+Data/Training/train_data_27_2_2025_1024/rec/train/A31_shadows.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_1096.png	GRE
+Data/Training/Dataset_train_1/word_2144.png	INTERNATIONAL
+Data/Training/train_data ICDAR/rec/train/word_12.png	441B
+Data/Training/train_data_Real+Sintetik/train/sintetik_1870.png	WZAGZHI2IC
+Data/Training/Dataset_train_1/word_2305.png	PERSON
+Data/Training/Dataset_train_1/word_3843.png	100%
+Data/Training/train_data_real+icdar/train/word_356.png	nett
+Data/Training/train_data_real+icdar/train/word_727.png	GEOX
+Data/Training/train_data_Real+Sintetik/train/sintetik_1642.png	BLMFEP0PGX
+Data/Training/Dataset_train_1/word_1033.png	Give
+Data/Training/Dataset_train_1/word_1835.png	ENGLISH
+Data/Training/train_data ICDAR/rec/train/word_73.png	West
+Data/Training/Dataset_train_1/word_3958.png	LOVE
+Data/Training/Dataset_train_1/word_4327.png	CCO
+Data/Training/train_data_real+icdar/train/word_541.png	Timms
+Data/Training/train_data_real+icdar/train/word_453.png	EXIT
+Data/Training/train_data_Real+Sintetik/train/sintetik_225.png	CHHRE9BQXS
+Data/Training/train_data_real+icdar/train/A33_brightness_decrease.png	14062025
+Data/Training/Dataset_train_1/word_1782.png	Challenger
+Data/Training/train_data_Real+Sintetik/train/A23.png	OK14703AA0
+Data/Training/train_data_27_2_2025_1024/rec/train/A14_dilated.png	OJ25708AA0
+Data/Training/Dataset_train_1/word_1002.png	$24
+Data/Training/Dataset_train_1/word_1453.png	SOUND
+Data/Training/train_data_27_2_2025_1024/rec/train/A14_gaussian_noise.png	OJ25708AA0
+Data/Training/train_data_Real+Sintetik/train/A23_shadows.png	OK14703AA0
+Data/Training/train_data_real+icdar/train/word_353.png	Brand
+Data/Training/train_data_Real+Sintetik/train/14_contrast_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_26.png	57YZ7DAB1I
+Data/Training/train_data_real+icdar/train/word_2022.png	J&D
+Data/Training/train_data ICDAR/rec/train/word_744.png	SALE
+Data/Training/Dataset_train_1/word_3660.png	FOR
+Data/Training/train_data_Real+Sintetik/train/sintetik_1548.png	JEBWR2G4RW
+Data/Training/Dataset_train_1/word_2423.png	BEAUTY
+Data/Training/Dataset_train_1/word_2887.png	ichiban
+Data/Training/Dataset_train_1/word_91.png	Engine
+Data/Training/train_data_real+icdar/train/word_1051.png	Citibank
+Data/Training/train_data ICDAR/rec/train/word_261.png	CRUISE
+Data/Training/Dataset_train_1/word_673.png	Asia
+Data/Training/train_data_Real+Sintetik/train/12_eroded.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/word_497.png	CHOOSE
+Data/Training/Dataset_train_1/word_973.png	PAIN
+Data/Training/train_data_real+icdar/train/word_1885.png	President's
+Data/Training/train_data ICDAR/rec/train/word_521.png	sale
+Data/Training/Dataset_train_1/word_1656.png	factorie
+Data/Training/Dataset_train_1/word_4154.png	#02-81
+Data/Training/Dataset_train_1/word_1093.png	INTRODUCING..
+Data/Training/Dataset_train_1/word_2792.png	WAREHOUSE
+Data/Training/train_data_Real+Sintetik/train/sintetik_419.png	8UPAIYWIJH
+Data/Training/train_data ICDAR/rec/train/word_695.png	CARPETS
+Data/Training/train_data_real+icdar/train/word_1365.png	BreadTalk
+Data/Training/train_data_real+icdar/train/A19.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_3795.png	TOUCH
+Data/Training/train_data_Real+Sintetik/train/sintetik_1223.png	AHZZI0A2JD
+Data/Training/train_data_real+icdar/train/word_1119.png	Storewide
+Data/Training/train_data_real+icdar/train/A21_inverted_colors.png	14062025
+Data/Training/Dataset_train_1/word_4356.png	transfer
+Data/Training/Dataset_train_1/word_2243.png	Beginning
+Data/Training/train_data_real+icdar/train/word_567.png	cafes
+Data/Training/Dataset_train_1/word_3121.png	MINX
+Data/Training/Dataset_train_1/word_2466.png	KEPT
+Data/Training/train_data_Real+Sintetik/train/sintetik_1869.png	O33XGU6V2V
+Data/Training/train_data_Real+Sintetik/train/A37_eroded.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_2103.png	JEM
+Data/Training/Dataset_train_1/word_748.png	OCBC
+Data/Training/Dataset_train_1/word_3171.png	GUCCI
+Data/Training/train_data_Real+Sintetik/train/18.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_553.png	YOUR
+Data/Training/Dataset_train_1/word_3695.png	will
+Data/Training/Dataset_train_1/word_240.png	Koon
+Data/Training/train_data_27_2_2025_1024/rec/train/A15_shadows.png	25052025
+Data/Training/train_data ICDAR/rec/train/word_359.png	flavours
+Data/Training/train_data_real+icdar/train/word_489.png	Esplanade
+Data/Training/Dataset_train_1/word_2343.png	MASSIVE
+Data/Training/train_data_Real+Sintetik/train/sintetik_1800.png	9BUFNW6047
+Data/Training/Dataset_train_1/word_4054.png	#04-29
+Data/Training/Dataset_train_1/word_3632.png	OFF
+Data/Training/train_data_Real+Sintetik/train/A34_skewed.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_4216.png	CANS
+Data/Training/train_data_Real+Sintetik/train/sintetik_1040.png	JRLJCCWNXR
+Data/Training/train_data_real+icdar/train/A26_contrast_decrease.png	OK14703AA0
+Data/Training/train_data_real+icdar/train/6_contrast_decrease.png	OL17707AA0
+Data/Training/train_data_real+icdar/train/word_791.png	TOAST
+Data/Training/train_data_27_2_2025_1024/rec/train/A15_histogram_equalization.png	25052025
+Data/Training/train_data_Real+Sintetik/train/sintetik_734.png	VGVXSX8J4B
+Data/Training/train_data_27_2_2025_1024/rec/train/7_salt_pepper_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_2020.png	BG5T3LYTMX
+Data/Training/Dataset_train_1/word_1501.png	WORLD
+Data/Training/train_data_Real+Sintetik/train/sintetik_29.png	E9UBDB8S35
+Data/Training/train_data_Real+Sintetik/train/sintetik_211.png	QQFPBDDH8K
+Data/Training/Dataset_train_1/word_4443.png	MIXED
+Data/Training/Dataset_train_1/word_14.png	PAY
+Data/Training/Dataset_train_1/word_2173.png	Sottis
+Data/Training/train_data_real+icdar/train/A1_jpeg_artifacts.png	OJ25708AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_1777.png	6QWQJ1VNTL
+Data/Training/Dataset_train_1/word_3603.png	FURLA
+Data/Training/train_data_Real+Sintetik/train/sintetik_830.png	0L9S96A07P
+Data/Training/train_data_Real+Sintetik/train/sintetik_1382.png	JGW2IT020E
+Data/Training/Dataset_train_1/word_3943.png	WORTH
+Data/Training/train_data_real+icdar/train/word_1070.png	alk
+Data/Training/Dataset_train_1/word_3444.png	GEIGERS
+Data/Training/train_data_real+icdar/train/word_112.png	Better
+Data/Training/Dataset_train_1/word_3485.png	EXIT
+Data/Training/train_data_real+icdar/train/word_1017.png	AXS
+Data/Training/Dataset_train_1/word_1822.png	FICTION
+Data/Training/train_data_real+icdar/train/A37_brightness_decrease.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/sintetik_254.png	RGDZK48NVD
+Data/Training/Dataset_train_1/word_3105.png	MORE
+Data/Training/Dataset_train_1/word_3574.png	EXIT
+Data/Training/train_data_27_2_2025_1024/rec/train/A13_skewed.png	OK14703AA0
+Data/Training/Dataset_train_1/word_3768.png	Hollk
+Data/Training/Dataset_train_1/word_3382.png	510
+Data/Training/train_data_Real+Sintetik/train/sintetik_94.png	J79YZWB685
+Data/Training/train_data_real+icdar/train/word_1779.png	Actor
+Data/Training/train_data_real+icdar/train/word_784.png	SORE
+Data/Training/Dataset_train_1/word_2272.png	ROSIE
+Data/Training/Dataset_train_1/word_2448.png	Stretch
+Data/Training/Dataset_train_1/word_2931.png	THE
+Data/Training/train_data_real+icdar/train/word_563.png	OFF
+Data/Training/train_data_Real+Sintetik/train/A36_gaussian_noise.png	14062025
+Data/Training/train_data_Real+Sintetik/train/sintetik_798.png	DYDDI481FB
+Data/Training/Dataset_train_1/word_1114.png	AWARD
+Data/Training/train_data_Real+Sintetik/train/26_dilated.png	ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_1233.png	1HOLN9KX5R
+Data/Training/Dataset_train_1/word_1579.png	Rowenta
+Data/Training/Dataset_train_1/word_1081.png	GIFTS
+Data/Training/Dataset_train_1/word_906.png	BEAUTIFUL
+Data/Training/train_data_Real+Sintetik/train/sintetik_105.png	93DOP25YD1
+Data/Training/Dataset_train_1/word_1693.png	Thailand
+Data/Training/train_data_real+icdar/train/22_inverted_colors.png	BB 17072025 ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_2003.png	1IS7HYHR1Y
+Data/Training/train_data_Real+Sintetik/train/sintetik_1587.png	B3QV0S5TF0
+Data/Training/train_data_Real+Sintetik/train/sintetik_817.png	M8NU5KXGRP
+Data/Training/train_data_27_2_2025_1024/rec/train/A18_inverted_colors.png	14062025
+Data/Training/train_data_real+icdar/train/word_1321.png	MONEY
+Data/Training/train_data_Real+Sintetik/train/sintetik_1025.png	84QU9HX7R0
+Data/Training/train_data_Real+Sintetik/train/A25_speckle_noise.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_3296.png	CONNECTION
+Data/Training/train_data_Real+Sintetik/train/sintetik_1369.png	0OXI9GYTCE
+Data/Training/train_data_Real+Sintetik/train/sintetik_1100.png	KBSO7PZYAL
+Data/Training/Dataset_train_1/word_1452.png	FREE
+Data/Training/train_data_Real+Sintetik/train/sintetik_737.png	O7F9FSF39A
+Data/Training/train_data_Real+Sintetik/train/sintetik_846.png	1OY3OB54C6
+Data/Training/Dataset_train_1/word_443.png	ROBERT
+Data/Training/Dataset_train_1/word_833.png	SAH
+Data/Training/train_data_real+icdar/train/word_374.png	Centre
+Data/Training/train_data_27_2_2025_1024/rec/train/A30_speckle_noise.png	14062025
+Data/Training/Dataset_train_1/word_2517.png	JAPAN
+Data/Training/Dataset_train_1/word_2066.png	50%
+Data/Training/train_data_real+icdar/train/word_1375.png	Spoon
+Data/Training/Dataset_train_1/word_3215.png	MARINA
+Data/Training/train_data_real+icdar/train/word_1395.png	GEOX
+Data/Training/train_data ICDAR/rec/train/word_331.png	PHOTO
+Data/Training/train_data_real+icdar/train/word_232.png	out
+Data/Training/train_data_Real+Sintetik/train/sintetik_1857.png	B1EC91SJLB
+Data/Training/Dataset_train_1/word_1984.png	TOPMA
+Data/Training/train_data_Real+Sintetik/train/sintetik_1977.png	GV4GBRWZEV
+Data/Training/train_data ICDAR/rec/train/word_569.png	Restaurants
+Data/Training/train_data_Real+Sintetik/train/sintetik_750.png	5O0QZVDNJH
+Data/Training/Dataset_train_1/word_505.png	merci
+Data/Training/train_data_real+icdar/train/21_contrast_decrease.png	BB 17072025 ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_938.png	XMKOI18C45
+Data/Training/Dataset_train_1/word_3118.png	LOOKED
+Data/Training/train_data_Real+Sintetik/train/sintetik_1765.png	DJSVS7YECM
+Data/Training/Dataset_train_1/word_2516.png	cache
+Data/Training/train_data_Real+Sintetik/train/4_shadows.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_27_2_2025_1024/rec/train/12_inverted_colors.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_3430.png	ALE
+Data/Training/train_data_Real+Sintetik/train/17_contrast_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_3875.png	YEAR
+Data/Training/Dataset_train_1/word_1655.png	factorie
+Data/Training/train_data_Real+Sintetik/train/sintetik_116.png	2ICFQZM9A3
+Data/Training/train_data_real+icdar/train/word_772.png	MARC
+Data/Training/train_data_real+icdar/train/word_1251.png	SALE
+Data/Training/train_data ICDAR/rec/train/word_539.png	TISSOT
+Data/Training/train_data ICDAR/rec/train/word_139.png	here
+Data/Training/train_data_Real+Sintetik/train/sintetik_1893.png	ADLR6K7G7X
+Data/Training/train_data ICDAR/rec/train/word_813.png	Everyday
+Data/Training/Dataset_train_1/word_2524.png	$428
+Data/Training/train_data_real+icdar/train/word_369.png	Pan
+Data/Training/train_data_Real+Sintetik/train/sintetik_1007.png	H7PWAI3IBO
+Data/Training/train_data ICDAR/rec/train/word_222.png	CocaCola
+Data/Training/train_data ICDAR/rec/train/word_399.png	tastes
+Data/Training/train_data_Real+Sintetik/train/sintetik_456.png	V3EQYIDH33
+Data/Training/train_data_Real+Sintetik/train/A36_speckle_noise.png	14062025
+Data/Training/Dataset_train_1/word_645.png	Plaza
+Data/Training/train_data ICDAR/rec/train/word_30.png	lower
+Data/Training/train_data_Real+Sintetik/train/sintetik_875.png	ZFDQ2T8VT9
+Data/Training/Dataset_train_1/word_4240.png	NEW
+Data/Training/train_data_Real+Sintetik/train/sintetik_493.png	015FFOTN8M
+Data/Training/Dataset_train_1/word_2841.png	VALUE
+Data/Training/train_data ICDAR/rec/train/word_61.png	BAG
+Data/Training/train_data_Real+Sintetik/train/sintetik_891.png	AVK9D0JS6U
+Data/Training/train_data_Real+Sintetik/train/sintetik_731.png	XLCARY6XUC
+Data/Training/train_data ICDAR/rec/train/word_101.png	finest
+Data/Training/train_data_Real+Sintetik/train/sintetik_829.png	3G4TCHL6J4
+Data/Training/train_data_Real+Sintetik/train/sintetik_601.png	8PGOYT476S
+Data/Training/train_data ICDAR/rec/train/word_223.png	Baby
+Data/Training/train_data_27_2_2025_1024/rec/train/26_inverted_colors.png	ORIGINAL
+Data/Training/Dataset_train_1/word_2287.png	times
+Data/Training/train_data_Real+Sintetik/train/4_contrast_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_376.png	services
+Data/Training/train_data_real+icdar/train/word_667.png	OPEN
+Data/Training/train_data_Real+Sintetik/train/14_shadows.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data ICDAR/rec/train/word_156.png	HEAD
+Data/Training/train_data_Real+Sintetik/train/sintetik_813.png	0URWHXCOP9
+Data/Training/Dataset_train_1/word_687.png	Safa
+Data/Training/train_data_Real+Sintetik/train/A2_speckle_noise.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_5.png	EXIT
+Data/Training/train_data_Real+Sintetik/train/sintetik_1873.png	12664OLOMB
+Data/Training/train_data_real+icdar/train/word_617.png	RESTAURANTS
+Data/Training/train_data_Real+Sintetik/train/sintetik_1129.png	WCJ0A797MB
+Data/Training/train_data_27_2_2025_1024/rec/train/2_salt_pepper_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_4326.png	DESSERT
+Data/Training/train_data_Real+Sintetik/train/A12_brightness_increase.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_4357.png	Levels
+Data/Training/train_data_Real+Sintetik/train/sintetik_221.png	37H08Y9ELH
+Data/Training/Dataset_train_1/word_1144.png	Bringing
+Data/Training/train_data_real+icdar/train/word_2006.png	RECKLESS
+Data/Training/Dataset_train_1/word_2121.png	WANTS
+Data/Training/train_data ICDAR/rec/train/word_407.png	Edition
+Data/Training/train_data ICDAR/rec/train/word_503.png	DEFY
+Data/Training/train_data_Real+Sintetik/train/sintetik_530.png	3SKH6IJZF4
+Data/Training/train_data_Real+Sintetik/train/16_shadows.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/word_253.png	citibank
+Data/Training/train_data_Real+Sintetik/train/sintetik_1142.png	FELBUJIX6T
+Data/Training/train_data ICDAR/rec/train/word_289.png	$8
+Data/Training/train_data_real+icdar/train/word_110.png	Air
+Data/Training/train_data_Real+Sintetik/train/A33_histogram_equalization.png	14062025
+Data/Training/train_data_real+icdar/train/word_1012.png	Esplanade
+Data/Training/Dataset_train_1/word_965.png	EXIT
+Data/Training/Dataset_train_1/word_938.png	NOTICE
+Data/Training/train_data_Real+Sintetik/train/sintetik_1108.png	5RC61EXO4Q
+Data/Training/Dataset_train_1/word_3214.png	BAY
+Data/Training/Dataset_train_1/word_2647.png	2.35
+Data/Training/train_data_Real+Sintetik/train/A35_speckle_noise.png	OK14703AA0
+Data/Training/Dataset_train_1/word_1889.png	29.90
+Data/Training/train_data_real+icdar/train/word_189.png	SAMSUNG
+Data/Training/train_data_real+icdar/train/word_828.png	WATER
+Data/Training/train_data ICDAR/rec/train/word_146.png	Needs
+Data/Training/Dataset_train_1/word_3630.png	bendet
+Data/Training/train_data_27_2_2025_1024/rec/train/A7_contrast_decrease.png	OJ25708AA0
+Data/Training/Dataset_train_1/word_43.png	Lower
+Data/Training/Dataset_train_1/word_3160.png	COACH
+Data/Training/train_data_Real+Sintetik/train/sintetik_1743.png	TAT02EYVKA
+Data/Training/train_data_real+icdar/train/A13_brightness_decrease.png	OK14703AA0
+Data/Training/Dataset_train_1/word_4179.png	UTY
+Data/Training/Dataset_train_1/word_3398.png	LEVI'S
+Data/Training/train_data ICDAR/rec/train/word_197.png	patch
+Data/Training/Dataset_train_1/word_2630.png	LOT
+Data/Training/Dataset_train_1/word_4276.png	Our
+Data/Training/train_data_Real+Sintetik/train/sintetik_1679.png	PN8KIHT0HG
+Data/Training/train_data_Real+Sintetik/train/13_contrast_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_2689.png	AVEDA
+Data/Training/train_data_Real+Sintetik/train/A26.png	OK14703AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_1397.png	9Y0K9DNQQ9
+Data/Training/train_data_Real+Sintetik/train/sintetik_1613.png	O2KR0T54IZ
+Data/Training/Dataset_train_1/word_2973.png	Trying
+Data/Training/train_data_real+icdar/train/word_770.png	Connector
+Data/Training/train_data_Real+Sintetik/train/sintetik_1894.png	XM27TK4XR0
+Data/Training/train_data_Real+Sintetik/train/sintetik_567.png	5W8SGDQFBD
+Data/Training/train_data ICDAR/rec/train/word_885.png	HOTELS
+Data/Training/train_data ICDAR/rec/train/word_429.png	BRAND
+Data/Training/Dataset_train_1/word_1426.png	Consultant
+Data/Training/train_data_real+icdar/train/word_609.png	BRITISH
+Data/Training/Dataset_train_1/word_254.png	HAS
+Data/Training/train_data_real+icdar/train/word_783.png	OUR
+Data/Training/train_data_real+icdar/train/11_eroded.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_2238.png	out
+Data/Training/Dataset_train_1/word_177.png	SERC
+Data/Training/train_data_Real+Sintetik/train/A22_contrast_increase.png	AYAM BAKAR
+Data/Training/train_data_27_2_2025_1024/rec/train/A14_contrast_increase.png	OJ25708AA0
+Data/Training/Dataset_train_1/word_585.png	#05-11
+Data/Training/Dataset_train_1/word_3733.png	lock
+Data/Training/Dataset_train_1/word_2190.png	CORNER
+Data/Training/train_data_Real+Sintetik/train/sintetik_1779.png	PN437KVQGQ
+Data/Training/train_data_Real+Sintetik/train/sintetik_1802.png	RUEGKUS97L
+Data/Training/train_data ICDAR/rec/train/word_742.png	FURTHER
+Data/Training/train_data_real+icdar/train/word_1303.png	OFF
+Data/Training/Dataset_train_1/word_2933.png	KISSJane
+Data/Training/Dataset_train_1/word_4252.png	food
+Data/Training/Dataset_train_1/word_106.png	Huat
+Data/Training/Dataset_train_1/word_3011.png	MARKS&
+Data/Training/Dataset_train_1/word_107.png	Since
+Data/Training/train_data_real+icdar/train/24_brightness_increase.png	ORIGINAL
+Data/Training/Dataset_train_1/word_840.png	Space
+Data/Training/train_data_real+icdar/train/A31_jpeg_artifacts.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_1462.png	with
+Data/Training/Dataset_train_1/word_2384.png	Canteen
+Data/Training/Dataset_train_1/word_822.png	home.
+Data/Training/train_data_Real+Sintetik/train/sintetik_321.png	5G6MM7ONN3
+Data/Training/train_data_Real+Sintetik/train/A33_dilated.png	14062025
+Data/Training/Dataset_train_1/word_2962.png	Food
+Data/Training/train_data_27_2_2025_1024/rec/train/9_speckle_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_450.png	purchases
+Data/Training/Dataset_train_1/word_3658.png	SERIES
+Data/Training/Dataset_train_1/word_1000.png	MANIA
+Data/Training/Dataset_train_1/word_3508.png	SINGA
+Data/Training/train_data_real+icdar/train/word_829.png	FIRE
+Data/Training/train_data ICDAR/rec/train/word_544.png	SINCERE
+Data/Training/Dataset_train_1/word_2711.png	bpalette
+Data/Training/Dataset_train_1/word_2398.png	BAN
+Data/Training/Dataset_train_1/word_1618.png	75%
+Data/Training/Dataset_train_1/word_4310.png	orchardcentral
+Data/Training/train_data_Real+Sintetik/train/sintetik_1507.png	D8KV2Y6P8W
+Data/Training/Dataset_train_1/word_1592.png	IIaoIIao
+Data/Training/train_data_27_2_2025_1024/rec/train/22_speckle_noise.png	BB 17072025 ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_625.png	HOHVI2A5C4
+Data/Training/train_data_real+icdar/train/word_186.png	Jeans
+Data/Training/Dataset_train_1/word_764.png	Hut
+Data/Training/train_data_real+icdar/train/word_238.png	Avenue
+Data/Training/train_data_real+icdar/train/word_813.png	Everyday
+Data/Training/train_data_real+icdar/train/word_382.png	MARINA:SQUARE
+Data/Training/Dataset_train_1/word_1967.png	The
+Data/Training/train_data_real+icdar/train/word_9.png	from
+Data/Training/Dataset_train_1/word_3597.png	PRADA
+Data/Training/train_data_Real+Sintetik/train/sintetik_686.png	RP6HDV9V9H
+Data/Training/train_data_27_2_2025_1024/rec/train/10_skewed.png	OL17707AA0
+Data/Training/train_data_real+icdar/train/word_1638.png	SYMPHONY
+Data/Training/train_data_real+icdar/train/word_237.png	Level
+Data/Training/train_data_Real+Sintetik/train/sintetik_508.png	I9BNTNWVIK
+Data/Training/train_data_Real+Sintetik/train/sintetik_1479.png	3DW8J2KAAC
+Data/Training/train_data ICDAR/rec/train/word_693.png	MAHARANI
+Data/Training/train_data_real+icdar/train/word_933.png	live.
+Data/Training/train_data_Real+Sintetik/train/sintetik_1638.png	7ETZ8YOOB5
+Data/Training/Dataset_train_1/word_137.png	WAVES
+Data/Training/Dataset_train_1/word_667.png	#10-15
+Data/Training/train_data_real+icdar/train/word_445.png	the
+Data/Training/Dataset_train_1/word_3983.png	STORE
+Data/Training/Dataset_train_1/word_1401.png	low
+Data/Training/Dataset_train_1/word_1049.png	501
+Data/Training/train_data_Real+Sintetik/train/sintetik_89.png	J6QQHES7PK
+Data/Training/Dataset_train_1/word_697.png	Japan
+Data/Training/Dataset_train_1/word_1598.png	SMUDGE
+Data/Training/train_data_real+icdar/train/word_1555.png	XMAS
+Data/Training/train_data_27_2_2025_1024/rec/train/19_skewed.png	BB 17072025 ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_1886.png	UJUZXMKXN9
+Data/Training/Dataset_train_1/word_3894.png	FORMULA
+Data/Training/Dataset_train_1/word_4049.png	L'OREAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_216.png	OD78Y5ELME
+Data/Training/Dataset_train_1/word_1525.png	SPALDING
+Data/Training/Dataset_train_1/word_3667.png	ORCHARD
+Data/Training/train_data_Real+Sintetik/train/sintetik_853.png	NQ8B7GQLPO
+Data/Training/Dataset_train_1/word_2897.png	PARFAITS
+Data/Training/train_data_Real+Sintetik/train/A1_gaussian_noise.png	OJ25708AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_1414.png	8SHZ9624CR
+Data/Training/train_data_real+icdar/train/word_148.png	Needs
+Data/Training/train_data_Real+Sintetik/train/1_resized.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_27_2_2025_1024/rec/train/A2_histogram_equalization.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_3473.png	EXCHANGE
+Data/Training/Dataset_train_1/word_2124.png	m&m's
+Data/Training/Dataset_train_1/word_4078.png	( +65) 6732 2900
+Data/Training/train_data_Real+Sintetik/train/sintetik_1756.png	IAA34YTR2F
+Data/Training/train_data_Real+Sintetik/train/A14_eroded.png	OJ25708AA0
+Data/Training/train_data_27_2_2025_1024/rec/train/A3_inverted_colors.png	25052025
+Data/Training/train_data_27_2_2025_1024/rec/train/17_dilated.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_1334.png	RIGHT
+Data/Training/train_data_Real+Sintetik/train/sintetik_1699.png	DOHWUFZ7R6
+Data/Training/train_data_Real+Sintetik/train/sintetik_1635.png	6XRX7WKXHF
+Data/Training/train_data_Real+Sintetik/train/A32_histogram_equalization.png	OK14703AA0
+Data/Training/train_data_Real+Sintetik/train/26_inverted_colors.png	ORIGINAL
+Data/Training/Dataset_train_1/word_250.png	THROUGH
+Data/Training/Dataset_train_1/word_309.png	COVENANT
+Data/Training/Dataset_train_1/word_2461.png	auto
+Data/Training/train_data_real+icdar/train/word_955.png	50%
+Data/Training/train_data_Real+Sintetik/train/A20_speckle_noise.png	OK14703AA0
+Data/Training/Dataset_train_1/word_4113.png	PTE
+Data/Training/Dataset_train_1/word_629.png	Town
+Data/Training/train_data_Real+Sintetik/train/sintetik_1195.png	4O140BRY1W
+Data/Training/train_data_27_2_2025_1024/rec/train/A25_inverted_colors.png	AYAM BAKAR
+Data/Training/train_data_real+icdar/train/word_1614.png	SECRET
+Data/Training/train_data_real+icdar/train/word_1545.png	RIVAL
+Data/Training/train_data ICDAR/rec/train/word_254.png	Doraeman
+Data/Training/train_data_Real+Sintetik/train/A26_histogram_equalization.png	OK14703AA0
+Data/Training/Dataset_train_1/word_2283.png	accessories
+Data/Training/train_data_real+icdar/train/word_1092.png	Coca
+Data/Training/Dataset_train_1/word_2750.png	BAR
+Data/Training/train_data_Real+Sintetik/train/sintetik_320.png	V53F22A9X1
+Data/Training/Dataset_train_1/word_1799.png	YOUR
+Data/Training/Dataset_train_1/word_53.png	Mall
+Data/Training/train_data_Real+Sintetik/train/sintetik_1168.png	MNT8IJRUZ9
+Data/Training/Dataset_train_1/word_4003.png	Salon
+Data/Training/train_data_real+icdar/train/A18_eroded.png	14062025
+Data/Training/train_data_27_2_2025_1024/rec/train/A4_brightness_decrease.png	OJ25708AA0
+Data/Training/Dataset_train_1/word_456.png	sushi
+Data/Training/train_data_Real+Sintetik/train/A3_contrast_decrease.png	25052025
+Data/Training/train_data_Real+Sintetik/train/sintetik_1001.png	HUYVYFFSFM
+Data/Training/train_data_real+icdar/train/word_1224.png	SALE
+Data/Training/train_data_Real+Sintetik/train/A1_resized.png	OJ25708AA0
+Data/Training/Dataset_train_1/word_2954.png	WAY
+Data/Training/Dataset_train_1/word_3920.png	ANY
+Data/Training/train_data_Real+Sintetik/train/A13_resized.png	OK14703AA0
+Data/Training/train_data_real+icdar/train/word_1528.png	SALE
+Data/Training/Dataset_train_1/word_1672.png	TOAST
+Data/Training/Dataset_train_1/word_2050.png	OSIM
+Data/Training/Dataset_train_1/word_2487.png	SAMSUNG
+Data/Training/Dataset_train_1/word_2882.png	MONEY
+Data/Training/train_data_real+icdar/train/word_649.png	EARLY
+Data/Training/Dataset_train_1/word_4136.png	SHOP
+Data/Training/train_data_Real+Sintetik/train/A23_contrast_increase.png	OK14703AA0
+Data/Training/train_data ICDAR/rec/train/word_641.png	the
+Data/Training/Dataset_train_1/word_2742.png	popcorn
+Data/Training/train_data_Real+Sintetik/train/sintetik_1088.png	A9KWO90634
+Data/Training/train_data_Real+Sintetik/train/sintetik_807.png	5LMPYLNAT8
+Data/Training/train_data_27_2_2025_1024/rec/train/A23_contrast_increase.png	OK14703AA0
+Data/Training/train_data_real+icdar/train/13_contrast_increase.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/word_2033.png	CREAMERY
+Data/Training/Dataset_train_1/word_853.png	NEED
+Data/Training/Dataset_train_1/word_85.png	BUS
+Data/Training/train_data_27_2_2025_1024/rec/train/A9_skewed.png	AYAM BAKAR
+Data/Training/train_data_27_2_2025_1024/rec/train/A3_contrast_increase.png	25052025
+Data/Training/train_data_Real+Sintetik/train/14_salt_pepper_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_1080.png	PREMIUM
+Data/Training/Dataset_train_1/word_1105.png	West
+Data/Training/train_data ICDAR/rec/train/word_318.png	REVLON
+Data/Training/Dataset_train_1/word_3188.png	MARINA
+Data/Training/Dataset_train_1/word_2683.png	Rice
+Data/Training/Dataset_train_1/word_4286.png	SEAFOOD
+Data/Training/train_data_real+icdar/train/9_brightness_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_103.png	BPF8AEQEZ8
+Data/Training/Dataset_train_1/word_944.png	the
+Data/Training/train_data_Real+Sintetik/train/A1_brightness_decrease.png	OJ25708AA0
+Data/Training/train_data_real+icdar/train/word_578.png	Money
+Data/Training/train_data_27_2_2025_1024/rec/train/6_contrast_decrease.png	OL17707AA0
+Data/Training/train_data_Real+Sintetik/train/A29_skewed.png	OK14703AA0
+Data/Training/train_data ICDAR/rec/train/word_904.png	IT'S
+Data/Training/Dataset_train_1/word_1744.png	PANDORA
+Data/Training/train_data_real+icdar/train/A31_contrast_increase.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/sintetik_794.png	5RVO7P7E0N
+Data/Training/train_data_real+icdar/train/21_inverted_colors.png	BB 17072025 ORIGINAL
+Data/Training/Dataset_train_1/word_964.png	West
+Data/Training/train_data_Real+Sintetik/train/sintetik_1042.png	Q4WNPVQJP8
+Data/Training/Dataset_train_1/word_391.png	6341
+Data/Training/train_data_Real+Sintetik/train/A11_shadows.png	14062025
+Data/Training/train_data_Real+Sintetik/train/sintetik_1500.png	SKQ8P1X53W
+Data/Training/train_data_Real+Sintetik/train/sintetik_544.png	WDZMYE8KWW
+Data/Training/Dataset_train_1/word_2295.png	STAY
+Data/Training/train_data_real+icdar/train/20.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/A12_inverted_colors.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_1768.png	NEW
+Data/Training/train_data_Real+Sintetik/train/A33_jpeg_artifacts.png	14062025
+Data/Training/train_data ICDAR/rec/train/word_937.png	MARKET
+Data/Training/train_data_Real+Sintetik/train/16_jpeg_artifacts.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_27_2_2025_1024/rec/train/A11_eroded.png	14062025
+Data/Training/Dataset_train_1/word_1605.png	NET
+Data/Training/train_data_Real+Sintetik/train/sintetik_1935.png	NJR7VUDSDF
+Data/Training/Dataset_train_1/word_2628.png	START
+Data/Training/train_data_real+icdar/train/A7_eroded.png	OJ25708AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_250.png	CE0W3WVLYO
+Data/Training/train_data_real+icdar/train/A16.png	AYAM BAKAR
+Data/Training/train_data_real+icdar/train/word_1277.png	SAT
+Data/Training/train_data_real+icdar/train/word_1290.png	VUEDA
+Data/Training/train_data_real+icdar/train/word_1513.png	ecco
+Data/Training/Dataset_train_1/word_660.png	Passenger
+Data/Training/train_data_real+icdar/train/word_2016.png	ANK
+Data/Training/Dataset_train_1/word_564.png	OPEN
+Data/Training/Dataset_train_1/word_2772.png	Chiropractic:
+Data/Training/train_data ICDAR/rec/train/word_475.png	MARINA
+Data/Training/train_data_real+icdar/train/word_958.png	GOEMON
+Data/Training/train_data_real+icdar/train/A29_contrast_decrease.png	OK14703AA0
+Data/Training/train_data_real+icdar/train/word_1299.png	OFF
+Data/Training/Dataset_train_1/word_113.png	MADE
+Data/Training/Dataset_train_1/word_427.png	YOU
+Data/Training/train_data_Real+Sintetik/train/sintetik_783.png	Z3J1O8ENP9
+Data/Training/train_data_real+icdar/train/word_952.png	ios
+Data/Training/train_data_real+icdar/train/A28_dilated.png	AYAM BAKAR
+Data/Training/train_data_27_2_2025_1024/rec/train/A5_speckle_noise.png	25052025
+Data/Training/Dataset_train_1/word_1860.png	SEASON
+Data/Training/Dataset_train_1/word_1076.png	rebuild
+Data/Training/train_data_real+icdar/train/word_1599.png	EXIT
+Data/Training/train_data_Real+Sintetik/train/sintetik_1906.png	U1VWXTWKNL
+Data/Training/Dataset_train_1/word_2125.png	m&ms
+Data/Training/train_data_real+icdar/train/word_22.png	Reserved
+Data/Training/train_data_Real+Sintetik/train/sintetik_1277.png	8IL3JBKKBY
+Data/Training/train_data_real+icdar/train/7_salt_pepper_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_1160.png	UJEGAPUQG8
+Data/Training/train_data_real+icdar/train/word_927.png	there's
+Data/Training/train_data_Real+Sintetik/train/sintetik_655.png	T2KXI3IGN2
+Data/Training/train_data_Real+Sintetik/train/sintetik_265.png	OMVMRWY6XR
+Data/Training/train_data_27_2_2025_1024/rec/train/A33_speckle_noise.png	14062025
+Data/Training/Dataset_train_1/word_2849.png	DAILY
+Data/Training/Dataset_train_1/word_1919.png	STREETWISE.
+Data/Training/train_data ICDAR/rec/train/word_309.png	OILETREIES
+Data/Training/train_data ICDAR/rec/train/word_926.png	DIN
+Data/Training/train_data_real+icdar/train/word_1050.png	HYPER
+Data/Training/Dataset_train_1/word_795.png	Joho
+Data/Training/train_data_Real+Sintetik/train/sintetik_854.png	UTRWP66A3Q
+Data/Training/Dataset_train_1/word_1978.png	VICTORIA'S
+Data/Training/Dataset_train_1/word_529.png	STICKER
+Data/Training/Dataset_train_1/word_3756.png	HOLLAND
+Data/Training/train_data_Real+Sintetik/train/sintetik_1373.png	HZ51M8NZ3A
+Data/Training/train_data_real+icdar/train/A36_eroded.png	14062025
+Data/Training/Dataset_train_1/word_526.png	Line
+Data/Training/train_data_Real+Sintetik/train/sintetik_1470.png	UT8F5VD7XT
+Data/Training/train_data_Real+Sintetik/train/sintetik_1603.png	K2TD69R0Z6
+Data/Training/train_data_Real+Sintetik/train/A15_speckle_noise.png	25052025
+Data/Training/train_data_Real+Sintetik/train/A1_contrast_increase.png	OJ25708AA0
+Data/Training/train_data_27_2_2025_1024/rec/train/26_histogram_equalization.png	ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_746.png	NHOIWQYAL2
+Data/Training/Dataset_train_1/word_763.png	Airport
+Data/Training/train_data_real+icdar/train/word_1000.png	MEETS
+Data/Training/train_data_real+icdar/train/word_130.png	the
+Data/Training/Dataset_train_1/word_3672.png	with
+Data/Training/train_data ICDAR/rec/train/word_494.png	Organto
+Data/Training/Dataset_train_1/word_413.png	leave
+Data/Training/train_data_Real+Sintetik/train/A9.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/17_speckle_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/word_1750.png	ARMOUR
+Data/Training/train_data_Real+Sintetik/train/16_contrast_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_1092.png	D62NIXEZKN
+Data/Training/Dataset_train_1/word_3181.png	Hair
+Data/Training/Dataset_train_1/word_1290.png	PHOTO
+Data/Training/train_data_27_2_2025_1024/rec/train/A9_histogram_equalization.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/sintetik_1316.png	Z44UV1ZORM
+Data/Training/train_data_Real+Sintetik/train/sintetik_1863.png	0V0AUU50GV
+Data/Training/train_data_real+icdar/train/A37_salt_pepper_noise.png	AYAM BAKAR
+Data/Training/train_data_27_2_2025_1024/rec/train/26_resized.png	ORIGINAL
+Data/Training/Dataset_train_1/word_2178.png	PORK
+Data/Training/train_data ICDAR/rec/train/word_317.png	Snecks
+Data/Training/train_data_Real+Sintetik/train/sintetik_634.png	H201FOP92X
+Data/Training/train_data_27_2_2025_1024/rec/train/A5_salt_pepper_noise.png	25052025
+Data/Training/train_data_real+icdar/train/A10_inverted_colors.png	OK14703AA0
+Data/Training/Dataset_train_1/word_2048.png	LOSE
+Data/Training/Dataset_train_1/word_3051.png	Shops
+Data/Training/train_data ICDAR/rec/train/word_263.png	TANGS
+Data/Training/train_data_27_2_2025_1024/rec/train/A37.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/sintetik_710.png	U260NKAQ2F
+Data/Training/train_data_real+icdar/train/word_1730.png	LUMI
+Data/Training/Dataset_train_1/word_862.png	THE
+Data/Training/train_data_Real+Sintetik/train/3_contrast_increase.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/word_1971.png	DEAN
+Data/Training/train_data_real+icdar/train/word_526.png	SAL
+Data/Training/train_data_real+icdar/train/word_785.png	#01-15
+Data/Training/Dataset_train_1/word_4349.png	lifts
+Data/Training/train_data_real+icdar/train/word_885.png	HOTELS
+Data/Training/train_data_real+icdar/train/word_1357.png	ORCHARD
+Data/Training/train_data_27_2_2025_1024/rec/train/10_jpeg_artifacts.png	OL17707AA0
+Data/Training/Dataset_train_1/word_375.png	investment
+Data/Training/Dataset_train_1/word_1450.png	YIP
+Data/Training/Dataset_train_1/word_4219.png	LASTIC
+Data/Training/Dataset_train_1/word_3882.png	SALE
+Data/Training/train_data_real+icdar/train/word_1962.png	SOMA
+Data/Training/Dataset_train_1/word_3930.png	ENJOY
+Data/Training/Dataset_train_1/word_2589.png	STREET
+Data/Training/Dataset_train_1/word_157.png	adult
+Data/Training/Dataset_train_1/word_836.png	life!
+Data/Training/Dataset_train_1/word_3173.png	OPI
+Data/Training/Dataset_train_1/word_2570.png	NEW
+Data/Training/Dataset_train_1/word_4402.png	Verandah
+Data/Training/train_data_27_2_2025_1024/rec/train/A18_skewed.png	14062025
+Data/Training/train_data_Real+Sintetik/train/sintetik_11.png	4CHKE0BQ6D
+Data/Training/train_data_real+icdar/train/word_1629.png	EIC
+Data/Training/Dataset_train_1/word_80.png	wiht
+Data/Training/Dataset_train_1/word_1783.png	ELECTRICAL
+Data/Training/Dataset_train_1/word_1090.png	STOP
+Data/Training/Dataset_train_1/word_1142.png	CAFE
+Data/Training/Dataset_train_1/word_2117.png	ROCHER
+Data/Training/train_data_real+icdar/train/word_1726.png	from
+Data/Training/train_data_real+icdar/train/word_1984.png	ARALD11930
+Data/Training/Dataset_train_1/word_1755.png	Dollar
+Data/Training/train_data_real+icdar/train/word_902.png	CHRISTMAS
+Data/Training/train_data_real+icdar/train/word_464.png	Marina
+Data/Training/train_data_27_2_2025_1024/rec/train/A21_shadows.png	14062025
+Data/Training/Dataset_train_1/word_744.png	UnionPay
+Data/Training/train_data_27_2_2025_1024/rec/train/1_inverted_colors.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_599.png	AJE60WSW8U
+Data/Training/Dataset_train_1/word_2795.png	REHOUSE
+Data/Training/Dataset_train_1/word_1170.png	gap
+Data/Training/Dataset_train_1/word_2766.png	scan
+Data/Training/Dataset_train_1/word_638.png	College
+Data/Training/Dataset_train_1/word_2968.png	SENNHEISER
+Data/Training/Dataset_train_1/word_782.png	Reserved
+Data/Training/train_data_real+icdar/train/A13_salt_pepper_noise.png	OK14703AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_1512.png	M3GIZPVGFX
+Data/Training/train_data_Real+Sintetik/train/sintetik_1135.png	9ELTI57DOO
+Data/Training/Dataset_train_1/word_2070.png	save
+Data/Training/train_data_real+icdar/train/A26_gaussian_noise.png	OK14703AA0
+Data/Training/Dataset_train_1/word_1965.png	MANGO
+Data/Training/Dataset_train_1/word_2001.png	SEPHORA
+Data/Training/train_data_real+icdar/train/A8_eroded.png	25052025
+Data/Training/train_data_27_2_2025_1024/rec/train/A11_dilated.png	14062025
+Data/Training/Dataset_train_1/word_2612.png	LONG
+Data/Training/Dataset_train_1/word_267.png	student
+Data/Training/train_data_real+icdar/train/word_768.png	the
+Data/Training/train_data_real+icdar/train/word_107.png	AYE
+Data/Training/train_data_27_2_2025_1024/rec/train/11_gaussian_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_1528.png	azura
+Data/Training/train_data_real+icdar/train/word_1742.png	SUPER
+Data/Training/train_data_Real+Sintetik/train/sintetik_594.png	6RW5BFTJRG
+Data/Training/train_data_real+icdar/train/word_1777.png	And
+Data/Training/train_data_Real+Sintetik/train/sintetik_1404.png	EJO2I835FX
+Data/Training/Dataset_train_1/word_2809.png	ASTRON
+Data/Training/train_data_Real+Sintetik/train/sintetik_706.png	JYZYZ2YKFH
+Data/Training/Dataset_train_1/word_3997.png	SUSHI
+Data/Training/train_data ICDAR/rec/train/word_560.png	GIORDAN
+Data/Training/train_data_real+icdar/train/word_1172.png	again
+Data/Training/train_data ICDAR/rec/train/word_271.png	this
+Data/Training/train_data_Real+Sintetik/train/A7_dilated.png	OJ25708AA0
+Data/Training/Dataset_train_1/word_3798.png	SALE
+Data/Training/Dataset_train_1/word_2483.png	299
+Data/Training/train_data_real+icdar/train/word_1002.png	Restroom
+Data/Training/Dataset_train_1/word_4160.png	TRAVE
+Data/Training/train_data_real+icdar/train/word_34.png	you
+Data/Training/train_data_Real+Sintetik/train/A3_speckle_noise.png	25052025
+Data/Training/train_data_27_2_2025_1024/rec/train/6_dilated.png	OL17707AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_368.png	OEQLERTG1J
+Data/Training/Dataset_train_1/word_317.png	$10
+Data/Training/train_data_real+icdar/train/14_brightness_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_967.png	NKHXLXSAMJ
+Data/Training/Dataset_train_1/word_2868.png	creamy
+Data/Training/train_data_real+icdar/train/word_1686.png	SALE
+Data/Training/Dataset_train_1/word_2886.png	Life
+Data/Training/train_data_Real+Sintetik/train/sintetik_1889.png	NDSNY388ID
+Data/Training/Dataset_train_1/word_3821.png	SPA
+Data/Training/train_data_real+icdar/train/word_37.png	areas
+Data/Training/train_data_Real+Sintetik/train/3_eroded.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_1032.png	GATE.
+Data/Training/train_data_Real+Sintetik/train/A5_jpeg_artifacts.png	25052025
+Data/Training/Dataset_train_1/word_439.png	Nathan
+Data/Training/Dataset_train_1/word_3492.png	Ion
+Data/Training/Dataset_train_1/word_3066.png	ANE
+Data/Training/Dataset_train_1/word_2576.png	Sound
+Data/Training/Dataset_train_1/word_1695.png	Vietnam
+Data/Training/train_data_27_2_2025_1024/rec/train/A9_speckle_noise.png	AYAM BAKAR
+Data/Training/train_data ICDAR/rec/train/word_368.png	TAGHeuer
+Data/Training/train_data_Real+Sintetik/train/sintetik_1829.png	Z6PAT7OY2D
+Data/Training/train_data_Real+Sintetik/train/20_inverted_colors.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_105.png	Phoon
+Data/Training/Dataset_train_1/word_3085.png	RALPH
+Data/Training/train_data_Real+Sintetik/train/sintetik_1010.png	QRRA7G9A7F
+Data/Training/Dataset_train_1/word_1436.png	Benefits
+Data/Training/train_data ICDAR/rec/train/word_381.png	EDITION
+Data/Training/train_data_real+icdar/train/A27_brightness_decrease.png	14062025
+Data/Training/train_data_real+icdar/train/word_1559.png	W.E.
+Data/Training/train_data_real+icdar/train/word_1180.png	THe
+Data/Training/Dataset_train_1/word_1431.png	Spa
+Data/Training/train_data_real+icdar/train/word_268.png	Say
+Data/Training/train_data_real+icdar/train/word_814.png	Specials
+Data/Training/train_data_Real+Sintetik/train/sintetik_1693.png	GHAJCGX9TW
+Data/Training/train_data_real+icdar/train/word_1983.png	NEW
+Data/Training/Dataset_train_1/word_4348.png	ROAD
+Data/Training/Dataset_train_1/word_4411.png	THE
+Data/Training/Dataset_train_1/word_1008.png	Parks
+Data/Training/train_data ICDAR/rec/train/word_690.png	COURT
+Data/Training/train_data_Real+Sintetik/train/sintetik_994.png	P0FCEUY20A
+Data/Training/train_data_real+icdar/train/1_dilated.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/25_speckle_noise.png	ORIGINAL
+Data/Training/train_data_real+icdar/train/word_1955.png	DEEP
+Data/Training/Dataset_train_1/word_2245.png	Motivated
+Data/Training/Dataset_train_1/word_3655.png	Ion
+Data/Training/train_data_Real+Sintetik/train/sintetik_1151.png	OU1C1NKIH1
+Data/Training/train_data_27_2_2025_1024/rec/train/14_shadows.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_27_2_2025_1024/rec/train/5_contrast_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_639.png	Town
+Data/Training/train_data_real+icdar/train/3_jpeg_artifacts.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_192.png	TECHNOLOGICAL
+Data/Training/Dataset_train_1/word_2120.png	EVERYONE
+Data/Training/train_data_Real+Sintetik/train/24_histogram_equalization.png	ORIGINAL
+Data/Training/train_data_27_2_2025_1024/rec/train/A9_shadows.png	AYAM BAKAR
+Data/Training/train_data_27_2_2025_1024/rec/train/1_brightness_increase.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_27_2_2025_1024/rec/train/6_resized.png	OL17707AA0
+Data/Training/train_data_real+icdar/train/word_345.png	the
+Data/Training/train_data_Real+Sintetik/train/sintetik_454.png	O48AUU6OH3
+Data/Training/Dataset_train_1/word_1063.png	to:
+Data/Training/Dataset_train_1/word_3457.png	UNI
+Data/Training/Dataset_train_1/word_4183.png	salon
+Data/Training/Dataset_train_1/word_4122.png	KABAYAN
+Data/Training/train_data_Real+Sintetik/train/sintetik_1477.png	W4DRCCI61R
+Data/Training/train_data_real+icdar/train/word_471.png	PLAN
+Data/Training/train_data_Real+Sintetik/train/sintetik_1502.png	MQO44DGH13
+Data/Training/train_data_Real+Sintetik/train/sintetik_2004.png	VY9TID1U16
+Data/Training/Dataset_train_1/word_2790.png	PUE
+Data/Training/Dataset_train_1/word_890.png	PHOTO
+Data/Training/train_data_real+icdar/train/word_1680.png	MERRY
+Data/Training/train_data_Real+Sintetik/train/20_dilated.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_1060.png	CLOSED
+Data/Training/Dataset_train_1/word_1772.png	OUT
+Data/Training/Dataset_train_1/word_210.png	one-north
+Data/Training/Dataset_train_1/word_93.png	Shuttle
+Data/Training/train_data_Real+Sintetik/train/25_jpeg_artifacts.png	ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_1815.png	3VRVRQLB05
+Data/Training/train_data_real+icdar/train/word_1943.png	sale
+Data/Training/train_data_Real+Sintetik/train/A23_resized.png	OK14703AA0
+Data/Training/train_data_real+icdar/train/word_1320.png	RLD
+Data/Training/Dataset_train_1/word_1603.png	running
+Data/Training/Dataset_train_1/word_17.png	EXIT
+Data/Training/train_data ICDAR/rec/train/word_264.png	POST
+Data/Training/Dataset_train_1/word_27.png	Room
+Data/Training/train_data ICDAR/rec/train/word_455.png	KOK
+Data/Training/train_data_27_2_2025_1024/rec/train/A29_eroded.png	OK14703AA0
+Data/Training/Dataset_train_1/word_3261.png	GUCCI
+Data/Training/train_data_27_2_2025_1024/rec/train/11_contrast_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_27_2_2025_1024/rec/train/A23_brightness_increase.png	OK14703AA0
+Data/Training/train_data ICDAR/rec/train/word_383.png	the
+Data/Training/train_data_Real+Sintetik/train/sintetik_793.png	VZ9ETAG0GK
+Data/Training/Dataset_train_1/word_2421.png	SPRING
+Data/Training/Dataset_train_1/word_446.png	THE
+Data/Training/Dataset_train_1/word_2306.png	JOY
+Data/Training/train_data_Real+Sintetik/train/sintetik_603.png	MAOHFWIQ7H
+Data/Training/Dataset_train_1/word_1379.png	Sony
+Data/Training/train_data_27_2_2025_1024/rec/train/19_gaussian_noise.png	BB 17072025 ORIGINAL
+Data/Training/Dataset_train_1/word_1357.png	success
+Data/Training/Dataset_train_1/word_4144.png	$10
+Data/Training/train_data ICDAR/rec/train/word_621.png	dont
+Data/Training/Dataset_train_1/word_4016.png	EXIT
+Data/Training/train_data_real+icdar/train/word_1527.png	SALE
+Data/Training/train_data_real+icdar/train/word_1636.png	YELLOW
+Data/Training/Dataset_train_1/word_2069.png	save
+Data/Training/train_data_Real+Sintetik/train/sintetik_88.png	2DHU3AD6A9
+Data/Training/Dataset_train_1/word_2669.png	SingTel
+Data/Training/train_data_Real+Sintetik/train/12_brightness_increase.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_544.png	MAMMA
+Data/Training/train_data_real+icdar/train/20_resized.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_2082.png	Mum
+Data/Training/train_data_real+icdar/train/word_274.png	DBS
+Data/Training/train_data_Real+Sintetik/train/A28_dilated.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_2324.png	Christmas
+Data/Training/Dataset_train_1/word_3932.png	CARD
+Data/Training/train_data_27_2_2025_1024/rec/train/A24_inverted_colors.png	14062025
+Data/Training/train_data_real+icdar/train/word_1154.png	BOOK
+Data/Training/Dataset_train_1/word_3661.png	Ion
+Data/Training/train_data ICDAR/rec/train/word_528.png	FARN
+Data/Training/Dataset_train_1/word_3267.png	swatc
+Data/Training/Dataset_train_1/word_1197.png	CAUTION
+Data/Training/train_data_real+icdar/train/word_1782.png	Gallery
+Data/Training/train_data_real+icdar/train/word_690.png	COURT
+Data/Training/train_data ICDAR/rec/train/word_444.png	flavours
+Data/Training/Dataset_train_1/word_4007.png	Kiri
+Data/Training/train_data_Real+Sintetik/train/sintetik_69.png	O37FN01LL5
+Data/Training/train_data ICDAR/rec/train/word_283.png	ROLLS
+Data/Training/train_data_Real+Sintetik/train/sintetik_1368.png	ZBZDYEDBJG
+Data/Training/Dataset_train_1/word_611.png	Vanilla
+Data/Training/Dataset_train_1/word_3668.png	EXIT
+Data/Training/train_data_real+icdar/train/12_brightness_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_1720.png	Health
+Data/Training/train_data_real+icdar/train/word_392.png	SHOPS
+Data/Training/Dataset_train_1/word_229.png	Bay
+Data/Training/train_data_27_2_2025_1024/rec/train/A23_skewed.png	OK14703AA0
+Data/Training/train_data ICDAR/rec/train/word_332.png	the
+Data/Training/train_data_Real+Sintetik/train/sintetik_2021.png	RJLVJTOK9O
+Data/Training/Dataset_train_1/word_728.png	Best
+Data/Training/train_data_Real+Sintetik/train/A10_skewed.png	OK14703AA0
+Data/Training/train_data ICDAR/rec/train/word_31.png	your
+Data/Training/Dataset_train_1/word_3837.png	Specials
+Data/Training/Dataset_train_1/word_1505.png	SPORTS
+Data/Training/train_data_Real+Sintetik/train/sintetik_1867.png	QA6FPW8KBA
+Data/Training/train_data ICDAR/rec/train/word_954.png	sme
+Data/Training/Dataset_train_1/word_4445.png	GOWNS
+Data/Training/Dataset_train_1/word_743.png	jem
+Data/Training/train_data_Real+Sintetik/train/A8_skewed.png	25052025
+Data/Training/Dataset_train_1/word_409.png	EXIT
+Data/Training/Dataset_train_1/word_566.png	THEMANAGEMENT
+Data/Training/Dataset_train_1/word_1116.png	FOR
+Data/Training/train_data_27_2_2025_1024/rec/train/A30_skewed.png	14062025
+Data/Training/train_data_Real+Sintetik/train/A11.png	14062025
+Data/Training/train_data_Real+Sintetik/train/sintetik_1486.png	EOLUCODDJ7
+Data/Training/Dataset_train_1/word_2085.png	Mum
+Data/Training/train_data_real+icdar/train/8_contrast_increase.png	OL17707AA0
+Data/Training/Dataset_train_1/word_2639.png	FRENCH
+Data/Training/train_data ICDAR/rec/train/word_215.png	UOB
+Data/Training/train_data_27_2_2025_1024/rec/train/A30_eroded.png	14062025
+Data/Training/train_data_Real+Sintetik/train/sintetik_728.png	KGT7PJ37RE
+Data/Training/Dataset_train_1/word_2681.png	Salads
+Data/Training/train_data_Real+Sintetik/train/sintetik_1734.png	O47RUY5UF0
+Data/Training/train_data_27_2_2025_1024/rec/train/A33_skewed.png	14062025
+Data/Training/train_data ICDAR/rec/train/word_204.png	adidas
+Data/Training/Dataset_train_1/word_557.png	THE
+Data/Training/train_data_Real+Sintetik/train/sintetik_753.png	QK93W9LD1O
+Data/Training/Dataset_train_1/word_856.png	CASH
+Data/Training/train_data_27_2_2025_1024/rec/train/4_shadows.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_3813.png	OFF
+Data/Training/train_data_real+icdar/train/word_1523.png	SAL
+Data/Training/Dataset_train_1/word_1866.png	Chomel
+Data/Training/Dataset_train_1/word_1236.png	and
+Data/Training/Dataset_train_1/word_293.png	Transist
+Data/Training/Dataset_train_1/word_3040.png	COM
+Data/Training/train_data_real+icdar/train/word_824.png	hair
+Data/Training/train_data_real+icdar/train/word_272.png	-70%
+Data/Training/train_data_real+icdar/train/word_1056.png	East
+Data/Training/train_data_27_2_2025_1024/rec/train/7_inverted_colors.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/A20_salt_pepper_noise.png	OK14703AA0
+Data/Training/Dataset_train_1/word_2783.png	have
+Data/Training/train_data_real+icdar/train/word_280.png	FRESHLY
+Data/Training/train_data_Real+Sintetik/train/sintetik_1499.png	Q0NAWKBXYV
+Data/Training/train_data_Real+Sintetik/train/sintetik_933.png	IFDF4AOLWD
+Data/Training/train_data_Real+Sintetik/train/sintetik_190.png	UTASGDNSK9
+Data/Training/Dataset_train_1/word_2710.png	STOREWIDE
+Data/Training/train_data_Real+Sintetik/train/A16_brightness_decrease.png	AYAM BAKAR
+Data/Training/train_data_Real+Sintetik/train/sintetik_1689.png	VYDR0J5JVE
+Data/Training/Dataset_train_1/word_2753.png	turn
+Data/Training/train_data_27_2_2025_1024/rec/train/A15_dilated.png	25052025
+Data/Training/train_data_27_2_2025_1024/rec/train/A34_brightness_increase.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_3352.png	promod
+Data/Training/train_data ICDAR/rec/train/word_615.png	INDIA
+Data/Training/Dataset_train_1/word_2275.png	investment
+Data/Training/train_data_real+icdar/train/word_801.png	THIRSTY?
+Data/Training/train_data_Real+Sintetik/train/sintetik_314.png	WPE630Z93R
+Data/Training/train_data_Real+Sintetik/train/sintetik_1705.png	JCGHF7MMMP
+Data/Training/Dataset_train_1/word_2593.png	pason
+Data/Training/Dataset_train_1/word_1896.png	WESTON
+Data/Training/Dataset_train_1/word_1052.png	Levi's
+Data/Training/Dataset_train_1/word_1415.png	Cleaner
+Data/Training/train_data ICDAR/rec/train/word_334.png	DINING
+Data/Training/train_data_Real+Sintetik/train/sintetik_698.png	YNJSDDMEDX
+Data/Training/train_data ICDAR/rec/train/word_785.png	#01-15
+Data/Training/Dataset_train_1/word_4386.png	Med
+Data/Training/Dataset_train_1/word_933.png	you
+Data/Training/train_data_real+icdar/train/27_brightness_decrease.png	ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/A21_inverted_colors.png	14062025
+Data/Training/train_data_Real+Sintetik/train/sintetik_1973.png	099YRFYQCU
+Data/Training/train_data_27_2_2025_1024/rec/train/A21_brightness_decrease.png	14062025
+Data/Training/Dataset_train_1/word_1185.png	from
+Data/Training/train_data_Real+Sintetik/train/sintetik_411.png	DH14CCIRMQ
+Data/Training/Dataset_train_1/word_2651.png	Bank
+Data/Training/Dataset_train_1/word_1380.png	Xperia
+Data/Training/train_data_real+icdar/train/word_399.png	tastes
+Data/Training/train_data ICDAR/rec/train/word_867.png	YOU
+Data/Training/train_data_Real+Sintetik/train/sintetik_742.png	LH4870ADK7
+Data/Training/train_data_Real+Sintetik/train/A30_salt_pepper_noise.png	14062025
+Data/Training/Dataset_train_1/word_2451.png	Courses
+Data/Training/train_data_real+icdar/train/word_514.png	HABA
+Data/Training/train_data_Real+Sintetik/train/sintetik_192.png	MPV4E8OO0L
+Data/Training/train_data_Real+Sintetik/train/sintetik_1124.png	PAC2ZERP0M
+Data/Training/Dataset_train_1/word_572.png	HANTU
+Data/Training/Dataset_train_1/word_2581.png	View
+Data/Training/Dataset_train_1/word_244.png	East
+Data/Training/train_data_27_2_2025_1024/rec/train/24_inverted_colors.png	ORIGINAL
+Data/Training/Dataset_train_1/word_45.png	DUMPING
+Data/Training/train_data ICDAR/rec/train/word_923.png	EXIT
+Data/Training/train_data_Real+Sintetik/train/sintetik_663.png	6MBMN7F95L
+Data/Training/Dataset_train_1/word_4190.png	For
+Data/Training/Dataset_train_1/word_4299.png	MISTER
+Data/Training/train_data_real+icdar/train/word_1656.png	$5
+Data/Training/train_data_Real+Sintetik/train/sintetik_638.png	IH7F233VAU
+Data/Training/train_data_27_2_2025_1024/rec/train/9_shadows.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_1504.png	WSMKJXL11A
+Data/Training/train_data_27_2_2025_1024/rec/train/A11_contrast_decrease.png	14062025
+Data/Training/Dataset_train_1/word_1302.png	Fusionopolis
+Data/Training/Dataset_train_1/word_2762.png	SALE
+Data/Training/train_data_Real+Sintetik/train/sintetik_1214.png	U9I26Y5832
+Data/Training/train_data_real+icdar/train/A35_speckle_noise.png	OK14703AA0
+Data/Training/train_data_real+icdar/train/word_1551.png	RECOIL
+Data/Training/train_data_Real+Sintetik/train/sintetik_1618.png	X53FLC9Y04
+Data/Training/Dataset_train_1/word_2347.png	adidas
+Data/Training/Dataset_train_1/word_1483.png	BANK
+Data/Training/train_data_Real+Sintetik/train/sintetik_311.png	2JUZTV24NH
+Data/Training/train_data_Real+Sintetik/train/20_histogram_equalization.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_1275.png	FOR
+Data/Training/train_data_real+icdar/train/A16_contrast_decrease.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_3745.png	THEFACESHO
+Data/Training/train_data_27_2_2025_1024/rec/train/14_speckle_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data ICDAR/rec/train/word_818.png	Crahtree
+Data/Training/train_data_27_2_2025_1024/rec/train/A12_dilated.png	AYAM BAKAR
+Data/Training/train_data_real+icdar/train/12_jpeg_artifacts.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_342.png	N5B4PW7BHP
+Data/Training/train_data_27_2_2025_1024/rec/train/12_brightness_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data ICDAR/rec/train/word_716.png	OFF
+Data/Training/train_data_Real+Sintetik/train/A18_brightness_decrease.png	14062025
+Data/Training/train_data_Real+Sintetik/train/sintetik_449.png	5BS9RZ8PQV
+Data/Training/train_data_real+icdar/train/word_2052.png	Ave
+Data/Training/Dataset_train_1/word_4257.png	Own
+Data/Training/train_data_27_2_2025_1024/rec/train/18_speckle_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data ICDAR/rec/train/word_989.png	Esplanade
+Data/Training/Dataset_train_1/word_3551.png	MRT
+Data/Training/train_data_real+icdar/train/word_326.png	SARAWAK
+Data/Training/Dataset_train_1/word_4329.png	DESSERT
+Data/Training/train_data_Real+Sintetik/train/sintetik_1586.png	E3R7CKBSEB
+Data/Training/Dataset_train_1/word_1198.png	KEEP
+Data/Training/train_data_real+icdar/train/A4_skewed.png	OJ25708AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_614.png	J8KV58L4JO
+Data/Training/train_data_real+icdar/train/23_inverted_colors.png	BB 17072025 ORIGINAL
+Data/Training/train_data_real+icdar/train/word_1153.png	NOW
+Data/Training/Dataset_train_1/word_3414.png	LORA
+Data/Training/train_data_Real+Sintetik/train/sintetik_1872.png	YVWFUD0ICJ
+Data/Training/Dataset_train_1/word_3910.png	RETAIL
+Data/Training/train_data_Real+Sintetik/train/sintetik_343.png	VG7GJSLC2D
+Data/Training/train_data_Real+Sintetik/train/sintetik_394.png	NRBETJK99T
+Data/Training/train_data ICDAR/rec/train/word_213.png	WEALTH
+Data/Training/train_data_27_2_2025_1024/rec/train/27.png	ORIGINAL
+Data/Training/train_data ICDAR/rec/train/word_491.png	MARINA:
+Data/Training/Dataset_train_1/word_1031.png	OPEN
+Data/Training/Dataset_train_1/word_4428.png	Serves
+Data/Training/train_data_Real+Sintetik/train/sintetik_372.png	0S1FR4C1ZH
+Data/Training/train_data_Real+Sintetik/train/sintetik_712.png	OC55YTC3B7
+Data/Training/train_data_Real+Sintetik/train/sintetik_970.png	0XVJHTWFXW
+Data/Training/train_data_real+icdar/train/A10_shadows.png	OK14703AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_1822.png	OCFB9OUXSF
+Data/Training/train_data_real+icdar/train/A6_salt_pepper_noise.png	AYAM BAKAR
+Data/Training/train_data_real+icdar/train/A29_jpeg_artifacts.png	OK14703AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_102.png	J44NYADGYT
+Data/Training/train_data_real+icdar/train/word_858.png	EXPLORE
+Data/Training/train_data_real+icdar/train/A36_resized.png	14062025
+Data/Training/train_data_27_2_2025_1024/rec/train/27_histogram_equalization.png	ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_287.png	A2SD1BGWFB
+Data/Training/Dataset_train_1/word_680.png	Park
+Data/Training/train_data_Real+Sintetik/train/sintetik_1694.png	KWAMHSYIMF
+Data/Training/train_data_Real+Sintetik/train/sintetik_1895.png	JJQEA5QNE9
+Data/Training/train_data_Real+Sintetik/train/sintetik_1331.png	QLI49U7I7L
+Data/Training/train_data_real+icdar/train/word_1137.png	SALE
+Data/Training/train_data ICDAR/rec/train/word_623.png	place
+Data/Training/train_data_Real+Sintetik/train/sintetik_719.png	T6O8LRZAG4
+Data/Training/train_data_Real+Sintetik/train/3_skewed.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/word_735.png	SALE
+Data/Training/train_data_real+icdar/train/word_1978.png	THE
+Data/Training/Dataset_train_1/word_980.png	SEXY!
+Data/Training/train_data_real+icdar/train/12_resized.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_2991.png	STARBUCKS
+Data/Training/Dataset_train_1/word_3581.png	SEPHORA
+Data/Training/Dataset_train_1/word_3916.png	ROBINSONS
+Data/Training/Dataset_train_1/word_2010.png	CHRISTMAS
+Data/Training/train_data_real+icdar/train/word_1013.png	Theatre
+Data/Training/train_data_Real+Sintetik/train/sintetik_692.png	ONXVDQULPM
+Data/Training/Dataset_train_1/word_2031.png	50%
+Data/Training/train_data_Real+Sintetik/train/5_gaussian_noise.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/word_2015.png	#B1-39
+Data/Training/Dataset_train_1/word_1363.png	ARS
+Data/Training/train_data_27_2_2025_1024/rec/train/6_salt_pepper_noise.png	OL17707AA0
+Data/Training/train_data_real+icdar/train/word_793.png	IND
+Data/Training/Dataset_train_1/word_1795.png	BRATE
+Data/Training/train_data ICDAR/rec/train/word_230.png	cha
+Data/Training/Dataset_train_1/word_2344.png	CLEARANCE
+Data/Training/Dataset_train_1/word_3885.png	SALE
+Data/Training/Dataset_train_1/word_727.png	REWARDS
+Data/Training/train_data_real+icdar/train/word_1891.png	CHES
+Data/Training/Dataset_train_1/word_3336.png	ZARA
+Data/Training/Dataset_train_1/word_845.png	SUPER
+Data/Training/train_data_real+icdar/train/word_1381.png	Northern
+Data/Training/Dataset_train_1/word_3512.png	OPENIN
+Data/Training/Dataset_train_1/word_3313.png	shu
+Data/Training/Dataset_train_1/word_3365.png	strad
+Data/Training/Dataset_train_1/word_2354.png	SCHOOL
+Data/Training/train_data_Real+Sintetik/train/1_skewed.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_1818.png	VISA
+Data/Training/train_data_Real+Sintetik/train/sintetik_498.png	PCAZ97574R
+Data/Training/Dataset_train_1/word_623.png	University
+Data/Training/train_data ICDAR/rec/train/word_136.png	Only
+Data/Training/train_data_Real+Sintetik/train/sintetik_166.png	2VHEPXO0HC
+Data/Training/train_data_27_2_2025_1024/rec/train/A2.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_1475.png	Organizer
+Data/Training/train_data_27_2_2025_1024/rec/train/A34_skewed.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_2842.png	BUY
+Data/Training/Dataset_train_1/word_3996.png	SUS
+Data/Training/train_data_27_2_2025_1024/rec/train/A17_jpeg_artifacts.png	OK14703AA0
+Data/Training/Dataset_train_1/word_1608.png	OHSHO
+Data/Training/train_data ICDAR/rec/train/word_721.png	G20
+Data/Training/Dataset_train_1/word_1711.png	PROVENC
+Data/Training/train_data_Real+Sintetik/train/1.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_391.png	RV923CCFRN
+Data/Training/train_data ICDAR/rec/train/word_971.png	off!
+Data/Training/train_data_27_2_2025_1024/rec/train/4_skewed.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_427.png	S8SJIHJLAW
+Data/Training/train_data_Real+Sintetik/train/sintetik_1814.png	QOWMF2CQKY
+Data/Training/Dataset_train_1/word_3889.png	SALE
+Data/Training/Dataset_train_1/word_954.png	Remove
+Data/Training/Dataset_train_1/word_3900.png	UNIQUE
+Data/Training/Dataset_train_1/word_533.png	Dine
+Data/Training/train_data_Real+Sintetik/train/A26_salt_pepper_noise.png	OK14703AA0
+Data/Training/Dataset_train_1/word_2666.png	Dressing
+Data/Training/Dataset_train_1/word_4121.png	FILIPINO
+Data/Training/train_data_27_2_2025_1024/rec/train/8_histogram_equalization.png	OL17707AA0
+Data/Training/train_data_27_2_2025_1024/rec/train/A12_shadows.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_2284.png	accessories
+Data/Training/train_data ICDAR/rec/train/word_609.png	BRITISH
+Data/Training/train_data_Real+Sintetik/train/A2_brightness_increase.png	AYAM BAKAR
+Data/Training/train_data_real+icdar/train/word_1327.png	new
+Data/Training/train_data_Real+Sintetik/train/sintetik_1000.png	N2LMV2YJNL
+Data/Training/train_data_real+icdar/train/19_gaussian_noise.png	BB 17072025 ORIGINAL
+Data/Training/train_data_Real+Sintetik/train/sintetik_1757.png	2CYZP1PSBN
+Data/Training/train_data_real+icdar/train/word_1390.png	THE
+Data/Training/train_data_real+icdar/train/word_1926.png	LEVEL
+Data/Training/train_data_real+icdar/train/word_1617.png	VICTORIA'S
+Data/Training/train_data_Real+Sintetik/train/A21_histogram_equalization.png	14062025
+Data/Training/train_data_27_2_2025_1024/rec/train/A10_speckle_noise.png	OK14703AA0
+Data/Training/Dataset_train_1/word_1948.png	CUSTOM
+Data/Training/Dataset_train_1/word_1136.png	Murdoch
+Data/Training/Dataset_train_1/word_2151.png	Soda
+Data/Training/train_data_Real+Sintetik/train/sintetik_307.png	LMCWPCDH0O
+Data/Training/Dataset_train_1/word_1164.png	AHEAD
+Data/Training/Dataset_train_1/word_2345.png	SALE
+Data/Training/train_data ICDAR/rec/train/word_845.png	BURGER
+Data/Training/train_data_Real+Sintetik/train/sintetik_658.png	01ZHYEBMH1
+Data/Training/train_data_Real+Sintetik/train/sintetik_1824.png	LT9PNP2BG0
+Data/Training/Dataset_train_1/word_1790.png	beyond
+Data/Training/train_data_real+icdar/train/10.png	OL17707AA0
+Data/Training/Dataset_train_1/word_457.png	Electrical
+Data/Training/train_data_Real+Sintetik/train/sintetik_1865.png	6VS5NJFJQ9
+Data/Training/Dataset_train_1/word_3075.png	sant
+Data/Training/train_data_Real+Sintetik/train/sintetik_238.png	Z66EXGT37G
+Data/Training/train_data ICDAR/rec/train/word_281.png	CUT
+Data/Training/Dataset_train_1/word_504.png	cool
+Data/Training/train_data_Real+Sintetik/train/sintetik_1813.png	JRGMY3T34C
+Data/Training/Dataset_train_1/word_4275.png	SEAFOOD
+Data/Training/Dataset_train_1/word_2490.png	acer
+Data/Training/train_data_real+icdar/train/A10_jpeg_artifacts.png	OK14703AA0
+Data/Training/train_data_Real+Sintetik/train/4.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/A11_skewed.png	14062025
+Data/Training/train_data_Real+Sintetik/train/A2_jpeg_artifacts.png	AYAM BAKAR
+Data/Training/train_data_real+icdar/train/word_298.png	CITY
+Data/Training/Dataset_train_1/word_126.png	Suntec
+Data/Training/train_data ICDAR/rec/train/word_724.png	SALE
+Data/Training/train_data_Real+Sintetik/train/A18_salt_pepper_noise.png	14062025
+Data/Training/train_data_Real+Sintetik/train/sintetik_1855.png	W77VQAL9TB
+Data/Training/Dataset_train_1/word_4015.png	SingTel
+Data/Training/train_data_Real+Sintetik/train/23_eroded.png	BB 17072025 ORIGINAL
+Data/Training/train_data_real+icdar/train/word_983.png	the
+Data/Training/train_data_Real+Sintetik/train/sintetik_5.png	VC3ELLWJWH
+Data/Training/train_data_real+icdar/train/13_contrast_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/sintetik_356.png	PTI92FLC0Z
+Data/Training/Dataset_train_1/word_2926.png	EXIT
+Data/Training/Dataset_train_1/word_1516.png	Hurley
+Data/Training/Dataset_train_1/word_3588.png	VACHERON
+Data/Training/Dataset_train_1/word_1868.png	KIDS
+Data/Training/train_data ICDAR/rec/train/word_291.png	CITY
+Data/Training/train_data_real+icdar/train/word_1503.png	LADY'S
+Data/Training/Dataset_train_1/word_2145.png	NEW!
+Data/Training/Dataset_train_1/word_941.png	day.
+Data/Training/train_data_Real+Sintetik/train/sintetik_1996.png	HCP0ST6QM0
+Data/Training/train_data_Real+Sintetik/train/sintetik_1917.png	7AWSE4M0V7
+Data/Training/Dataset_train_1/word_1014.png	THE
+Data/Training/train_data_real+icdar/train/4_histogram_equalization.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_27_2_2025_1024/rec/train/A17_gaussian_noise.png	OK14703AA0
+Data/Training/train_data_Real+Sintetik/train/sintetik_253.png	3OQVEIFIP4
+Data/Training/Dataset_train_1/word_4266.png	WIN
+Data/Training/train_data_Real+Sintetik/train/sintetik_332.png	FB4IDHBSXC
+Data/Training/Dataset_train_1/word_4084.png	$10
+Data/Training/train_data ICDAR/rec/train/word_784.png	SORE
+Data/Training/Dataset_train_1/word_4079.png	PHILOXENOS
+Data/Training/Dataset_train_1/word_2312.png	FLIPBOOTH
+Data/Training/Dataset_train_1/word_4134.png	THE
+Data/Training/train_data_real+icdar/train/9_dilated.png	BB 17072025 OTAK-OTAK
+Data/Training/Dataset_train_1/word_1550.png	World´s
+Data/Training/train_data_Real+Sintetik/train/sintetik_1561.png	UPW6DNG1P8
+Data/Training/train_data_real+icdar/train/word_804.png	Epidor
+Data/Training/train_data_Real+Sintetik/train/18_contrast_increase.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_Real+Sintetik/train/A6_salt_pepper_noise.png	AYAM BAKAR
+Data/Training/Dataset_train_1/word_1016.png	SIDE-GATE
+Data/Training/train_data_real+icdar/train/word_586.png	dining
+Data/Training/Dataset_train_1/word_1771.png	MOVING
+Data/Training/train_data_real+icdar/train/word_205.png	sale
+Data/Training/Dataset_train_1/word_940.png	nice
+Data/Training/train_data_Real+Sintetik/train/16_contrast_increase.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data_real+icdar/train/A3_eroded.png	25052025
+Data/Training/train_data_27_2_2025_1024/rec/train/A4_histogram_equalization.png	OJ25708AA0
+Data/Training/Dataset_train_1/word_3435.png	ale
+Data/Training/train_data_Real+Sintetik/train/sintetik_1211.png	WI0CJ5VQLJ
+Data/Training/Dataset_train_1/word_4050.png	$ 15
+Data/Training/Dataset_train_1/word_3042.png	mentos
+Data/Training/Dataset_train_1/word_258.png	BETTER
+Data/Training/train_data_real+icdar/train/word_967.png	COFFEE
+Data/Training/train_data ICDAR/rec/train/word_107.png	AYE
+Data/Training/Dataset_train_1/word_2135.png	Care
+Data/Training/train_data_real+icdar/train/5_contrast_decrease.png	BB 17072025 OTAK-OTAK
+Data/Training/train_data ICDAR/rec/train/word_284.png	PASTRIES
+Data/Training/Dataset_train_1/word_146.png	LOVED
+Data/Training/train_data_real+icdar/train/A31_speckle_noise.png	AYAM BAKAR
+Data/Training/train_data ICDAR/rec/train/word_626.png	WALK
+Data/Training/Dataset_train_1/word_672.png	24/7
+Data/Training/train_data_real+icdar/train/word_72.png	I2R
+Data/Training/Dataset_train_1/word_2467.png	SECRET
+Data/Training/train_data_Real+Sintetik/train/sintetik_1329.png	T0OBFJ7EEK

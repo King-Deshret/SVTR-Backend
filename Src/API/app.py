@@ -1,210 +1,239 @@
 import os
 import re
+import base64
 import logging
 import traceback
 
-os.environ['FLAGS_use_onednn'] = '0'
+os.environ['FLAGS_use_onednn']                      = '0'
 os.environ['PADDLE_PDX_DISABLE_MODEL_SOURCE_CHECK'] = 'True'
-os.add_dll_directory(
-    r"D:\SVTR-Project\ocr_env\Lib\site-packages\paddle\base"
-)
+
+import sys
+
+paddle_base = os.path.join(os.path.dirname(sys.executable), 'Lib', 'site-packages', 'paddle', 'base')
+if os.path.exists(paddle_base):
+    os.add_dll_directory(paddle_base)
 
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import cv2
 import numpy as np
 
 from Src.Preprocessing.enhancedpicture import EnhancedPicture
 from Src.Model.SVTRmodel import SVTRModel
 
-# Error ditampilan saja
 logging.basicConfig(level=logging.ERROR)
 logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
+CORS(app, origins="*")
 
 RAW_FOLDER       = 'Data/Raw'
 PROCESSED_FOLDER = 'Data/Processed'
 os.makedirs(RAW_FOLDER,       exist_ok=True)
 os.makedirs(PROCESSED_FOLDER, exist_ok=True)
 
-# Inisialisasi model, ojo lali diubah debug=false buat production
-ai_engine    = SVTRModel(debug=False)
+REC_MODEL_DIR = r"D:\SVTR-Project\Src\Model\Inference"
+
+ai_engine    = SVTRModel(rec_model_dir=REC_MODEL_DIR, debug=False)
 preprocessor = EnhancedPicture(debug=False)
+print(f"  Model aktif: {ai_engine.model_source}")
 
 
-# buat filter teks seng ga penting 
-def is_valid_text(text, confidence):
-    if len(text.strip()) <= 2:
-        return False
-    if confidence < 0.50:
-        return False
-    if re.match(r'^[^a-zA-Z0-9]+$', text.strip()):
-        return False
-    clean = re.sub(r'[^a-zA-Z0-9\s/:\-\.]', '', text)
-    if len(clean) < len(text) * 0.5:
-        return False
+def is_valid_text(text: str, confidence: float) -> bool:
+    stripped = text.strip()
+    if len(stripped) <= 2:           return False
+    if confidence < 0.50:            return False
+    if re.match(r'^[^a-zA-Z0-9]+$', stripped): return False
+    clean = re.sub(r'[^a-zA-Z0-9\s/:\-\.]', '', stripped)
+    if len(clean) < len(stripped) * 0.5: return False
     return True
 
 
-# pattern recognition biar enak baca expired date nya
-def extract_key_info(results):
-    date_pattern = re.compile(
-        r'\b(\d{1,2}[\s\-/\.]?'
-        r'(?:JAN|FEB|MAR|APR|MAY|JUN|'
-        r'JUL|AUG|SEP|OCT|NOV|DEC|\d{1,2})'
-        r'[\s\-/\.]?\d{2,4})\b',
-        re.IGNORECASE
-    )
-    kode_pattern = re.compile(
-        r'\b([A-Z]\d+[A-Z]?\s+\d{2}:\d{2}|'
-        r'LOT\s*\d+|'
-        r'[A-Z]\d{3,})\b',
-        re.IGNORECASE
-    )
+_DATE_PATTERN = re.compile(
+    r'\b(\d{1,2}[\s\-/\.]?'
+    r'(?:JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC|\d{1,2})'
+    r'[\s\-/\.]?\d{2,4})\b',
+    re.IGNORECASE
+)
+_KODE_PATTERN = re.compile(
+    r'\b([A-Z]\d+[A-Z]?\s+\d{2}:\d{2}|LOT\s*[A-Z0-9]+|[A-Z]{1,3}\d{3,}[A-Z]?)\b',
+    re.IGNORECASE
+)
 
-    exp_date      = None
-    kode_produksi = None
 
+def extract_key_info(results: list):
+    exp_date = kode_produksi = None
     for item in results:
         text = item['text']
-        if not exp_date and date_pattern.search(text):
-            exp_date = {
-                "text"      : text,
-                "confidence": round(float(item['confidence']), 4),
-                "status"    : item['status']
-            }
-        if not kode_produksi and kode_pattern.search(text):
-            kode_produksi = {
-                "text"      : text,
-                "confidence": round(float(item['confidence']), 4),
-                "status"    : item['status']
-            }
-
+        if exp_date is None:
+            m = _DATE_PATTERN.search(text)
+            if m:
+                exp_date = {
+                    "raw_text"  : text,
+                    "value"     : m.group(0),
+                    "confidence": round(float(item['confidence']), 4),
+                    "status"    : item['status'],
+                }
+        if kode_produksi is None:
+            m = _KODE_PATTERN.search(text)
+            if m:
+                kode_produksi = {
+                    "raw_text"  : text,
+                    "value"     : m.group(0),
+                    "confidence": round(float(item['confidence']), 4),
+                    "status"    : item['status'],
+                }
+        if exp_date and kode_produksi:
+            break
     return exp_date, kode_produksi
 
-@app.route('/')
+
+def build_response(filtered: list, scan_status: str):
+    """
+    Response JSON flat — langsung di-parse Flutter.
+
+    {
+      "scan_status"     : "OK" | "RE_CAPTURE",
+      "exp_date"        : { value, confidence, status, raw_text } | null,
+      "kode_produksi"   : { value, confidence, status, raw_text } | null,
+      "confidence_score": float 0–1,
+      "confidence_pct"  : int   0–100,
+      "total_detected"  : int,
+      "all_text"        : "baris1\nbaris2\n...",
+      "detections"      : [ { text, confidence, status }, ... ]
+    }
+    """
+    exp_date, kode_produksi = extract_key_info(filtered)
+    best = max(filtered, key=lambda x: x['confidence'])
+
+    return {
+        "scan_status"     : scan_status,
+        "exp_date"        : exp_date,
+        "kode_produksi"   : kode_produksi,
+        "confidence_score": round(float(best['confidence']), 4),
+        "confidence_pct"  : round(float(best['confidence']) * 100),
+        "total_detected"  : len(filtered),
+        "all_text"        : '\n'.join(r['text'] for r in filtered),
+        "detections"      : [
+            {"text": r['text'], "confidence": round(float(r['confidence']), 4), "status": r['status']}
+            for r in filtered
+        ],
+    }
+
+
+def _empty_response(error_msg: str):
+    return {
+        "scan_status"     : "RE_CAPTURE",
+        "exp_date"        : None,
+        "kode_produksi"   : None,
+        "confidence_score": 0.0,
+        "confidence_pct"  : 0,
+        "total_detected"  : 0,
+        "all_text"        : "",
+        "detections"      : [],
+        "error"           : error_msg,
+    }
+
+
+@app.route('/', methods=['GET'])
 def home():
     return jsonify({
-        "message": "SVTR OCR API — Server aktif",
-        "version": "1.0.0",
-        "endpoints": {
-            "health" : "GET  /cek-koneksi",
-            "predict": "POST /predict"
-        }
+        "message"     : "SVTR OCR API — Server aktif",
+        "version"     : "2.1.0",
+        "model_source": ai_engine.model_source,
+        "endpoints"   : {"health": "GET /health", "scan": "POST /api/scan"},
     })
 
 
+@app.route('/health', methods=['GET'])
 @app.route('/cek-koneksi', methods=['GET'])
-def cek_koneksi():
+def health():
     return jsonify({
-        "status" : "OK",
-        "message": "API SVTR aktif dan siap menerima gambar"
-    })
+        "status"      : "OK",
+        "model_source": ai_engine.model_source,
+        "message"     : "SVTR OCR API aktif dan siap menerima gambar",
+    }), 200
+
+
+@app.route('/api/scan', methods=['POST'])
+def api_scan():
+    data = request.get_json(silent=True)
+    if not data:
+        return jsonify({"error": "Request body harus JSON"}), 400
+    if not data.get('image'):
+        return jsonify({"error": "Field 'image' tidak ada atau kosong"}), 400
+
+    try:
+        img_bytes = base64.b64decode(data['image'])
+        nparr     = np.frombuffer(img_bytes, np.uint8)
+        image     = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
+        if image is None:
+            return jsonify({"error": "Gambar tidak valid"}), 400
+    except Exception as e:
+        return jsonify({"error": f"Gagal decode gambar: {str(e)}"}), 400
+
+    tmp_path = os.path.join(RAW_FOLDER, 'tmp_scan.jpg')
+    try:
+        cv2.imwrite(tmp_path, image)
+    except Exception as e:
+        return jsonify({"error": f"Gagal menyimpan sementara: {str(e)}"}), 500
+
+    try:
+        results = ai_engine.predict_from_file(tmp_path)
+        if not results:
+            results = ai_engine.predict(image)
+        if not results:
+            return jsonify(_empty_response(
+                "Teks tidak terdeteksi. Coba foto lebih dekat."
+            )), 200
+
+        filtered = [r for r in results if is_valid_text(r['text'], r['confidence'])]
+        if not filtered:
+            return jsonify(_empty_response("Teks tidak jelas. Silakan foto ulang.")), 200
+
+        best        = max(filtered, key=lambda x: x['confidence'])
+        scan_status = "OK" if best['confidence'] >= 0.85 else "RE_CAPTURE"
+        return jsonify(build_response(filtered, scan_status)), 200
+
+    except Exception:
+        logger.error(traceback.format_exc())
+        return jsonify({"error": "Kesalahan internal server. Cek log terminal."}), 500
 
 
 @app.route('/predict', methods=['POST'])
 def predict():
-    # Validasi file
     if 'image' not in request.files:
-        return jsonify({
-            "status" : "error",
-            "message": "File gambar tidak ditemukan"
-        }), 400
-
+        return jsonify({"status": "error", "message": "File tidak ditemukan"}), 400
     file = request.files['image']
-    if file.filename == '':
-        return jsonify({
-            "status" : "error",
-            "message": "Nama file kosong"
-        }), 400
+    if not file.filename:
+        return jsonify({"status": "error", "message": "Nama file kosong"}), 400
+    ext = file.filename.rsplit('.', 1)[-1].lower()
+    if ext not in {'jpg', 'jpeg', 'png'}:
+        return jsonify({"status": "error", "message": f"Format tidak didukung: .{ext}"}), 400
 
-    # Validasi ekstensi
-    allowed = {'jpg', 'jpeg', 'png'}
-    ext     = file.filename.rsplit('.', 1)[-1].lower()
-    if ext not in allowed:
-        return jsonify({
-            "status" : "error",
-            "message": f"Format file tidak didukung: .{ext}. "
-                       f"Gunakan jpg/jpeg/png"
-        }), 400
-
-    # Simpan file
     raw_path = os.path.join(RAW_FOLDER, file.filename)
     file.save(raw_path)
 
     try:
-        # Prediksi dengan preprocessing
-        results = ai_engine.predict_from_file(raw_path)
-
-        # Fallback tanpa preprocessing
+        results  = ai_engine.predict_from_file(raw_path) or ai_engine.predict(cv2.imread(raw_path))
         if not results:
-            raw_img = cv2.imread(raw_path)
-            results = ai_engine.predict(raw_img)
-
-        # Tidak ada teks terdeteksi
-        if not results:
-            return jsonify({
-                "status" : "Re-Capture",
-                "message": "Teks tidak terdeteksi, "
-                           "silakan ambil foto ulang",
-                "data"   : None
-            }), 200
-
-        # Filter teks sampah
-        filtered = [
-            r for r in results
-            if is_valid_text(r['text'], r['confidence'])
-        ]
-
+            return jsonify({"status": "RE_CAPTURE", "message": "Teks tidak terdeteksi", "data": None}), 200
+        filtered = [r for r in results if is_valid_text(r['text'], r['confidence'])]
         if not filtered:
-            return jsonify({
-                "status" : "Re-Capture",
-                "message": "Teks tidak cukup jelas, "
-                           "silakan ambil foto ulang",
-                "data"   : None
-            }), 200
+            return jsonify({"status": "RE_CAPTURE", "message": "Teks tidak jelas", "data": None}), 200
+        best        = max(filtered, key=lambda x: x['confidence'])
+        scan_status = "OK" if best['confidence'] >= 0.85 else "RE_CAPTURE"
+        return jsonify({"status": scan_status, "message": "Proses selesai",
+                        "data": build_response(filtered, scan_status)}), 200
+    except Exception:
+        logger.error(traceback.format_exc())
+        return jsonify({"status": "error", "message": "Kesalahan server"}), 500
 
-        # Ekstrak informasi kunci
-        exp_date, kode_produksi = extract_key_info(filtered)
-
-        # Format semua deteksi valid
-        all_detections = [{
-            "text"      : r['text'],
-            "confidence": round(float(r['confidence']), 4),
-            "status"    : r['status']
-        } for r in filtered]
-
-        # Status keseluruhan
-        best         = max(filtered, key=lambda x: x['confidence'])
-        final_status = "Ok" if best['confidence'] >= 0.85 \
-                       else "Re-Capture"
-
-        return jsonify({
-            "status" : final_status,
-            "message": "Proses selesai",
-            "data"   : {
-                "exp_date"        : exp_date,
-                "kode_produksi"   : kode_produksi,
-                "best_text"       : best['text'],
-                "confidence_score": round(
-                    float(best['confidence']), 4
-                ),
-                "total_detected"  : len(filtered),
-                "all_detections"  : all_detections,
-                "processed_file"  : "processed_" + file.filename
-            }
-        })
-
-    except Exception as e:
-        logger.error(f"Error: {traceback.format_exc()}")
-        return jsonify({
-            "status" : "error",
-            "message": "Terjadi kesalahan pada server"
-        }), 500
 
 if __name__ == '__main__':
-    app.run(
-        host='0.0.0.0',
-        port=5000,
-        debug=False   # False untuk production
-    )
+    port = int(os.environ.get('PORT', 5000))
+    print("=" * 55)
+    print("  SVTR OCR Backend v2.1")
+    print(f"  Model: {ai_engine.model_source}")
+    print("=" * 55)
+    app.run(host='0.0.0.0', port=port, debug=False)
