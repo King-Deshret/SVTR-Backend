@@ -1,5 +1,9 @@
 ﻿[build]
 builder = "nixpacks"
+
+[build.nixpacksPlan.phases.setup]
+nixPkgs = ["python310", "gcc"]
+
 [deploy]
 startCommand = "python -m Src.API.app"
 restartPolicyType = "on_failure"
