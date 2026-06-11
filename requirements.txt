@@ -1,9 +1,9 @@
-﻿paddlepaddle==2.6.0
-paddleocr>=2.7.0
+﻿paddlepaddle==2.6.2
+paddleocr==2.7.3
 opencv-python-headless
 flask
 flask-cors
-numpy
+numpy==1.26.4
 albumentations
 editdistance
 matplotlib

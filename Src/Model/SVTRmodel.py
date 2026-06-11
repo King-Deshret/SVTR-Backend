@@ -37,13 +37,15 @@ class SVTRModel:
         self.preprocessor = EnhancedPicture(debug=debug)
 
     def _build_ocr(self, rec_model_dir: str):
+        # API PaddleOCR 2.7.x (versi yang sama dengan training):
+        #   use_angle_cls (bukan use_textline_orientation), use_gpu (bukan device)
         base_kwargs = dict(
-            use_textline_orientation = True,
-            lang                     = 'en',
-            device                   = 'cpu',
-            enable_mkldnn            = False,
-            det_limit_side_len       = 640,
-            det_limit_type           = 'min',
+            use_angle_cls      = True,
+            lang               = 'en',
+            use_gpu            = False,
+            enable_mkldnn      = False,
+            det_limit_side_len = 640,
+            det_limit_type     = 'min',
         )
 
         if rec_model_dir and os.path.isdir(rec_model_dir):
@@ -52,7 +54,14 @@ class SVTRModel:
 
             if os.path.exists(pdmodel) and os.path.exists(pdiparams):
                 logger.debug(f"[MODEL] Custom: {rec_model_dir}")
-                self.ocr          = PaddleOCR(rec_model_dir=rec_model_dir, **base_kwargs)
+                # Dictionary custom WAJIB di-pass di PaddleOCR 2.7 agar
+                # pemetaan index→karakter cocok dengan saat training.
+                rec_dict = os.path.join(rec_model_dir, 'custom_dict.txt')
+                rec_kwargs = dict(base_kwargs)
+                if os.path.exists(rec_dict):
+                    rec_kwargs['rec_char_dict_path'] = rec_dict
+                rec_kwargs['rec_image_shape'] = '3, 48, 320'
+                self.ocr          = PaddleOCR(rec_model_dir=rec_model_dir, **rec_kwargs)
                 self.model_source = f"custom: {rec_model_dir}"
                 return
             else:
@@ -63,9 +72,9 @@ class SVTRModel:
         elif rec_model_dir:
             logger.warning(f"[MODEL] Path '{rec_model_dir}' tidak ada. Fallback ke default.")
 
-        logger.debug("[MODEL] Menggunakan model default PaddleOCR (en_PP-OCRv5)")
+        logger.debug("[MODEL] Menggunakan model default PaddleOCR")
         self.ocr          = PaddleOCR(**base_kwargs)
-        self.model_source = "default: en_PP-OCRv5"
+        self.model_source = "default: PaddleOCR"
 
     def _parse_result(self, raw_result):
         """Normalisasi output PaddleOCR v2.x dan v3.x ke format standar."""
@@ -101,8 +110,7 @@ class SVTRModel:
 
 
     def predict(self, image: np.ndarray):
-      
-        results = self._parse_result(self.ocr.ocr(image))
+        results = self._parse_result(self.ocr.ocr(image, cls=True))
         logger.debug(f"[PREDICT] {len(results)} deteksi")
         return results
 
