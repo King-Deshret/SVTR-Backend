@@ -1,0 +1,379 @@
+Data/Training/roboflow_crops/rfcrop_00001.jpg	2011062747
+Data/Training/roboflow_crops/rfcrop_00012.jpg	200922
+Data/Training/roboflow_crops/rfcrop_00047.jpg	20221204
+Data/Training/roboflow_crops/rfcrop_00109.jpg	OL170
+Data/Training/roboflow_crops/rfcrop_00118.jpg	2028228
+Data/Training/roboflow_crops/rfcrop_00156.jpg	"220201
+Data/Training/roboflow_crops/rfcrop_00184.jpg	S
+Data/Training/roboflow_crops/rfcrop_00203.jpg	20280228
+Data/Training/roboflow_crops/rfcrop_00224.jpg	2022,225
+Data/Training/roboflow_crops/rfcrop_00280.jpg	2028010
+Data/Training/roboflow_crops/rfcrop_00441.jpg	20221218
+Data/Training/roboflow_crops/rfcrop_00000.jpg	22.O5.27 O2N
+Data/Training/roboflow_crops/rfcrop_00003.jpg	22.03.07
+Data/Training/roboflow_crops/rfcrop_00004.jpg	20.05.08 20.11.07
+Data/Training/roboflow_crops/rfcrop_00005.jpg	2023.05.02
+Data/Training/roboflow_crops/rfcrop_00006.jpg	06.04
+Data/Training/roboflow_crops/rfcrop_00007.jpg	06.03
+Data/Training/roboflow_crops/rfcrop_00008.jpg	2027.02.08
+Data/Training/roboflow_crops/rfcrop_00009.jpg	06.03.06
+Data/Training/roboflow_crops/rfcrop_00011.jpg	19.09.25.20
+Data/Training/roboflow_crops/rfcrop_00013.jpg	2023.05.14
+Data/Training/roboflow_crops/rfcrop_00014.jpg	2024.03.06.F2 10:06
+Data/Training/roboflow_crops/rfcrop_00016.jpg	20.06.10 B
+Data/Training/roboflow_crops/rfcrop_00017.jpg	06.03 CXL2M
+Data/Training/roboflow_crops/rfcrop_00018.jpg	20.08.12.A1
+Data/Training/roboflow_crops/rfcrop_00019.jpg	2012.02.29
+Data/Training/roboflow_crops/rfcrop_00020.jpg	2026.11.18
+Data/Training/roboflow_crops/rfcrop_00021.jpg	22.06.05
+Data/Training/roboflow_crops/rfcrop_00022.jpg	2022.04.21
+Data/Training/roboflow_crops/rfcrop_00023.jpg	18.04.13 12:27
+Data/Training/roboflow_crops/rfcrop_00024.jpg	21.07.01 P
+Data/Training/roboflow_crops/rfcrop_00025.jpg	20.01.03(08:11)
+Data/Training/roboflow_crops/rfcrop_00026.jpg	2022.12.03
+Data/Training/roboflow_crops/rfcrop_00027.jpg	19.01.24 B3
+Data/Training/roboflow_crops/rfcrop_00028.jpg	2022.07.03
+Data/Training/roboflow_crops/rfcrop_00029.jpg	06.03.
+Data/Training/roboflow_crops/rfcrop_00031.jpg	05.25 07AI F4 H J J7G
+Data/Training/roboflow_crops/rfcrop_00032.jpg	06.01
+Data/Training/roboflow_crops/rfcrop_00033.jpg	06.03 06
+Data/Training/roboflow_crops/rfcrop_00034.jpg	2027.03.07
+Data/Training/roboflow_crops/rfcrop_00036.jpg	18.03.03 08:39
+Data/Training/roboflow_crops/rfcrop_00037.jpg	2023.01.20.B7
+Data/Training/roboflow_crops/rfcrop_00038.jpg	2023.01.25 B
+Data/Training/roboflow_crops/rfcrop_00039.jpg	2023.05.03
+Data/Training/roboflow_crops/rfcrop_00040.jpg	2022.02.28/17:39
+Data/Training/roboflow_crops/rfcrop_00041.jpg	2022.03.29
+Data/Training/roboflow_crops/rfcrop_00042.jpg	06.03.00:49 F3
+Data/Training/roboflow_crops/rfcrop_00045.jpg	06.02 13:16 EA
+Data/Training/roboflow_crops/rfcrop_00046.jpg	06.02 17:25 EA
+Data/Training/roboflow_crops/rfcrop_00048.jpg	2012.09.30F2
+Data/Training/roboflow_crops/rfcrop_00049.jpg	2022.09.08
+Data/Training/roboflow_crops/rfcrop_00050.jpg	2023.03.07
+Data/Training/roboflow_crops/rfcrop_00052.jpg	22.10.18
+Data/Training/roboflow_crops/rfcrop_00053.jpg	06.04
+Data/Training/roboflow_crops/rfcrop_00054.jpg	23.04.18 07:22 F2
+Data/Training/roboflow_crops/rfcrop_00055.jpg	06.02 17:25 EA
+Data/Training/roboflow_crops/rfcrop_00056.jpg	06.04.03:07 F3
+Data/Training/roboflow_crops/rfcrop_00058.jpg	06.06
+Data/Training/roboflow_crops/rfcrop_00059.jpg	2023.08.15 F3
+Data/Training/roboflow_crops/rfcrop_00060.jpg	06.04.03:06 F3
+Data/Training/roboflow_crops/rfcrop_00062.jpg	2022.03.23
+Data/Training/roboflow_crops/rfcrop_00063.jpg	2023.05.09
+Data/Training/roboflow_crops/rfcrop_00064.jpg	2022.10.17A
+Data/Training/roboflow_crops/rfcrop_00065.jpg	20.10.18.00
+Data/Training/roboflow_crops/rfcrop_00066.jpg	06.03.06
+Data/Training/roboflow_crops/rfcrop_00068.jpg	2023.01.25 B
+Data/Training/roboflow_crops/rfcrop_00069.jpg	2023.05.20
+Data/Training/roboflow_crops/rfcrop_00070.jpg	2022.10.06
+Data/Training/roboflow_crops/rfcrop_00072.jpg	22.05.27 14
+Data/Training/roboflow_crops/rfcrop_00073.jpg	2023.01.14C
+Data/Training/roboflow_crops/rfcrop_00074.jpg	06.04.G1 15:20.F5
+Data/Training/roboflow_crops/rfcrop_00077.jpg	F3.06.06.09:56.K5
+Data/Training/roboflow_crops/rfcrop_00078.jpg	23.04.04 11:53 F2
+Data/Training/roboflow_crops/rfcrop_00079.jpg	2022.10.27
+Data/Training/roboflow_crops/rfcrop_00080.jpg	22.09.15 B3
+Data/Training/roboflow_crops/rfcrop_00081.jpg	08 05 18:07
+Data/Training/roboflow_crops/rfcrop_00083.jpg	06.07
+Data/Training/roboflow_crops/rfcrop_00084.jpg	16.03.11.21
+Data/Training/roboflow_crops/rfcrop_00085.jpg	22.04.28 11:45  22.10.27 #7
+Data/Training/roboflow_crops/rfcrop_00086.jpg	17.08.11 12
+Data/Training/roboflow_crops/rfcrop_00087.jpg	18.03.15 04:24 Y
+Data/Training/roboflow_crops/rfcrop_00088.jpg	2021.5.15 0 S
+Data/Training/roboflow_crops/rfcrop_00089.jpg	22.10.10P
+Data/Training/roboflow_crops/rfcrop_00090.jpg	22.05.28 10
+Data/Training/roboflow_crops/rfcrop_00091.jpg	06.09.21:55    F5 L1
+Data/Training/roboflow_crops/rfcrop_00092.jpg	30.04.2023
+Data/Training/roboflow_crops/rfcrop_00093.jpg	06.07
+Data/Training/roboflow_crops/rfcrop_00094.jpg	06.04.G1  15:20.F5
+Data/Training/roboflow_crops/rfcrop_00095.jpg	F3.06.06.09:56.KS
+Data/Training/roboflow_crops/rfcrop_00096.jpg	06.03
+Data/Training/roboflow_crops/rfcrop_00097.jpg	06.03.13:24
+Data/Training/roboflow_crops/rfcrop_00098.jpg	2022.10.17A
+Data/Training/roboflow_crops/rfcrop_00100.jpg	17.09.17
+Data/Training/roboflow_crops/rfcrop_00101.jpg	17.12.22
+Data/Training/roboflow_crops/rfcrop_00102.jpg	2010.03.25   2010.03.11
+Data/Training/roboflow_crops/rfcrop_00103.jpg	06.03
+Data/Training/roboflow_crops/rfcrop_00104.jpg	06.04.03:06 F3
+Data/Training/roboflow_crops/rfcrop_00105.jpg	06.06 08
+Data/Training/roboflow_crops/rfcrop_00106.jpg	2027 03.07
+Data/Training/roboflow_crops/rfcrop_00107.jpg	2023.04.20
+Data/Training/roboflow_crops/rfcrop_00110.jpg	22.12.24
+Data/Training/roboflow_crops/rfcrop_00111.jpg	22.10.19
+Data/Training/roboflow_crops/rfcrop_00112.jpg	2022.04.07A
+Data/Training/roboflow_crops/rfcrop_00113.jpg	18.12.08.02
+Data/Training/roboflow_crops/rfcrop_00114.jpg	06.04
+Data/Training/roboflow_crops/rfcrop_00115.jpg	2022.12.21  14:41
+Data/Training/roboflow_crops/rfcrop_00116.jpg	2023.03.15
+Data/Training/roboflow_crops/rfcrop_00117.jpg	18.10.05
+Data/Training/roboflow_crops/rfcrop_00119.jpg	2022.11.18
+Data/Training/roboflow_crops/rfcrop_00120.jpg	2026.08.17
+Data/Training/roboflow_crops/rfcrop_00122.jpg	2018.03.12
+Data/Training/roboflow_crops/rfcrop_00123.jpg	2021.12.03  2022.12.02
+Data/Training/roboflow_crops/rfcrop_00124.jpg	2016.08 L52704913 2B
+Data/Training/roboflow_crops/rfcrop_00125.jpg	22.05.27  02
+Data/Training/roboflow_crops/rfcrop_00126.jpg	06.03  CXL2M
+Data/Training/roboflow_crops/rfcrop_00127.jpg	2026.08.17
+Data/Training/roboflow_crops/rfcrop_00128.jpg	2022.11.21
+Data/Training/roboflow_crops/rfcrop_00129.jpg	03.05.2023
+Data/Training/roboflow_crops/rfcrop_00130.jpg	21.04.12
+Data/Training/roboflow_crops/rfcrop_00131.jpg	2022.12.26
+Data/Training/roboflow_crops/rfcrop_00132.jpg	06.04.03:07 F3
+Data/Training/roboflow_crops/rfcrop_00133.jpg	06.03
+Data/Training/roboflow_crops/rfcrop_00134.jpg	2023.05.03
+Data/Training/roboflow_crops/rfcrop_00135.jpg	2023.01.21B
+Data/Training/roboflow_crops/rfcrop_00136.jpg	2018.12.23
+Data/Training/roboflow_crops/rfcrop_00137.jpg	2019.01.07  15:02 22
+Data/Training/roboflow_crops/rfcrop_00139.jpg	22 05 28 22
+Data/Training/roboflow_crops/rfcrop_00140.jpg	06.03
+Data/Training/roboflow_crops/rfcrop_00141.jpg	2022.06.12
+Data/Training/roboflow_crops/rfcrop_00142.jpg	2021.09 03
+Data/Training/roboflow_crops/rfcrop_00143.jpg	2023.02.08 A1
+Data/Training/roboflow_crops/rfcrop_00144.jpg	06.02
+Data/Training/roboflow_crops/rfcrop_00145.jpg	2022.10.12
+Data/Training/roboflow_crops/rfcrop_00146.jpg	20.03.05
+Data/Training/roboflow_crops/rfcrop_00147.jpg	2023.02.22
+Data/Training/roboflow_crops/rfcrop_00148.jpg	01.16.F
+Data/Training/roboflow_crops/rfcrop_00149.jpg	2022.12.03
+Data/Training/roboflow_crops/rfcrop_00150.jpg	22.10.08 23:03 A1.F4
+Data/Training/roboflow_crops/rfcrop_00151.jpg	2022.09.09
+Data/Training/roboflow_crops/rfcrop_00152.jpg	2013.08.27  2016.08.26
+Data/Training/roboflow_crops/rfcrop_00154.jpg	21.03.26 20:41  21.09.25 A10
+Data/Training/roboflow_crops/rfcrop_00155.jpg	28.10.19
+Data/Training/roboflow_crops/rfcrop_00157.jpg	23.02.28.BF1
+Data/Training/roboflow_crops/rfcrop_00158.jpg	2025.02.07
+Data/Training/roboflow_crops/rfcrop_00159.jpg	2022.11.01  5-2 F2
+Data/Training/roboflow_crops/rfcrop_00161.jpg	06.02  13:16 EA
+Data/Training/roboflow_crops/rfcrop_00162.jpg	2022.11.20
+Data/Training/roboflow_crops/rfcrop_00163.jpg	22.06.05
+Data/Training/roboflow_crops/rfcrop_00164.jpg	2022.12.06
+Data/Training/roboflow_crops/rfcrop_00165.jpg	06.01  16:58
+Data/Training/roboflow_crops/rfcrop_00166.jpg	2022.03.30
+Data/Training/roboflow_crops/rfcrop_00167.jpg	2024.04.20A
+Data/Training/roboflow_crops/rfcrop_00168.jpg	02/02/2024
+Data/Training/roboflow_crops/rfcrop_00169.jpg	Expiry Date 06.02 00:15
+Data/Training/roboflow_crops/rfcrop_00171.jpg	22.06.04
+Data/Training/roboflow_crops/rfcrop_00172.jpg	2024.01.25
+Data/Training/roboflow_crops/rfcrop_00173.jpg	2023.03.02 08:31 B
+Data/Training/roboflow_crops/rfcrop_00174.jpg	2022.10.27
+Data/Training/roboflow_crops/rfcrop_00176.jpg	20.02.15 08
+Data/Training/roboflow_crops/rfcrop_00177.jpg	17.11.03(23:54)  18.05.02(A11)
+Data/Training/roboflow_crops/rfcrop_00178.jpg	21.09.14
+Data/Training/roboflow_crops/rfcrop_00179.jpg	2023.03.16
+Data/Training/roboflow_crops/rfcrop_00181.jpg	22.10.13
+Data/Training/roboflow_crops/rfcrop_00182.jpg	22.01.24 F2
+Data/Training/roboflow_crops/rfcrop_00185.jpg	2022.08.11
+Data/Training/roboflow_crops/rfcrop_00186.jpg	21.03.28.20
+Data/Training/roboflow_crops/rfcrop_00187.jpg	17.05.17
+Data/Training/roboflow_crops/rfcrop_00189.jpg	2022.11.26
+Data/Training/roboflow_crops/rfcrop_00190.jpg	2022.12.15 11:07
+Data/Training/roboflow_crops/rfcrop_00192.jpg	2023.09.16
+Data/Training/roboflow_crops/rfcrop_00193.jpg	06.03 CXL2M
+Data/Training/roboflow_crops/rfcrop_00194.jpg	2023.05.02
+Data/Training/roboflow_crops/rfcrop_00195.jpg	2023.05.02
+Data/Training/roboflow_crops/rfcrop_00196.jpg	21.09.21 00:47 A2.F4
+Data/Training/roboflow_crops/rfcrop_00197.jpg	2023.04.21 B
+Data/Training/roboflow_crops/rfcrop_00198.jpg	2024.12.01
+Data/Training/roboflow_crops/rfcrop_00199.jpg	2027.03.07
+Data/Training/roboflow_crops/rfcrop_00200.jpg	2022.10.19
+Data/Training/roboflow_crops/rfcrop_00201.jpg	2022.09.27
+Data/Training/roboflow_crops/rfcrop_00202.jpg	13.01.01  13.02.01B6
+Data/Training/roboflow_crops/rfcrop_00204.jpg	20.05.29.22
+Data/Training/roboflow_crops/rfcrop_00205.jpg	23.04.29 03:10
+Data/Training/roboflow_crops/rfcrop_00206.jpg	F3.06.06
+Data/Training/roboflow_crops/rfcrop_00207.jpg	F1 06.06
+Data/Training/roboflow_crops/rfcrop_00208.jpg	19.10.19 T03
+Data/Training/roboflow_crops/rfcrop_00209.jpg	22.05.27.02
+Data/Training/roboflow_crops/rfcrop_00210.jpg	23.04.14 B
+Data/Training/roboflow_crops/rfcrop_00213.jpg	2022.10.29
+Data/Training/roboflow_crops/rfcrop_00214.jpg	05.30
+Data/Training/roboflow_crops/rfcrop_00215.jpg	21.05.04
+Data/Training/roboflow_crops/rfcrop_00216.jpg	2018.04.03
+Data/Training/roboflow_crops/rfcrop_00217.jpg	22.05.09  22.10.08  15:21 A06
+Data/Training/roboflow_crops/rfcrop_00220.jpg	2024.04.11
+Data/Training/roboflow_crops/rfcrop_00221.jpg	18.05.02 09:34
+Data/Training/roboflow_crops/rfcrop_00223.jpg	F3.06.06
+Data/Training/roboflow_crops/rfcrop_00225.jpg	2024.03.13.F2 10:37
+Data/Training/roboflow_crops/rfcrop_00226.jpg	20.01.18B
+Data/Training/roboflow_crops/rfcrop_00227.jpg	2018.08.09  18:13
+Data/Training/roboflow_crops/rfcrop_00229.jpg	BC200521A1  EXP 20.05.2022
+Data/Training/roboflow_crops/rfcrop_00230.jpg	23.04.20 T
+Data/Training/roboflow_crops/rfcrop_00231.jpg	2023.03.24
+Data/Training/roboflow_crops/rfcrop_00232.jpg	21.09.24 H 2
+Data/Training/roboflow_crops/rfcrop_00233.jpg	06.03
+Data/Training/roboflow_crops/rfcrop_00234.jpg	2023.07.05
+Data/Training/roboflow_crops/rfcrop_00235.jpg	2023.09.13
+Data/Training/roboflow_crops/rfcrop_00238.jpg	2021.02.15  2021.11.14
+Data/Training/roboflow_crops/rfcrop_00239.jpg	2022.05.29 10
+Data/Training/roboflow_crops/rfcrop_00240.jpg	22.05.29 10
+Data/Training/roboflow_crops/rfcrop_00241.jpg	2022.07.03
+Data/Training/roboflow_crops/rfcrop_00242.jpg	22.01.13 22.06.12 21:38B04F4
+Data/Training/roboflow_crops/rfcrop_00243.jpg	2023.01.22
+Data/Training/roboflow_crops/rfcrop_00244.jpg	22.02.16
+Data/Training/roboflow_crops/rfcrop_00245.jpg	21.10.21
+Data/Training/roboflow_crops/rfcrop_00246.jpg	06.04 15:12
+Data/Training/roboflow_crops/rfcrop_00247.jpg	21.05.14.08  21
+Data/Training/roboflow_crops/rfcrop_00248.jpg	2022.06.19
+Data/Training/roboflow_crops/rfcrop_00251.jpg	16.08.18 T3
+Data/Training/roboflow_crops/rfcrop_00254.jpg	2022.12.22
+Data/Training/roboflow_crops/rfcrop_00255.jpg	2023.04.21
+Data/Training/roboflow_crops/rfcrop_00256.jpg	06.04.08
+Data/Training/roboflow_crops/rfcrop_00257.jpg	2024.12.01  11:34
+Data/Training/roboflow_crops/rfcrop_00259.jpg	2023.03.23
+Data/Training/roboflow_crops/rfcrop_00260.jpg	2023.02.22
+Data/Training/roboflow_crops/rfcrop_00261.jpg	2022.12.12
+Data/Training/roboflow_crops/rfcrop_00262.jpg	2022.05.29
+Data/Training/roboflow_crops/rfcrop_00263.jpg	2020.09.10 .23:37
+Data/Training/roboflow_crops/rfcrop_00264.jpg	22.06.01 B3ALa
+Data/Training/roboflow_crops/rfcrop_00265.jpg	23.04.01 02:05 B2.F4
+Data/Training/roboflow_crops/rfcrop_00266.jpg	2022.09.08
+Data/Training/roboflow_crops/rfcrop_00269.jpg	17.02.17.20
+Data/Training/roboflow_crops/rfcrop_00270.jpg	2021.12.02
+Data/Training/roboflow_crops/rfcrop_00271.jpg	2023.02.25.A  03:40:37
+Data/Training/roboflow_crops/rfcrop_00272.jpg	2028.12.23
+Data/Training/roboflow_crops/rfcrop_00273.jpg	19.09.18 20.02.17
+Data/Training/roboflow_crops/rfcrop_00274.jpg	06.03.
+Data/Training/roboflow_crops/rfcrop_00275.jpg	22.05.27.02
+Data/Training/roboflow_crops/rfcrop_00276.jpg	2023.05.02
+Data/Training/roboflow_crops/rfcrop_00278.jpg	06.06 08
+Data/Training/roboflow_crops/rfcrop_00279.jpg	15.11.05 T3
+Data/Training/roboflow_crops/rfcrop_00281.jpg	22 05 28 10
+Data/Training/roboflow_crops/rfcrop_00282.jpg	2022.03.18/10:39  2023.03.17 A02
+Data/Training/roboflow_crops/rfcrop_00283.jpg	2023.04.11  15:13 A
+Data/Training/roboflow_crops/rfcrop_00284.jpg	18.08.06 A
+Data/Training/roboflow_crops/rfcrop_00285.jpg	21.09.21
+Data/Training/roboflow_crops/rfcrop_00286.jpg	2013.09.13
+Data/Training/roboflow_crops/rfcrop_00287.jpg	17:25  2020.05.28
+Data/Training/roboflow_crops/rfcrop_00288.jpg	2022.12.12
+Data/Training/roboflow_crops/rfcrop_00289.jpg	2022.05.02  2023.11.01  09
+Data/Training/roboflow_crops/rfcrop_00291.jpg	15.04.16U
+Data/Training/roboflow_crops/rfcrop_00292.jpg	06.03.00:49 F3
+Data/Training/roboflow_crops/rfcrop_00293.jpg	18.11.06A
+Data/Training/roboflow_crops/rfcrop_00294.jpg	06.02. 09:07
+Data/Training/roboflow_crops/rfcrop_00295.jpg	06.04. 04:29.F5
+Data/Training/roboflow_crops/rfcrop_00296.jpg	06.01  16:58
+Data/Training/roboflow_crops/rfcrop_00297.jpg	2022.10.19
+Data/Training/roboflow_crops/rfcrop_00298.jpg	06.02
+Data/Training/roboflow_crops/rfcrop_00299.jpg	26.06.2023
+Data/Training/roboflow_crops/rfcrop_00301.jpg	06.02. 13:37.FA
+Data/Training/roboflow_crops/rfcrop_00302.jpg	F3.06.06
+Data/Training/roboflow_crops/rfcrop_00303.jpg	21.12.23
+Data/Training/roboflow_crops/rfcrop_00304.jpg	06.02
+Data/Training/roboflow_crops/rfcrop_00305.jpg	20.05.12 14
+Data/Training/roboflow_crops/rfcrop_00306.jpg	06.03.00:49  05.23.00:4
+Data/Training/roboflow_crops/rfcrop_00308.jpg	2022.02.14 07:23F
+Data/Training/roboflow_crops/rfcrop_00310.jpg	2023.01.07.B
+Data/Training/roboflow_crops/rfcrop_00312.jpg	20.03.2023
+Data/Training/roboflow_crops/rfcrop_00313.jpg	2023.03.28.B
+Data/Training/roboflow_crops/rfcrop_00314.jpg	F1:2020.08.11  2021.02.10
+Data/Training/roboflow_crops/rfcrop_00316.jpg	06.01.
+Data/Training/roboflow_crops/rfcrop_00318.jpg	20.02.04 20
+Data/Training/roboflow_crops/rfcrop_00320.jpg	2023.03.29
+Data/Training/roboflow_crops/rfcrop_00321.jpg	2024.02.10
+Data/Training/roboflow_crops/rfcrop_00322.jpg	2025.01.19
+Data/Training/roboflow_crops/rfcrop_00323.jpg	2023.01.20 B7
+Data/Training/roboflow_crops/rfcrop_00325.jpg	06.04.  04:29.F5
+Data/Training/roboflow_crops/rfcrop_00326.jpg	06.04
+Data/Training/roboflow_crops/rfcrop_00327.jpg	06.02
+Data/Training/roboflow_crops/rfcrop_00328.jpg	06.03 06
+Data/Training/roboflow_crops/rfcrop_00329.jpg	2022.11.04 14:06
+Data/Training/roboflow_crops/rfcrop_00330.jpg	21.01.12 22:51  21.07.11 #5
+Data/Training/roboflow_crops/rfcrop_00332.jpg	29.11.21  L0464 06:58 036601-4
+Data/Training/roboflow_crops/rfcrop_00333.jpg	2022.10.27
+Data/Training/roboflow_crops/rfcrop_00335.jpg	2023.05.03
+Data/Training/roboflow_crops/rfcrop_00336.jpg	2023.05.03
+Data/Training/roboflow_crops/rfcrop_00337.jpg	06.02  00:15
+Data/Training/roboflow_crops/rfcrop_00339.jpg	06.02. 07:49 F3
+Data/Training/roboflow_crops/rfcrop_00340.jpg	12.12.21
+Data/Training/roboflow_crops/rfcrop_00341.jpg	06.02. 09:07
+Data/Training/roboflow_crops/rfcrop_00342.jpg	2022.12.15
+Data/Training/roboflow_crops/rfcrop_00344.jpg	2021.07.04
+Data/Training/roboflow_crops/rfcrop_00345.jpg	22.03.20
+Data/Training/roboflow_crops/rfcrop_00347.jpg	2023.02.21
+Data/Training/roboflow_crops/rfcrop_00348.jpg	2026.10.27
+Data/Training/roboflow_crops/rfcrop_00351.jpg	2015.7.31
+Data/Training/roboflow_crops/rfcrop_00353.jpg	F3.06.06
+Data/Training/roboflow_crops/rfcrop_00354.jpg	2023.03.15
+Data/Training/roboflow_crops/rfcrop_00356.jpg	06.02. 09:07
+Data/Training/roboflow_crops/rfcrop_00357.jpg	12.2022.05.26
+Data/Training/roboflow_crops/rfcrop_00358.jpg	17.08.04J
+Data/Training/roboflow_crops/rfcrop_00359.jpg	2022.11.19
+Data/Training/roboflow_crops/rfcrop_00360.jpg	15.11.05 T1
+Data/Training/roboflow_crops/rfcrop_00361.jpg	612802  20190403
+Data/Training/roboflow_crops/rfcrop_00362.jpg	2022.05.13
+Data/Training/roboflow_crops/rfcrop_00363.jpg	23.04.26 21:16 F2
+Data/Training/roboflow_crops/rfcrop_00364.jpg	2022.09.24
+Data/Training/roboflow_crops/rfcrop_00366.jpg	2019 05.15
+Data/Training/roboflow_crops/rfcrop_00367.jpg	19.01.31 B3
+Data/Training/roboflow_crops/rfcrop_00369.jpg	06.04  ACE1S
+Data/Training/roboflow_crops/rfcrop_00370.jpg	22.08.23 18:41 B3.F4
+Data/Training/roboflow_crops/rfcrop_00371.jpg	21.05.28
+Data/Training/roboflow_crops/rfcrop_00372.jpg	21.08.19  21:21 B3.F4
+Data/Training/roboflow_crops/rfcrop_00373.jpg	2022.11.15
+Data/Training/roboflow_crops/rfcrop_00374.jpg	2022.11.14  14:06
+Data/Training/roboflow_crops/rfcrop_00375.jpg	2025.02.07
+Data/Training/roboflow_crops/rfcrop_00376.jpg	2024.01.21
+Data/Training/roboflow_crops/rfcrop_00377.jpg	05.30
+Data/Training/roboflow_crops/rfcrop_00378.jpg	21.10.09D
+Data/Training/roboflow_crops/rfcrop_00379.jpg	06.04.03:06 F3
+Data/Training/roboflow_crops/rfcrop_00380.jpg	22.05.27 14
+Data/Training/roboflow_crops/rfcrop_00381.jpg	2022.11.18
+Data/Training/roboflow_crops/rfcrop_00382.jpg	2023.03.20
+Data/Training/roboflow_crops/rfcrop_00384.jpg	06.03 06
+Data/Training/roboflow_crops/rfcrop_00385.jpg	2020.08.23 13:31
+Data/Training/roboflow_crops/rfcrop_00386.jpg	2008.01.24  2008.01.29
+Data/Training/roboflow_crops/rfcrop_00388.jpg	2022.09.24
+Data/Training/roboflow_crops/rfcrop_00389.jpg	03.13.00:51 A3
+Data/Training/roboflow_crops/rfcrop_00390.jpg	2022.03.29  2023.09.28
+Data/Training/roboflow_crops/rfcrop_00391.jpg	22.11.08 06:32 B1.F4
+Data/Training/roboflow_crops/rfcrop_00392.jpg	2022.05.10.P1
+Data/Training/roboflow_crops/rfcrop_00394.jpg	2022.04.27/11:21  2022.12.26
+Data/Training/roboflow_crops/rfcrop_00395.jpg	06.04. 04:29.F5
+Data/Training/roboflow_crops/rfcrop_00396.jpg	2.11.19
+Data/Training/roboflow_crops/rfcrop_00398.jpg	2023.06.07
+Data/Training/roboflow_crops/rfcrop_00399.jpg	2022.05.29
+Data/Training/roboflow_crops/rfcrop_00400.jpg	2022.11.20
+Data/Training/roboflow_crops/rfcrop_00401.jpg	06.04  15:12
+Data/Training/roboflow_crops/rfcrop_00402.jpg	F1 06.06
+Data/Training/roboflow_crops/rfcrop_00403.jpg	06.02  00:15
+Data/Training/roboflow_crops/rfcrop_00405.jpg	06.02  13:16 EA
+Data/Training/roboflow_crops/rfcrop_00406.jpg	2022.09.09
+Data/Training/roboflow_crops/rfcrop_00408.jpg	2023.08.03
+Data/Training/roboflow_crops/rfcrop_00409.jpg	2021.04.22
+Data/Training/roboflow_crops/rfcrop_00410.jpg	06.04
+Data/Training/roboflow_crops/rfcrop_00412.jpg	2023.03.24
+Data/Training/roboflow_crops/rfcrop_00414.jpg	2022.04.30/07:22  2022.12.29/F-2
+Data/Training/roboflow_crops/rfcrop_00416.jpg	2022.09.07 F2  10:09
+Data/Training/roboflow_crops/rfcrop_00417.jpg	2025.02.07
+Data/Training/roboflow_crops/rfcrop_00418.jpg	17.02.16  17.08.15A8
+Data/Training/roboflow_crops/rfcrop_00420.jpg	20.11.10(A)
+Data/Training/roboflow_crops/rfcrop_00421.jpg	06.02
+Data/Training/roboflow_crops/rfcrop_00422.jpg	22.09.19
+Data/Training/roboflow_crops/rfcrop_00423.jpg	22.10.23
+Data/Training/roboflow_crops/rfcrop_00424.jpg	19.11.12(05:39)  20.11.11(B)
+Data/Training/roboflow_crops/rfcrop_00425.jpg	20.08.05 02
+Data/Training/roboflow_crops/rfcrop_00426.jpg	06.02  00:15
+Data/Training/roboflow_crops/rfcrop_00427.jpg	06.07
+Data/Training/roboflow_crops/rfcrop_00428.jpg	2022.11.18
+Data/Training/roboflow_crops/rfcrop_00429.jpg	2022.12.07
+Data/Training/roboflow_crops/rfcrop_00430.jpg	2023.05.03
+Data/Training/roboflow_crops/rfcrop_00431.jpg	2023.04.05
+Data/Training/roboflow_crops/rfcrop_00432.jpg	2022.10.18
+Data/Training/roboflow_crops/rfcrop_00433.jpg	06 05 14:25
+Data/Training/roboflow_crops/rfcrop_00434.jpg	22.12.24
+Data/Training/roboflow_crops/rfcrop_00436.jpg	06.02.
+Data/Training/roboflow_crops/rfcrop_00437.jpg	2022.08.18 F2
+Data/Training/roboflow_crops/rfcrop_00439.jpg	2022.12.07
+Data/Training/roboflow_crops/rfcrop_00440.jpg	06.06 08
+Data/Training/roboflow_crops/rfcrop_00442.jpg	2022.04.30.08:05  2023.24.29/2N
+Data/Training/roboflow_crops/rfcrop_00443.jpg	2026.08.16
+Data/Training/roboflow_crops/rfcrop_00444.jpg	2023.01.13  15:10
+Data/Training/roboflow_crops/rfcrop_00445.jpg	2025.01.19  11:29
+Data/Training/roboflow_crops/rfcrop_00447.jpg	12.09.12 F1
+Data/Training/roboflow_crops/rfcrop_00448.jpg	2023.03.28
+Data/Training/roboflow_crops/rfcrop_00449.jpg	2023.02.22  13:50
+Data/Training/roboflow_crops/rfcrop_00450.jpg	2022.12.12
+Data/Training/roboflow_crops/rfcrop_00451.jpg	18.09.12 23:25
+Data/Training/roboflow_crops/rfcrop_00452.jpg	2023.05.03
+Data/Training/roboflow_crops/rfcrop_00453.jpg	05.30
+Data/Training/roboflow_crops/rfcrop_00454.jpg	22 05 28 22
