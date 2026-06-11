@@ -1,0 +1,2 @@
+Data/Training/Exp_date_dataset/test/20220526_122107_jpg.rf.HqHpgCzeH6Sb64y3JDMQ.jpg	[{"transcription": "date", "points": [[1181, 595], [1930, 595], [1930, 865], [1181, 865]]}]
+Data/Training/Exp_date_dataset/test/KakaoTalk_20220526_185024957_23_jpg.rf.Tx5Sk6eYSOoTRS73HN0P.jpg	[{"transcription": "date", "points": [[138, 792], [847, 792], [847, 904], [138, 904]]}]

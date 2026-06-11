@@ -1,0 +1,4000 @@
+Data/Training/synthetic/syn_00000.jpg	BATCH RY5YZ5
+Data/Training/synthetic/syn_00001.jpg	LOT HAUUE0
+Data/Training/synthetic/syn_00002.jpg	BB 26092026
+Data/Training/synthetic/syn_00003.jpg	IAJ78ESL
+Data/Training/synthetic/syn_00004.jpg	PRD 0RWG8B
+Data/Training/synthetic/syn_00005.jpg	EUOOLUB3R
+Data/Training/synthetic/syn_00006.jpg	11032027
+Data/Training/synthetic/syn_00007.jpg	JFSBGGKY
+Data/Training/synthetic/syn_00008.jpg	L3851W
+Data/Training/synthetic/syn_00009.jpg	UL94573WZ2
+Data/Training/synthetic/syn_00010.jpg	FN3NG71LY
+Data/Training/synthetic/syn_00011.jpg	CG99967FS0
+Data/Training/synthetic/syn_00012.jpg	LOT NOC6TY
+Data/Training/synthetic/syn_00013.jpg	BATCH M7HAHK
+Data/Training/synthetic/syn_00014.jpg	01/12/2027
+Data/Training/synthetic/syn_00015.jpg	01/09/2024
+Data/Training/synthetic/syn_00016.jpg	EXP 21JUL24
+Data/Training/synthetic/syn_00017.jpg	PRD F9ATKC
+Data/Training/synthetic/syn_00018.jpg	MD19763XY5
+Data/Training/synthetic/syn_00019.jpg	EXP 04FEB26
+Data/Training/synthetic/syn_00020.jpg	OA16020MB4
+Data/Training/synthetic/syn_00021.jpg	L780W
+Data/Training/synthetic/syn_00022.jpg	MT30479CY8
+Data/Training/synthetic/syn_00023.jpg	CJ54BSJFQF
+Data/Training/synthetic/syn_00024.jpg	BATCH JVOTRT
+Data/Training/synthetic/syn_00025.jpg	EXP 09NOV25
+Data/Training/synthetic/syn_00026.jpg	SGW4R6TKJ
+Data/Training/synthetic/syn_00027.jpg	FO33770BS7
+Data/Training/synthetic/syn_00028.jpg	BO18505NA3
+Data/Training/synthetic/syn_00029.jpg	SN21955OC3
+Data/Training/synthetic/syn_00030.jpg	BB 02012027
+Data/Training/synthetic/syn_00031.jpg	GM79599WI3
+Data/Training/synthetic/syn_00032.jpg	8PQM9CIW
+Data/Training/synthetic/syn_00033.jpg	BATCH 30W9FY
+Data/Training/synthetic/syn_00034.jpg	L0830W
+Data/Training/synthetic/syn_00035.jpg	VK87067ZS9
+Data/Training/synthetic/syn_00036.jpg	RE32091MA0
+Data/Training/synthetic/syn_00037.jpg	TF20654PZ4
+Data/Training/synthetic/syn_00038.jpg	LOT E7E2TQ
+Data/Training/synthetic/syn_00039.jpg	BATCH EPW5AL
+Data/Training/synthetic/syn_00040.jpg	27/12/2026
+Data/Training/synthetic/syn_00041.jpg	05 SEP 25
+Data/Training/synthetic/syn_00042.jpg	LOT DKCNDH
+Data/Training/synthetic/syn_00043.jpg	L135Y
+Data/Training/synthetic/syn_00044.jpg	LOT 5J3JP3
+Data/Training/synthetic/syn_00045.jpg	BATCH UF3F1V
+Data/Training/synthetic/syn_00046.jpg	BEST BEFORE 13/05/2027
+Data/Training/synthetic/syn_00047.jpg	EXP 16SEP26
+Data/Training/synthetic/syn_00048.jpg	L557O
+Data/Training/synthetic/syn_00049.jpg	LOT VDCSDO
+Data/Training/synthetic/syn_00050.jpg	BATCH 7CW5WT
+Data/Training/synthetic/syn_00051.jpg	8WZWXHCD
+Data/Training/synthetic/syn_00052.jpg	BATCH 3JZKX5
+Data/Training/synthetic/syn_00053.jpg	L7601W
+Data/Training/synthetic/syn_00054.jpg	L11868M
+Data/Training/synthetic/syn_00055.jpg	XL15528DVP
+Data/Training/synthetic/syn_00056.jpg	RHPVQERG
+Data/Training/synthetic/syn_00057.jpg	L12663N
+Data/Training/synthetic/syn_00058.jpg	XV2K36XE
+Data/Training/synthetic/syn_00059.jpg	L7914W
+Data/Training/synthetic/syn_00060.jpg	PCEZLP1G
+Data/Training/synthetic/syn_00061.jpg	BEST BEFORE 24/11/2027
+Data/Training/synthetic/syn_00062.jpg	BEST BEFORE 02/06/2025
+Data/Training/synthetic/syn_00063.jpg	PRD M0AE7I
+Data/Training/synthetic/syn_00064.jpg	BATCH BIWAO4
+Data/Training/synthetic/syn_00065.jpg	L8634R
+Data/Training/synthetic/syn_00066.jpg	BATCH XFKURA
+Data/Training/synthetic/syn_00067.jpg	6EUX8IKXR
+Data/Training/synthetic/syn_00068.jpg	L976W
+Data/Training/synthetic/syn_00069.jpg	PRD VDSP8U
+Data/Training/synthetic/syn_00070.jpg	EXP 17APR26
+Data/Training/synthetic/syn_00071.jpg	ZL51881LK1
+Data/Training/synthetic/syn_00072.jpg	LN36077YF7
+Data/Training/synthetic/syn_00073.jpg	8OYA0CK7Q
+Data/Training/synthetic/syn_00074.jpg	ED04776XE7
+Data/Training/synthetic/syn_00075.jpg	L308X
+Data/Training/synthetic/syn_00076.jpg	E2MJG8BOD2
+Data/Training/synthetic/syn_00077.jpg	BEST BEFORE 11/02/2024
+Data/Training/synthetic/syn_00078.jpg	WP93327EM6
+Data/Training/synthetic/syn_00079.jpg	YNG5PX77
+Data/Training/synthetic/syn_00080.jpg	22032026
+Data/Training/synthetic/syn_00081.jpg	25-05-2026
+Data/Training/synthetic/syn_00082.jpg	EXP 13DEC25
+Data/Training/synthetic/syn_00083.jpg	BEST BEFORE 13/11/2025
+Data/Training/synthetic/syn_00084.jpg	EXP 19MAR27
+Data/Training/synthetic/syn_00085.jpg	03/01/2026
+Data/Training/synthetic/syn_00086.jpg	BEST BEFORE 09/08/2025
+Data/Training/synthetic/syn_00087.jpg	YT94355KP0
+Data/Training/synthetic/syn_00088.jpg	13052025
+Data/Training/synthetic/syn_00089.jpg	PRD 86H0IM
+Data/Training/synthetic/syn_00090.jpg	2GIO15NU
+Data/Training/synthetic/syn_00091.jpg	BEST BEFORE 24/08/2027
+Data/Training/synthetic/syn_00092.jpg	L91438L
+Data/Training/synthetic/syn_00093.jpg	LOT Q76PE8
+Data/Training/synthetic/syn_00094.jpg	BB 08062025
+Data/Training/synthetic/syn_00095.jpg	L62283S
+Data/Training/synthetic/syn_00096.jpg	L0771G
+Data/Training/synthetic/syn_00097.jpg	PRD Z3GIJL
+Data/Training/synthetic/syn_00098.jpg	UT27516BZ1
+Data/Training/synthetic/syn_00099.jpg	LOT SMKWGL
+Data/Training/synthetic/syn_00100.jpg	EXP 07AUG26
+Data/Training/synthetic/syn_00101.jpg	LOT F24NTG
+Data/Training/synthetic/syn_00102.jpg	17/02/2025
+Data/Training/synthetic/syn_00103.jpg	07092027
+Data/Training/synthetic/syn_00104.jpg	BATCH 2NAMXJ
+Data/Training/synthetic/syn_00105.jpg	HB33853FZ4
+Data/Training/synthetic/syn_00106.jpg	IY04200CE6
+Data/Training/synthetic/syn_00107.jpg	EXP 06DEC25
+Data/Training/synthetic/syn_00108.jpg	21-08-2024
+Data/Training/synthetic/syn_00109.jpg	07 JUN 24
+Data/Training/synthetic/syn_00110.jpg	VF39693DB8
+Data/Training/synthetic/syn_00111.jpg	BATCH C9FJR4
+Data/Training/synthetic/syn_00112.jpg	24-05-2027
+Data/Training/synthetic/syn_00113.jpg	BEST BEFORE 20/02/2024
+Data/Training/synthetic/syn_00114.jpg	EZNG0VWOD
+Data/Training/synthetic/syn_00115.jpg	L75637B
+Data/Training/synthetic/syn_00116.jpg	L572W
+Data/Training/synthetic/syn_00117.jpg	17/12/2026
+Data/Training/synthetic/syn_00118.jpg	9E7KP2SY
+Data/Training/synthetic/syn_00119.jpg	L1601G
+Data/Training/synthetic/syn_00120.jpg	PRD LXO9M7
+Data/Training/synthetic/syn_00121.jpg	EXP 20DEC25
+Data/Training/synthetic/syn_00122.jpg	ODIM1UDR2D
+Data/Training/synthetic/syn_00123.jpg	L1032X
+Data/Training/synthetic/syn_00124.jpg	BB 12102024
+Data/Training/synthetic/syn_00125.jpg	9CSI5XWE7
+Data/Training/synthetic/syn_00126.jpg	17 OCT 26
+Data/Training/synthetic/syn_00127.jpg	AK82265JJ1
+Data/Training/synthetic/syn_00128.jpg	23 JUN 27
+Data/Training/synthetic/syn_00129.jpg	L0243D
+Data/Training/synthetic/syn_00130.jpg	1KTP1AXA
+Data/Training/synthetic/syn_00131.jpg	FE49347GP6
+Data/Training/synthetic/syn_00132.jpg	L02422M
+Data/Training/synthetic/syn_00133.jpg	06 NOV 25
+Data/Training/synthetic/syn_00134.jpg	58B02JTEZN
+Data/Training/synthetic/syn_00135.jpg	EXP 19NOV25
+Data/Training/synthetic/syn_00136.jpg	02-11-2025
+Data/Training/synthetic/syn_00137.jpg	L773Y
+Data/Training/synthetic/syn_00138.jpg	BATCH SC6OBD
+Data/Training/synthetic/syn_00139.jpg	L46091C
+Data/Training/synthetic/syn_00140.jpg	L8211V
+Data/Training/synthetic/syn_00141.jpg	03/06/2027
+Data/Training/synthetic/syn_00142.jpg	JO52129JN1
+Data/Training/synthetic/syn_00143.jpg	03072024
+Data/Training/synthetic/syn_00144.jpg	09 JAN 24
+Data/Training/synthetic/syn_00145.jpg	PRD GWOK9U
+Data/Training/synthetic/syn_00146.jpg	LM46153LF0
+Data/Training/synthetic/syn_00147.jpg	BEST BEFORE 18/02/2026
+Data/Training/synthetic/syn_00148.jpg	BATCH TX9BVP
+Data/Training/synthetic/syn_00149.jpg	L137C
+Data/Training/synthetic/syn_00150.jpg	II76132ZM0
+Data/Training/synthetic/syn_00151.jpg	12022027
+Data/Training/synthetic/syn_00152.jpg	BB 08012027
+Data/Training/synthetic/syn_00153.jpg	05082024
+Data/Training/synthetic/syn_00154.jpg	BB 16092027
+Data/Training/synthetic/syn_00155.jpg	PRD DLQEZM
+Data/Training/synthetic/syn_00156.jpg	BEST BEFORE 02/08/2026
+Data/Training/synthetic/syn_00157.jpg	CG39876EX8
+Data/Training/synthetic/syn_00158.jpg	08-09-2027
+Data/Training/synthetic/syn_00159.jpg	QI46912TU8
+Data/Training/synthetic/syn_00160.jpg	YD90734MX0
+Data/Training/synthetic/syn_00161.jpg	GJ16099TW8
+Data/Training/synthetic/syn_00162.jpg	18-07-2027
+Data/Training/synthetic/syn_00163.jpg	BB 20012025
+Data/Training/synthetic/syn_00164.jpg	L409P
+Data/Training/synthetic/syn_00165.jpg	21052027
+Data/Training/synthetic/syn_00166.jpg	HW14876NR9
+Data/Training/synthetic/syn_00167.jpg	L185U
+Data/Training/synthetic/syn_00168.jpg	11 JUN 25
+Data/Training/synthetic/syn_00169.jpg	9U3HOC0EKY
+Data/Training/synthetic/syn_00170.jpg	11-10-2027
+Data/Training/synthetic/syn_00171.jpg	LOT R1G2N4
+Data/Training/synthetic/syn_00172.jpg	23072027
+Data/Training/synthetic/syn_00173.jpg	L189N
+Data/Training/synthetic/syn_00174.jpg	07 JAN 25
+Data/Training/synthetic/syn_00175.jpg	BB 07072026
+Data/Training/synthetic/syn_00176.jpg	NANQT4BZ98
+Data/Training/synthetic/syn_00177.jpg	04 JAN 24
+Data/Training/synthetic/syn_00178.jpg	EXP 14JUN25
+Data/Training/synthetic/syn_00179.jpg	TW34792YQ4
+Data/Training/synthetic/syn_00180.jpg	01052026
+Data/Training/synthetic/syn_00181.jpg	01 FEB 27
+Data/Training/synthetic/syn_00182.jpg	07 SEP 27
+Data/Training/synthetic/syn_00183.jpg	EXP 05DEC26
+Data/Training/synthetic/syn_00184.jpg	BB 19042024
+Data/Training/synthetic/syn_00185.jpg	PRD U66A40
+Data/Training/synthetic/syn_00186.jpg	ZN44738FM9
+Data/Training/synthetic/syn_00187.jpg	23-02-2027
+Data/Training/synthetic/syn_00188.jpg	LOT SJFKJN
+Data/Training/synthetic/syn_00189.jpg	Z5TJTJLNOD
+Data/Training/synthetic/syn_00190.jpg	RWFEA3I7
+Data/Training/synthetic/syn_00191.jpg	7R9RC2ALF
+Data/Training/synthetic/syn_00192.jpg	01-10-2025
+Data/Training/synthetic/syn_00193.jpg	QE05895AZ5
+Data/Training/synthetic/syn_00194.jpg	LOT SZZATX
+Data/Training/synthetic/syn_00195.jpg	13/11/2027
+Data/Training/synthetic/syn_00196.jpg	BATCH U6YDIQ
+Data/Training/synthetic/syn_00197.jpg	Z37T6GOZ0
+Data/Training/synthetic/syn_00198.jpg	WQ51682DD7
+Data/Training/synthetic/syn_00199.jpg	BB 01082027
+Data/Training/synthetic/syn_00200.jpg	16072027
+Data/Training/synthetic/syn_00201.jpg	PL84322LC3
+Data/Training/synthetic/syn_00202.jpg	05/04/2027
+Data/Training/synthetic/syn_00203.jpg	BB 16052024
+Data/Training/synthetic/syn_00204.jpg	BATCH QQDSRL
+Data/Training/synthetic/syn_00205.jpg	L073Y
+Data/Training/synthetic/syn_00206.jpg	L207H
+Data/Training/synthetic/syn_00207.jpg	02 FEB 27
+Data/Training/synthetic/syn_00208.jpg	L183P
+Data/Training/synthetic/syn_00209.jpg	BEST BEFORE 06/03/2027
+Data/Training/synthetic/syn_00210.jpg	B1H0EXCP
+Data/Training/synthetic/syn_00211.jpg	P5U5UMKM
+Data/Training/synthetic/syn_00212.jpg	SM41576ML0
+Data/Training/synthetic/syn_00213.jpg	BATCH D9NOQ8
+Data/Training/synthetic/syn_00214.jpg	BB 18112026
+Data/Training/synthetic/syn_00215.jpg	UQ66260IF8
+Data/Training/synthetic/syn_00216.jpg	519CTWMY1P
+Data/Training/synthetic/syn_00217.jpg	NM78621OO2
+Data/Training/synthetic/syn_00218.jpg	23 MAR 25
+Data/Training/synthetic/syn_00219.jpg	12 OCT 25
+Data/Training/synthetic/syn_00220.jpg	ZL93008XO5
+Data/Training/synthetic/syn_00221.jpg	BEST BEFORE 12/06/2025
+Data/Training/synthetic/syn_00222.jpg	L3014O
+Data/Training/synthetic/syn_00223.jpg	BATCH 594WR9
+Data/Training/synthetic/syn_00224.jpg	BATCH XNDBZH
+Data/Training/synthetic/syn_00225.jpg	BATCH JDA689
+Data/Training/synthetic/syn_00226.jpg	YN78022PC8
+Data/Training/synthetic/syn_00227.jpg	3P7FQ2D0
+Data/Training/synthetic/syn_00228.jpg	XF06XXZ5V0
+Data/Training/synthetic/syn_00229.jpg	BB 11062026
+Data/Training/synthetic/syn_00230.jpg	WR64605ML6
+Data/Training/synthetic/syn_00231.jpg	BSGNC62LR
+Data/Training/synthetic/syn_00232.jpg	VH39798TB5
+Data/Training/synthetic/syn_00233.jpg	EXP 27NOV24
+Data/Training/synthetic/syn_00234.jpg	5DIFC28VZ
+Data/Training/synthetic/syn_00235.jpg	BB 28032024
+Data/Training/synthetic/syn_00236.jpg	8B560H8G2
+Data/Training/synthetic/syn_00237.jpg	BEST BEFORE 15/12/2024
+Data/Training/synthetic/syn_00238.jpg	22072026
+Data/Training/synthetic/syn_00239.jpg	L7467K
+Data/Training/synthetic/syn_00240.jpg	BC44898NE6
+Data/Training/synthetic/syn_00241.jpg	L522M
+Data/Training/synthetic/syn_00242.jpg	CVFELOEGC
+Data/Training/synthetic/syn_00243.jpg	EL34714QS6
+Data/Training/synthetic/syn_00244.jpg	UB19764WZ4
+Data/Training/synthetic/syn_00245.jpg	BATCH 0NHN3N
+Data/Training/synthetic/syn_00246.jpg	L40639A
+Data/Training/synthetic/syn_00247.jpg	PRD 5NW4TN
+Data/Training/synthetic/syn_00248.jpg	76GHT5NG9X
+Data/Training/synthetic/syn_00249.jpg	06/11/2025
+Data/Training/synthetic/syn_00250.jpg	L9737A
+Data/Training/synthetic/syn_00251.jpg	TM54366TY4
+Data/Training/synthetic/syn_00252.jpg	4MRIYN7HG
+Data/Training/synthetic/syn_00253.jpg	HR31944MQ5
+Data/Training/synthetic/syn_00254.jpg	L73687R
+Data/Training/synthetic/syn_00255.jpg	L7525M
+Data/Training/synthetic/syn_00256.jpg	25WY6E5I6
+Data/Training/synthetic/syn_00257.jpg	19 JUL 27
+Data/Training/synthetic/syn_00258.jpg	L54900Z
+Data/Training/synthetic/syn_00259.jpg	KW73128ML7
+Data/Training/synthetic/syn_00260.jpg	25/03/2026
+Data/Training/synthetic/syn_00261.jpg	312J4EUIV
+Data/Training/synthetic/syn_00262.jpg	LOT OS7CFC
+Data/Training/synthetic/syn_00263.jpg	YJ06692GA6
+Data/Training/synthetic/syn_00264.jpg	BB 05092026
+Data/Training/synthetic/syn_00265.jpg	LOT J7XRUX
+Data/Training/synthetic/syn_00266.jpg	BATCH EKIZLS
+Data/Training/synthetic/syn_00267.jpg	03-05-2025
+Data/Training/synthetic/syn_00268.jpg	PRD 2R1A6Y
+Data/Training/synthetic/syn_00269.jpg	QP8S3PMHBO
+Data/Training/synthetic/syn_00270.jpg	16-07-2026
+Data/Training/synthetic/syn_00271.jpg	BATCH 20JF8F
+Data/Training/synthetic/syn_00272.jpg	BB 09082027
+Data/Training/synthetic/syn_00273.jpg	L712C
+Data/Training/synthetic/syn_00274.jpg	BATCH 10Q0JJ
+Data/Training/synthetic/syn_00275.jpg	L396R
+Data/Training/synthetic/syn_00276.jpg	28 OCT 25
+Data/Training/synthetic/syn_00277.jpg	L4515L
+Data/Training/synthetic/syn_00278.jpg	5XHYN5XVY7
+Data/Training/synthetic/syn_00279.jpg	PRD V0PHN6
+Data/Training/synthetic/syn_00280.jpg	LOT 1GMG4Q
+Data/Training/synthetic/syn_00281.jpg	UE26710NJ3
+Data/Training/synthetic/syn_00282.jpg	PRD LWVVX7
+Data/Training/synthetic/syn_00283.jpg	25012026
+Data/Training/synthetic/syn_00284.jpg	PRD TN85DB
+Data/Training/synthetic/syn_00285.jpg	BEST BEFORE 10/08/2024
+Data/Training/synthetic/syn_00286.jpg	BATCH 3WAOB8
+Data/Training/synthetic/syn_00287.jpg	BB 24012025
+Data/Training/synthetic/syn_00288.jpg	LOT AC7KF7
+Data/Training/synthetic/syn_00289.jpg	1ZQE6B5V8J
+Data/Training/synthetic/syn_00290.jpg	04-03-2026
+Data/Training/synthetic/syn_00291.jpg	L61742Y
+Data/Training/synthetic/syn_00292.jpg	BATCH DJ8PH5
+Data/Training/synthetic/syn_00293.jpg	EXP 08DEC24
+Data/Training/synthetic/syn_00294.jpg	EXP 19DEC24
+Data/Training/synthetic/syn_00295.jpg	BEST BEFORE 22/06/2026
+Data/Training/synthetic/syn_00296.jpg	BATCH KQBS43
+Data/Training/synthetic/syn_00297.jpg	22082025
+Data/Training/synthetic/syn_00298.jpg	L84969N
+Data/Training/synthetic/syn_00299.jpg	FAD2U62AKS
+Data/Training/synthetic/syn_00300.jpg	L3343Z
+Data/Training/synthetic/syn_00301.jpg	EV81002RC8
+Data/Training/synthetic/syn_00302.jpg	PRD FD04SZ
+Data/Training/synthetic/syn_00303.jpg	R2ME6CHB1
+Data/Training/synthetic/syn_00304.jpg	14012025
+Data/Training/synthetic/syn_00305.jpg	L2162J
+Data/Training/synthetic/syn_00306.jpg	BATCH 0MYBZH
+Data/Training/synthetic/syn_00307.jpg	L305U
+Data/Training/synthetic/syn_00308.jpg	15022027
+Data/Training/synthetic/syn_00309.jpg	L478C
+Data/Training/synthetic/syn_00310.jpg	15 FEB 25
+Data/Training/synthetic/syn_00311.jpg	BATCH 6MZVFU
+Data/Training/synthetic/syn_00312.jpg	EXP 02AUG25
+Data/Training/synthetic/syn_00313.jpg	T7000AASZR
+Data/Training/synthetic/syn_00314.jpg	03-07-2026
+Data/Training/synthetic/syn_00315.jpg	GA16037CR3
+Data/Training/synthetic/syn_00316.jpg	EXP 19MAR25
+Data/Training/synthetic/syn_00317.jpg	307TI3X2
+Data/Training/synthetic/syn_00318.jpg	T9VIPPRK7Z
+Data/Training/synthetic/syn_00319.jpg	FD01708VX5
+Data/Training/synthetic/syn_00320.jpg	L3938B
+Data/Training/synthetic/syn_00321.jpg	L882O
+Data/Training/synthetic/syn_00322.jpg	LOT 9UCT1M
+Data/Training/synthetic/syn_00323.jpg	ASBEITETS
+Data/Training/synthetic/syn_00324.jpg	BATCH JESZ24
+Data/Training/synthetic/syn_00325.jpg	XM3L7G4DB
+Data/Training/synthetic/syn_00326.jpg	BB 14122025
+Data/Training/synthetic/syn_00327.jpg	LOT 4QU8QI
+Data/Training/synthetic/syn_00328.jpg	13/02/2027
+Data/Training/synthetic/syn_00329.jpg	LOT ATOBL7
+Data/Training/synthetic/syn_00330.jpg	02092027
+Data/Training/synthetic/syn_00331.jpg	L41301Z
+Data/Training/synthetic/syn_00332.jpg	DX02758LR7
+Data/Training/synthetic/syn_00333.jpg	XVG7TKD5
+Data/Training/synthetic/syn_00334.jpg	IF47052QP7
+Data/Training/synthetic/syn_00335.jpg	JU00235HK7
+Data/Training/synthetic/syn_00336.jpg	07-01-2027
+Data/Training/synthetic/syn_00337.jpg	BATCH O2ANSX
+Data/Training/synthetic/syn_00338.jpg	BEST BEFORE 25/08/2025
+Data/Training/synthetic/syn_00339.jpg	ZK44196RC6
+Data/Training/synthetic/syn_00340.jpg	17 JUN 25
+Data/Training/synthetic/syn_00341.jpg	BW2NQM4C6K
+Data/Training/synthetic/syn_00342.jpg	BATCH V2RPFY
+Data/Training/synthetic/syn_00343.jpg	PRD GUGITV
+Data/Training/synthetic/syn_00344.jpg	H5AR7F6D6F
+Data/Training/synthetic/syn_00345.jpg	L80177A
+Data/Training/synthetic/syn_00346.jpg	WPQO38ZR
+Data/Training/synthetic/syn_00347.jpg	GU60160HS3
+Data/Training/synthetic/syn_00348.jpg	20-09-2025
+Data/Training/synthetic/syn_00349.jpg	L76497J
+Data/Training/synthetic/syn_00350.jpg	BATCH UWS7FJ
+Data/Training/synthetic/syn_00351.jpg	BATCH I3N08V
+Data/Training/synthetic/syn_00352.jpg	L331I
+Data/Training/synthetic/syn_00353.jpg	15072027
+Data/Training/synthetic/syn_00354.jpg	BATCH H4ETND
+Data/Training/synthetic/syn_00355.jpg	4R9LGYL71T
+Data/Training/synthetic/syn_00356.jpg	BATCH BTSAYE
+Data/Training/synthetic/syn_00357.jpg	25122026
+Data/Training/synthetic/syn_00358.jpg	L03889D
+Data/Training/synthetic/syn_00359.jpg	BB 18122024
+Data/Training/synthetic/syn_00360.jpg	DV94721LA9
+Data/Training/synthetic/syn_00361.jpg	ZF84948RP4
+Data/Training/synthetic/syn_00362.jpg	EXP 18FEB26
+Data/Training/synthetic/syn_00363.jpg	BB 02032027
+Data/Training/synthetic/syn_00364.jpg	06-01-2026
+Data/Training/synthetic/syn_00365.jpg	XJ72494TT9
+Data/Training/synthetic/syn_00366.jpg	ZGR0IX5MFO
+Data/Training/synthetic/syn_00367.jpg	L381E
+Data/Training/synthetic/syn_00368.jpg	05 JUN 27
+Data/Training/synthetic/syn_00369.jpg	SB32864HU6
+Data/Training/synthetic/syn_00370.jpg	12-10-2025
+Data/Training/synthetic/syn_00371.jpg	19-03-2026
+Data/Training/synthetic/syn_00372.jpg	YGDZBS1NB
+Data/Training/synthetic/syn_00373.jpg	KP70690BN6
+Data/Training/synthetic/syn_00374.jpg	L634E
+Data/Training/synthetic/syn_00375.jpg	BATCH HU8VU9
+Data/Training/synthetic/syn_00376.jpg	L4534N
+Data/Training/synthetic/syn_00377.jpg	L9812P
+Data/Training/synthetic/syn_00378.jpg	BATCH 8XNF11
+Data/Training/synthetic/syn_00379.jpg	PRD O6L3EO
+Data/Training/synthetic/syn_00380.jpg	L0194C
+Data/Training/synthetic/syn_00381.jpg	04-07-2026
+Data/Training/synthetic/syn_00382.jpg	PMH3D14P
+Data/Training/synthetic/syn_00383.jpg	BATCH LCY4MI
+Data/Training/synthetic/syn_00384.jpg	BEST BEFORE 26/02/2026
+Data/Training/synthetic/syn_00385.jpg	L218T
+Data/Training/synthetic/syn_00386.jpg	11092025
+Data/Training/synthetic/syn_00387.jpg	BB 24022025
+Data/Training/synthetic/syn_00388.jpg	L0406W
+Data/Training/synthetic/syn_00389.jpg	BATCH 7DIBWV
+Data/Training/synthetic/syn_00390.jpg	PRD 2CBCTM
+Data/Training/synthetic/syn_00391.jpg	XA92712AJ7
+Data/Training/synthetic/syn_00392.jpg	EXP 01OCT27
+Data/Training/synthetic/syn_00393.jpg	PRD 0EUXIM
+Data/Training/synthetic/syn_00394.jpg	PRD FLJSD8
+Data/Training/synthetic/syn_00395.jpg	PRD HLHI5E
+Data/Training/synthetic/syn_00396.jpg	25092026
+Data/Training/synthetic/syn_00397.jpg	L4143W
+Data/Training/synthetic/syn_00398.jpg	XTWG9XJ84
+Data/Training/synthetic/syn_00399.jpg	09/02/2024
+Data/Training/synthetic/syn_00400.jpg	10 NOV 25
+Data/Training/synthetic/syn_00401.jpg	L86290A
+Data/Training/synthetic/syn_00402.jpg	L65555V
+Data/Training/synthetic/syn_00403.jpg	BEST BEFORE 06/06/2024
+Data/Training/synthetic/syn_00404.jpg	BOLLPK2SF
+Data/Training/synthetic/syn_00405.jpg	25-08-2025
+Data/Training/synthetic/syn_00406.jpg	L02892A
+Data/Training/synthetic/syn_00407.jpg	DP85411OG3
+Data/Training/synthetic/syn_00408.jpg	L0798O
+Data/Training/synthetic/syn_00409.jpg	SI55380DB6
+Data/Training/synthetic/syn_00410.jpg	26122026
+Data/Training/synthetic/syn_00411.jpg	7FRXIA4O
+Data/Training/synthetic/syn_00412.jpg	05-08-2024
+Data/Training/synthetic/syn_00413.jpg	L00122D
+Data/Training/synthetic/syn_00414.jpg	28092026
+Data/Training/synthetic/syn_00415.jpg	BB 13022027
+Data/Training/synthetic/syn_00416.jpg	BATCH ILN7AD
+Data/Training/synthetic/syn_00417.jpg	BATCH 4TSBZ1
+Data/Training/synthetic/syn_00418.jpg	BEST BEFORE 02/10/2024
+Data/Training/synthetic/syn_00419.jpg	26/10/2025
+Data/Training/synthetic/syn_00420.jpg	BB 26042024
+Data/Training/synthetic/syn_00421.jpg	PRD NNE0TD
+Data/Training/synthetic/syn_00422.jpg	TJJYC32QEH
+Data/Training/synthetic/syn_00423.jpg	LOT KS2IKK
+Data/Training/synthetic/syn_00424.jpg	23/12/2025
+Data/Training/synthetic/syn_00425.jpg	LOT KZ7IIA
+Data/Training/synthetic/syn_00426.jpg	LV20557JX1
+Data/Training/synthetic/syn_00427.jpg	L2789M
+Data/Training/synthetic/syn_00428.jpg	L6454C
+Data/Training/synthetic/syn_00429.jpg	24 DEC 25
+Data/Training/synthetic/syn_00430.jpg	NO15117ML1
+Data/Training/synthetic/syn_00431.jpg	13082026
+Data/Training/synthetic/syn_00432.jpg	17-07-2025
+Data/Training/synthetic/syn_00433.jpg	PRD T089GK
+Data/Training/synthetic/syn_00434.jpg	JO7ZRG6EZT
+Data/Training/synthetic/syn_00435.jpg	20032027
+Data/Training/synthetic/syn_00436.jpg	PRD VPHPPO
+Data/Training/synthetic/syn_00437.jpg	04 FEB 26
+Data/Training/synthetic/syn_00438.jpg	L70341D
+Data/Training/synthetic/syn_00439.jpg	EXP 06NOV26
+Data/Training/synthetic/syn_00440.jpg	EXP 25JAN27
+Data/Training/synthetic/syn_00441.jpg	JF83120NK5
+Data/Training/synthetic/syn_00442.jpg	PRD B5IQTQ
+Data/Training/synthetic/syn_00443.jpg	A64LK6S6Z
+Data/Training/synthetic/syn_00444.jpg	10-09-2024
+Data/Training/synthetic/syn_00445.jpg	26 MAR 27
+Data/Training/synthetic/syn_00446.jpg	NZ26594SU0
+Data/Training/synthetic/syn_00447.jpg	LOT 9REBJV
+Data/Training/synthetic/syn_00448.jpg	LOT LC2SH3
+Data/Training/synthetic/syn_00449.jpg	GO28870HX5
+Data/Training/synthetic/syn_00450.jpg	21072024
+Data/Training/synthetic/syn_00451.jpg	LOT 2FZQYU
+Data/Training/synthetic/syn_00452.jpg	QE37891HP0
+Data/Training/synthetic/syn_00453.jpg	HB91620UX9
+Data/Training/synthetic/syn_00454.jpg	KN18103QU6
+Data/Training/synthetic/syn_00455.jpg	5PW6AR01J
+Data/Training/synthetic/syn_00456.jpg	LOT XXX5UL
+Data/Training/synthetic/syn_00457.jpg	L562Z
+Data/Training/synthetic/syn_00458.jpg	08-01-2025
+Data/Training/synthetic/syn_00459.jpg	25112026
+Data/Training/synthetic/syn_00460.jpg	03-06-2027
+Data/Training/synthetic/syn_00461.jpg	15 MAY 24
+Data/Training/synthetic/syn_00462.jpg	17/04/2024
+Data/Training/synthetic/syn_00463.jpg	10-08-2026
+Data/Training/synthetic/syn_00464.jpg	17 FEB 26
+Data/Training/synthetic/syn_00465.jpg	BB 03052025
+Data/Training/synthetic/syn_00466.jpg	L416H
+Data/Training/synthetic/syn_00467.jpg	LOT 9K18KJ
+Data/Training/synthetic/syn_00468.jpg	Y8RMRKOV9
+Data/Training/synthetic/syn_00469.jpg	MU25493CR8
+Data/Training/synthetic/syn_00470.jpg	20/11/2024
+Data/Training/synthetic/syn_00471.jpg	EXP 14APR25
+Data/Training/synthetic/syn_00472.jpg	CKBH76GAP8
+Data/Training/synthetic/syn_00473.jpg	BATCH HUJOQ2
+Data/Training/synthetic/syn_00474.jpg	BEST BEFORE 01/08/2024
+Data/Training/synthetic/syn_00475.jpg	PRD 9M01ST
+Data/Training/synthetic/syn_00476.jpg	BB 10032025
+Data/Training/synthetic/syn_00477.jpg	PRD LEL72F
+Data/Training/synthetic/syn_00478.jpg	LOT 619RPJ
+Data/Training/synthetic/syn_00479.jpg	LOT I9BRD5
+Data/Training/synthetic/syn_00480.jpg	23062025
+Data/Training/synthetic/syn_00481.jpg	LOT 0ZRBS9
+Data/Training/synthetic/syn_00482.jpg	L27447D
+Data/Training/synthetic/syn_00483.jpg	08/03/2025
+Data/Training/synthetic/syn_00484.jpg	14 MAR 24
+Data/Training/synthetic/syn_00485.jpg	06 MAY 26
+Data/Training/synthetic/syn_00486.jpg	RFEI7R5S
+Data/Training/synthetic/syn_00487.jpg	L52957V
+Data/Training/synthetic/syn_00488.jpg	BB 01112024
+Data/Training/synthetic/syn_00489.jpg	L1400J
+Data/Training/synthetic/syn_00490.jpg	R3I19D6G
+Data/Training/synthetic/syn_00491.jpg	BEST BEFORE 27/10/2026
+Data/Training/synthetic/syn_00492.jpg	EXP 01JUN25
+Data/Training/synthetic/syn_00493.jpg	PR54763HW5
+Data/Training/synthetic/syn_00494.jpg	BCL588ZNF5
+Data/Training/synthetic/syn_00495.jpg	22042026
+Data/Training/synthetic/syn_00496.jpg	06 APR 25
+Data/Training/synthetic/syn_00497.jpg	BEST BEFORE 11/12/2025
+Data/Training/synthetic/syn_00498.jpg	L21902G
+Data/Training/synthetic/syn_00499.jpg	L1537A
+Data/Training/synthetic/syn_00500.jpg	4G9YYWVX
+Data/Training/synthetic/syn_00501.jpg	BEST BEFORE 04/05/2026
+Data/Training/synthetic/syn_00502.jpg	BEST BEFORE 27/03/2027
+Data/Training/synthetic/syn_00503.jpg	HJ07661RZ0
+Data/Training/synthetic/syn_00504.jpg	10102027
+Data/Training/synthetic/syn_00505.jpg	BATCH RFPOGB
+Data/Training/synthetic/syn_00506.jpg	L77021B
+Data/Training/synthetic/syn_00507.jpg	FDCKSQ85K6
+Data/Training/synthetic/syn_00508.jpg	JF04848PK2
+Data/Training/synthetic/syn_00509.jpg	EXP 28NOV25
+Data/Training/synthetic/syn_00510.jpg	UKS9U0O7RW
+Data/Training/synthetic/syn_00511.jpg	21/02/2024
+Data/Training/synthetic/syn_00512.jpg	YPRO2JEJI9
+Data/Training/synthetic/syn_00513.jpg	BATCH FIXLZ1
+Data/Training/synthetic/syn_00514.jpg	10112024
+Data/Training/synthetic/syn_00515.jpg	BB 13042027
+Data/Training/synthetic/syn_00516.jpg	BEST BEFORE 07/11/2024
+Data/Training/synthetic/syn_00517.jpg	LOT 98I6SS
+Data/Training/synthetic/syn_00518.jpg	24 NOV 26
+Data/Training/synthetic/syn_00519.jpg	Y3SSTD3QC1
+Data/Training/synthetic/syn_00520.jpg	BATCH 01YTSO
+Data/Training/synthetic/syn_00521.jpg	RJ53384SZ5
+Data/Training/synthetic/syn_00522.jpg	BATCH YO5LMP
+Data/Training/synthetic/syn_00523.jpg	KU5XUMQD
+Data/Training/synthetic/syn_00524.jpg	ZB37590LV7
+Data/Training/synthetic/syn_00525.jpg	LOT 9LRZCW
+Data/Training/synthetic/syn_00526.jpg	BB 12112024
+Data/Training/synthetic/syn_00527.jpg	L75653O
+Data/Training/synthetic/syn_00528.jpg	25022026
+Data/Training/synthetic/syn_00529.jpg	04/09/2026
+Data/Training/synthetic/syn_00530.jpg	PRD JOCFDD
+Data/Training/synthetic/syn_00531.jpg	QAOV3T12
+Data/Training/synthetic/syn_00532.jpg	BB 06072026
+Data/Training/synthetic/syn_00533.jpg	LOT OK8L5M
+Data/Training/synthetic/syn_00534.jpg	PRD HNNX49
+Data/Training/synthetic/syn_00535.jpg	21072026
+Data/Training/synthetic/syn_00536.jpg	BB 10092025
+Data/Training/synthetic/syn_00537.jpg	14-09-2027
+Data/Training/synthetic/syn_00538.jpg	LOT 5N3IQ2
+Data/Training/synthetic/syn_00539.jpg	T2APG5OG9Y
+Data/Training/synthetic/syn_00540.jpg	BEST BEFORE 05/08/2026
+Data/Training/synthetic/syn_00541.jpg	BE6FP128
+Data/Training/synthetic/syn_00542.jpg	BB 26122026
+Data/Training/synthetic/syn_00543.jpg	L97396P
+Data/Training/synthetic/syn_00544.jpg	BATCH BF7NKH
+Data/Training/synthetic/syn_00545.jpg	BATCH 22VDPA
+Data/Training/synthetic/syn_00546.jpg	09/06/2025
+Data/Training/synthetic/syn_00547.jpg	CM15871CV7
+Data/Training/synthetic/syn_00548.jpg	BB 04122025
+Data/Training/synthetic/syn_00549.jpg	BATCH 34GRUK
+Data/Training/synthetic/syn_00550.jpg	JCPXRUMP
+Data/Training/synthetic/syn_00551.jpg	LOT GOR3O6
+Data/Training/synthetic/syn_00552.jpg	BATCH 8ALGWD
+Data/Training/synthetic/syn_00553.jpg	BATCH 7PZLVY
+Data/Training/synthetic/syn_00554.jpg	BEST BEFORE 24/04/2027
+Data/Training/synthetic/syn_00555.jpg	BATCH 28UVLZ
+Data/Training/synthetic/syn_00556.jpg	99Q4A7L5BC
+Data/Training/synthetic/syn_00557.jpg	L09388Z
+Data/Training/synthetic/syn_00558.jpg	EXP 15JUL27
+Data/Training/synthetic/syn_00559.jpg	BB 20122027
+Data/Training/synthetic/syn_00560.jpg	22 DEC 26
+Data/Training/synthetic/syn_00561.jpg	RC65574FP7
+Data/Training/synthetic/syn_00562.jpg	QQ78068FI5
+Data/Training/synthetic/syn_00563.jpg	W8URRX0V
+Data/Training/synthetic/syn_00564.jpg	PRD HL1HRL
+Data/Training/synthetic/syn_00565.jpg	07062026
+Data/Training/synthetic/syn_00566.jpg	01-12-2027
+Data/Training/synthetic/syn_00567.jpg	KN54412TB8
+Data/Training/synthetic/syn_00568.jpg	CXJJNKEX
+Data/Training/synthetic/syn_00569.jpg	23/02/2026
+Data/Training/synthetic/syn_00570.jpg	CQ29713EV4
+Data/Training/synthetic/syn_00571.jpg	L75289Z
+Data/Training/synthetic/syn_00572.jpg	BEST BEFORE 10/02/2025
+Data/Training/synthetic/syn_00573.jpg	18 JAN 26
+Data/Training/synthetic/syn_00574.jpg	UD89318WO4
+Data/Training/synthetic/syn_00575.jpg	BB 16062027
+Data/Training/synthetic/syn_00576.jpg	KP89049AX3
+Data/Training/synthetic/syn_00577.jpg	LOT 8P9824
+Data/Training/synthetic/syn_00578.jpg	CX12451DB1
+Data/Training/synthetic/syn_00579.jpg	UE58855HF7
+Data/Training/synthetic/syn_00580.jpg	15-07-2026
+Data/Training/synthetic/syn_00581.jpg	02 MAR 26
+Data/Training/synthetic/syn_00582.jpg	21012024
+Data/Training/synthetic/syn_00583.jpg	22-04-2024
+Data/Training/synthetic/syn_00584.jpg	NP27121FM6
+Data/Training/synthetic/syn_00585.jpg	06062024
+Data/Training/synthetic/syn_00586.jpg	BB 26052024
+Data/Training/synthetic/syn_00587.jpg	17 NOV 25
+Data/Training/synthetic/syn_00588.jpg	BB 18112025
+Data/Training/synthetic/syn_00589.jpg	8HYCSSTR
+Data/Training/synthetic/syn_00590.jpg	LOT 4Z0SU9
+Data/Training/synthetic/syn_00591.jpg	BATCH 9T8FBE
+Data/Training/synthetic/syn_00592.jpg	BATCH I6R9G8
+Data/Training/synthetic/syn_00593.jpg	04092027
+Data/Training/synthetic/syn_00594.jpg	TT93474OR0
+Data/Training/synthetic/syn_00595.jpg	16 JUL 26
+Data/Training/synthetic/syn_00596.jpg	23/08/2027
+Data/Training/synthetic/syn_00597.jpg	LOT Q7EOUZ
+Data/Training/synthetic/syn_00598.jpg	L06318J
+Data/Training/synthetic/syn_00599.jpg	02 DEC 24
+Data/Training/synthetic/syn_00600.jpg	L50572S
+Data/Training/synthetic/syn_00601.jpg	PRD HD2Q6S
+Data/Training/synthetic/syn_00602.jpg	KN59994ZU5
+Data/Training/synthetic/syn_00603.jpg	BATCH NWJ421
+Data/Training/synthetic/syn_00604.jpg	BEST BEFORE 10/06/2026
+Data/Training/synthetic/syn_00605.jpg	L7886K
+Data/Training/synthetic/syn_00606.jpg	XN81594II4
+Data/Training/synthetic/syn_00607.jpg	LH22695AY5
+Data/Training/synthetic/syn_00608.jpg	BEST BEFORE 04/08/2026
+Data/Training/synthetic/syn_00609.jpg	NJ464USTR
+Data/Training/synthetic/syn_00610.jpg	L3719B
+Data/Training/synthetic/syn_00611.jpg	L3399G
+Data/Training/synthetic/syn_00612.jpg	BATCH TDFB5F
+Data/Training/synthetic/syn_00613.jpg	EXP 16MAR24
+Data/Training/synthetic/syn_00614.jpg	S3W1KBMF8F
+Data/Training/synthetic/syn_00615.jpg	SM60680MY8
+Data/Training/synthetic/syn_00616.jpg	05102027
+Data/Training/synthetic/syn_00617.jpg	BEST BEFORE 11/06/2027
+Data/Training/synthetic/syn_00618.jpg	L992G
+Data/Training/synthetic/syn_00619.jpg	BEST BEFORE 25/04/2025
+Data/Training/synthetic/syn_00620.jpg	18112025
+Data/Training/synthetic/syn_00621.jpg	BB 06072024
+Data/Training/synthetic/syn_00622.jpg	L503I
+Data/Training/synthetic/syn_00623.jpg	PRD A3QSHO
+Data/Training/synthetic/syn_00624.jpg	EXP 09NOV27
+Data/Training/synthetic/syn_00625.jpg	L4059L
+Data/Training/synthetic/syn_00626.jpg	LOT XV2SOJ
+Data/Training/synthetic/syn_00627.jpg	09-04-2026
+Data/Training/synthetic/syn_00628.jpg	BATCH 6HOSPN
+Data/Training/synthetic/syn_00629.jpg	JI1THM86C
+Data/Training/synthetic/syn_00630.jpg	17-04-2026
+Data/Training/synthetic/syn_00631.jpg	D6OI83VPS
+Data/Training/synthetic/syn_00632.jpg	07-06-2027
+Data/Training/synthetic/syn_00633.jpg	BATCH WZ2R7H
+Data/Training/synthetic/syn_00634.jpg	BATCH Z1UU5L
+Data/Training/synthetic/syn_00635.jpg	12112026
+Data/Training/synthetic/syn_00636.jpg	L43513U
+Data/Training/synthetic/syn_00637.jpg	L67369G
+Data/Training/synthetic/syn_00638.jpg	04/03/2025
+Data/Training/synthetic/syn_00639.jpg	PE27084OO7
+Data/Training/synthetic/syn_00640.jpg	19 NOV 27
+Data/Training/synthetic/syn_00641.jpg	PRD IR93MJ
+Data/Training/synthetic/syn_00642.jpg	L9420G
+Data/Training/synthetic/syn_00643.jpg	04122024
+Data/Training/synthetic/syn_00644.jpg	1N8111SQ
+Data/Training/synthetic/syn_00645.jpg	LOT RK4H87
+Data/Training/synthetic/syn_00646.jpg	PRD TS65JQ
+Data/Training/synthetic/syn_00647.jpg	28 MAY 24
+Data/Training/synthetic/syn_00648.jpg	ZU60245QS5
+Data/Training/synthetic/syn_00649.jpg	L7807X
+Data/Training/synthetic/syn_00650.jpg	NPTN0I20
+Data/Training/synthetic/syn_00651.jpg	25 APR 24
+Data/Training/synthetic/syn_00652.jpg	BB 19082027
+Data/Training/synthetic/syn_00653.jpg	JU49303CK1
+Data/Training/synthetic/syn_00654.jpg	L4492W
+Data/Training/synthetic/syn_00655.jpg	MN95122DV9
+Data/Training/synthetic/syn_00656.jpg	BATCH LRA0B9
+Data/Training/synthetic/syn_00657.jpg	SD9QJANN5
+Data/Training/synthetic/syn_00658.jpg	EW93747RM5
+Data/Training/synthetic/syn_00659.jpg	L6387W
+Data/Training/synthetic/syn_00660.jpg	02-12-2027
+Data/Training/synthetic/syn_00661.jpg	BATCH B5HMN1
+Data/Training/synthetic/syn_00662.jpg	QZ61OWV6
+Data/Training/synthetic/syn_00663.jpg	L269A
+Data/Training/synthetic/syn_00664.jpg	CE39374BU2
+Data/Training/synthetic/syn_00665.jpg	PXTJQIQ04B
+Data/Training/synthetic/syn_00666.jpg	BATCH C092CB
+Data/Training/synthetic/syn_00667.jpg	EY16827LA8
+Data/Training/synthetic/syn_00668.jpg	EXP 02NOV26
+Data/Training/synthetic/syn_00669.jpg	L891T
+Data/Training/synthetic/syn_00670.jpg	06122025
+Data/Training/synthetic/syn_00671.jpg	VQ47806ZK3
+Data/Training/synthetic/syn_00672.jpg	27082024
+Data/Training/synthetic/syn_00673.jpg	LOT SDKR66
+Data/Training/synthetic/syn_00674.jpg	21-02-2027
+Data/Training/synthetic/syn_00675.jpg	BB 18092024
+Data/Training/synthetic/syn_00676.jpg	LOT 3D4DIY
+Data/Training/synthetic/syn_00677.jpg	LOT WQVYH7
+Data/Training/synthetic/syn_00678.jpg	L609I
+Data/Training/synthetic/syn_00679.jpg	HW6U04V5X
+Data/Training/synthetic/syn_00680.jpg	BATCH 3DDHS8
+Data/Training/synthetic/syn_00681.jpg	WR96894HA7
+Data/Training/synthetic/syn_00682.jpg	H7D31VLCY
+Data/Training/synthetic/syn_00683.jpg	L174C
+Data/Training/synthetic/syn_00684.jpg	LOT 2A7WE3
+Data/Training/synthetic/syn_00685.jpg	L4792O
+Data/Training/synthetic/syn_00686.jpg	22/05/2024
+Data/Training/synthetic/syn_00687.jpg	EXP 12MAY24
+Data/Training/synthetic/syn_00688.jpg	VAP1RGK1
+Data/Training/synthetic/syn_00689.jpg	05/01/2024
+Data/Training/synthetic/syn_00690.jpg	L259F
+Data/Training/synthetic/syn_00691.jpg	04/02/2026
+Data/Training/synthetic/syn_00692.jpg	SC65951AZ6
+Data/Training/synthetic/syn_00693.jpg	PL47694WW3
+Data/Training/synthetic/syn_00694.jpg	LOT BLQ2KZ
+Data/Training/synthetic/syn_00695.jpg	V1JWNVFRC
+Data/Training/synthetic/syn_00696.jpg	28072026
+Data/Training/synthetic/syn_00697.jpg	D5IOZLT6
+Data/Training/synthetic/syn_00698.jpg	28042025
+Data/Training/synthetic/syn_00699.jpg	LP44847LP6
+Data/Training/synthetic/syn_00700.jpg	JZ5PMG6GH
+Data/Training/synthetic/syn_00701.jpg	UGMXU4GMNA
+Data/Training/synthetic/syn_00702.jpg	PRD 0RSH1M
+Data/Training/synthetic/syn_00703.jpg	L15033V
+Data/Training/synthetic/syn_00704.jpg	IK56379GV3
+Data/Training/synthetic/syn_00705.jpg	41SU0ICH
+Data/Training/synthetic/syn_00706.jpg	LOT GEEMPW
+Data/Training/synthetic/syn_00707.jpg	L08344K
+Data/Training/synthetic/syn_00708.jpg	20072024
+Data/Training/synthetic/syn_00709.jpg	G2XHUF2F
+Data/Training/synthetic/syn_00710.jpg	23 MAR 24
+Data/Training/synthetic/syn_00711.jpg	L60844D
+Data/Training/synthetic/syn_00712.jpg	EXP 24NOV27
+Data/Training/synthetic/syn_00713.jpg	L36115T
+Data/Training/synthetic/syn_00714.jpg	19/04/2025
+Data/Training/synthetic/syn_00715.jpg	L83963Q
+Data/Training/synthetic/syn_00716.jpg	MT92829YG9
+Data/Training/synthetic/syn_00717.jpg	L14203S
+Data/Training/synthetic/syn_00718.jpg	EXP 24AUG26
+Data/Training/synthetic/syn_00719.jpg	L855M
+Data/Training/synthetic/syn_00720.jpg	L7041B
+Data/Training/synthetic/syn_00721.jpg	0SJKACP8YO
+Data/Training/synthetic/syn_00722.jpg	4Z9DUL8P
+Data/Training/synthetic/syn_00723.jpg	L015Y
+Data/Training/synthetic/syn_00724.jpg	16-11-2027
+Data/Training/synthetic/syn_00725.jpg	10/06/2025
+Data/Training/synthetic/syn_00726.jpg	03 JAN 25
+Data/Training/synthetic/syn_00727.jpg	14042027
+Data/Training/synthetic/syn_00728.jpg	L586K
+Data/Training/synthetic/syn_00729.jpg	UQ86045VZ7
+Data/Training/synthetic/syn_00730.jpg	RU56128YI4
+Data/Training/synthetic/syn_00731.jpg	71P9UN17
+Data/Training/synthetic/syn_00732.jpg	RM25690RD5
+Data/Training/synthetic/syn_00733.jpg	BEST BEFORE 10/01/2025
+Data/Training/synthetic/syn_00734.jpg	L689T
+Data/Training/synthetic/syn_00735.jpg	8TYU03ZX
+Data/Training/synthetic/syn_00736.jpg	MT89445QW1
+Data/Training/synthetic/syn_00737.jpg	PRD RETQTL
+Data/Training/synthetic/syn_00738.jpg	23 JUN 25
+Data/Training/synthetic/syn_00739.jpg	JG26349OR3
+Data/Training/synthetic/syn_00740.jpg	BATCH 0LMSCR
+Data/Training/synthetic/syn_00741.jpg	10092026
+Data/Training/synthetic/syn_00742.jpg	SD20907WQ5
+Data/Training/synthetic/syn_00743.jpg	BEST BEFORE 17/10/2024
+Data/Training/synthetic/syn_00744.jpg	EXP 28NOV26
+Data/Training/synthetic/syn_00745.jpg	BATCH MLF74E
+Data/Training/synthetic/syn_00746.jpg	L183K
+Data/Training/synthetic/syn_00747.jpg	12-02-2026
+Data/Training/synthetic/syn_00748.jpg	LOT Q0MXPK
+Data/Training/synthetic/syn_00749.jpg	PRD 9UTNY7
+Data/Training/synthetic/syn_00750.jpg	12-03-2024
+Data/Training/synthetic/syn_00751.jpg	GN12345DC5
+Data/Training/synthetic/syn_00752.jpg	23 JAN 27
+Data/Training/synthetic/syn_00753.jpg	L2683X
+Data/Training/synthetic/syn_00754.jpg	15 OCT 24
+Data/Training/synthetic/syn_00755.jpg	L2910R
+Data/Training/synthetic/syn_00756.jpg	I62FCR7I5X
+Data/Training/synthetic/syn_00757.jpg	L9266T
+Data/Training/synthetic/syn_00758.jpg	EXP 14NOV25
+Data/Training/synthetic/syn_00759.jpg	13/02/2026
+Data/Training/synthetic/syn_00760.jpg	BATCH 557I4C
+Data/Training/synthetic/syn_00761.jpg	12-12-2024
+Data/Training/synthetic/syn_00762.jpg	TZNK32Z5M
+Data/Training/synthetic/syn_00763.jpg	UZ56806CQ8
+Data/Training/synthetic/syn_00764.jpg	NA28616FD4
+Data/Training/synthetic/syn_00765.jpg	16-03-2027
+Data/Training/synthetic/syn_00766.jpg	8U51WGMPGY
+Data/Training/synthetic/syn_00767.jpg	5V00DYE5EY
+Data/Training/synthetic/syn_00768.jpg	BEST BEFORE 19/02/2026
+Data/Training/synthetic/syn_00769.jpg	L4572K
+Data/Training/synthetic/syn_00770.jpg	140HIT5P
+Data/Training/synthetic/syn_00771.jpg	18/01/2024
+Data/Training/synthetic/syn_00772.jpg	PRD 8HTWFH
+Data/Training/synthetic/syn_00773.jpg	IW80565WO7
+Data/Training/synthetic/syn_00774.jpg	BB 02032025
+Data/Training/synthetic/syn_00775.jpg	15-03-2026
+Data/Training/synthetic/syn_00776.jpg	L0896H
+Data/Training/synthetic/syn_00777.jpg	SQ8Y1BRCYA
+Data/Training/synthetic/syn_00778.jpg	TM34566HX6
+Data/Training/synthetic/syn_00779.jpg	06 DEC 26
+Data/Training/synthetic/syn_00780.jpg	LOT 3SN3KL
+Data/Training/synthetic/syn_00781.jpg	EXP 09APR27
+Data/Training/synthetic/syn_00782.jpg	MR8EQK9G81
+Data/Training/synthetic/syn_00783.jpg	LOT X36Z6Z
+Data/Training/synthetic/syn_00784.jpg	ES44655KG0
+Data/Training/synthetic/syn_00785.jpg	SF64897HQ3
+Data/Training/synthetic/syn_00786.jpg	18-02-2024
+Data/Training/synthetic/syn_00787.jpg	BEST BEFORE 07/11/2025
+Data/Training/synthetic/syn_00788.jpg	BEST BEFORE 15/06/2024
+Data/Training/synthetic/syn_00789.jpg	OLAI3S0Q2T
+Data/Training/synthetic/syn_00790.jpg	8G2NQ92MUF
+Data/Training/synthetic/syn_00791.jpg	PRD WC4SAQ
+Data/Training/synthetic/syn_00792.jpg	L9323C
+Data/Training/synthetic/syn_00793.jpg	QH85553VK7
+Data/Training/synthetic/syn_00794.jpg	L9884G
+Data/Training/synthetic/syn_00795.jpg	DOKP8LSZK9
+Data/Training/synthetic/syn_00796.jpg	PRD 2SBSLR
+Data/Training/synthetic/syn_00797.jpg	BEST BEFORE 17/02/2026
+Data/Training/synthetic/syn_00798.jpg	LOT C0UUQU
+Data/Training/synthetic/syn_00799.jpg	VG42225AP6
+Data/Training/synthetic/syn_00800.jpg	WE08CXKB18
+Data/Training/synthetic/syn_00801.jpg	EXP 18MAR24
+Data/Training/synthetic/syn_00802.jpg	UYAM73ZAEK
+Data/Training/synthetic/syn_00803.jpg	28-01-2025
+Data/Training/synthetic/syn_00804.jpg	BEST BEFORE 10/04/2025
+Data/Training/synthetic/syn_00805.jpg	LV64636IG6
+Data/Training/synthetic/syn_00806.jpg	E7PC6505O
+Data/Training/synthetic/syn_00807.jpg	EXP 24JUN27
+Data/Training/synthetic/syn_00808.jpg	CQ74794OU9
+Data/Training/synthetic/syn_00809.jpg	EXP 23JUN26
+Data/Training/synthetic/syn_00810.jpg	BEST BEFORE 10/01/2027
+Data/Training/synthetic/syn_00811.jpg	11 AUG 24
+Data/Training/synthetic/syn_00812.jpg	PRD 4CMYNK
+Data/Training/synthetic/syn_00813.jpg	04-10-2024
+Data/Training/synthetic/syn_00814.jpg	L07153S
+Data/Training/synthetic/syn_00815.jpg	07 DEC 27
+Data/Training/synthetic/syn_00816.jpg	PI45166XA8
+Data/Training/synthetic/syn_00817.jpg	14 JUN 24
+Data/Training/synthetic/syn_00818.jpg	06/03/2024
+Data/Training/synthetic/syn_00819.jpg	EXP 19DEC26
+Data/Training/synthetic/syn_00820.jpg	XP35617EK8
+Data/Training/synthetic/syn_00821.jpg	PFWD9FOS
+Data/Training/synthetic/syn_00822.jpg	06/09/2027
+Data/Training/synthetic/syn_00823.jpg	BB 10092027
+Data/Training/synthetic/syn_00824.jpg	FTXQNEWZ
+Data/Training/synthetic/syn_00825.jpg	01EKP8LWJ7
+Data/Training/synthetic/syn_00826.jpg	06062027
+Data/Training/synthetic/syn_00827.jpg	ZKSLLJ1NH
+Data/Training/synthetic/syn_00828.jpg	EH25845IP2
+Data/Training/synthetic/syn_00829.jpg	L19923F
+Data/Training/synthetic/syn_00830.jpg	L401X
+Data/Training/synthetic/syn_00831.jpg	BATCH E5A85V
+Data/Training/synthetic/syn_00832.jpg	BATCH BFKTVM
+Data/Training/synthetic/syn_00833.jpg	06/01/2027
+Data/Training/synthetic/syn_00834.jpg	02/08/2024
+Data/Training/synthetic/syn_00835.jpg	QQ59317XT3
+Data/Training/synthetic/syn_00836.jpg	20 NOV 25
+Data/Training/synthetic/syn_00837.jpg	L968I
+Data/Training/synthetic/syn_00838.jpg	18062026
+Data/Training/synthetic/syn_00839.jpg	14102024
+Data/Training/synthetic/syn_00840.jpg	11 JUL 26
+Data/Training/synthetic/syn_00841.jpg	EXP 01SEP25
+Data/Training/synthetic/syn_00842.jpg	BB 07032027
+Data/Training/synthetic/syn_00843.jpg	VD66073HP8
+Data/Training/synthetic/syn_00844.jpg	BEST BEFORE 04/03/2024
+Data/Training/synthetic/syn_00845.jpg	L76873K
+Data/Training/synthetic/syn_00846.jpg	IY84632YT6
+Data/Training/synthetic/syn_00847.jpg	16/12/2027
+Data/Training/synthetic/syn_00848.jpg	21-12-2024
+Data/Training/synthetic/syn_00849.jpg	BB 28102025
+Data/Training/synthetic/syn_00850.jpg	E2ORDGVO
+Data/Training/synthetic/syn_00851.jpg	NYXLFF9N
+Data/Training/synthetic/syn_00852.jpg	HG50161UZ0
+Data/Training/synthetic/syn_00853.jpg	OW30452SI6
+Data/Training/synthetic/syn_00854.jpg	LOT IDW7Q4
+Data/Training/synthetic/syn_00855.jpg	22/09/2027
+Data/Training/synthetic/syn_00856.jpg	TL224XD7
+Data/Training/synthetic/syn_00857.jpg	EXP 10APR24
+Data/Training/synthetic/syn_00858.jpg	9CGQDR68J
+Data/Training/synthetic/syn_00859.jpg	ZM10154ZN9
+Data/Training/synthetic/syn_00860.jpg	02 APR 26
+Data/Training/synthetic/syn_00861.jpg	DU56046UD0
+Data/Training/synthetic/syn_00862.jpg	01 AUG 24
+Data/Training/synthetic/syn_00863.jpg	19122026
+Data/Training/synthetic/syn_00864.jpg	28112027
+Data/Training/synthetic/syn_00865.jpg	K1SBVOKR
+Data/Training/synthetic/syn_00866.jpg	TRBIQPDR6
+Data/Training/synthetic/syn_00867.jpg	05/04/2025
+Data/Training/synthetic/syn_00868.jpg	BATCH U8TQ7P
+Data/Training/synthetic/syn_00869.jpg	BEST BEFORE 04/11/2024
+Data/Training/synthetic/syn_00870.jpg	22032024
+Data/Training/synthetic/syn_00871.jpg	XJ2S0PXH
+Data/Training/synthetic/syn_00872.jpg	L7772X
+Data/Training/synthetic/syn_00873.jpg	L62802R
+Data/Training/synthetic/syn_00874.jpg	21 JAN 27
+Data/Training/synthetic/syn_00875.jpg	BATCH OYPG7L
+Data/Training/synthetic/syn_00876.jpg	10/12/2026
+Data/Training/synthetic/syn_00877.jpg	21092024
+Data/Training/synthetic/syn_00878.jpg	OPIBP9CH3S
+Data/Training/synthetic/syn_00879.jpg	04 APR 24
+Data/Training/synthetic/syn_00880.jpg	11 SEP 25
+Data/Training/synthetic/syn_00881.jpg	L432K
+Data/Training/synthetic/syn_00882.jpg	L68506G
+Data/Training/synthetic/syn_00883.jpg	09 APR 24
+Data/Training/synthetic/syn_00884.jpg	PRD 8AT38J
+Data/Training/synthetic/syn_00885.jpg	WZPSRRUNL
+Data/Training/synthetic/syn_00886.jpg	L52756X
+Data/Training/synthetic/syn_00887.jpg	BATCH WZPKLN
+Data/Training/synthetic/syn_00888.jpg	01102024
+Data/Training/synthetic/syn_00889.jpg	L13071S
+Data/Training/synthetic/syn_00890.jpg	BATCH Q9M3WH
+Data/Training/synthetic/syn_00891.jpg	L078H
+Data/Training/synthetic/syn_00892.jpg	PRD IV1SUL
+Data/Training/synthetic/syn_00893.jpg	EXP 18MAR27
+Data/Training/synthetic/syn_00894.jpg	BB 01112025
+Data/Training/synthetic/syn_00895.jpg	OXTMDJCHT
+Data/Training/synthetic/syn_00896.jpg	24032024
+Data/Training/synthetic/syn_00897.jpg	A9CSJ5VO
+Data/Training/synthetic/syn_00898.jpg	01/06/2026
+Data/Training/synthetic/syn_00899.jpg	BATCH LV426X
+Data/Training/synthetic/syn_00900.jpg	BB 17092025
+Data/Training/synthetic/syn_00901.jpg	QDILKQI8R
+Data/Training/synthetic/syn_00902.jpg	L525F
+Data/Training/synthetic/syn_00903.jpg	PRD 52OUZQ
+Data/Training/synthetic/syn_00904.jpg	03032025
+Data/Training/synthetic/syn_00905.jpg	PH7SCIB3O7
+Data/Training/synthetic/syn_00906.jpg	EXP 05OCT24
+Data/Training/synthetic/syn_00907.jpg	20 NOV 26
+Data/Training/synthetic/syn_00908.jpg	L685R
+Data/Training/synthetic/syn_00909.jpg	BA89594AM9
+Data/Training/synthetic/syn_00910.jpg	BB 24122027
+Data/Training/synthetic/syn_00911.jpg	YZ07381TA6
+Data/Training/synthetic/syn_00912.jpg	LOT YMX3ID
+Data/Training/synthetic/syn_00913.jpg	BI55719IA1
+Data/Training/synthetic/syn_00914.jpg	09 OCT 25
+Data/Training/synthetic/syn_00915.jpg	FK00365MO4
+Data/Training/synthetic/syn_00916.jpg	BEST BEFORE 14/02/2027
+Data/Training/synthetic/syn_00917.jpg	24072025
+Data/Training/synthetic/syn_00918.jpg	L0419O
+Data/Training/synthetic/syn_00919.jpg	EXP 28FEB24
+Data/Training/synthetic/syn_00920.jpg	19/07/2027
+Data/Training/synthetic/syn_00921.jpg	SR59081WZ1
+Data/Training/synthetic/syn_00922.jpg	L348O
+Data/Training/synthetic/syn_00923.jpg	15 JAN 26
+Data/Training/synthetic/syn_00924.jpg	TA97773SY8
+Data/Training/synthetic/syn_00925.jpg	EXP 04FEB24
+Data/Training/synthetic/syn_00926.jpg	TANLHQPC
+Data/Training/synthetic/syn_00927.jpg	EXP 09APR24
+Data/Training/synthetic/syn_00928.jpg	LOT W6IT55
+Data/Training/synthetic/syn_00929.jpg	BATCH 2ZOYRJ
+Data/Training/synthetic/syn_00930.jpg	EXP 26DEC25
+Data/Training/synthetic/syn_00931.jpg	BATCH YVPB5H
+Data/Training/synthetic/syn_00932.jpg	BEST BEFORE 08/11/2024
+Data/Training/synthetic/syn_00933.jpg	GE77176KD5
+Data/Training/synthetic/syn_00934.jpg	Y4SWR890AL
+Data/Training/synthetic/syn_00935.jpg	21012026
+Data/Training/synthetic/syn_00936.jpg	L3119X
+Data/Training/synthetic/syn_00937.jpg	7PB1U1R7
+Data/Training/synthetic/syn_00938.jpg	L3677Y
+Data/Training/synthetic/syn_00939.jpg	BB 23062025
+Data/Training/synthetic/syn_00940.jpg	PRD NXS1C8
+Data/Training/synthetic/syn_00941.jpg	17/01/2026
+Data/Training/synthetic/syn_00942.jpg	06/08/2027
+Data/Training/synthetic/syn_00943.jpg	L05823X
+Data/Training/synthetic/syn_00944.jpg	25 JAN 26
+Data/Training/synthetic/syn_00945.jpg	ERIKXVH41F
+Data/Training/synthetic/syn_00946.jpg	PRD 9CJUJ8
+Data/Training/synthetic/syn_00947.jpg	07-03-2025
+Data/Training/synthetic/syn_00948.jpg	LOT UQRCVG
+Data/Training/synthetic/syn_00949.jpg	DY9XQ43JB
+Data/Training/synthetic/syn_00950.jpg	18/05/2027
+Data/Training/synthetic/syn_00951.jpg	EF31011ND5
+Data/Training/synthetic/syn_00952.jpg	EM35507EC6
+Data/Training/synthetic/syn_00953.jpg	QP88682GO8
+Data/Training/synthetic/syn_00954.jpg	XZ89955RI1
+Data/Training/synthetic/syn_00955.jpg	BB 09122025
+Data/Training/synthetic/syn_00956.jpg	BEST BEFORE 06/12/2026
+Data/Training/synthetic/syn_00957.jpg	L967U
+Data/Training/synthetic/syn_00958.jpg	L565Z
+Data/Training/synthetic/syn_00959.jpg	19042026
+Data/Training/synthetic/syn_00960.jpg	DDO3PM82
+Data/Training/synthetic/syn_00961.jpg	YO25100AK9
+Data/Training/synthetic/syn_00962.jpg	RT52M4JZ
+Data/Training/synthetic/syn_00963.jpg	BATCH Y8SHF7
+Data/Training/synthetic/syn_00964.jpg	L116W
+Data/Training/synthetic/syn_00965.jpg	L41947B
+Data/Training/synthetic/syn_00966.jpg	PRD B1QLAB
+Data/Training/synthetic/syn_00967.jpg	CFFBY9Y1II
+Data/Training/synthetic/syn_00968.jpg	D3SENR88G
+Data/Training/synthetic/syn_00969.jpg	BB 21042024
+Data/Training/synthetic/syn_00970.jpg	BEST BEFORE 06/02/2026
+Data/Training/synthetic/syn_00971.jpg	LQSMWG4W
+Data/Training/synthetic/syn_00972.jpg	CP47861KP2
+Data/Training/synthetic/syn_00973.jpg	09 OCT 24
+Data/Training/synthetic/syn_00974.jpg	EXP 07NOV27
+Data/Training/synthetic/syn_00975.jpg	08112024
+Data/Training/synthetic/syn_00976.jpg	BB 15102026
+Data/Training/synthetic/syn_00977.jpg	2QV55YIFEU
+Data/Training/synthetic/syn_00978.jpg	15072024
+Data/Training/synthetic/syn_00979.jpg	L765V
+Data/Training/synthetic/syn_00980.jpg	VQ73397HV5
+Data/Training/synthetic/syn_00981.jpg	BATCH F0GDPD
+Data/Training/synthetic/syn_00982.jpg	24052027
+Data/Training/synthetic/syn_00983.jpg	L422A
+Data/Training/synthetic/syn_00984.jpg	3XF35253
+Data/Training/synthetic/syn_00985.jpg	BEST BEFORE 20/01/2027
+Data/Training/synthetic/syn_00986.jpg	ZL26435RC0
+Data/Training/synthetic/syn_00987.jpg	F91XMHVEX
+Data/Training/synthetic/syn_00988.jpg	10-10-2027
+Data/Training/synthetic/syn_00989.jpg	09 APR 25
+Data/Training/synthetic/syn_00990.jpg	BB 10052024
+Data/Training/synthetic/syn_00991.jpg	09-10-2026
+Data/Training/synthetic/syn_00992.jpg	L6613U
+Data/Training/synthetic/syn_00993.jpg	09/04/2024
+Data/Training/synthetic/syn_00994.jpg	08/01/2024
+Data/Training/synthetic/syn_00995.jpg	24-09-2025
+Data/Training/synthetic/syn_00996.jpg	M5BM7YMJGA
+Data/Training/synthetic/syn_00997.jpg	L47879Y
+Data/Training/synthetic/syn_00998.jpg	L101O
+Data/Training/synthetic/syn_00999.jpg	23-01-2025
+Data/Training/synthetic/syn_01000.jpg	SU82264NI3
+Data/Training/synthetic/syn_01001.jpg	BEST BEFORE 01/10/2026
+Data/Training/synthetic/syn_01002.jpg	J466DLPYUN
+Data/Training/synthetic/syn_01003.jpg	8OZERFG28
+Data/Training/synthetic/syn_01004.jpg	BEST BEFORE 27/12/2026
+Data/Training/synthetic/syn_01005.jpg	09-03-2027
+Data/Training/synthetic/syn_01006.jpg	EXP 08JAN25
+Data/Training/synthetic/syn_01007.jpg	BATCH UGNMA0
+Data/Training/synthetic/syn_01008.jpg	PRD 74V8P0
+Data/Training/synthetic/syn_01009.jpg	PRD GUOQOR
+Data/Training/synthetic/syn_01010.jpg	13-06-2024
+Data/Training/synthetic/syn_01011.jpg	BATCH 0LKDNB
+Data/Training/synthetic/syn_01012.jpg	X1FQPKU0N
+Data/Training/synthetic/syn_01013.jpg	EXP 21OCT25
+Data/Training/synthetic/syn_01014.jpg	PRD 4HIBYH
+Data/Training/synthetic/syn_01015.jpg	PRD ZS07R2
+Data/Training/synthetic/syn_01016.jpg	EXP 09AUG26
+Data/Training/synthetic/syn_01017.jpg	L6756V
+Data/Training/synthetic/syn_01018.jpg	USHX9P2A9
+Data/Training/synthetic/syn_01019.jpg	EXP 25JUN26
+Data/Training/synthetic/syn_01020.jpg	L04822Z
+Data/Training/synthetic/syn_01021.jpg	BB 06082026
+Data/Training/synthetic/syn_01022.jpg	A4W4C0L97Y
+Data/Training/synthetic/syn_01023.jpg	BATCH N8XYQW
+Data/Training/synthetic/syn_01024.jpg	25012025
+Data/Training/synthetic/syn_01025.jpg	BB 16012027
+Data/Training/synthetic/syn_01026.jpg	BATCH 3EAKUG
+Data/Training/synthetic/syn_01027.jpg	PLT5Q6231
+Data/Training/synthetic/syn_01028.jpg	22-12-2027
+Data/Training/synthetic/syn_01029.jpg	L84046T
+Data/Training/synthetic/syn_01030.jpg	04-11-2024
+Data/Training/synthetic/syn_01031.jpg	CS10390EY2
+Data/Training/synthetic/syn_01032.jpg	L33526T
+Data/Training/synthetic/syn_01033.jpg	BATCH XLEP8M
+Data/Training/synthetic/syn_01034.jpg	L87152M
+Data/Training/synthetic/syn_01035.jpg	BATCH YHEITG
+Data/Training/synthetic/syn_01036.jpg	FS88702NM9
+Data/Training/synthetic/syn_01037.jpg	KP64277NC4
+Data/Training/synthetic/syn_01038.jpg	XP17964RQ8
+Data/Training/synthetic/syn_01039.jpg	PRD ITXUI0
+Data/Training/synthetic/syn_01040.jpg	5TIHPNTX2Z
+Data/Training/synthetic/syn_01041.jpg	BATCH Y3F1M1
+Data/Training/synthetic/syn_01042.jpg	L00343T
+Data/Training/synthetic/syn_01043.jpg	02-08-2025
+Data/Training/synthetic/syn_01044.jpg	BB 14072024
+Data/Training/synthetic/syn_01045.jpg	L38236S
+Data/Training/synthetic/syn_01046.jpg	L391Z
+Data/Training/synthetic/syn_01047.jpg	PRD KR2NXV
+Data/Training/synthetic/syn_01048.jpg	IHBII9FFQ5
+Data/Training/synthetic/syn_01049.jpg	BATCH 75ZLWC
+Data/Training/synthetic/syn_01050.jpg	AAIB5U023
+Data/Training/synthetic/syn_01051.jpg	L4286J
+Data/Training/synthetic/syn_01052.jpg	BB 18102024
+Data/Training/synthetic/syn_01053.jpg	BB 20052024
+Data/Training/synthetic/syn_01054.jpg	EXP 27MAY24
+Data/Training/synthetic/syn_01055.jpg	PRD 5TK0GW
+Data/Training/synthetic/syn_01056.jpg	25/06/2024
+Data/Training/synthetic/syn_01057.jpg	17 MAY 25
+Data/Training/synthetic/syn_01058.jpg	TL52116KV1
+Data/Training/synthetic/syn_01059.jpg	26 MAR 24
+Data/Training/synthetic/syn_01060.jpg	I0GQR4DPJ
+Data/Training/synthetic/syn_01061.jpg	L40531K
+Data/Training/synthetic/syn_01062.jpg	L52323Z
+Data/Training/synthetic/syn_01063.jpg	BEST BEFORE 08/06/2025
+Data/Training/synthetic/syn_01064.jpg	L132Z
+Data/Training/synthetic/syn_01065.jpg	MS48778VV7
+Data/Training/synthetic/syn_01066.jpg	JV77961ID8
+Data/Training/synthetic/syn_01067.jpg	15/08/2027
+Data/Training/synthetic/syn_01068.jpg	E61MX7WT6H
+Data/Training/synthetic/syn_01069.jpg	L180Z
+Data/Training/synthetic/syn_01070.jpg	FT23257WK2
+Data/Training/synthetic/syn_01071.jpg	24 JUL 26
+Data/Training/synthetic/syn_01072.jpg	TO94824OT3
+Data/Training/synthetic/syn_01073.jpg	VO31739NK3
+Data/Training/synthetic/syn_01074.jpg	MQ15038SN8
+Data/Training/synthetic/syn_01075.jpg	20082024
+Data/Training/synthetic/syn_01076.jpg	21022024
+Data/Training/synthetic/syn_01077.jpg	OS06618FZ2
+Data/Training/synthetic/syn_01078.jpg	L16715H
+Data/Training/synthetic/syn_01079.jpg	TM20547XI5
+Data/Training/synthetic/syn_01080.jpg	7D0KF63TPR
+Data/Training/synthetic/syn_01081.jpg	L854L
+Data/Training/synthetic/syn_01082.jpg	L47153K
+Data/Training/synthetic/syn_01083.jpg	R1TO7RBO
+Data/Training/synthetic/syn_01084.jpg	EXP 28JUL24
+Data/Training/synthetic/syn_01085.jpg	BB 22032027
+Data/Training/synthetic/syn_01086.jpg	L861P
+Data/Training/synthetic/syn_01087.jpg	IHRC28S4
+Data/Training/synthetic/syn_01088.jpg	04-03-2025
+Data/Training/synthetic/syn_01089.jpg	L5013V
+Data/Training/synthetic/syn_01090.jpg	LOT RX0IQC
+Data/Training/synthetic/syn_01091.jpg	L76623B
+Data/Training/synthetic/syn_01092.jpg	14-12-2025
+Data/Training/synthetic/syn_01093.jpg	28/08/2026
+Data/Training/synthetic/syn_01094.jpg	L68397I
+Data/Training/synthetic/syn_01095.jpg	L8336P
+Data/Training/synthetic/syn_01096.jpg	L6416S
+Data/Training/synthetic/syn_01097.jpg	L84635P
+Data/Training/synthetic/syn_01098.jpg	12 MAY 25
+Data/Training/synthetic/syn_01099.jpg	XER1WIR8F
+Data/Training/synthetic/syn_01100.jpg	PRD CQ3SND
+Data/Training/synthetic/syn_01101.jpg	J56MIP7DN
+Data/Training/synthetic/syn_01102.jpg	AS73707NU0
+Data/Training/synthetic/syn_01103.jpg	L11087X
+Data/Training/synthetic/syn_01104.jpg	28 FEB 27
+Data/Training/synthetic/syn_01105.jpg	LOT 2VH710
+Data/Training/synthetic/syn_01106.jpg	BB 13032026
+Data/Training/synthetic/syn_01107.jpg	28/08/2027
+Data/Training/synthetic/syn_01108.jpg	BB 02062025
+Data/Training/synthetic/syn_01109.jpg	BB 20042025
+Data/Training/synthetic/syn_01110.jpg	PRD 7WRD5P
+Data/Training/synthetic/syn_01111.jpg	SL29249TW4
+Data/Training/synthetic/syn_01112.jpg	BECTZSXZG
+Data/Training/synthetic/syn_01113.jpg	L07192E
+Data/Training/synthetic/syn_01114.jpg	2QDAUU3Q
+Data/Training/synthetic/syn_01115.jpg	CH24340OH8
+Data/Training/synthetic/syn_01116.jpg	BATCH M1M13G
+Data/Training/synthetic/syn_01117.jpg	EXP 11FEB27
+Data/Training/synthetic/syn_01118.jpg	EXP 13OCT24
+Data/Training/synthetic/syn_01119.jpg	4MOJISX9
+Data/Training/synthetic/syn_01120.jpg	SE05212CJ5
+Data/Training/synthetic/syn_01121.jpg	AV69433EE9
+Data/Training/synthetic/syn_01122.jpg	01042024
+Data/Training/synthetic/syn_01123.jpg	DJO9GKDRF
+Data/Training/synthetic/syn_01124.jpg	RD92889IY0
+Data/Training/synthetic/syn_01125.jpg	PRD C30J87
+Data/Training/synthetic/syn_01126.jpg	LOT I349RB
+Data/Training/synthetic/syn_01127.jpg	BB 11072024
+Data/Training/synthetic/syn_01128.jpg	BEST BEFORE 06/10/2025
+Data/Training/synthetic/syn_01129.jpg	08022025
+Data/Training/synthetic/syn_01130.jpg	BATCH PI9SNO
+Data/Training/synthetic/syn_01131.jpg	C31AX3TJCH
+Data/Training/synthetic/syn_01132.jpg	L4397H
+Data/Training/synthetic/syn_01133.jpg	L512P
+Data/Training/synthetic/syn_01134.jpg	28112024
+Data/Training/synthetic/syn_01135.jpg	07/03/2026
+Data/Training/synthetic/syn_01136.jpg	AQ62749VP2
+Data/Training/synthetic/syn_01137.jpg	L058Z
+Data/Training/synthetic/syn_01138.jpg	TAM7WU9U
+Data/Training/synthetic/syn_01139.jpg	L8865G
+Data/Training/synthetic/syn_01140.jpg	4ZBCYQGVUB
+Data/Training/synthetic/syn_01141.jpg	LOT XZBXOB
+Data/Training/synthetic/syn_01142.jpg	PRD GL8YG6
+Data/Training/synthetic/syn_01143.jpg	BB 14102026
+Data/Training/synthetic/syn_01144.jpg	AU66415ZL5
+Data/Training/synthetic/syn_01145.jpg	EXP 08JUN25
+Data/Training/synthetic/syn_01146.jpg	01-03-2024
+Data/Training/synthetic/syn_01147.jpg	06/02/2024
+Data/Training/synthetic/syn_01148.jpg	EXP 11JAN26
+Data/Training/synthetic/syn_01149.jpg	PRD 73YPFP
+Data/Training/synthetic/syn_01150.jpg	27042027
+Data/Training/synthetic/syn_01151.jpg	BB 10072027
+Data/Training/synthetic/syn_01152.jpg	BATCH Q2D37W
+Data/Training/synthetic/syn_01153.jpg	BEST BEFORE 13/04/2027
+Data/Training/synthetic/syn_01154.jpg	DLESESJRX3
+Data/Training/synthetic/syn_01155.jpg	L189O
+Data/Training/synthetic/syn_01156.jpg	L7020S
+Data/Training/synthetic/syn_01157.jpg	L5897T
+Data/Training/synthetic/syn_01158.jpg	L694M
+Data/Training/synthetic/syn_01159.jpg	11/10/2026
+Data/Training/synthetic/syn_01160.jpg	PDG6PUJJ
+Data/Training/synthetic/syn_01161.jpg	UU03123IJ2
+Data/Training/synthetic/syn_01162.jpg	LOT S4FEBZ
+Data/Training/synthetic/syn_01163.jpg	LOT MLOIX1
+Data/Training/synthetic/syn_01164.jpg	07 SEP 25
+Data/Training/synthetic/syn_01165.jpg	05012026
+Data/Training/synthetic/syn_01166.jpg	EXP 15MAY26
+Data/Training/synthetic/syn_01167.jpg	04-12-2025
+Data/Training/synthetic/syn_01168.jpg	EXP 24NOV25
+Data/Training/synthetic/syn_01169.jpg	BEST BEFORE 18/02/2025
+Data/Training/synthetic/syn_01170.jpg	LOT K2N89D
+Data/Training/synthetic/syn_01171.jpg	WS14688KA8
+Data/Training/synthetic/syn_01172.jpg	L40999T
+Data/Training/synthetic/syn_01173.jpg	L079M
+Data/Training/synthetic/syn_01174.jpg	L47337R
+Data/Training/synthetic/syn_01175.jpg	BEST BEFORE 21/02/2026
+Data/Training/synthetic/syn_01176.jpg	28 APR 25
+Data/Training/synthetic/syn_01177.jpg	UNW1T61FZP
+Data/Training/synthetic/syn_01178.jpg	L0963Q
+Data/Training/synthetic/syn_01179.jpg	PRD 93TC2Q
+Data/Training/synthetic/syn_01180.jpg	WK75332AW0
+Data/Training/synthetic/syn_01181.jpg	FW72934IQ3
+Data/Training/synthetic/syn_01182.jpg	L37566W
+Data/Training/synthetic/syn_01183.jpg	BEST BEFORE 02/04/2026
+Data/Training/synthetic/syn_01184.jpg	BB 12042027
+Data/Training/synthetic/syn_01185.jpg	BEST BEFORE 15/08/2025
+Data/Training/synthetic/syn_01186.jpg	LOT XG4PHO
+Data/Training/synthetic/syn_01187.jpg	15 DEC 27
+Data/Training/synthetic/syn_01188.jpg	BEST BEFORE 22/07/2026
+Data/Training/synthetic/syn_01189.jpg	ZKQROW3Y54
+Data/Training/synthetic/syn_01190.jpg	BB 12082024
+Data/Training/synthetic/syn_01191.jpg	1L5OVGW9
+Data/Training/synthetic/syn_01192.jpg	BATCH 3NO1XD
+Data/Training/synthetic/syn_01193.jpg	0ADZAN22T0
+Data/Training/synthetic/syn_01194.jpg	BB 19062027
+Data/Training/synthetic/syn_01195.jpg	01 MAR 24
+Data/Training/synthetic/syn_01196.jpg	DLL55RX28Y
+Data/Training/synthetic/syn_01197.jpg	22-04-2027
+Data/Training/synthetic/syn_01198.jpg	L817V
+Data/Training/synthetic/syn_01199.jpg	03/01/2025
+Data/Training/synthetic/syn_01200.jpg	PB53472IG3
+Data/Training/synthetic/syn_01201.jpg	PD98261MG9
+Data/Training/synthetic/syn_01202.jpg	CAFFJLF5MC
+Data/Training/synthetic/syn_01203.jpg	BEST BEFORE 02/08/2027
+Data/Training/synthetic/syn_01204.jpg	15-02-2024
+Data/Training/synthetic/syn_01205.jpg	LOT 0JZDXN
+Data/Training/synthetic/syn_01206.jpg	BATCH RHLQ1Q
+Data/Training/synthetic/syn_01207.jpg	G2A0XMEX
+Data/Training/synthetic/syn_01208.jpg	EXP 24JUN26
+Data/Training/synthetic/syn_01209.jpg	08/04/2025
+Data/Training/synthetic/syn_01210.jpg	TU20755OY2
+Data/Training/synthetic/syn_01211.jpg	L440C
+Data/Training/synthetic/syn_01212.jpg	L069R
+Data/Training/synthetic/syn_01213.jpg	L55957U
+Data/Training/synthetic/syn_01214.jpg	OP25833DG1
+Data/Training/synthetic/syn_01215.jpg	LOT G4JKUT
+Data/Training/synthetic/syn_01216.jpg	28092024
+Data/Training/synthetic/syn_01217.jpg	BB 19102026
+Data/Training/synthetic/syn_01218.jpg	ZJ05126MW8
+Data/Training/synthetic/syn_01219.jpg	BEST BEFORE 03/11/2024
+Data/Training/synthetic/syn_01220.jpg	17072027
+Data/Training/synthetic/syn_01221.jpg	GN23822RX6
+Data/Training/synthetic/syn_01222.jpg	W67O83BLHQ
+Data/Training/synthetic/syn_01223.jpg	BATCH MO6CFM
+Data/Training/synthetic/syn_01224.jpg	L33187X
+Data/Training/synthetic/syn_01225.jpg	13-02-2025
+Data/Training/synthetic/syn_01226.jpg	L2411H
+Data/Training/synthetic/syn_01227.jpg	16-05-2026
+Data/Training/synthetic/syn_01228.jpg	PRD TIRFWS
+Data/Training/synthetic/syn_01229.jpg	OT89310NQ1
+Data/Training/synthetic/syn_01230.jpg	18/06/2026
+Data/Training/synthetic/syn_01231.jpg	PRD 1FLBNQ
+Data/Training/synthetic/syn_01232.jpg	12/05/2027
+Data/Training/synthetic/syn_01233.jpg	BATCH B60POU
+Data/Training/synthetic/syn_01234.jpg	TO01539IG8
+Data/Training/synthetic/syn_01235.jpg	BATCH YHT9OR
+Data/Training/synthetic/syn_01236.jpg	BB 02102026
+Data/Training/synthetic/syn_01237.jpg	16/04/2024
+Data/Training/synthetic/syn_01238.jpg	L49922A
+Data/Training/synthetic/syn_01239.jpg	L558G
+Data/Training/synthetic/syn_01240.jpg	BEST BEFORE 11/03/2025
+Data/Training/synthetic/syn_01241.jpg	ZGJRAYDCS1
+Data/Training/synthetic/syn_01242.jpg	BEST BEFORE 14/01/2027
+Data/Training/synthetic/syn_01243.jpg	L657S
+Data/Training/synthetic/syn_01244.jpg	PRD YR8SNS
+Data/Training/synthetic/syn_01245.jpg	L78882S
+Data/Training/synthetic/syn_01246.jpg	UK13719IF3
+Data/Training/synthetic/syn_01247.jpg	L319T
+Data/Training/synthetic/syn_01248.jpg	18-03-2026
+Data/Training/synthetic/syn_01249.jpg	20072025
+Data/Training/synthetic/syn_01250.jpg	L60912B
+Data/Training/synthetic/syn_01251.jpg	CKYSZCUQC
+Data/Training/synthetic/syn_01252.jpg	17 JUN 24
+Data/Training/synthetic/syn_01253.jpg	L1029R
+Data/Training/synthetic/syn_01254.jpg	DHPHOCEZ
+Data/Training/synthetic/syn_01255.jpg	IM39042WA9
+Data/Training/synthetic/syn_01256.jpg	BUY88T3PG
+Data/Training/synthetic/syn_01257.jpg	BEST BEFORE 05/04/2026
+Data/Training/synthetic/syn_01258.jpg	L6197N
+Data/Training/synthetic/syn_01259.jpg	MB48749TH5
+Data/Training/synthetic/syn_01260.jpg	L7290G
+Data/Training/synthetic/syn_01261.jpg	BATCH ZEB5NY
+Data/Training/synthetic/syn_01262.jpg	L3535I
+Data/Training/synthetic/syn_01263.jpg	EXP 14MAR24
+Data/Training/synthetic/syn_01264.jpg	BEST BEFORE 22/10/2025
+Data/Training/synthetic/syn_01265.jpg	L706E
+Data/Training/synthetic/syn_01266.jpg	9SJQ0IOS5
+Data/Training/synthetic/syn_01267.jpg	L970E
+Data/Training/synthetic/syn_01268.jpg	GX9XDBF2EZ
+Data/Training/synthetic/syn_01269.jpg	UP09995UB3
+Data/Training/synthetic/syn_01270.jpg	PRD S5XFEQ
+Data/Training/synthetic/syn_01271.jpg	27052026
+Data/Training/synthetic/syn_01272.jpg	EXP 25JUL26
+Data/Training/synthetic/syn_01273.jpg	12-12-2027
+Data/Training/synthetic/syn_01274.jpg	09/01/2024
+Data/Training/synthetic/syn_01275.jpg	24/02/2024
+Data/Training/synthetic/syn_01276.jpg	GS11507CS7
+Data/Training/synthetic/syn_01277.jpg	L7373F
+Data/Training/synthetic/syn_01278.jpg	03 NOV 26
+Data/Training/synthetic/syn_01279.jpg	09 FEB 24
+Data/Training/synthetic/syn_01280.jpg	CZ06901RP1
+Data/Training/synthetic/syn_01281.jpg	15/03/2024
+Data/Training/synthetic/syn_01282.jpg	HP18291WI1
+Data/Training/synthetic/syn_01283.jpg	17022025
+Data/Training/synthetic/syn_01284.jpg	L90889M
+Data/Training/synthetic/syn_01285.jpg	CX35518SG9
+Data/Training/synthetic/syn_01286.jpg	NC00542QZ5
+Data/Training/synthetic/syn_01287.jpg	K8C695I4N
+Data/Training/synthetic/syn_01288.jpg	L060H
+Data/Training/synthetic/syn_01289.jpg	EXP 15MAY24
+Data/Training/synthetic/syn_01290.jpg	L941L
+Data/Training/synthetic/syn_01291.jpg	WTBQSKHHK
+Data/Training/synthetic/syn_01292.jpg	24122024
+Data/Training/synthetic/syn_01293.jpg	BATCH 6V1MGE
+Data/Training/synthetic/syn_01294.jpg	PJ57JDX3
+Data/Training/synthetic/syn_01295.jpg	LOT GJ33RN
+Data/Training/synthetic/syn_01296.jpg	Y7Z80SZJ8M
+Data/Training/synthetic/syn_01297.jpg	WF4IX6935
+Data/Training/synthetic/syn_01298.jpg	GI97001BI6
+Data/Training/synthetic/syn_01299.jpg	1366JIHN
+Data/Training/synthetic/syn_01300.jpg	A1WCDOZII
+Data/Training/synthetic/syn_01301.jpg	BEST BEFORE 01/02/2026
+Data/Training/synthetic/syn_01302.jpg	BATCH S3IAJN
+Data/Training/synthetic/syn_01303.jpg	LRDS36SLER
+Data/Training/synthetic/syn_01304.jpg	L40701P
+Data/Training/synthetic/syn_01305.jpg	JEVYPG1GFV
+Data/Training/synthetic/syn_01306.jpg	BEST BEFORE 02/05/2026
+Data/Training/synthetic/syn_01307.jpg	OD3F2FIEFH
+Data/Training/synthetic/syn_01308.jpg	EXP 23JUN24
+Data/Training/synthetic/syn_01309.jpg	RJ02976AO2
+Data/Training/synthetic/syn_01310.jpg	18/04/2027
+Data/Training/synthetic/syn_01311.jpg	1N3RIQXCL
+Data/Training/synthetic/syn_01312.jpg	BB 15062026
+Data/Training/synthetic/syn_01313.jpg	01/05/2027
+Data/Training/synthetic/syn_01314.jpg	22122024
+Data/Training/synthetic/syn_01315.jpg	22-11-2026
+Data/Training/synthetic/syn_01316.jpg	09-09-2024
+Data/Training/synthetic/syn_01317.jpg	ZT61756ME0
+Data/Training/synthetic/syn_01318.jpg	07/11/2027
+Data/Training/synthetic/syn_01319.jpg	BB 16072025
+Data/Training/synthetic/syn_01320.jpg	BB 19072026
+Data/Training/synthetic/syn_01321.jpg	HS00647BI9
+Data/Training/synthetic/syn_01322.jpg	PRD 6OQVWQ
+Data/Training/synthetic/syn_01323.jpg	BATCH VLEADU
+Data/Training/synthetic/syn_01324.jpg	GD98478XX0
+Data/Training/synthetic/syn_01325.jpg	S89N3ZDM
+Data/Training/synthetic/syn_01326.jpg	HR71PHYJ
+Data/Training/synthetic/syn_01327.jpg	RD92444AH8
+Data/Training/synthetic/syn_01328.jpg	WD08826LH9
+Data/Training/synthetic/syn_01329.jpg	BATCH NVV1G1
+Data/Training/synthetic/syn_01330.jpg	BEST BEFORE 26/11/2024
+Data/Training/synthetic/syn_01331.jpg	J3KUAJLXU
+Data/Training/synthetic/syn_01332.jpg	L111H
+Data/Training/synthetic/syn_01333.jpg	BH33189WW0
+Data/Training/synthetic/syn_01334.jpg	LOT 12A2GE
+Data/Training/synthetic/syn_01335.jpg	QU83843QM0
+Data/Training/synthetic/syn_01336.jpg	L55905Y
+Data/Training/synthetic/syn_01337.jpg	BEST BEFORE 23/01/2026
+Data/Training/synthetic/syn_01338.jpg	L106O
+Data/Training/synthetic/syn_01339.jpg	TR42262KV9
+Data/Training/synthetic/syn_01340.jpg	G53CA2OUW
+Data/Training/synthetic/syn_01341.jpg	PRD NA7WYB
+Data/Training/synthetic/syn_01342.jpg	08/05/2025
+Data/Training/synthetic/syn_01343.jpg	PRD 0A57D0
+Data/Training/synthetic/syn_01344.jpg	BB 19052026
+Data/Training/synthetic/syn_01345.jpg	15/03/2026
+Data/Training/synthetic/syn_01346.jpg	BATCH 33AMM9
+Data/Training/synthetic/syn_01347.jpg	AY93332MC8
+Data/Training/synthetic/syn_01348.jpg	07/08/2027
+Data/Training/synthetic/syn_01349.jpg	C291XD6YM
+Data/Training/synthetic/syn_01350.jpg	JG11891CT3
+Data/Training/synthetic/syn_01351.jpg	09/10/2027
+Data/Training/synthetic/syn_01352.jpg	QV98249HF9
+Data/Training/synthetic/syn_01353.jpg	18 DEC 25
+Data/Training/synthetic/syn_01354.jpg	L032U
+Data/Training/synthetic/syn_01355.jpg	01-08-2027
+Data/Training/synthetic/syn_01356.jpg	EFPSNU0W
+Data/Training/synthetic/syn_01357.jpg	8J96Z7L64
+Data/Training/synthetic/syn_01358.jpg	VE87582JB1
+Data/Training/synthetic/syn_01359.jpg	HY64342MI3
+Data/Training/synthetic/syn_01360.jpg	BATCH OISEW6
+Data/Training/synthetic/syn_01361.jpg	BATCH RYDWN0
+Data/Training/synthetic/syn_01362.jpg	A58JKKMQ
+Data/Training/synthetic/syn_01363.jpg	L7222J
+Data/Training/synthetic/syn_01364.jpg	WLSC6ZM6
+Data/Training/synthetic/syn_01365.jpg	TY49888MA3
+Data/Training/synthetic/syn_01366.jpg	21092026
+Data/Training/synthetic/syn_01367.jpg	XG81013PB4
+Data/Training/synthetic/syn_01368.jpg	VIHEX9JZ
+Data/Training/synthetic/syn_01369.jpg	22 MAY 26
+Data/Training/synthetic/syn_01370.jpg	BB 11102024
+Data/Training/synthetic/syn_01371.jpg	EM86167YP4
+Data/Training/synthetic/syn_01372.jpg	BATCH 2GV2WX
+Data/Training/synthetic/syn_01373.jpg	IKRMZW9SEY
+Data/Training/synthetic/syn_01374.jpg	PRD PHZTWM
+Data/Training/synthetic/syn_01375.jpg	JB79443ON2
+Data/Training/synthetic/syn_01376.jpg	LOT 4I85C1
+Data/Training/synthetic/syn_01377.jpg	L59152X
+Data/Training/synthetic/syn_01378.jpg	BEST BEFORE 18/03/2024
+Data/Training/synthetic/syn_01379.jpg	20/04/2026
+Data/Training/synthetic/syn_01380.jpg	BATCH T76N1H
+Data/Training/synthetic/syn_01381.jpg	NVUKGA2TQ
+Data/Training/synthetic/syn_01382.jpg	PK10709MY7
+Data/Training/synthetic/syn_01383.jpg	BATCH 9C5YV9
+Data/Training/synthetic/syn_01384.jpg	L099E
+Data/Training/synthetic/syn_01385.jpg	BB 20102026
+Data/Training/synthetic/syn_01386.jpg	L09914C
+Data/Training/synthetic/syn_01387.jpg	25112024
+Data/Training/synthetic/syn_01388.jpg	BEST BEFORE 16/04/2024
+Data/Training/synthetic/syn_01389.jpg	12062025
+Data/Training/synthetic/syn_01390.jpg	BB 25052025
+Data/Training/synthetic/syn_01391.jpg	6EZ5F5XKJ7
+Data/Training/synthetic/syn_01392.jpg	BEST BEFORE 12/10/2025
+Data/Training/synthetic/syn_01393.jpg	EG38804GY3
+Data/Training/synthetic/syn_01394.jpg	DB65696GT2
+Data/Training/synthetic/syn_01395.jpg	L19430W
+Data/Training/synthetic/syn_01396.jpg	L020Z
+Data/Training/synthetic/syn_01397.jpg	BEST BEFORE 02/03/2027
+Data/Training/synthetic/syn_01398.jpg	22/12/2027
+Data/Training/synthetic/syn_01399.jpg	LOT QOVH0C
+Data/Training/synthetic/syn_01400.jpg	EXP 05JUL24
+Data/Training/synthetic/syn_01401.jpg	BATCH D117XA
+Data/Training/synthetic/syn_01402.jpg	EXP 13FEB26
+Data/Training/synthetic/syn_01403.jpg	BB 13082026
+Data/Training/synthetic/syn_01404.jpg	R9ZFDPS6
+Data/Training/synthetic/syn_01405.jpg	PRD K9D6NZ
+Data/Training/synthetic/syn_01406.jpg	BATCH 2UF2B6
+Data/Training/synthetic/syn_01407.jpg	22/10/2025
+Data/Training/synthetic/syn_01408.jpg	EXP 17SEP25
+Data/Training/synthetic/syn_01409.jpg	BATCH DTM8ZF
+Data/Training/synthetic/syn_01410.jpg	WT19976OC0
+Data/Training/synthetic/syn_01411.jpg	VX52864CR4
+Data/Training/synthetic/syn_01412.jpg	BATCH IL1LR5
+Data/Training/synthetic/syn_01413.jpg	BEST BEFORE 13/12/2026
+Data/Training/synthetic/syn_01414.jpg	RI62185XY9
+Data/Training/synthetic/syn_01415.jpg	LOT WW8WCS
+Data/Training/synthetic/syn_01416.jpg	BATCH XPDTUU
+Data/Training/synthetic/syn_01417.jpg	L9972E
+Data/Training/synthetic/syn_01418.jpg	09-01-2027
+Data/Training/synthetic/syn_01419.jpg	BEST BEFORE 19/06/2027
+Data/Training/synthetic/syn_01420.jpg	HJ36908DZ1
+Data/Training/synthetic/syn_01421.jpg	LOT 9JOY8G
+Data/Training/synthetic/syn_01422.jpg	TT72810MV1
+Data/Training/synthetic/syn_01423.jpg	07112026
+Data/Training/synthetic/syn_01424.jpg	L0568N
+Data/Training/synthetic/syn_01425.jpg	LOT RTE0C2
+Data/Training/synthetic/syn_01426.jpg	BEST BEFORE 05/11/2026
+Data/Training/synthetic/syn_01427.jpg	L1TCKS31V
+Data/Training/synthetic/syn_01428.jpg	LOT 9D0IWO
+Data/Training/synthetic/syn_01429.jpg	U39YEID1MI
+Data/Training/synthetic/syn_01430.jpg	03 JAN 24
+Data/Training/synthetic/syn_01431.jpg	LOT 29URAK
+Data/Training/synthetic/syn_01432.jpg	EXP 23APR26
+Data/Training/synthetic/syn_01433.jpg	EXP 04OCT25
+Data/Training/synthetic/syn_01434.jpg	WCTFZHKZ
+Data/Training/synthetic/syn_01435.jpg	SV69586NB0
+Data/Training/synthetic/syn_01436.jpg	PRD KT9FKJ
+Data/Training/synthetic/syn_01437.jpg	QY66725QH0
+Data/Training/synthetic/syn_01438.jpg	BB 13062027
+Data/Training/synthetic/syn_01439.jpg	L46574P
+Data/Training/synthetic/syn_01440.jpg	EXP 28SEP26
+Data/Training/synthetic/syn_01441.jpg	BEST BEFORE 08/04/2024
+Data/Training/synthetic/syn_01442.jpg	L66472V
+Data/Training/synthetic/syn_01443.jpg	QK62449CL7
+Data/Training/synthetic/syn_01444.jpg	BEST BEFORE 25/06/2024
+Data/Training/synthetic/syn_01445.jpg	BATCH 3FWUO1
+Data/Training/synthetic/syn_01446.jpg	BATCH EQE9WT
+Data/Training/synthetic/syn_01447.jpg	42P9F3STJ6
+Data/Training/synthetic/syn_01448.jpg	EXP 01MAR24
+Data/Training/synthetic/syn_01449.jpg	LOT U1EEO2
+Data/Training/synthetic/syn_01450.jpg	JA43286KL8
+Data/Training/synthetic/syn_01451.jpg	L402G
+Data/Training/synthetic/syn_01452.jpg	F5P8W6T8
+Data/Training/synthetic/syn_01453.jpg	BB 16102026
+Data/Training/synthetic/syn_01454.jpg	DB3MRWO8
+Data/Training/synthetic/syn_01455.jpg	BB 09122024
+Data/Training/synthetic/syn_01456.jpg	EXP 14JUL24
+Data/Training/synthetic/syn_01457.jpg	LOT JMW8MA
+Data/Training/synthetic/syn_01458.jpg	YWRQNL4AGV
+Data/Training/synthetic/syn_01459.jpg	BEST BEFORE 26/03/2027
+Data/Training/synthetic/syn_01460.jpg	BB 22032025
+Data/Training/synthetic/syn_01461.jpg	05 JUN 25
+Data/Training/synthetic/syn_01462.jpg	BUYF0N81
+Data/Training/synthetic/syn_01463.jpg	08-06-2026
+Data/Training/synthetic/syn_01464.jpg	VH36501AX2
+Data/Training/synthetic/syn_01465.jpg	EXP 18DEC25
+Data/Training/synthetic/syn_01466.jpg	CZ77610KG6
+Data/Training/synthetic/syn_01467.jpg	L752U
+Data/Training/synthetic/syn_01468.jpg	PRD II5K1A
+Data/Training/synthetic/syn_01469.jpg	01 MAY 25
+Data/Training/synthetic/syn_01470.jpg	03-08-2026
+Data/Training/synthetic/syn_01471.jpg	EXP 06AUG24
+Data/Training/synthetic/syn_01472.jpg	BEST BEFORE 09/02/2024
+Data/Training/synthetic/syn_01473.jpg	LF39677EM7
+Data/Training/synthetic/syn_01474.jpg	BO04197WX4
+Data/Training/synthetic/syn_01475.jpg	F3D9LP80
+Data/Training/synthetic/syn_01476.jpg	EXP 01JUL26
+Data/Training/synthetic/syn_01477.jpg	DJ67893WK9
+Data/Training/synthetic/syn_01478.jpg	BEST BEFORE 16/08/2027
+Data/Training/synthetic/syn_01479.jpg	BEST BEFORE 23/02/2025
+Data/Training/synthetic/syn_01480.jpg	20 MAR 24
+Data/Training/synthetic/syn_01481.jpg	23012025
+Data/Training/synthetic/syn_01482.jpg	BATCH 9RU8E1
+Data/Training/synthetic/syn_01483.jpg	AR40695WD5
+Data/Training/synthetic/syn_01484.jpg	BATCH X1VOS4
+Data/Training/synthetic/syn_01485.jpg	L252O
+Data/Training/synthetic/syn_01486.jpg	EXP 16JUL25
+Data/Training/synthetic/syn_01487.jpg	L66349Z
+Data/Training/synthetic/syn_01488.jpg	PRD TAZIPC
+Data/Training/synthetic/syn_01489.jpg	PRD BK5TJG
+Data/Training/synthetic/syn_01490.jpg	L33586R
+Data/Training/synthetic/syn_01491.jpg	CE38329RU8
+Data/Training/synthetic/syn_01492.jpg	L4825D
+Data/Training/synthetic/syn_01493.jpg	YU79086UQ9
+Data/Training/synthetic/syn_01494.jpg	UZ30156IT5
+Data/Training/synthetic/syn_01495.jpg	18102025
+Data/Training/synthetic/syn_01496.jpg	13 SEP 24
+Data/Training/synthetic/syn_01497.jpg	L28060G
+Data/Training/synthetic/syn_01498.jpg	AL36673MM5
+Data/Training/synthetic/syn_01499.jpg	28 FEB 25
+Data/Training/synthetic/syn_01500.jpg	16 OCT 25
+Data/Training/synthetic/syn_01501.jpg	21-03-2026
+Data/Training/synthetic/syn_01502.jpg	06-03-2025
+Data/Training/synthetic/syn_01503.jpg	10032024
+Data/Training/synthetic/syn_01504.jpg	PX3TTT7M
+Data/Training/synthetic/syn_01505.jpg	L86233X
+Data/Training/synthetic/syn_01506.jpg	10/03/2027
+Data/Training/synthetic/syn_01507.jpg	L23495L
+Data/Training/synthetic/syn_01508.jpg	SI51507BE2
+Data/Training/synthetic/syn_01509.jpg	BEST BEFORE 23/06/2027
+Data/Training/synthetic/syn_01510.jpg	BEST BEFORE 24/12/2027
+Data/Training/synthetic/syn_01511.jpg	L810D
+Data/Training/synthetic/syn_01512.jpg	BEST BEFORE 04/10/2026
+Data/Training/synthetic/syn_01513.jpg	BB 05032027
+Data/Training/synthetic/syn_01514.jpg	8N17SS698N
+Data/Training/synthetic/syn_01515.jpg	16-09-2026
+Data/Training/synthetic/syn_01516.jpg	RJ04584PI1
+Data/Training/synthetic/syn_01517.jpg	14-06-2027
+Data/Training/synthetic/syn_01518.jpg	BB92177PT8
+Data/Training/synthetic/syn_01519.jpg	BEST BEFORE 01/04/2025
+Data/Training/synthetic/syn_01520.jpg	EXP 27MAR25
+Data/Training/synthetic/syn_01521.jpg	MJ72667VJ9
+Data/Training/synthetic/syn_01522.jpg	EXP 03NOV24
+Data/Training/synthetic/syn_01523.jpg	L950A
+Data/Training/synthetic/syn_01524.jpg	RQ97951DR0
+Data/Training/synthetic/syn_01525.jpg	BB 25062026
+Data/Training/synthetic/syn_01526.jpg	L95144I
+Data/Training/synthetic/syn_01527.jpg	BEST BEFORE 17/09/2024
+Data/Training/synthetic/syn_01528.jpg	23-10-2027
+Data/Training/synthetic/syn_01529.jpg	BB 24012027
+Data/Training/synthetic/syn_01530.jpg	BEST BEFORE 14/04/2026
+Data/Training/synthetic/syn_01531.jpg	L350R
+Data/Training/synthetic/syn_01532.jpg	BEST BEFORE 22/07/2024
+Data/Training/synthetic/syn_01533.jpg	25 MAR 26
+Data/Training/synthetic/syn_01534.jpg	TGV6HUIF
+Data/Training/synthetic/syn_01535.jpg	AS13438WX2
+Data/Training/synthetic/syn_01536.jpg	EXP 12FEB27
+Data/Training/synthetic/syn_01537.jpg	L8559Y
+Data/Training/synthetic/syn_01538.jpg	LOT C6H7LG
+Data/Training/synthetic/syn_01539.jpg	BB 12022024
+Data/Training/synthetic/syn_01540.jpg	17/09/2024
+Data/Training/synthetic/syn_01541.jpg	IY23758QZ7
+Data/Training/synthetic/syn_01542.jpg	BATCH Z4L7VY
+Data/Training/synthetic/syn_01543.jpg	L0804H
+Data/Training/synthetic/syn_01544.jpg	17/03/2026
+Data/Training/synthetic/syn_01545.jpg	FW03291LQ2
+Data/Training/synthetic/syn_01546.jpg	IL54176KP3
+Data/Training/synthetic/syn_01547.jpg	PRD L6LNX6
+Data/Training/synthetic/syn_01548.jpg	28 AUG 24
+Data/Training/synthetic/syn_01549.jpg	BATCH E5ACLR
+Data/Training/synthetic/syn_01550.jpg	22-01-2025
+Data/Training/synthetic/syn_01551.jpg	27-11-2025
+Data/Training/synthetic/syn_01552.jpg	KW34060VO6
+Data/Training/synthetic/syn_01553.jpg	L34820A
+Data/Training/synthetic/syn_01554.jpg	LOT U3N1FB
+Data/Training/synthetic/syn_01555.jpg	L1409Y
+Data/Training/synthetic/syn_01556.jpg	BATCH VTPVBC
+Data/Training/synthetic/syn_01557.jpg	OI49511BW7
+Data/Training/synthetic/syn_01558.jpg	MNC3N47ZBV
+Data/Training/synthetic/syn_01559.jpg	BB 05032026
+Data/Training/synthetic/syn_01560.jpg	BB 08022027
+Data/Training/synthetic/syn_01561.jpg	20012026
+Data/Training/synthetic/syn_01562.jpg	PRD 0UXV87
+Data/Training/synthetic/syn_01563.jpg	L9583P
+Data/Training/synthetic/syn_01564.jpg	YGLRFWRJI
+Data/Training/synthetic/syn_01565.jpg	18052026
+Data/Training/synthetic/syn_01566.jpg	LOT L0R3TT
+Data/Training/synthetic/syn_01567.jpg	DSLJFIHR2O
+Data/Training/synthetic/syn_01568.jpg	IQ2AP7JK7
+Data/Training/synthetic/syn_01569.jpg	CJ32703IW6
+Data/Training/synthetic/syn_01570.jpg	L87498X
+Data/Training/synthetic/syn_01571.jpg	LOT ZTWW2T
+Data/Training/synthetic/syn_01572.jpg	PRD 03CZGT
+Data/Training/synthetic/syn_01573.jpg	L1041I
+Data/Training/synthetic/syn_01574.jpg	14042024
+Data/Training/synthetic/syn_01575.jpg	PY91964MI8
+Data/Training/synthetic/syn_01576.jpg	BEST BEFORE 13/05/2024
+Data/Training/synthetic/syn_01577.jpg	GEJIY8K4
+Data/Training/synthetic/syn_01578.jpg	BATCH 0ZIB6B
+Data/Training/synthetic/syn_01579.jpg	BEST BEFORE 02/01/2024
+Data/Training/synthetic/syn_01580.jpg	25 MAR 27
+Data/Training/synthetic/syn_01581.jpg	EXP 01NOV25
+Data/Training/synthetic/syn_01582.jpg	L665N
+Data/Training/synthetic/syn_01583.jpg	24 DEC 27
+Data/Training/synthetic/syn_01584.jpg	GPLEKPA96L
+Data/Training/synthetic/syn_01585.jpg	L97004V
+Data/Training/synthetic/syn_01586.jpg	BB 03032024
+Data/Training/synthetic/syn_01587.jpg	62UOCH7R5
+Data/Training/synthetic/syn_01588.jpg	PRD I2D1ON
+Data/Training/synthetic/syn_01589.jpg	DQ65233DB8
+Data/Training/synthetic/syn_01590.jpg	X3SZJICFME
+Data/Training/synthetic/syn_01591.jpg	L580J
+Data/Training/synthetic/syn_01592.jpg	PJBTTXXL0
+Data/Training/synthetic/syn_01593.jpg	L0446H
+Data/Training/synthetic/syn_01594.jpg	L735O
+Data/Training/synthetic/syn_01595.jpg	L1896B
+Data/Training/synthetic/syn_01596.jpg	KG97902UN5
+Data/Training/synthetic/syn_01597.jpg	VJ01855QX1
+Data/Training/synthetic/syn_01598.jpg	25022024
+Data/Training/synthetic/syn_01599.jpg	BEST BEFORE 05/12/2025
+Data/Training/synthetic/syn_01600.jpg	18/12/2024
+Data/Training/synthetic/syn_01601.jpg	L67163D
+Data/Training/synthetic/syn_01602.jpg	AE37304JK8
+Data/Training/synthetic/syn_01603.jpg	X81VJDVKIZ
+Data/Training/synthetic/syn_01604.jpg	04062026
+Data/Training/synthetic/syn_01605.jpg	GH53643AO2
+Data/Training/synthetic/syn_01606.jpg	EYSBUOQ6W
+Data/Training/synthetic/syn_01607.jpg	L22551F
+Data/Training/synthetic/syn_01608.jpg	1HWCHWKU
+Data/Training/synthetic/syn_01609.jpg	L496W
+Data/Training/synthetic/syn_01610.jpg	69C2180BD
+Data/Training/synthetic/syn_01611.jpg	L2944N
+Data/Training/synthetic/syn_01612.jpg	BB 07112027
+Data/Training/synthetic/syn_01613.jpg	06-09-2024
+Data/Training/synthetic/syn_01614.jpg	L2201F
+Data/Training/synthetic/syn_01615.jpg	LOT RLMUUC
+Data/Training/synthetic/syn_01616.jpg	BEST BEFORE 07/08/2024
+Data/Training/synthetic/syn_01617.jpg	L417G
+Data/Training/synthetic/syn_01618.jpg	HSEUF9Q36X
+Data/Training/synthetic/syn_01619.jpg	TP75299II8
+Data/Training/synthetic/syn_01620.jpg	IL8OMR52
+Data/Training/synthetic/syn_01621.jpg	ST71808XC9
+Data/Training/synthetic/syn_01622.jpg	01 SEP 27
+Data/Training/synthetic/syn_01623.jpg	BATCH 537PGC
+Data/Training/synthetic/syn_01624.jpg	RC86997KU3
+Data/Training/synthetic/syn_01625.jpg	14/03/2024
+Data/Training/synthetic/syn_01626.jpg	EXP 15DEC27
+Data/Training/synthetic/syn_01627.jpg	L336D
+Data/Training/synthetic/syn_01628.jpg	BATCH VRJK6Q
+Data/Training/synthetic/syn_01629.jpg	BB 06112026
+Data/Training/synthetic/syn_01630.jpg	L3792T
+Data/Training/synthetic/syn_01631.jpg	EG336Q12
+Data/Training/synthetic/syn_01632.jpg	EXP 26AUG27
+Data/Training/synthetic/syn_01633.jpg	BATCH 6LDORK
+Data/Training/synthetic/syn_01634.jpg	BB 04042024
+Data/Training/synthetic/syn_01635.jpg	VW8FEV4Y
+Data/Training/synthetic/syn_01636.jpg	ED73867RJ5
+Data/Training/synthetic/syn_01637.jpg	L6382H
+Data/Training/synthetic/syn_01638.jpg	20-10-2026
+Data/Training/synthetic/syn_01639.jpg	L88216M
+Data/Training/synthetic/syn_01640.jpg	EXP 28JUN24
+Data/Training/synthetic/syn_01641.jpg	CU77813AY6
+Data/Training/synthetic/syn_01642.jpg	GQ36423JE0
+Data/Training/synthetic/syn_01643.jpg	04 JAN 26
+Data/Training/synthetic/syn_01644.jpg	EN85690FK2
+Data/Training/synthetic/syn_01645.jpg	12 JUN 24
+Data/Training/synthetic/syn_01646.jpg	14-03-2027
+Data/Training/synthetic/syn_01647.jpg	JL16832MS8
+Data/Training/synthetic/syn_01648.jpg	L7971B
+Data/Training/synthetic/syn_01649.jpg	PRD 7NVO64
+Data/Training/synthetic/syn_01650.jpg	L531B
+Data/Training/synthetic/syn_01651.jpg	L25720A
+Data/Training/synthetic/syn_01652.jpg	15 JUN 27
+Data/Training/synthetic/syn_01653.jpg	LBWI7GBUOB
+Data/Training/synthetic/syn_01654.jpg	XFBIMD6PDU
+Data/Training/synthetic/syn_01655.jpg	B6E4JNXBK4
+Data/Training/synthetic/syn_01656.jpg	BB 09122027
+Data/Training/synthetic/syn_01657.jpg	PRD 5KNODZ
+Data/Training/synthetic/syn_01658.jpg	RO85171XG6
+Data/Training/synthetic/syn_01659.jpg	BB 22102026
+Data/Training/synthetic/syn_01660.jpg	EDL1H6KH
+Data/Training/synthetic/syn_01661.jpg	BATCH J3ANH1
+Data/Training/synthetic/syn_01662.jpg	EXP 13DEC24
+Data/Training/synthetic/syn_01663.jpg	L150C
+Data/Training/synthetic/syn_01664.jpg	BB 23032027
+Data/Training/synthetic/syn_01665.jpg	EXP 05NOV27
+Data/Training/synthetic/syn_01666.jpg	LOT ZOGAPJ
+Data/Training/synthetic/syn_01667.jpg	12/03/2025
+Data/Training/synthetic/syn_01668.jpg	L71330B
+Data/Training/synthetic/syn_01669.jpg	IX96901QQ3
+Data/Training/synthetic/syn_01670.jpg	L2150W
+Data/Training/synthetic/syn_01671.jpg	02/04/2027
+Data/Training/synthetic/syn_01672.jpg	ZZ73873QH8
+Data/Training/synthetic/syn_01673.jpg	H8UK8HH7
+Data/Training/synthetic/syn_01674.jpg	Y3566BNK
+Data/Training/synthetic/syn_01675.jpg	VI94163FL5
+Data/Training/synthetic/syn_01676.jpg	BE02038PB7
+Data/Training/synthetic/syn_01677.jpg	0PAPZTR3C
+Data/Training/synthetic/syn_01678.jpg	02-07-2026
+Data/Training/synthetic/syn_01679.jpg	WN02444GK0
+Data/Training/synthetic/syn_01680.jpg	BATCH 61XNII
+Data/Training/synthetic/syn_01681.jpg	6M8U8YBBO4
+Data/Training/synthetic/syn_01682.jpg	04/08/2026
+Data/Training/synthetic/syn_01683.jpg	L01412F
+Data/Training/synthetic/syn_01684.jpg	PRD Q2U287
+Data/Training/synthetic/syn_01685.jpg	L75110T
+Data/Training/synthetic/syn_01686.jpg	28/09/2026
+Data/Training/synthetic/syn_01687.jpg	BATCH RDTB8A
+Data/Training/synthetic/syn_01688.jpg	24 DEC 24
+Data/Training/synthetic/syn_01689.jpg	BB 05062026
+Data/Training/synthetic/syn_01690.jpg	BATCH KXLAZD
+Data/Training/synthetic/syn_01691.jpg	LOT FNCGE0
+Data/Training/synthetic/syn_01692.jpg	EXP 24OCT25
+Data/Training/synthetic/syn_01693.jpg	LOT ICS3FH
+Data/Training/synthetic/syn_01694.jpg	BATCH QDYE3K
+Data/Training/synthetic/syn_01695.jpg	EDJUKL1Z4
+Data/Training/synthetic/syn_01696.jpg	BB 12112025
+Data/Training/synthetic/syn_01697.jpg	BATCH 543D74
+Data/Training/synthetic/syn_01698.jpg	BB 16112026
+Data/Training/synthetic/syn_01699.jpg	02/04/2025
+Data/Training/synthetic/syn_01700.jpg	TQ04243VT3
+Data/Training/synthetic/syn_01701.jpg	EXP 08AUG24
+Data/Training/synthetic/syn_01702.jpg	RS09522MQ9
+Data/Training/synthetic/syn_01703.jpg	PRD 6I45EI
+Data/Training/synthetic/syn_01704.jpg	SG39L9TUBZ
+Data/Training/synthetic/syn_01705.jpg	Z125DMIE44
+Data/Training/synthetic/syn_01706.jpg	S1IDZOECR
+Data/Training/synthetic/syn_01707.jpg	NM99763JS0
+Data/Training/synthetic/syn_01708.jpg	N1YDGSMO
+Data/Training/synthetic/syn_01709.jpg	PRD M0Z1RC
+Data/Training/synthetic/syn_01710.jpg	L273U
+Data/Training/synthetic/syn_01711.jpg	IQ31587WI7
+Data/Training/synthetic/syn_01712.jpg	20112027
+Data/Training/synthetic/syn_01713.jpg	13/05/2024
+Data/Training/synthetic/syn_01714.jpg	L68730S
+Data/Training/synthetic/syn_01715.jpg	L149Q
+Data/Training/synthetic/syn_01716.jpg	15 JUL 24
+Data/Training/synthetic/syn_01717.jpg	L0242V
+Data/Training/synthetic/syn_01718.jpg	07-02-2026
+Data/Training/synthetic/syn_01719.jpg	EXP 11JUL24
+Data/Training/synthetic/syn_01720.jpg	L379T
+Data/Training/synthetic/syn_01721.jpg	10 APR 26
+Data/Training/synthetic/syn_01722.jpg	27102027
+Data/Training/synthetic/syn_01723.jpg	LSN6I7J9
+Data/Training/synthetic/syn_01724.jpg	EXP 01OCT26
+Data/Training/synthetic/syn_01725.jpg	TM58461PR8
+Data/Training/synthetic/syn_01726.jpg	28/07/2024
+Data/Training/synthetic/syn_01727.jpg	44JPFEECSZ
+Data/Training/synthetic/syn_01728.jpg	FK6SA221Y
+Data/Training/synthetic/syn_01729.jpg	PRD JRIJCV
+Data/Training/synthetic/syn_01730.jpg	WWFR8BU3
+Data/Training/synthetic/syn_01731.jpg	BB 17122027
+Data/Training/synthetic/syn_01732.jpg	UYJ3JIVG2
+Data/Training/synthetic/syn_01733.jpg	L683N
+Data/Training/synthetic/syn_01734.jpg	17012027
+Data/Training/synthetic/syn_01735.jpg	DZ04941VC5
+Data/Training/synthetic/syn_01736.jpg	5YMHTL9IVV
+Data/Training/synthetic/syn_01737.jpg	13/11/2024
+Data/Training/synthetic/syn_01738.jpg	EXP 02SEP24
+Data/Training/synthetic/syn_01739.jpg	HS05101KR0
+Data/Training/synthetic/syn_01740.jpg	UN23039QP8
+Data/Training/synthetic/syn_01741.jpg	L7641M
+Data/Training/synthetic/syn_01742.jpg	L63348M
+Data/Training/synthetic/syn_01743.jpg	27012024
+Data/Training/synthetic/syn_01744.jpg	EXP 25OCT26
+Data/Training/synthetic/syn_01745.jpg	SMOAZ25A
+Data/Training/synthetic/syn_01746.jpg	L663K
+Data/Training/synthetic/syn_01747.jpg	BZXX9RLD6
+Data/Training/synthetic/syn_01748.jpg	L23609L
+Data/Training/synthetic/syn_01749.jpg	PRD BS227E
+Data/Training/synthetic/syn_01750.jpg	01/06/2025
+Data/Training/synthetic/syn_01751.jpg	05-10-2025
+Data/Training/synthetic/syn_01752.jpg	MUN0NOF0
+Data/Training/synthetic/syn_01753.jpg	15 MAR 24
+Data/Training/synthetic/syn_01754.jpg	07-06-2024
+Data/Training/synthetic/syn_01755.jpg	L46819S
+Data/Training/synthetic/syn_01756.jpg	5026F7GN
+Data/Training/synthetic/syn_01757.jpg	L57249C
+Data/Training/synthetic/syn_01758.jpg	26022027
+Data/Training/synthetic/syn_01759.jpg	BEST BEFORE 27/05/2027
+Data/Training/synthetic/syn_01760.jpg	BEST BEFORE 18/08/2027
+Data/Training/synthetic/syn_01761.jpg	LOT 4DFB17
+Data/Training/synthetic/syn_01762.jpg	14 APR 25
+Data/Training/synthetic/syn_01763.jpg	BEST BEFORE 23/12/2027
+Data/Training/synthetic/syn_01764.jpg	EI95028FU8
+Data/Training/synthetic/syn_01765.jpg	TQ86071BQ3
+Data/Training/synthetic/syn_01766.jpg	PU11081WM2
+Data/Training/synthetic/syn_01767.jpg	20 FEB 26
+Data/Training/synthetic/syn_01768.jpg	MQ92786GO3
+Data/Training/synthetic/syn_01769.jpg	L5918A
+Data/Training/synthetic/syn_01770.jpg	06-09-2027
+Data/Training/synthetic/syn_01771.jpg	EXP 10MAR25
+Data/Training/synthetic/syn_01772.jpg	L25721X
+Data/Training/synthetic/syn_01773.jpg	L9048C
+Data/Training/synthetic/syn_01774.jpg	3028JNU1
+Data/Training/synthetic/syn_01775.jpg	BEST BEFORE 18/12/2025
+Data/Training/synthetic/syn_01776.jpg	LOT WYNH66
+Data/Training/synthetic/syn_01777.jpg	BEST BEFORE 04/02/2027
+Data/Training/synthetic/syn_01778.jpg	BATCH 0Z2N8P
+Data/Training/synthetic/syn_01779.jpg	79MJR098
+Data/Training/synthetic/syn_01780.jpg	14112024
+Data/Training/synthetic/syn_01781.jpg	L6321Y
+Data/Training/synthetic/syn_01782.jpg	N8NNCZ11E
+Data/Training/synthetic/syn_01783.jpg	PRD T2V4SP
+Data/Training/synthetic/syn_01784.jpg	L02579T
+Data/Training/synthetic/syn_01785.jpg	DL58121WG9
+Data/Training/synthetic/syn_01786.jpg	JN91258UJ9
+Data/Training/synthetic/syn_01787.jpg	2FYKBXGS
+Data/Training/synthetic/syn_01788.jpg	ZX91097SC8
+Data/Training/synthetic/syn_01789.jpg	KP59096IL1
+Data/Training/synthetic/syn_01790.jpg	EXP 16NOV24
+Data/Training/synthetic/syn_01791.jpg	06/12/2026
+Data/Training/synthetic/syn_01792.jpg	L249L
+Data/Training/synthetic/syn_01793.jpg	EXP 04SEP27
+Data/Training/synthetic/syn_01794.jpg	19 SEP 27
+Data/Training/synthetic/syn_01795.jpg	10112027
+Data/Training/synthetic/syn_01796.jpg	01012027
+Data/Training/synthetic/syn_01797.jpg	XL80555ID1
+Data/Training/synthetic/syn_01798.jpg	09/07/2027
+Data/Training/synthetic/syn_01799.jpg	27052025
+Data/Training/synthetic/syn_01800.jpg	PRD NLYIBA
+Data/Training/synthetic/syn_01801.jpg	L99265J
+Data/Training/synthetic/syn_01802.jpg	BATCH QVTR7U
+Data/Training/synthetic/syn_01803.jpg	BEST BEFORE 10/02/2024
+Data/Training/synthetic/syn_01804.jpg	XJ7ZMLAJ
+Data/Training/synthetic/syn_01805.jpg	BATCH 2B6J2Q
+Data/Training/synthetic/syn_01806.jpg	BEST BEFORE 08/10/2027
+Data/Training/synthetic/syn_01807.jpg	KL17254CV3
+Data/Training/synthetic/syn_01808.jpg	L133G
+Data/Training/synthetic/syn_01809.jpg	BATCH XLWLKM
+Data/Training/synthetic/syn_01810.jpg	EXP 23SEP27
+Data/Training/synthetic/syn_01811.jpg	EV06012LC3
+Data/Training/synthetic/syn_01812.jpg	18/12/2025
+Data/Training/synthetic/syn_01813.jpg	12-05-2025
+Data/Training/synthetic/syn_01814.jpg	L010Q
+Data/Training/synthetic/syn_01815.jpg	BB 26112026
+Data/Training/synthetic/syn_01816.jpg	BATCH YDALO2
+Data/Training/synthetic/syn_01817.jpg	83NPCA0S42
+Data/Training/synthetic/syn_01818.jpg	L815X
+Data/Training/synthetic/syn_01819.jpg	EXP 01MAY25
+Data/Training/synthetic/syn_01820.jpg	BEST BEFORE 27/10/2024
+Data/Training/synthetic/syn_01821.jpg	20 JUL 24
+Data/Training/synthetic/syn_01822.jpg	SHUEM0ZS9
+Data/Training/synthetic/syn_01823.jpg	KN39546SQ8
+Data/Training/synthetic/syn_01824.jpg	JB35673QZ3
+Data/Training/synthetic/syn_01825.jpg	LEMKD1BIMT
+Data/Training/synthetic/syn_01826.jpg	23 JAN 24
+Data/Training/synthetic/syn_01827.jpg	22-09-2025
+Data/Training/synthetic/syn_01828.jpg	HJ13472FE2
+Data/Training/synthetic/syn_01829.jpg	SK65PE94
+Data/Training/synthetic/syn_01830.jpg	14122024
+Data/Training/synthetic/syn_01831.jpg	05/11/2024
+Data/Training/synthetic/syn_01832.jpg	PRD SZQK9U
+Data/Training/synthetic/syn_01833.jpg	BB 25012025
+Data/Training/synthetic/syn_01834.jpg	PRD KBXB3Z
+Data/Training/synthetic/syn_01835.jpg	10/10/2027
+Data/Training/synthetic/syn_01836.jpg	L60070Y
+Data/Training/synthetic/syn_01837.jpg	EXP 12DEC24
+Data/Training/synthetic/syn_01838.jpg	11/08/2027
+Data/Training/synthetic/syn_01839.jpg	08042025
+Data/Training/synthetic/syn_01840.jpg	BB 22022026
+Data/Training/synthetic/syn_01841.jpg	14-02-2024
+Data/Training/synthetic/syn_01842.jpg	01/08/2025
+Data/Training/synthetic/syn_01843.jpg	3RWRBP5Y4
+Data/Training/synthetic/syn_01844.jpg	BEST BEFORE 12/09/2024
+Data/Training/synthetic/syn_01845.jpg	L061S
+Data/Training/synthetic/syn_01846.jpg	BEST BEFORE 06/01/2026
+Data/Training/synthetic/syn_01847.jpg	CH44288WE1
+Data/Training/synthetic/syn_01848.jpg	MP1YU1T0
+Data/Training/synthetic/syn_01849.jpg	08 JAN 24
+Data/Training/synthetic/syn_01850.jpg	EXP 17JUL26
+Data/Training/synthetic/syn_01851.jpg	PU70545FH4
+Data/Training/synthetic/syn_01852.jpg	0WXSU0ET
+Data/Training/synthetic/syn_01853.jpg	9VHGFVIO
+Data/Training/synthetic/syn_01854.jpg	28-07-2024
+Data/Training/synthetic/syn_01855.jpg	EXP 09JAN25
+Data/Training/synthetic/syn_01856.jpg	S4EDZ54J3R
+Data/Training/synthetic/syn_01857.jpg	BATCH PCWLZ2
+Data/Training/synthetic/syn_01858.jpg	BEST BEFORE 23/05/2027
+Data/Training/synthetic/syn_01859.jpg	HO22760TR8
+Data/Training/synthetic/syn_01860.jpg	LOT MY5HVW
+Data/Training/synthetic/syn_01861.jpg	AX10544PU9
+Data/Training/synthetic/syn_01862.jpg	15/12/2026
+Data/Training/synthetic/syn_01863.jpg	08 FEB 25
+Data/Training/synthetic/syn_01864.jpg	VVP5GDMA
+Data/Training/synthetic/syn_01865.jpg	13-03-2027
+Data/Training/synthetic/syn_01866.jpg	PRD YIDB5P
+Data/Training/synthetic/syn_01867.jpg	NT55254FX7
+Data/Training/synthetic/syn_01868.jpg	PRD 04ER9N
+Data/Training/synthetic/syn_01869.jpg	BEST BEFORE 03/12/2024
+Data/Training/synthetic/syn_01870.jpg	20/09/2025
+Data/Training/synthetic/syn_01871.jpg	13-06-2027
+Data/Training/synthetic/syn_01872.jpg	L07187H
+Data/Training/synthetic/syn_01873.jpg	07/04/2026
+Data/Training/synthetic/syn_01874.jpg	7BUVI3HA
+Data/Training/synthetic/syn_01875.jpg	PRD OQ1JKX
+Data/Training/synthetic/syn_01876.jpg	LOT REY75H
+Data/Training/synthetic/syn_01877.jpg	CT61984VP6
+Data/Training/synthetic/syn_01878.jpg	28112026
+Data/Training/synthetic/syn_01879.jpg	16 JUN 24
+Data/Training/synthetic/syn_01880.jpg	24052024
+Data/Training/synthetic/syn_01881.jpg	27/05/2024
+Data/Training/synthetic/syn_01882.jpg	18/06/2024
+Data/Training/synthetic/syn_01883.jpg	JNMNVCW8EY
+Data/Training/synthetic/syn_01884.jpg	05-12-2027
+Data/Training/synthetic/syn_01885.jpg	18/04/2025
+Data/Training/synthetic/syn_01886.jpg	L331J
+Data/Training/synthetic/syn_01887.jpg	08032026
+Data/Training/synthetic/syn_01888.jpg	MF07210CB3
+Data/Training/synthetic/syn_01889.jpg	PRD G5SGDU
+Data/Training/synthetic/syn_01890.jpg	EXP 23AUG27
+Data/Training/synthetic/syn_01891.jpg	PRD QRQ8XJ
+Data/Training/synthetic/syn_01892.jpg	L2497G
+Data/Training/synthetic/syn_01893.jpg	PRD 9RAYEV
+Data/Training/synthetic/syn_01894.jpg	DFUZURH7KF
+Data/Training/synthetic/syn_01895.jpg	5BQA7PCZL
+Data/Training/synthetic/syn_01896.jpg	8XIZUNLVB
+Data/Training/synthetic/syn_01897.jpg	EXP 24JAN24
+Data/Training/synthetic/syn_01898.jpg	BEST BEFORE 20/02/2025
+Data/Training/synthetic/syn_01899.jpg	VJ29830HX8
+Data/Training/synthetic/syn_01900.jpg	L548R
+Data/Training/synthetic/syn_01901.jpg	BB 01122026
+Data/Training/synthetic/syn_01902.jpg	PRD UVNYDA
+Data/Training/synthetic/syn_01903.jpg	03-01-2027
+Data/Training/synthetic/syn_01904.jpg	L226V
+Data/Training/synthetic/syn_01905.jpg	IT22307QI2
+Data/Training/synthetic/syn_01906.jpg	BB 09062027
+Data/Training/synthetic/syn_01907.jpg	24042024
+Data/Training/synthetic/syn_01908.jpg	8VZ6KWXJ59
+Data/Training/synthetic/syn_01909.jpg	OJ52869AT5
+Data/Training/synthetic/syn_01910.jpg	L3333Y
+Data/Training/synthetic/syn_01911.jpg	EXP 04DEC26
+Data/Training/synthetic/syn_01912.jpg	LR84018GJ4
+Data/Training/synthetic/syn_01913.jpg	18-11-2024
+Data/Training/synthetic/syn_01914.jpg	26 DEC 24
+Data/Training/synthetic/syn_01915.jpg	PL88832YT5
+Data/Training/synthetic/syn_01916.jpg	28 JAN 27
+Data/Training/synthetic/syn_01917.jpg	28 MAY 25
+Data/Training/synthetic/syn_01918.jpg	24 MAR 24
+Data/Training/synthetic/syn_01919.jpg	15/10/2026
+Data/Training/synthetic/syn_01920.jpg	EXP 19NOV26
+Data/Training/synthetic/syn_01921.jpg	BEST BEFORE 01/01/2027
+Data/Training/synthetic/syn_01922.jpg	UM8QU7MBE
+Data/Training/synthetic/syn_01923.jpg	BB 13082025
+Data/Training/synthetic/syn_01924.jpg	L1148A
+Data/Training/synthetic/syn_01925.jpg	2JQB9BTH9
+Data/Training/synthetic/syn_01926.jpg	L00853R
+Data/Training/synthetic/syn_01927.jpg	13 FEB 25
+Data/Training/synthetic/syn_01928.jpg	BB 22042027
+Data/Training/synthetic/syn_01929.jpg	EXP 07APR24
+Data/Training/synthetic/syn_01930.jpg	AO77237GO6
+Data/Training/synthetic/syn_01931.jpg	CL11233IM8
+Data/Training/synthetic/syn_01932.jpg	15-01-2026
+Data/Training/synthetic/syn_01933.jpg	21-12-2027
+Data/Training/synthetic/syn_01934.jpg	BATCH 51ZM58
+Data/Training/synthetic/syn_01935.jpg	BB 13012026
+Data/Training/synthetic/syn_01936.jpg	S0TRSYZ9AM
+Data/Training/synthetic/syn_01937.jpg	SM99N74C
+Data/Training/synthetic/syn_01938.jpg	XQS38VR13
+Data/Training/synthetic/syn_01939.jpg	07/08/2025
+Data/Training/synthetic/syn_01940.jpg	BATCH SP2M8P
+Data/Training/synthetic/syn_01941.jpg	PRD RKMSIX
+Data/Training/synthetic/syn_01942.jpg	L09539T
+Data/Training/synthetic/syn_01943.jpg	JO21072ZO7
+Data/Training/synthetic/syn_01944.jpg	BATCH ILFMO6
+Data/Training/synthetic/syn_01945.jpg	L3550W
+Data/Training/synthetic/syn_01946.jpg	L6418M
+Data/Training/synthetic/syn_01947.jpg	UO72972YD4
+Data/Training/synthetic/syn_01948.jpg	SZK4T47D4
+Data/Training/synthetic/syn_01949.jpg	17/09/2025
+Data/Training/synthetic/syn_01950.jpg	LOT R4ZTIQ
+Data/Training/synthetic/syn_01951.jpg	EXP 15APR24
+Data/Training/synthetic/syn_01952.jpg	CTTGM2EE
+Data/Training/synthetic/syn_01953.jpg	06082024
+Data/Training/synthetic/syn_01954.jpg	BY30744JK8
+Data/Training/synthetic/syn_01955.jpg	LS791TLFV
+Data/Training/synthetic/syn_01956.jpg	BATCH OIZ9VE
+Data/Training/synthetic/syn_01957.jpg	80QSL1NHE3
+Data/Training/synthetic/syn_01958.jpg	PRD N497IR
+Data/Training/synthetic/syn_01959.jpg	RO29738KU8
+Data/Training/synthetic/syn_01960.jpg	EXP 20MAR25
+Data/Training/synthetic/syn_01961.jpg	0RJKPWDIFJ
+Data/Training/synthetic/syn_01962.jpg	L845J
+Data/Training/synthetic/syn_01963.jpg	BATCH O1MXDF
+Data/Training/synthetic/syn_01964.jpg	BB 27052026
+Data/Training/synthetic/syn_01965.jpg	L613P
+Data/Training/synthetic/syn_01966.jpg	BATCH ZODKSN
+Data/Training/synthetic/syn_01967.jpg	14/10/2024
+Data/Training/synthetic/syn_01968.jpg	ZYXO7428B
+Data/Training/synthetic/syn_01969.jpg	L4937X
+Data/Training/synthetic/syn_01970.jpg	EUW9QE6S
+Data/Training/synthetic/syn_01971.jpg	BATCH G7M2DO
+Data/Training/synthetic/syn_01972.jpg	63X270YEK
+Data/Training/synthetic/syn_01973.jpg	JO93860AT7
+Data/Training/synthetic/syn_01974.jpg	28 OCT 27
+Data/Training/synthetic/syn_01975.jpg	23/07/2027
+Data/Training/synthetic/syn_01976.jpg	L084Y
+Data/Training/synthetic/syn_01977.jpg	GMM76UA0S2
+Data/Training/synthetic/syn_01978.jpg	L37331Z
+Data/Training/synthetic/syn_01979.jpg	4SMQB20PML
+Data/Training/synthetic/syn_01980.jpg	GR61172HZ2
+Data/Training/synthetic/syn_01981.jpg	EXP 15MAY27
+Data/Training/synthetic/syn_01982.jpg	26 MAY 26
+Data/Training/synthetic/syn_01983.jpg	L1097X
+Data/Training/synthetic/syn_01984.jpg	LOT 6SB27G
+Data/Training/synthetic/syn_01985.jpg	10 NOV 24
+Data/Training/synthetic/syn_01986.jpg	02 DEC 26
+Data/Training/synthetic/syn_01987.jpg	324STQ6WZ
+Data/Training/synthetic/syn_01988.jpg	JK05368RL8
+Data/Training/synthetic/syn_01989.jpg	D0IUD7I5JB
+Data/Training/synthetic/syn_01990.jpg	BATCH 4FEHYJ
+Data/Training/synthetic/syn_01991.jpg	03 APR 26
+Data/Training/synthetic/syn_01992.jpg	TQ2QGW0H
+Data/Training/synthetic/syn_01993.jpg	01-02-2025
+Data/Training/synthetic/syn_01994.jpg	05 OCT 25
+Data/Training/synthetic/syn_01995.jpg	ZP09048RD8
+Data/Training/synthetic/syn_01996.jpg	16 JUN 25
+Data/Training/synthetic/syn_01997.jpg	SFDNONS878
+Data/Training/synthetic/syn_01998.jpg	BB 19122025
+Data/Training/synthetic/syn_01999.jpg	LOT 3701QX
+Data/Training/synthetic/syn_02000.jpg	ZZ46179VC1
+Data/Training/synthetic/syn_02001.jpg	BB 16092025
+Data/Training/synthetic/syn_02002.jpg	BB 06032025
+Data/Training/synthetic/syn_02003.jpg	OH99484RK7
+Data/Training/synthetic/syn_02004.jpg	LOT K9RWX9
+Data/Training/synthetic/syn_02005.jpg	5FUO8RRBSA
+Data/Training/synthetic/syn_02006.jpg	BATCH AONP43
+Data/Training/synthetic/syn_02007.jpg	L1340C
+Data/Training/synthetic/syn_02008.jpg	25-02-2027
+Data/Training/synthetic/syn_02009.jpg	20022024
+Data/Training/synthetic/syn_02010.jpg	AQ73245VA0
+Data/Training/synthetic/syn_02011.jpg	23-08-2024
+Data/Training/synthetic/syn_02012.jpg	L496B
+Data/Training/synthetic/syn_02013.jpg	BATCH YUD7DC
+Data/Training/synthetic/syn_02014.jpg	05 FEB 27
+Data/Training/synthetic/syn_02015.jpg	12-11-2027
+Data/Training/synthetic/syn_02016.jpg	BB 23042025
+Data/Training/synthetic/syn_02017.jpg	LOT IG1OV8
+Data/Training/synthetic/syn_02018.jpg	03 DEC 27
+Data/Training/synthetic/syn_02019.jpg	L9742Y
+Data/Training/synthetic/syn_02020.jpg	AWP65IFW0
+Data/Training/synthetic/syn_02021.jpg	MG54950FH6
+Data/Training/synthetic/syn_02022.jpg	5YC5EHQ220
+Data/Training/synthetic/syn_02023.jpg	IK60214LP7
+Data/Training/synthetic/syn_02024.jpg	EXP 24MAR25
+Data/Training/synthetic/syn_02025.jpg	UX74183QI2
+Data/Training/synthetic/syn_02026.jpg	06 NOV 26
+Data/Training/synthetic/syn_02027.jpg	TM3KXSX3S
+Data/Training/synthetic/syn_02028.jpg	L03181R
+Data/Training/synthetic/syn_02029.jpg	HFJSZBEBCO
+Data/Training/synthetic/syn_02030.jpg	UG90088UG3
+Data/Training/synthetic/syn_02031.jpg	BATCH FQHZFV
+Data/Training/synthetic/syn_02032.jpg	6BY8EXE3TZ
+Data/Training/synthetic/syn_02033.jpg	AJ66590TG7
+Data/Training/synthetic/syn_02034.jpg	T74MWXHZ4
+Data/Training/synthetic/syn_02035.jpg	25 OCT 25
+Data/Training/synthetic/syn_02036.jpg	PRD 4M1RT9
+Data/Training/synthetic/syn_02037.jpg	12-03-2026
+Data/Training/synthetic/syn_02038.jpg	BATCH RH3I6S
+Data/Training/synthetic/syn_02039.jpg	GEAG22WAK2
+Data/Training/synthetic/syn_02040.jpg	05O0FMZS
+Data/Training/synthetic/syn_02041.jpg	BB 12072025
+Data/Training/synthetic/syn_02042.jpg	SHMEKDTT8
+Data/Training/synthetic/syn_02043.jpg	LOT CFDUFY
+Data/Training/synthetic/syn_02044.jpg	BEST BEFORE 05/03/2027
+Data/Training/synthetic/syn_02045.jpg	BEST BEFORE 23/08/2026
+Data/Training/synthetic/syn_02046.jpg	BEST BEFORE 23/06/2024
+Data/Training/synthetic/syn_02047.jpg	13/07/2025
+Data/Training/synthetic/syn_02048.jpg	QC59190MC6
+Data/Training/synthetic/syn_02049.jpg	XW7FJB2XY
+Data/Training/synthetic/syn_02050.jpg	EH65962BD0
+Data/Training/synthetic/syn_02051.jpg	31VZATAO5
+Data/Training/synthetic/syn_02052.jpg	L6830C
+Data/Training/synthetic/syn_02053.jpg	DB03109IX1
+Data/Training/synthetic/syn_02054.jpg	LOT RV3CQD
+Data/Training/synthetic/syn_02055.jpg	EPSSKATS
+Data/Training/synthetic/syn_02056.jpg	PRD TKH7C7
+Data/Training/synthetic/syn_02057.jpg	L512M
+Data/Training/synthetic/syn_02058.jpg	03042027
+Data/Training/synthetic/syn_02059.jpg	SA78819QZ9
+Data/Training/synthetic/syn_02060.jpg	22/02/2026
+Data/Training/synthetic/syn_02061.jpg	27102024
+Data/Training/synthetic/syn_02062.jpg	02 JAN 24
+Data/Training/synthetic/syn_02063.jpg	14-10-2025
+Data/Training/synthetic/syn_02064.jpg	LOT 9BBJ7R
+Data/Training/synthetic/syn_02065.jpg	MIAPDVCLQ6
+Data/Training/synthetic/syn_02066.jpg	27062027
+Data/Training/synthetic/syn_02067.jpg	MF71651DW2
+Data/Training/synthetic/syn_02068.jpg	EXP 12JUN24
+Data/Training/synthetic/syn_02069.jpg	PRD 5TVR6P
+Data/Training/synthetic/syn_02070.jpg	BB 17042025
+Data/Training/synthetic/syn_02071.jpg	OF90736IW0
+Data/Training/synthetic/syn_02072.jpg	L61409F
+Data/Training/synthetic/syn_02073.jpg	EXP 10MAR26
+Data/Training/synthetic/syn_02074.jpg	EXP 02JUL26
+Data/Training/synthetic/syn_02075.jpg	18 FEB 25
+Data/Training/synthetic/syn_02076.jpg	PRD ARYQ5G
+Data/Training/synthetic/syn_02077.jpg	BB 28052027
+Data/Training/synthetic/syn_02078.jpg	RK20743BR7
+Data/Training/synthetic/syn_02079.jpg	LOT K1OCNS
+Data/Training/synthetic/syn_02080.jpg	EXP 22AUG25
+Data/Training/synthetic/syn_02081.jpg	22 AUG 26
+Data/Training/synthetic/syn_02082.jpg	02102027
+Data/Training/synthetic/syn_02083.jpg	14/06/2024
+Data/Training/synthetic/syn_02084.jpg	NX63056VZ9
+Data/Training/synthetic/syn_02085.jpg	L3663G
+Data/Training/synthetic/syn_02086.jpg	LOT LJXW5U
+Data/Training/synthetic/syn_02087.jpg	BATCH ZX1UZW
+Data/Training/synthetic/syn_02088.jpg	3BKD03M72
+Data/Training/synthetic/syn_02089.jpg	28/11/2025
+Data/Training/synthetic/syn_02090.jpg	PRD MRRY6W
+Data/Training/synthetic/syn_02091.jpg	05032027
+Data/Training/synthetic/syn_02092.jpg	PRD WWSWCG
+Data/Training/synthetic/syn_02093.jpg	BMIPMFP9ME
+Data/Training/synthetic/syn_02094.jpg	UY59530LB2
+Data/Training/synthetic/syn_02095.jpg	BB 17012024
+Data/Training/synthetic/syn_02096.jpg	3WMUCK19T
+Data/Training/synthetic/syn_02097.jpg	L23435C
+Data/Training/synthetic/syn_02098.jpg	BEST BEFORE 04/12/2026
+Data/Training/synthetic/syn_02099.jpg	L70258H
+Data/Training/synthetic/syn_02100.jpg	EXP 23JUN27
+Data/Training/synthetic/syn_02101.jpg	KQVF0NYZGI
+Data/Training/synthetic/syn_02102.jpg	PRD 8VR3SW
+Data/Training/synthetic/syn_02103.jpg	UUMJF8AYH
+Data/Training/synthetic/syn_02104.jpg	LOT 7RORZP
+Data/Training/synthetic/syn_02105.jpg	L4888Z
+Data/Training/synthetic/syn_02106.jpg	LPZMQBHH
+Data/Training/synthetic/syn_02107.jpg	28-02-2024
+Data/Training/synthetic/syn_02108.jpg	RO9PU3PFG8
+Data/Training/synthetic/syn_02109.jpg	XQ62986RD3
+Data/Training/synthetic/syn_02110.jpg	EXP 03SEP24
+Data/Training/synthetic/syn_02111.jpg	L20023J
+Data/Training/synthetic/syn_02112.jpg	20/02/2026
+Data/Training/synthetic/syn_02113.jpg	06/09/2026
+Data/Training/synthetic/syn_02114.jpg	KTOEF8W8D
+Data/Training/synthetic/syn_02115.jpg	WZ69041IB3
+Data/Training/synthetic/syn_02116.jpg	PRD NPEEUH
+Data/Training/synthetic/syn_02117.jpg	EOGDCXF7W
+Data/Training/synthetic/syn_02118.jpg	27072027
+Data/Training/synthetic/syn_02119.jpg	L1173D
+Data/Training/synthetic/syn_02120.jpg	LOT 3WU8A6
+Data/Training/synthetic/syn_02121.jpg	4IBA0A42TZ
+Data/Training/synthetic/syn_02122.jpg	MJ3DVPKQK
+Data/Training/synthetic/syn_02123.jpg	BATCH A8ZUEK
+Data/Training/synthetic/syn_02124.jpg	LOT 0MCES3
+Data/Training/synthetic/syn_02125.jpg	LC71122WT3
+Data/Training/synthetic/syn_02126.jpg	L1218D
+Data/Training/synthetic/syn_02127.jpg	BB 22072027
+Data/Training/synthetic/syn_02128.jpg	EQ26460YY4
+Data/Training/synthetic/syn_02129.jpg	12-08-2025
+Data/Training/synthetic/syn_02130.jpg	7C1GF7M457
+Data/Training/synthetic/syn_02131.jpg	BB 13072026
+Data/Training/synthetic/syn_02132.jpg	PRD VAYMXB
+Data/Training/synthetic/syn_02133.jpg	PRD O2X09N
+Data/Training/synthetic/syn_02134.jpg	FC37120RD0
+Data/Training/synthetic/syn_02135.jpg	BATCH CIIK4P
+Data/Training/synthetic/syn_02136.jpg	9TNEPBKL4
+Data/Training/synthetic/syn_02137.jpg	L5004L
+Data/Training/synthetic/syn_02138.jpg	26/12/2024
+Data/Training/synthetic/syn_02139.jpg	EXP 08MAR24
+Data/Training/synthetic/syn_02140.jpg	EXP 12MAR26
+Data/Training/synthetic/syn_02141.jpg	LCHBU9ARPZ
+Data/Training/synthetic/syn_02142.jpg	D7EMTL8HYF
+Data/Training/synthetic/syn_02143.jpg	12012026
+Data/Training/synthetic/syn_02144.jpg	PT56241FS9
+Data/Training/synthetic/syn_02145.jpg	LOT HKCVPL
+Data/Training/synthetic/syn_02146.jpg	QBU75OEJH
+Data/Training/synthetic/syn_02147.jpg	01 JUN 24
+Data/Training/synthetic/syn_02148.jpg	L93767R
+Data/Training/synthetic/syn_02149.jpg	L9898Q
+Data/Training/synthetic/syn_02150.jpg	13-10-2025
+Data/Training/synthetic/syn_02151.jpg	RD31966XL2
+Data/Training/synthetic/syn_02152.jpg	HB44ZFEPZ
+Data/Training/synthetic/syn_02153.jpg	SR30570MM4
+Data/Training/synthetic/syn_02154.jpg	17-01-2026
+Data/Training/synthetic/syn_02155.jpg	RC05993TP7
+Data/Training/synthetic/syn_02156.jpg	13 JUL 27
+Data/Training/synthetic/syn_02157.jpg	UM88925ID7
+Data/Training/synthetic/syn_02158.jpg	LOT 91E8KB
+Data/Training/synthetic/syn_02159.jpg	L65232C
+Data/Training/synthetic/syn_02160.jpg	L57305G
+Data/Training/synthetic/syn_02161.jpg	LOT 8B4BAU
+Data/Training/synthetic/syn_02162.jpg	YP47761CQ7
+Data/Training/synthetic/syn_02163.jpg	L026I
+Data/Training/synthetic/syn_02164.jpg	17/06/2025
+Data/Training/synthetic/syn_02165.jpg	KU84914ZC6
+Data/Training/synthetic/syn_02166.jpg	PRD OQUORO
+Data/Training/synthetic/syn_02167.jpg	BEST BEFORE 12/07/2026
+Data/Training/synthetic/syn_02168.jpg	BEST BEFORE 13/10/2026
+Data/Training/synthetic/syn_02169.jpg	BEST BEFORE 28/01/2025
+Data/Training/synthetic/syn_02170.jpg	20 APR 27
+Data/Training/synthetic/syn_02171.jpg	11122027
+Data/Training/synthetic/syn_02172.jpg	L60933H
+Data/Training/synthetic/syn_02173.jpg	OW69877UU6
+Data/Training/synthetic/syn_02174.jpg	GNVRNPGD
+Data/Training/synthetic/syn_02175.jpg	ES41BY5VDZ
+Data/Training/synthetic/syn_02176.jpg	92PGO3QMU
+Data/Training/synthetic/syn_02177.jpg	L554L
+Data/Training/synthetic/syn_02178.jpg	L87131O
+Data/Training/synthetic/syn_02179.jpg	21 DEC 27
+Data/Training/synthetic/syn_02180.jpg	17-08-2027
+Data/Training/synthetic/syn_02181.jpg	L910M
+Data/Training/synthetic/syn_02182.jpg	WE75532AJ7
+Data/Training/synthetic/syn_02183.jpg	CGCHBRB6
+Data/Training/synthetic/syn_02184.jpg	PRD 84J2DW
+Data/Training/synthetic/syn_02185.jpg	12102024
+Data/Training/synthetic/syn_02186.jpg	UB50314JZ8
+Data/Training/synthetic/syn_02187.jpg	05072027
+Data/Training/synthetic/syn_02188.jpg	09022025
+Data/Training/synthetic/syn_02189.jpg	06032025
+Data/Training/synthetic/syn_02190.jpg	L33620F
+Data/Training/synthetic/syn_02191.jpg	22-09-2024
+Data/Training/synthetic/syn_02192.jpg	PRD 5S2PIE
+Data/Training/synthetic/syn_02193.jpg	BB 18012027
+Data/Training/synthetic/syn_02194.jpg	BB 11052026
+Data/Training/synthetic/syn_02195.jpg	PRD 4K4RPK
+Data/Training/synthetic/syn_02196.jpg	10-06-2026
+Data/Training/synthetic/syn_02197.jpg	IU64507KW6
+Data/Training/synthetic/syn_02198.jpg	UYJMHFCJ
+Data/Training/synthetic/syn_02199.jpg	05/01/2027
+Data/Training/synthetic/syn_02200.jpg	EXP 21DEC24
+Data/Training/synthetic/syn_02201.jpg	16-01-2027
+Data/Training/synthetic/syn_02202.jpg	TO73502EQ3
+Data/Training/synthetic/syn_02203.jpg	QR49865HZ3
+Data/Training/synthetic/syn_02204.jpg	LOT T2Q6PC
+Data/Training/synthetic/syn_02205.jpg	L18097F
+Data/Training/synthetic/syn_02206.jpg	GL33496IX4
+Data/Training/synthetic/syn_02207.jpg	09092027
+Data/Training/synthetic/syn_02208.jpg	EXP 09JUL25
+Data/Training/synthetic/syn_02209.jpg	FHN3A6RSD
+Data/Training/synthetic/syn_02210.jpg	LOT OJ640L
+Data/Training/synthetic/syn_02211.jpg	01062024
+Data/Training/synthetic/syn_02212.jpg	21 OCT 27
+Data/Training/synthetic/syn_02213.jpg	BATCH A35U69
+Data/Training/synthetic/syn_02214.jpg	G3100PDCH
+Data/Training/synthetic/syn_02215.jpg	BB 18052026
+Data/Training/synthetic/syn_02216.jpg	TW6JN5TB2N
+Data/Training/synthetic/syn_02217.jpg	VI11976YE8
+Data/Training/synthetic/syn_02218.jpg	R14YQT00
+Data/Training/synthetic/syn_02219.jpg	VU12726LC0
+Data/Training/synthetic/syn_02220.jpg	09 FEB 27
+Data/Training/synthetic/syn_02221.jpg	5IYA898VF
+Data/Training/synthetic/syn_02222.jpg	06/02/2027
+Data/Training/synthetic/syn_02223.jpg	EXP 27OCT26
+Data/Training/synthetic/syn_02224.jpg	12022024
+Data/Training/synthetic/syn_02225.jpg	LY58609LJ8
+Data/Training/synthetic/syn_02226.jpg	14052024
+Data/Training/synthetic/syn_02227.jpg	L224G
+Data/Training/synthetic/syn_02228.jpg	26-01-2027
+Data/Training/synthetic/syn_02229.jpg	19/02/2027
+Data/Training/synthetic/syn_02230.jpg	BEST BEFORE 26/07/2026
+Data/Training/synthetic/syn_02231.jpg	XE36706SN6
+Data/Training/synthetic/syn_02232.jpg	BB 06032027
+Data/Training/synthetic/syn_02233.jpg	27092025
+Data/Training/synthetic/syn_02234.jpg	LV2BIMJH0
+Data/Training/synthetic/syn_02235.jpg	18 JAN 25
+Data/Training/synthetic/syn_02236.jpg	PRD W5WFOM
+Data/Training/synthetic/syn_02237.jpg	EQ3O3JDI
+Data/Training/synthetic/syn_02238.jpg	RJ94275RU3
+Data/Training/synthetic/syn_02239.jpg	LOT 2JDNNH
+Data/Training/synthetic/syn_02240.jpg	ER11308VK4
+Data/Training/synthetic/syn_02241.jpg	PRD JVOYM8
+Data/Training/synthetic/syn_02242.jpg	24-10-2024
+Data/Training/synthetic/syn_02243.jpg	L0935L
+Data/Training/synthetic/syn_02244.jpg	L680U
+Data/Training/synthetic/syn_02245.jpg	QN36064JS3
+Data/Training/synthetic/syn_02246.jpg	BB 05102024
+Data/Training/synthetic/syn_02247.jpg	7L6L1X7AJ2
+Data/Training/synthetic/syn_02248.jpg	Q1FBE84A81
+Data/Training/synthetic/syn_02249.jpg	L2385W
+Data/Training/synthetic/syn_02250.jpg	L43638B
+Data/Training/synthetic/syn_02251.jpg	04032024
+Data/Training/synthetic/syn_02252.jpg	19-08-2026
+Data/Training/synthetic/syn_02253.jpg	PRD C3A73B
+Data/Training/synthetic/syn_02254.jpg	X8NHQNQ0ZI
+Data/Training/synthetic/syn_02255.jpg	23 MAY 27
+Data/Training/synthetic/syn_02256.jpg	12/04/2025
+Data/Training/synthetic/syn_02257.jpg	PRD K67Q2Q
+Data/Training/synthetic/syn_02258.jpg	RE95386HA8
+Data/Training/synthetic/syn_02259.jpg	SYZNHNDP
+Data/Training/synthetic/syn_02260.jpg	01-12-2024
+Data/Training/synthetic/syn_02261.jpg	20/01/2025
+Data/Training/synthetic/syn_02262.jpg	BATCH M77LKD
+Data/Training/synthetic/syn_02263.jpg	BEST BEFORE 18/01/2027
+Data/Training/synthetic/syn_02264.jpg	12/07/2027
+Data/Training/synthetic/syn_02265.jpg	9NNJDZDAKL
+Data/Training/synthetic/syn_02266.jpg	09022026
+Data/Training/synthetic/syn_02267.jpg	NR46271BP6
+Data/Training/synthetic/syn_02268.jpg	16ZYGY9T
+Data/Training/synthetic/syn_02269.jpg	24 FEB 24
+Data/Training/synthetic/syn_02270.jpg	15/09/2025
+Data/Training/synthetic/syn_02271.jpg	SK33422WX6
+Data/Training/synthetic/syn_02272.jpg	PRD XYKVCH
+Data/Training/synthetic/syn_02273.jpg	L444Q
+Data/Training/synthetic/syn_02274.jpg	L5915V
+Data/Training/synthetic/syn_02275.jpg	26/08/2026
+Data/Training/synthetic/syn_02276.jpg	VT06591QP0
+Data/Training/synthetic/syn_02277.jpg	EXP 02SEP25
+Data/Training/synthetic/syn_02278.jpg	08062025
+Data/Training/synthetic/syn_02279.jpg	28072027
+Data/Training/synthetic/syn_02280.jpg	UN22937ZK6
+Data/Training/synthetic/syn_02281.jpg	L77656R
+Data/Training/synthetic/syn_02282.jpg	BATCH 2ONRPP
+Data/Training/synthetic/syn_02283.jpg	14/06/2027
+Data/Training/synthetic/syn_02284.jpg	UP40555SO8
+Data/Training/synthetic/syn_02285.jpg	LOT HP8RCK
+Data/Training/synthetic/syn_02286.jpg	HH15251NN1
+Data/Training/synthetic/syn_02287.jpg	2VGMP87CR7
+Data/Training/synthetic/syn_02288.jpg	PRD NBN5D8
+Data/Training/synthetic/syn_02289.jpg	JB89729ZV0
+Data/Training/synthetic/syn_02290.jpg	DT29491MQ0
+Data/Training/synthetic/syn_02291.jpg	LOT 2Y0UVR
+Data/Training/synthetic/syn_02292.jpg	EXP 26SEP24
+Data/Training/synthetic/syn_02293.jpg	07-02-2027
+Data/Training/synthetic/syn_02294.jpg	18-07-2026
+Data/Training/synthetic/syn_02295.jpg	LOT U6LELS
+Data/Training/synthetic/syn_02296.jpg	07022025
+Data/Training/synthetic/syn_02297.jpg	Z43WZJSS
+Data/Training/synthetic/syn_02298.jpg	9A0DZH5A
+Data/Training/synthetic/syn_02299.jpg	19082026
+Data/Training/synthetic/syn_02300.jpg	BB 03062027
+Data/Training/synthetic/syn_02301.jpg	PRD 2W9V9U
+Data/Training/synthetic/syn_02302.jpg	VB571WAF
+Data/Training/synthetic/syn_02303.jpg	12 AUG 27
+Data/Training/synthetic/syn_02304.jpg	LOT VCYU21
+Data/Training/synthetic/syn_02305.jpg	BB 07022024
+Data/Training/synthetic/syn_02306.jpg	L83269E
+Data/Training/synthetic/syn_02307.jpg	EXP 15JUN27
+Data/Training/synthetic/syn_02308.jpg	L4701F
+Data/Training/synthetic/syn_02309.jpg	28062025
+Data/Training/synthetic/syn_02310.jpg	FR52155ZO4
+Data/Training/synthetic/syn_02311.jpg	13052024
+Data/Training/synthetic/syn_02312.jpg	EV93448TJ0
+Data/Training/synthetic/syn_02313.jpg	L9058A
+Data/Training/synthetic/syn_02314.jpg	UQ33268BV9
+Data/Training/synthetic/syn_02315.jpg	14 NOV 27
+Data/Training/synthetic/syn_02316.jpg	L140D
+Data/Training/synthetic/syn_02317.jpg	L469M
+Data/Training/synthetic/syn_02318.jpg	TJ64461FC5
+Data/Training/synthetic/syn_02319.jpg	06032024
+Data/Training/synthetic/syn_02320.jpg	EXP 03JUL25
+Data/Training/synthetic/syn_02321.jpg	ZI9YF8J76
+Data/Training/synthetic/syn_02322.jpg	11012024
+Data/Training/synthetic/syn_02323.jpg	LOT F51CB2
+Data/Training/synthetic/syn_02324.jpg	L19673N
+Data/Training/synthetic/syn_02325.jpg	NS74508NN8
+Data/Training/synthetic/syn_02326.jpg	LOT ZKYDBY
+Data/Training/synthetic/syn_02327.jpg	L0467C
+Data/Training/synthetic/syn_02328.jpg	OCJSY9BYFG
+Data/Training/synthetic/syn_02329.jpg	15052026
+Data/Training/synthetic/syn_02330.jpg	26-06-2027
+Data/Training/synthetic/syn_02331.jpg	L66208R
+Data/Training/synthetic/syn_02332.jpg	18102026
+Data/Training/synthetic/syn_02333.jpg	21072027
+Data/Training/synthetic/syn_02334.jpg	07/01/2025
+Data/Training/synthetic/syn_02335.jpg	L71535Y
+Data/Training/synthetic/syn_02336.jpg	ZWRNZNORB
+Data/Training/synthetic/syn_02337.jpg	PRD M2IEUN
+Data/Training/synthetic/syn_02338.jpg	UR66686DJ5
+Data/Training/synthetic/syn_02339.jpg	EXP 06JAN27
+Data/Training/synthetic/syn_02340.jpg	11-11-2027
+Data/Training/synthetic/syn_02341.jpg	L087K
+Data/Training/synthetic/syn_02342.jpg	LOT OIAP2D
+Data/Training/synthetic/syn_02343.jpg	L06662I
+Data/Training/synthetic/syn_02344.jpg	MZ93901CM8
+Data/Training/synthetic/syn_02345.jpg	L15146C
+Data/Training/synthetic/syn_02346.jpg	TQ96291BM5
+Data/Training/synthetic/syn_02347.jpg	08032027
+Data/Training/synthetic/syn_02348.jpg	27/12/2027
+Data/Training/synthetic/syn_02349.jpg	28KTXUFBRE
+Data/Training/synthetic/syn_02350.jpg	CK15420MY7
+Data/Training/synthetic/syn_02351.jpg	FD66389WZ0
+Data/Training/synthetic/syn_02352.jpg	BEST BEFORE 03/07/2027
+Data/Training/synthetic/syn_02353.jpg	19012024
+Data/Training/synthetic/syn_02354.jpg	XC18452VH6
+Data/Training/synthetic/syn_02355.jpg	L885U
+Data/Training/synthetic/syn_02356.jpg	PRD 43GKN8
+Data/Training/synthetic/syn_02357.jpg	PRD 2AV3N6
+Data/Training/synthetic/syn_02358.jpg	L53217C
+Data/Training/synthetic/syn_02359.jpg	L938T
+Data/Training/synthetic/syn_02360.jpg	BATCH 3CXL46
+Data/Training/synthetic/syn_02361.jpg	EXP 06MAY26
+Data/Training/synthetic/syn_02362.jpg	1IJIVCGV71
+Data/Training/synthetic/syn_02363.jpg	15-05-2027
+Data/Training/synthetic/syn_02364.jpg	EF97454UJ4
+Data/Training/synthetic/syn_02365.jpg	PRD D6XUAI
+Data/Training/synthetic/syn_02366.jpg	NL87651LH8
+Data/Training/synthetic/syn_02367.jpg	DF23244CB5
+Data/Training/synthetic/syn_02368.jpg	TYDKB7P82J
+Data/Training/synthetic/syn_02369.jpg	NTXEPGTL
+Data/Training/synthetic/syn_02370.jpg	0L55VQ9H8W
+Data/Training/synthetic/syn_02371.jpg	28/10/2027
+Data/Training/synthetic/syn_02372.jpg	OK85132OH7
+Data/Training/synthetic/syn_02373.jpg	DW383XIVLV
+Data/Training/synthetic/syn_02374.jpg	QABDKPDF
+Data/Training/synthetic/syn_02375.jpg	BATCH OEIMHL
+Data/Training/synthetic/syn_02376.jpg	3WZ99YLB28
+Data/Training/synthetic/syn_02377.jpg	06032026
+Data/Training/synthetic/syn_02378.jpg	11052027
+Data/Training/synthetic/syn_02379.jpg	L7004V
+Data/Training/synthetic/syn_02380.jpg	PRD UCTB0Q
+Data/Training/synthetic/syn_02381.jpg	BEST BEFORE 12/03/2024
+Data/Training/synthetic/syn_02382.jpg	LOT ATEGLH
+Data/Training/synthetic/syn_02383.jpg	BB 09012024
+Data/Training/synthetic/syn_02384.jpg	PRD IHMAXC
+Data/Training/synthetic/syn_02385.jpg	6IYOL5USE
+Data/Training/synthetic/syn_02386.jpg	BB 28062024
+Data/Training/synthetic/syn_02387.jpg	LA17622KH0
+Data/Training/synthetic/syn_02388.jpg	XZ49066BW9
+Data/Training/synthetic/syn_02389.jpg	EXP 11JUN25
+Data/Training/synthetic/syn_02390.jpg	LOT CQ1AZW
+Data/Training/synthetic/syn_02391.jpg	LOT 6H3VF4
+Data/Training/synthetic/syn_02392.jpg	L392L
+Data/Training/synthetic/syn_02393.jpg	B0XEG1CS78
+Data/Training/synthetic/syn_02394.jpg	L4QJQDIU5
+Data/Training/synthetic/syn_02395.jpg	RT25793FF7
+Data/Training/synthetic/syn_02396.jpg	RE09940TM9
+Data/Training/synthetic/syn_02397.jpg	PF66437MF4
+Data/Training/synthetic/syn_02398.jpg	C5KCQAXM
+Data/Training/synthetic/syn_02399.jpg	L94253X
+Data/Training/synthetic/syn_02400.jpg	BEST BEFORE 28/02/2026
+Data/Training/synthetic/syn_02401.jpg	MU17897RB6
+Data/Training/synthetic/syn_02402.jpg	L361B
+Data/Training/synthetic/syn_02403.jpg	3MZQHR47
+Data/Training/synthetic/syn_02404.jpg	CK0NC4TK
+Data/Training/synthetic/syn_02405.jpg	BEST BEFORE 09/12/2024
+Data/Training/synthetic/syn_02406.jpg	L550B
+Data/Training/synthetic/syn_02407.jpg	BB 25052024
+Data/Training/synthetic/syn_02408.jpg	BB 21062026
+Data/Training/synthetic/syn_02409.jpg	L8294G
+Data/Training/synthetic/syn_02410.jpg	L2404W
+Data/Training/synthetic/syn_02411.jpg	BEST BEFORE 22/11/2026
+Data/Training/synthetic/syn_02412.jpg	J4Y5TNEL
+Data/Training/synthetic/syn_02413.jpg	L630E
+Data/Training/synthetic/syn_02414.jpg	KH63811UO9
+Data/Training/synthetic/syn_02415.jpg	BEST BEFORE 13/02/2027
+Data/Training/synthetic/syn_02416.jpg	L344Q
+Data/Training/synthetic/syn_02417.jpg	24042027
+Data/Training/synthetic/syn_02418.jpg	09-11-2025
+Data/Training/synthetic/syn_02419.jpg	28 JUN 24
+Data/Training/synthetic/syn_02420.jpg	L7119A
+Data/Training/synthetic/syn_02421.jpg	14/10/2026
+Data/Training/synthetic/syn_02422.jpg	OB04697LW5
+Data/Training/synthetic/syn_02423.jpg	XJ99706ZM3
+Data/Training/synthetic/syn_02424.jpg	BATCH 3ZP6G4
+Data/Training/synthetic/syn_02425.jpg	L477Q
+Data/Training/synthetic/syn_02426.jpg	L99494Z
+Data/Training/synthetic/syn_02427.jpg	TV62326GS8
+Data/Training/synthetic/syn_02428.jpg	EXP 26AUG24
+Data/Training/synthetic/syn_02429.jpg	00RJRMW1
+Data/Training/synthetic/syn_02430.jpg	PU02508GU2
+Data/Training/synthetic/syn_02431.jpg	XK0O0JGN
+Data/Training/synthetic/syn_02432.jpg	BATCH X3SOSO
+Data/Training/synthetic/syn_02433.jpg	08102027
+Data/Training/synthetic/syn_02434.jpg	UM59431SA4
+Data/Training/synthetic/syn_02435.jpg	08/07/2025
+Data/Training/synthetic/syn_02436.jpg	BEST BEFORE 24/06/2027
+Data/Training/synthetic/syn_02437.jpg	IUS9HKM1
+Data/Training/synthetic/syn_02438.jpg	RZ99236IM6
+Data/Training/synthetic/syn_02439.jpg	11/09/2026
+Data/Training/synthetic/syn_02440.jpg	SJFXPDO46R
+Data/Training/synthetic/syn_02441.jpg	EXP 26NOV26
+Data/Training/synthetic/syn_02442.jpg	K66M61ST
+Data/Training/synthetic/syn_02443.jpg	04-07-2024
+Data/Training/synthetic/syn_02444.jpg	BEST BEFORE 26/01/2027
+Data/Training/synthetic/syn_02445.jpg	L642N
+Data/Training/synthetic/syn_02446.jpg	B5K8XF2F
+Data/Training/synthetic/syn_02447.jpg	HV32701PA6
+Data/Training/synthetic/syn_02448.jpg	02-10-2024
+Data/Training/synthetic/syn_02449.jpg	LOT LNLBMC
+Data/Training/synthetic/syn_02450.jpg	LOT SJ8YN4
+Data/Training/synthetic/syn_02451.jpg	27 JAN 25
+Data/Training/synthetic/syn_02452.jpg	L13116W
+Data/Training/synthetic/syn_02453.jpg	WK86068WH0
+Data/Training/synthetic/syn_02454.jpg	L11874Z
+Data/Training/synthetic/syn_02455.jpg	SX7MQ4ZA3
+Data/Training/synthetic/syn_02456.jpg	BB 27062027
+Data/Training/synthetic/syn_02457.jpg	PRD AU8VKO
+Data/Training/synthetic/syn_02458.jpg	EXP 10JUL27
+Data/Training/synthetic/syn_02459.jpg	EH96619WV5
+Data/Training/synthetic/syn_02460.jpg	L45371K
+Data/Training/synthetic/syn_02461.jpg	LOT QXQNOV
+Data/Training/synthetic/syn_02462.jpg	BATCH BIE7JO
+Data/Training/synthetic/syn_02463.jpg	EXP 18SEP26
+Data/Training/synthetic/syn_02464.jpg	LOT PLSODU
+Data/Training/synthetic/syn_02465.jpg	TO58036IL6
+Data/Training/synthetic/syn_02466.jpg	H1E5ASCGY
+Data/Training/synthetic/syn_02467.jpg	01-07-2027
+Data/Training/synthetic/syn_02468.jpg	YD6SUPYRL
+Data/Training/synthetic/syn_02469.jpg	MD45494OJ7
+Data/Training/synthetic/syn_02470.jpg	BB 18062026
+Data/Training/synthetic/syn_02471.jpg	01/10/2025
+Data/Training/synthetic/syn_02472.jpg	BM26876DT8
+Data/Training/synthetic/syn_02473.jpg	09/11/2027
+Data/Training/synthetic/syn_02474.jpg	02062027
+Data/Training/synthetic/syn_02475.jpg	4HTTZR5JN
+Data/Training/synthetic/syn_02476.jpg	L98048N
+Data/Training/synthetic/syn_02477.jpg	L818J
+Data/Training/synthetic/syn_02478.jpg	4L8GEFGQ6M
+Data/Training/synthetic/syn_02479.jpg	BEST BEFORE 24/12/2026
+Data/Training/synthetic/syn_02480.jpg	WYTYK8N09L
+Data/Training/synthetic/syn_02481.jpg	PG03670WL5
+Data/Training/synthetic/syn_02482.jpg	BATCH EB4WMM
+Data/Training/synthetic/syn_02483.jpg	12072027
+Data/Training/synthetic/syn_02484.jpg	QX84F1NHPX
+Data/Training/synthetic/syn_02485.jpg	WU16580PE9
+Data/Training/synthetic/syn_02486.jpg	PG18234DJ6
+Data/Training/synthetic/syn_02487.jpg	BEST BEFORE 01/04/2027
+Data/Training/synthetic/syn_02488.jpg	10/03/2024
+Data/Training/synthetic/syn_02489.jpg	LOT 79FP02
+Data/Training/synthetic/syn_02490.jpg	EXP 03OCT25
+Data/Training/synthetic/syn_02491.jpg	EXP 22NOV24
+Data/Training/synthetic/syn_02492.jpg	LOT P1ZPCO
+Data/Training/synthetic/syn_02493.jpg	XNW9NK3KX4
+Data/Training/synthetic/syn_02494.jpg	YKSHE70VD
+Data/Training/synthetic/syn_02495.jpg	LOT RSCRFA
+Data/Training/synthetic/syn_02496.jpg	BEST BEFORE 26/12/2026
+Data/Training/synthetic/syn_02497.jpg	4UXU7K627
+Data/Training/synthetic/syn_02498.jpg	21112026
+Data/Training/synthetic/syn_02499.jpg	GE27631OJ7
+Data/Training/synthetic/syn_02500.jpg	EO48587PP7
+Data/Training/synthetic/syn_02501.jpg	YA83135RZ2
+Data/Training/synthetic/syn_02502.jpg	PRD 266UZA
+Data/Training/synthetic/syn_02503.jpg	L4425A
+Data/Training/synthetic/syn_02504.jpg	BATCH 6AZQ69
+Data/Training/synthetic/syn_02505.jpg	EXP 08OCT25
+Data/Training/synthetic/syn_02506.jpg	EXP 18MAR26
+Data/Training/synthetic/syn_02507.jpg	LOT PHU3K8
+Data/Training/synthetic/syn_02508.jpg	L676M
+Data/Training/synthetic/syn_02509.jpg	03 AUG 24
+Data/Training/synthetic/syn_02510.jpg	BB 07082024
+Data/Training/synthetic/syn_02511.jpg	BB 05052026
+Data/Training/synthetic/syn_02512.jpg	BEST BEFORE 02/12/2027
+Data/Training/synthetic/syn_02513.jpg	BATCH 0PEW7U
+Data/Training/synthetic/syn_02514.jpg	L9334H
+Data/Training/synthetic/syn_02515.jpg	25 JUL 27
+Data/Training/synthetic/syn_02516.jpg	BB 06092027
+Data/Training/synthetic/syn_02517.jpg	L70536J
+Data/Training/synthetic/syn_02518.jpg	L4386G
+Data/Training/synthetic/syn_02519.jpg	01 FEB 26
+Data/Training/synthetic/syn_02520.jpg	1XCZVQDV0H
+Data/Training/synthetic/syn_02521.jpg	EXP 10OCT25
+Data/Training/synthetic/syn_02522.jpg	LOT QZ26P2
+Data/Training/synthetic/syn_02523.jpg	PRD VV1GS6
+Data/Training/synthetic/syn_02524.jpg	L9180Y
+Data/Training/synthetic/syn_02525.jpg	DH88238IN9
+Data/Training/synthetic/syn_02526.jpg	BEST BEFORE 01/12/2024
+Data/Training/synthetic/syn_02527.jpg	BATCH MKEGN0
+Data/Training/synthetic/syn_02528.jpg	I6GX4LSI
+Data/Training/synthetic/syn_02529.jpg	BREL9EHDH
+Data/Training/synthetic/syn_02530.jpg	AV82907RQ1
+Data/Training/synthetic/syn_02531.jpg	EXP 01FEB25
+Data/Training/synthetic/syn_02532.jpg	EXP 02MAR26
+Data/Training/synthetic/syn_02533.jpg	KZRDPIUG
+Data/Training/synthetic/syn_02534.jpg	LQI1BQFL
+Data/Training/synthetic/syn_02535.jpg	BEST BEFORE 21/05/2026
+Data/Training/synthetic/syn_02536.jpg	28-03-2025
+Data/Training/synthetic/syn_02537.jpg	EXP 27APR26
+Data/Training/synthetic/syn_02538.jpg	BEST BEFORE 28/08/2025
+Data/Training/synthetic/syn_02539.jpg	L9915P
+Data/Training/synthetic/syn_02540.jpg	RV34397EN6
+Data/Training/synthetic/syn_02541.jpg	EXP 21MAY27
+Data/Training/synthetic/syn_02542.jpg	PRD N1W2NH
+Data/Training/synthetic/syn_02543.jpg	06/06/2025
+Data/Training/synthetic/syn_02544.jpg	23/10/2025
+Data/Training/synthetic/syn_02545.jpg	ODFM1T87
+Data/Training/synthetic/syn_02546.jpg	L475R
+Data/Training/synthetic/syn_02547.jpg	19/03/2024
+Data/Training/synthetic/syn_02548.jpg	BATCH EMOW16
+Data/Training/synthetic/syn_02549.jpg	HH85816SJ9
+Data/Training/synthetic/syn_02550.jpg	05-12-2025
+Data/Training/synthetic/syn_02551.jpg	L132I
+Data/Training/synthetic/syn_02552.jpg	BEST BEFORE 11/10/2026
+Data/Training/synthetic/syn_02553.jpg	BB 03122027
+Data/Training/synthetic/syn_02554.jpg	PRD TAORZ0
+Data/Training/synthetic/syn_02555.jpg	SJW7TI9XXL
+Data/Training/synthetic/syn_02556.jpg	X6Q1HDRH88
+Data/Training/synthetic/syn_02557.jpg	LOT 511XWN
+Data/Training/synthetic/syn_02558.jpg	EXP 06JUN27
+Data/Training/synthetic/syn_02559.jpg	PRD OC5U2V
+Data/Training/synthetic/syn_02560.jpg	28082024
+Data/Training/synthetic/syn_02561.jpg	L220L
+Data/Training/synthetic/syn_02562.jpg	PRD X5PQF7
+Data/Training/synthetic/syn_02563.jpg	06082027
+Data/Training/synthetic/syn_02564.jpg	WS79684XK0
+Data/Training/synthetic/syn_02565.jpg	JZ8WDCJFCI
+Data/Training/synthetic/syn_02566.jpg	HM71193PL5
+Data/Training/synthetic/syn_02567.jpg	01-03-2026
+Data/Training/synthetic/syn_02568.jpg	23/12/2027
+Data/Training/synthetic/syn_02569.jpg	BATCH VL6VOX
+Data/Training/synthetic/syn_02570.jpg	04072024
+Data/Training/synthetic/syn_02571.jpg	08 OCT 25
+Data/Training/synthetic/syn_02572.jpg	MC63104YG9
+Data/Training/synthetic/syn_02573.jpg	BJ81003TX0
+Data/Training/synthetic/syn_02574.jpg	BEST BEFORE 03/09/2027
+Data/Training/synthetic/syn_02575.jpg	BEST BEFORE 19/09/2026
+Data/Training/synthetic/syn_02576.jpg	D12B5C9HX
+Data/Training/synthetic/syn_02577.jpg	PRD DN9JBY
+Data/Training/synthetic/syn_02578.jpg	LOT 1VIZ00
+Data/Training/synthetic/syn_02579.jpg	EXP 06APR24
+Data/Training/synthetic/syn_02580.jpg	BATCH 0YA1AM
+Data/Training/synthetic/syn_02581.jpg	L593K
+Data/Training/synthetic/syn_02582.jpg	L843S
+Data/Training/synthetic/syn_02583.jpg	L83234D
+Data/Training/synthetic/syn_02584.jpg	17-04-2027
+Data/Training/synthetic/syn_02585.jpg	BATCH ELB5EW
+Data/Training/synthetic/syn_02586.jpg	PS99700XO1
+Data/Training/synthetic/syn_02587.jpg	L146K
+Data/Training/synthetic/syn_02588.jpg	065W5UKHIX
+Data/Training/synthetic/syn_02589.jpg	17 OCT 24
+Data/Training/synthetic/syn_02590.jpg	79XKTTIF5P
+Data/Training/synthetic/syn_02591.jpg	LOT XFVA1Y
+Data/Training/synthetic/syn_02592.jpg	EXP 21MAY26
+Data/Training/synthetic/syn_02593.jpg	PRD 1JDELG
+Data/Training/synthetic/syn_02594.jpg	HX00214QN8
+Data/Training/synthetic/syn_02595.jpg	FZX1S0FZ
+Data/Training/synthetic/syn_02596.jpg	LOT ATEG24
+Data/Training/synthetic/syn_02597.jpg	PRD UDMQMS
+Data/Training/synthetic/syn_02598.jpg	TA39066HX3
+Data/Training/synthetic/syn_02599.jpg	LOT FV0VJ2
+Data/Training/synthetic/syn_02600.jpg	BB 24022024
+Data/Training/synthetic/syn_02601.jpg	19092024
+Data/Training/synthetic/syn_02602.jpg	BB 13112025
+Data/Training/synthetic/syn_02603.jpg	BA0UAZOO
+Data/Training/synthetic/syn_02604.jpg	23052026
+Data/Training/synthetic/syn_02605.jpg	BB 23012027
+Data/Training/synthetic/syn_02606.jpg	14032026
+Data/Training/synthetic/syn_02607.jpg	L048M
+Data/Training/synthetic/syn_02608.jpg	02/03/2024
+Data/Training/synthetic/syn_02609.jpg	LOT 50ZLB0
+Data/Training/synthetic/syn_02610.jpg	MG03275FP4
+Data/Training/synthetic/syn_02611.jpg	L75453N
+Data/Training/synthetic/syn_02612.jpg	QK03092ES1
+Data/Training/synthetic/syn_02613.jpg	EXP 05MAY24
+Data/Training/synthetic/syn_02614.jpg	22/02/2024
+Data/Training/synthetic/syn_02615.jpg	13042025
+Data/Training/synthetic/syn_02616.jpg	15-08-2026
+Data/Training/synthetic/syn_02617.jpg	07 MAY 24
+Data/Training/synthetic/syn_02618.jpg	05082027
+Data/Training/synthetic/syn_02619.jpg	11/07/2027
+Data/Training/synthetic/syn_02620.jpg	WN25679SB3
+Data/Training/synthetic/syn_02621.jpg	L4997B
+Data/Training/synthetic/syn_02622.jpg	BEST BEFORE 14/03/2024
+Data/Training/synthetic/syn_02623.jpg	06 NOV 24
+Data/Training/synthetic/syn_02624.jpg	BEST BEFORE 21/08/2025
+Data/Training/synthetic/syn_02625.jpg	PRD Y68GQC
+Data/Training/synthetic/syn_02626.jpg	GJ16856JQ4
+Data/Training/synthetic/syn_02627.jpg	QK3NJH3V
+Data/Training/synthetic/syn_02628.jpg	L711B
+Data/Training/synthetic/syn_02629.jpg	12 MAY 26
+Data/Training/synthetic/syn_02630.jpg	L5769Q
+Data/Training/synthetic/syn_02631.jpg	EXP 16APR26
+Data/Training/synthetic/syn_02632.jpg	05082025
+Data/Training/synthetic/syn_02633.jpg	L734P
+Data/Training/synthetic/syn_02634.jpg	BATCH DU8NX1
+Data/Training/synthetic/syn_02635.jpg	BATCH 4SJ3NV
+Data/Training/synthetic/syn_02636.jpg	OGVRN5AJ
+Data/Training/synthetic/syn_02637.jpg	BB 13042025
+Data/Training/synthetic/syn_02638.jpg	26 NOV 24
+Data/Training/synthetic/syn_02639.jpg	LOT W2U15D
+Data/Training/synthetic/syn_02640.jpg	UF36057PZ0
+Data/Training/synthetic/syn_02641.jpg	BEST BEFORE 03/02/2027
+Data/Training/synthetic/syn_02642.jpg	BATCH 91Z4NV
+Data/Training/synthetic/syn_02643.jpg	BATCH 1KL6S4
+Data/Training/synthetic/syn_02644.jpg	YH54499LD2
+Data/Training/synthetic/syn_02645.jpg	EXP 02JAN27
+Data/Training/synthetic/syn_02646.jpg	L6969V
+Data/Training/synthetic/syn_02647.jpg	BYFXDZ425W
+Data/Training/synthetic/syn_02648.jpg	10/12/2024
+Data/Training/synthetic/syn_02649.jpg	VG428RO8QH
+Data/Training/synthetic/syn_02650.jpg	04 NOV 24
+Data/Training/synthetic/syn_02651.jpg	LOT IVYKTZ
+Data/Training/synthetic/syn_02652.jpg	L7300Y
+Data/Training/synthetic/syn_02653.jpg	EXP 24DEC26
+Data/Training/synthetic/syn_02654.jpg	LOT 10AZ1U
+Data/Training/synthetic/syn_02655.jpg	09/11/2025
+Data/Training/synthetic/syn_02656.jpg	L63500N
+Data/Training/synthetic/syn_02657.jpg	21-11-2027
+Data/Training/synthetic/syn_02658.jpg	L053G
+Data/Training/synthetic/syn_02659.jpg	BEST BEFORE 19/01/2026
+Data/Training/synthetic/syn_02660.jpg	0Q68WZ6E
+Data/Training/synthetic/syn_02661.jpg	25062026
+Data/Training/synthetic/syn_02662.jpg	10-12-2027
+Data/Training/synthetic/syn_02663.jpg	ZP40883EF2
+Data/Training/synthetic/syn_02664.jpg	L8571M
+Data/Training/synthetic/syn_02665.jpg	L764K
+Data/Training/synthetic/syn_02666.jpg	18022025
+Data/Training/synthetic/syn_02667.jpg	EXP 09OCT25
+Data/Training/synthetic/syn_02668.jpg	LOT M2SZ18
+Data/Training/synthetic/syn_02669.jpg	NRJJXCV2
+Data/Training/synthetic/syn_02670.jpg	23 AUG 25
+Data/Training/synthetic/syn_02671.jpg	14022026
+Data/Training/synthetic/syn_02672.jpg	LOT IWXCA5
+Data/Training/synthetic/syn_02673.jpg	22 JAN 26
+Data/Training/synthetic/syn_02674.jpg	L0300A
+Data/Training/synthetic/syn_02675.jpg	QQ99066RV4
+Data/Training/synthetic/syn_02676.jpg	21/05/2027
+Data/Training/synthetic/syn_02677.jpg	NH694MZF
+Data/Training/synthetic/syn_02678.jpg	BEST BEFORE 23/10/2025
+Data/Training/synthetic/syn_02679.jpg	ZC69597ZN4
+Data/Training/synthetic/syn_02680.jpg	28-12-2026
+Data/Training/synthetic/syn_02681.jpg	EXP 15MAR25
+Data/Training/synthetic/syn_02682.jpg	EXP 18SEP25
+Data/Training/synthetic/syn_02683.jpg	EJERXDTV
+Data/Training/synthetic/syn_02684.jpg	9BVKVSO3
+Data/Training/synthetic/syn_02685.jpg	PRD BNYQHU
+Data/Training/synthetic/syn_02686.jpg	BBKN0BX51X
+Data/Training/synthetic/syn_02687.jpg	EXP 13FEB27
+Data/Training/synthetic/syn_02688.jpg	23102026
+Data/Training/synthetic/syn_02689.jpg	10 OCT 26
+Data/Training/synthetic/syn_02690.jpg	EXP 06NOV25
+Data/Training/synthetic/syn_02691.jpg	L5FUT35Q8
+Data/Training/synthetic/syn_02692.jpg	L84990Q
+Data/Training/synthetic/syn_02693.jpg	MX85PZYNI
+Data/Training/synthetic/syn_02694.jpg	HLEDC130QJ
+Data/Training/synthetic/syn_02695.jpg	BEST BEFORE 01/03/2025
+Data/Training/synthetic/syn_02696.jpg	BEST BEFORE 05/05/2025
+Data/Training/synthetic/syn_02697.jpg	24/01/2024
+Data/Training/synthetic/syn_02698.jpg	25-09-2027
+Data/Training/synthetic/syn_02699.jpg	PRD O0CDQG
+Data/Training/synthetic/syn_02700.jpg	PRD 5N5F16
+Data/Training/synthetic/syn_02701.jpg	BATCH 399N2Z
+Data/Training/synthetic/syn_02702.jpg	L95683B
+Data/Training/synthetic/syn_02703.jpg	L1646X
+Data/Training/synthetic/syn_02704.jpg	JNHVBFBQ
+Data/Training/synthetic/syn_02705.jpg	15102025
+Data/Training/synthetic/syn_02706.jpg	17 JUL 27
+Data/Training/synthetic/syn_02707.jpg	L50393Y
+Data/Training/synthetic/syn_02708.jpg	04FELCMTBR
+Data/Training/synthetic/syn_02709.jpg	BB 22112024
+Data/Training/synthetic/syn_02710.jpg	BATCH 85UMLQ
+Data/Training/synthetic/syn_02711.jpg	6H124JKKW
+Data/Training/synthetic/syn_02712.jpg	L14941P
+Data/Training/synthetic/syn_02713.jpg	BB 19072024
+Data/Training/synthetic/syn_02714.jpg	BEST BEFORE 22/04/2026
+Data/Training/synthetic/syn_02715.jpg	EXP 20APR24
+Data/Training/synthetic/syn_02716.jpg	UC12326YY6
+Data/Training/synthetic/syn_02717.jpg	LOT 3FKCP6
+Data/Training/synthetic/syn_02718.jpg	19/11/2026
+Data/Training/synthetic/syn_02719.jpg	03092025
+Data/Training/synthetic/syn_02720.jpg	L6035H
+Data/Training/synthetic/syn_02721.jpg	01/10/2024
+Data/Training/synthetic/syn_02722.jpg	16022025
+Data/Training/synthetic/syn_02723.jpg	JGWPDEZ7M
+Data/Training/synthetic/syn_02724.jpg	L44187F
+Data/Training/synthetic/syn_02725.jpg	28/10/2026
+Data/Training/synthetic/syn_02726.jpg	YPHMDIGH
+Data/Training/synthetic/syn_02727.jpg	M9URLSMYS3
+Data/Training/synthetic/syn_02728.jpg	12112024
+Data/Training/synthetic/syn_02729.jpg	QOS7OGC6
+Data/Training/synthetic/syn_02730.jpg	L1069F
+Data/Training/synthetic/syn_02731.jpg	14/05/2026
+Data/Training/synthetic/syn_02732.jpg	21 NOV 24
+Data/Training/synthetic/syn_02733.jpg	BATCH MH53FE
+Data/Training/synthetic/syn_02734.jpg	PRD 06Y30A
+Data/Training/synthetic/syn_02735.jpg	25/07/2024
+Data/Training/synthetic/syn_02736.jpg	PVF8CV176L
+Data/Training/synthetic/syn_02737.jpg	VM73786XY8
+Data/Training/synthetic/syn_02738.jpg	BEST BEFORE 06/07/2024
+Data/Training/synthetic/syn_02739.jpg	7XF1IPT7CB
+Data/Training/synthetic/syn_02740.jpg	L0172U
+Data/Training/synthetic/syn_02741.jpg	26/05/2024
+Data/Training/synthetic/syn_02742.jpg	LOT 257K4I
+Data/Training/synthetic/syn_02743.jpg	22/06/2027
+Data/Training/synthetic/syn_02744.jpg	EXP 10OCT24
+Data/Training/synthetic/syn_02745.jpg	PRD QAGZDG
+Data/Training/synthetic/syn_02746.jpg	L5062Z
+Data/Training/synthetic/syn_02747.jpg	BATCH K70NFE
+Data/Training/synthetic/syn_02748.jpg	BB 20022025
+Data/Training/synthetic/syn_02749.jpg	02/08/2027
+Data/Training/synthetic/syn_02750.jpg	BEST BEFORE 11/12/2027
+Data/Training/synthetic/syn_02751.jpg	13052027
+Data/Training/synthetic/syn_02752.jpg	BF87616PX9
+Data/Training/synthetic/syn_02753.jpg	L9485T
+Data/Training/synthetic/syn_02754.jpg	L796S
+Data/Training/synthetic/syn_02755.jpg	EXP 17JUN27
+Data/Training/synthetic/syn_02756.jpg	21072025
+Data/Training/synthetic/syn_02757.jpg	J4GDCQA5CK
+Data/Training/synthetic/syn_02758.jpg	LOT IIBARF
+Data/Training/synthetic/syn_02759.jpg	L3735N
+Data/Training/synthetic/syn_02760.jpg	LOT 4T7WH6
+Data/Training/synthetic/syn_02761.jpg	PRD 85SQAF
+Data/Training/synthetic/syn_02762.jpg	1RWTL7A8
+Data/Training/synthetic/syn_02763.jpg	IA91660UK9
+Data/Training/synthetic/syn_02764.jpg	EI14065OH4
+Data/Training/synthetic/syn_02765.jpg	BATCH PABE9J
+Data/Training/synthetic/syn_02766.jpg	17082025
+Data/Training/synthetic/syn_02767.jpg	LOT GPRSSQ
+Data/Training/synthetic/syn_02768.jpg	GI7PQJRQZZ
+Data/Training/synthetic/syn_02769.jpg	08/12/2027
+Data/Training/synthetic/syn_02770.jpg	LOT S551BF
+Data/Training/synthetic/syn_02771.jpg	L0354G
+Data/Training/synthetic/syn_02772.jpg	L466G
+Data/Training/synthetic/syn_02773.jpg	21062027
+Data/Training/synthetic/syn_02774.jpg	9CAK5KU3SU
+Data/Training/synthetic/syn_02775.jpg	08 APR 24
+Data/Training/synthetic/syn_02776.jpg	18 SEP 25
+Data/Training/synthetic/syn_02777.jpg	GV20538PV9
+Data/Training/synthetic/syn_02778.jpg	U75JWG4LKG
+Data/Training/synthetic/syn_02779.jpg	05/07/2024
+Data/Training/synthetic/syn_02780.jpg	L96361X
+Data/Training/synthetic/syn_02781.jpg	L649H
+Data/Training/synthetic/syn_02782.jpg	IC41812PC5
+Data/Training/synthetic/syn_02783.jpg	25-06-2027
+Data/Training/synthetic/syn_02784.jpg	Y2U71X1PGG
+Data/Training/synthetic/syn_02785.jpg	BB 28032026
+Data/Training/synthetic/syn_02786.jpg	26/11/2026
+Data/Training/synthetic/syn_02787.jpg	L28988C
+Data/Training/synthetic/syn_02788.jpg	PRD 08T9FL
+Data/Training/synthetic/syn_02789.jpg	DA86600IE7
+Data/Training/synthetic/syn_02790.jpg	KABQVIYV
+Data/Training/synthetic/syn_02791.jpg	BEST BEFORE 25/03/2027
+Data/Training/synthetic/syn_02792.jpg	L9770F
+Data/Training/synthetic/syn_02793.jpg	AM65855IR6
+Data/Training/synthetic/syn_02794.jpg	XX83010RT9
+Data/Training/synthetic/syn_02795.jpg	EXP 02MAY24
+Data/Training/synthetic/syn_02796.jpg	BATCH KW0FHS
+Data/Training/synthetic/syn_02797.jpg	L34377K
+Data/Training/synthetic/syn_02798.jpg	HO0JKDW2W
+Data/Training/synthetic/syn_02799.jpg	TO92537QM3
+Data/Training/synthetic/syn_02800.jpg	LOT 70Y0J2
+Data/Training/synthetic/syn_02801.jpg	BB 18052027
+Data/Training/synthetic/syn_02802.jpg	BEST BEFORE 22/11/2027
+Data/Training/synthetic/syn_02803.jpg	A8QC2JXCHD
+Data/Training/synthetic/syn_02804.jpg	4YBUNKXMPS
+Data/Training/synthetic/syn_02805.jpg	L9815J
+Data/Training/synthetic/syn_02806.jpg	QYKHFOYP
+Data/Training/synthetic/syn_02807.jpg	CEYHQK6V
+Data/Training/synthetic/syn_02808.jpg	L08041U
+Data/Training/synthetic/syn_02809.jpg	PRD GQKRA2
+Data/Training/synthetic/syn_02810.jpg	MY79547ME9
+Data/Training/synthetic/syn_02811.jpg	02/12/2024
+Data/Training/synthetic/syn_02812.jpg	L49400P
+Data/Training/synthetic/syn_02813.jpg	6F5E30ZLUK
+Data/Training/synthetic/syn_02814.jpg	WG56475CO3
+Data/Training/synthetic/syn_02815.jpg	L14417P
+Data/Training/synthetic/syn_02816.jpg	PRD 6N30FF
+Data/Training/synthetic/syn_02817.jpg	L1R4N4UJ4
+Data/Training/synthetic/syn_02818.jpg	L00571W
+Data/Training/synthetic/syn_02819.jpg	YNZHSGYNEA
+Data/Training/synthetic/syn_02820.jpg	BB 13072025
+Data/Training/synthetic/syn_02821.jpg	BATCH 5NEHQI
+Data/Training/synthetic/syn_02822.jpg	12-09-2024
+Data/Training/synthetic/syn_02823.jpg	LOT C05OBP
+Data/Training/synthetic/syn_02824.jpg	PRD 3W2MJG
+Data/Training/synthetic/syn_02825.jpg	26-08-2027
+Data/Training/synthetic/syn_02826.jpg	ZDXXITJAJC
+Data/Training/synthetic/syn_02827.jpg	DQKE1BHUA8
+Data/Training/synthetic/syn_02828.jpg	LOT NMC5US
+Data/Training/synthetic/syn_02829.jpg	BATCH EBWU80
+Data/Training/synthetic/syn_02830.jpg	ACIAH167B
+Data/Training/synthetic/syn_02831.jpg	10052024
+Data/Training/synthetic/syn_02832.jpg	8SXNFQQ5
+Data/Training/synthetic/syn_02833.jpg	17/07/2026
+Data/Training/synthetic/syn_02834.jpg	L6675J
+Data/Training/synthetic/syn_02835.jpg	VHMC3FA9TJ
+Data/Training/synthetic/syn_02836.jpg	17 AUG 27
+Data/Training/synthetic/syn_02837.jpg	L6701Y
+Data/Training/synthetic/syn_02838.jpg	EER4JA03
+Data/Training/synthetic/syn_02839.jpg	L8108M
+Data/Training/synthetic/syn_02840.jpg	JJ07863RL2
+Data/Training/synthetic/syn_02841.jpg	26/01/2025
+Data/Training/synthetic/syn_02842.jpg	25012024
+Data/Training/synthetic/syn_02843.jpg	KV3A68MN
+Data/Training/synthetic/syn_02844.jpg	BEST BEFORE 22/02/2027
+Data/Training/synthetic/syn_02845.jpg	BATCH BLQTJ1
+Data/Training/synthetic/syn_02846.jpg	ONGI5FVT8Y
+Data/Training/synthetic/syn_02847.jpg	12 DEC 26
+Data/Training/synthetic/syn_02848.jpg	19-07-2024
+Data/Training/synthetic/syn_02849.jpg	VK80846FO1
+Data/Training/synthetic/syn_02850.jpg	BB 25032026
+Data/Training/synthetic/syn_02851.jpg	04012024
+Data/Training/synthetic/syn_02852.jpg	1308KBTBC5
+Data/Training/synthetic/syn_02853.jpg	PJP8XCL3R3
+Data/Training/synthetic/syn_02854.jpg	L2974S
+Data/Training/synthetic/syn_02855.jpg	H3B4LO9K
+Data/Training/synthetic/syn_02856.jpg	PRD TWZ6ZE
+Data/Training/synthetic/syn_02857.jpg	20-09-2026
+Data/Training/synthetic/syn_02858.jpg	UPL5P28JA
+Data/Training/synthetic/syn_02859.jpg	BATCH XNXAG0
+Data/Training/synthetic/syn_02860.jpg	SY40778FF1
+Data/Training/synthetic/syn_02861.jpg	AA02634GR6
+Data/Training/synthetic/syn_02862.jpg	19022027
+Data/Training/synthetic/syn_02863.jpg	L131A
+Data/Training/synthetic/syn_02864.jpg	LOT REY32A
+Data/Training/synthetic/syn_02865.jpg	PRD DA6PPX
+Data/Training/synthetic/syn_02866.jpg	PRD XTWISD
+Data/Training/synthetic/syn_02867.jpg	K4GZIHK7IY
+Data/Training/synthetic/syn_02868.jpg	12/12/2026
+Data/Training/synthetic/syn_02869.jpg	LOT 9K63LB
+Data/Training/synthetic/syn_02870.jpg	CN55223KW0
+Data/Training/synthetic/syn_02871.jpg	BATCH L3LVB2
+Data/Training/synthetic/syn_02872.jpg	MCXN8S0N
+Data/Training/synthetic/syn_02873.jpg	L0591R
+Data/Training/synthetic/syn_02874.jpg	CK86481HC1
+Data/Training/synthetic/syn_02875.jpg	MF38913QS3
+Data/Training/synthetic/syn_02876.jpg	DC13341HU6
+Data/Training/synthetic/syn_02877.jpg	78KT3AOZBI
+Data/Training/synthetic/syn_02878.jpg	L944A
+Data/Training/synthetic/syn_02879.jpg	BB 09042024
+Data/Training/synthetic/syn_02880.jpg	24-03-2024
+Data/Training/synthetic/syn_02881.jpg	LT42674YI4
+Data/Training/synthetic/syn_02882.jpg	L5834A
+Data/Training/synthetic/syn_02883.jpg	BB 23052027
+Data/Training/synthetic/syn_02884.jpg	GQ11510IL2
+Data/Training/synthetic/syn_02885.jpg	L63121G
+Data/Training/synthetic/syn_02886.jpg	L5927I
+Data/Training/synthetic/syn_02887.jpg	23012024
+Data/Training/synthetic/syn_02888.jpg	03-03-2025
+Data/Training/synthetic/syn_02889.jpg	BB 20032027
+Data/Training/synthetic/syn_02890.jpg	24112024
+Data/Training/synthetic/syn_02891.jpg	BEST BEFORE 13/11/2024
+Data/Training/synthetic/syn_02892.jpg	GAGWB6H2
+Data/Training/synthetic/syn_02893.jpg	BB 14112025
+Data/Training/synthetic/syn_02894.jpg	EXP 22APR27
+Data/Training/synthetic/syn_02895.jpg	BATCH 9QJRQM
+Data/Training/synthetic/syn_02896.jpg	Y3V082MRQ
+Data/Training/synthetic/syn_02897.jpg	L690D
+Data/Training/synthetic/syn_02898.jpg	XWLVZ45AF
+Data/Training/synthetic/syn_02899.jpg	XEL8KZ48B
+Data/Training/synthetic/syn_02900.jpg	PZ86393GF5
+Data/Training/synthetic/syn_02901.jpg	L26959V
+Data/Training/synthetic/syn_02902.jpg	BEST BEFORE 09/01/2027
+Data/Training/synthetic/syn_02903.jpg	9IU8JF02JH
+Data/Training/synthetic/syn_02904.jpg	VR60973ND2
+Data/Training/synthetic/syn_02905.jpg	QZ97100QH9
+Data/Training/synthetic/syn_02906.jpg	EXP 20APR27
+Data/Training/synthetic/syn_02907.jpg	BATCH GALLQO
+Data/Training/synthetic/syn_02908.jpg	LOT NP9YLE
+Data/Training/synthetic/syn_02909.jpg	BB 08012025
+Data/Training/synthetic/syn_02910.jpg	Y05XBTGBR
+Data/Training/synthetic/syn_02911.jpg	24 OCT 27
+Data/Training/synthetic/syn_02912.jpg	L2514Y
+Data/Training/synthetic/syn_02913.jpg	L4770X
+Data/Training/synthetic/syn_02914.jpg	L23918X
+Data/Training/synthetic/syn_02915.jpg	21/11/2026
+Data/Training/synthetic/syn_02916.jpg	25/03/2024
+Data/Training/synthetic/syn_02917.jpg	DX56373HZ1
+Data/Training/synthetic/syn_02918.jpg	BB 12112027
+Data/Training/synthetic/syn_02919.jpg	SQBCPXW6YT
+Data/Training/synthetic/syn_02920.jpg	EXP 25FEB26
+Data/Training/synthetic/syn_02921.jpg	LOT SNKOD2
+Data/Training/synthetic/syn_02922.jpg	24 MAR 26
+Data/Training/synthetic/syn_02923.jpg	CUQHK2GVE
+Data/Training/synthetic/syn_02924.jpg	EXP 26DEC26
+Data/Training/synthetic/syn_02925.jpg	KA43092XW4
+Data/Training/synthetic/syn_02926.jpg	L79303N
+Data/Training/synthetic/syn_02927.jpg	5IUUJ6XG
+Data/Training/synthetic/syn_02928.jpg	TJFFDBQJ
+Data/Training/synthetic/syn_02929.jpg	L371O
+Data/Training/synthetic/syn_02930.jpg	GYQGW9Z73C
+Data/Training/synthetic/syn_02931.jpg	21RTW4DMS
+Data/Training/synthetic/syn_02932.jpg	08/09/2027
+Data/Training/synthetic/syn_02933.jpg	01 JUN 27
+Data/Training/synthetic/syn_02934.jpg	23042024
+Data/Training/synthetic/syn_02935.jpg	DR58956OG7
+Data/Training/synthetic/syn_02936.jpg	L2483Q
+Data/Training/synthetic/syn_02937.jpg	BB 16092024
+Data/Training/synthetic/syn_02938.jpg	I1NM8VWIZC
+Data/Training/synthetic/syn_02939.jpg	BEST BEFORE 26/04/2024
+Data/Training/synthetic/syn_02940.jpg	BATCH XQTUCL
+Data/Training/synthetic/syn_02941.jpg	L15906E
+Data/Training/synthetic/syn_02942.jpg	BB 05052024
+Data/Training/synthetic/syn_02943.jpg	PRD KL6QOT
+Data/Training/synthetic/syn_02944.jpg	06-02-2025
+Data/Training/synthetic/syn_02945.jpg	AX30829LQ1
+Data/Training/synthetic/syn_02946.jpg	08 APR 25
+Data/Training/synthetic/syn_02947.jpg	VY17742AY4
+Data/Training/synthetic/syn_02948.jpg	I0DVRWUJ
+Data/Training/synthetic/syn_02949.jpg	BEST BEFORE 09/12/2027
+Data/Training/synthetic/syn_02950.jpg	L38178K
+Data/Training/synthetic/syn_02951.jpg	PRD 6JG0OT
+Data/Training/synthetic/syn_02952.jpg	4L8LUFBL
+Data/Training/synthetic/syn_02953.jpg	L816M
+Data/Training/synthetic/syn_02954.jpg	13/08/2024
+Data/Training/synthetic/syn_02955.jpg	EH28448RV6
+Data/Training/synthetic/syn_02956.jpg	BF44111YE7
+Data/Training/synthetic/syn_02957.jpg	8AK9E8JD
+Data/Training/synthetic/syn_02958.jpg	1AMQP1QJM1
+Data/Training/synthetic/syn_02959.jpg	CW82702QA1
+Data/Training/synthetic/syn_02960.jpg	TK7M2J7WH
+Data/Training/synthetic/syn_02961.jpg	L011V
+Data/Training/synthetic/syn_02962.jpg	L2104F
+Data/Training/synthetic/syn_02963.jpg	BB 14112026
+Data/Training/synthetic/syn_02964.jpg	L640V
+Data/Training/synthetic/syn_02965.jpg	PRD 5JBMAI
+Data/Training/synthetic/syn_02966.jpg	PRD S0CDIJ
+Data/Training/synthetic/syn_02967.jpg	IA06463GU0
+Data/Training/synthetic/syn_02968.jpg	HK33573KN3
+Data/Training/synthetic/syn_02969.jpg	21022025
+Data/Training/synthetic/syn_02970.jpg	L1960R
+Data/Training/synthetic/syn_02971.jpg	L0878O
+Data/Training/synthetic/syn_02972.jpg	ZI87557NJ1
+Data/Training/synthetic/syn_02973.jpg	7G13SU216
+Data/Training/synthetic/syn_02974.jpg	11-10-2025
+Data/Training/synthetic/syn_02975.jpg	LOT 4PIFQV
+Data/Training/synthetic/syn_02976.jpg	BATCH XETD34
+Data/Training/synthetic/syn_02977.jpg	BB 15092026
+Data/Training/synthetic/syn_02978.jpg	LOT 3RA9OD
+Data/Training/synthetic/syn_02979.jpg	18082026
+Data/Training/synthetic/syn_02980.jpg	05-11-2024
+Data/Training/synthetic/syn_02981.jpg	IR36538MD8
+Data/Training/synthetic/syn_02982.jpg	LOT W188WE
+Data/Training/synthetic/syn_02983.jpg	10122027
+Data/Training/synthetic/syn_02984.jpg	WZ84883QA1
+Data/Training/synthetic/syn_02985.jpg	BB 25052027
+Data/Training/synthetic/syn_02986.jpg	BATCH 67IJAA
+Data/Training/synthetic/syn_02987.jpg	6WA66LFZ
+Data/Training/synthetic/syn_02988.jpg	27 MAY 24
+Data/Training/synthetic/syn_02989.jpg	GH26378XH6
+Data/Training/synthetic/syn_02990.jpg	L2587E
+Data/Training/synthetic/syn_02991.jpg	11062025
+Data/Training/synthetic/syn_02992.jpg	BB 12042025
+Data/Training/synthetic/syn_02993.jpg	BEST BEFORE 20/04/2026
+Data/Training/synthetic/syn_02994.jpg	Y3FRBS4EG
+Data/Training/synthetic/syn_02995.jpg	0QNP42K8
+Data/Training/synthetic/syn_02996.jpg	L49227Z
+Data/Training/synthetic/syn_02997.jpg	PZ15605MZ9
+Data/Training/synthetic/syn_02998.jpg	L651J
+Data/Training/synthetic/syn_02999.jpg	XUYKUV9JJ7
+Data/Training/synthetic/syn_03000.jpg	C5J6U01QG2
+Data/Training/synthetic/syn_03001.jpg	L95577O
+Data/Training/synthetic/syn_03002.jpg	PRD 551RWU
+Data/Training/synthetic/syn_03003.jpg	6I0XOO8KPQ
+Data/Training/synthetic/syn_03004.jpg	BB 07052025
+Data/Training/synthetic/syn_03005.jpg	RA70675JZ2
+Data/Training/synthetic/syn_03006.jpg	03-01-2024
+Data/Training/synthetic/syn_03007.jpg	28022027
+Data/Training/synthetic/syn_03008.jpg	LOT W60BJW
+Data/Training/synthetic/syn_03009.jpg	BB 10082027
+Data/Training/synthetic/syn_03010.jpg	EXP 25AUG26
+Data/Training/synthetic/syn_03011.jpg	13OXR03FP
+Data/Training/synthetic/syn_03012.jpg	LD23177IL1
+Data/Training/synthetic/syn_03013.jpg	02072026
+Data/Training/synthetic/syn_03014.jpg	L7876V
+Data/Training/synthetic/syn_03015.jpg	10/01/2025
+Data/Training/synthetic/syn_03016.jpg	OUPVE4KL9Y
+Data/Training/synthetic/syn_03017.jpg	EXP 01OCT24
+Data/Training/synthetic/syn_03018.jpg	L5260A
+Data/Training/synthetic/syn_03019.jpg	1FM37MY0
+Data/Training/synthetic/syn_03020.jpg	JB24717HH9
+Data/Training/synthetic/syn_03021.jpg	11 MAY 26
+Data/Training/synthetic/syn_03022.jpg	QP98590GL3
+Data/Training/synthetic/syn_03023.jpg	19VP1ZIT
+Data/Training/synthetic/syn_03024.jpg	15-10-2025
+Data/Training/synthetic/syn_03025.jpg	04 OCT 27
+Data/Training/synthetic/syn_03026.jpg	BEST BEFORE 26/07/2025
+Data/Training/synthetic/syn_03027.jpg	19-01-2025
+Data/Training/synthetic/syn_03028.jpg	GA54900OO9
+Data/Training/synthetic/syn_03029.jpg	LOT 5WLDR6
+Data/Training/synthetic/syn_03030.jpg	07 MAY 26
+Data/Training/synthetic/syn_03031.jpg	06 MAR 27
+Data/Training/synthetic/syn_03032.jpg	BB 11112026
+Data/Training/synthetic/syn_03033.jpg	CTYZZZ4HP
+Data/Training/synthetic/syn_03034.jpg	L84804K
+Data/Training/synthetic/syn_03035.jpg	25022025
+Data/Training/synthetic/syn_03036.jpg	CX73560IY0
+Data/Training/synthetic/syn_03037.jpg	SAGHKGA4LR
+Data/Training/synthetic/syn_03038.jpg	F19YZQEYH
+Data/Training/synthetic/syn_03039.jpg	HQ95324HE1
+Data/Training/synthetic/syn_03040.jpg	BATCH LHLFVJ
+Data/Training/synthetic/syn_03041.jpg	EXP 12NOV26
+Data/Training/synthetic/syn_03042.jpg	N3EJ0AV2UI
+Data/Training/synthetic/syn_03043.jpg	GWE3ANDZV
+Data/Training/synthetic/syn_03044.jpg	OY149DZQ
+Data/Training/synthetic/syn_03045.jpg	BEST BEFORE 19/05/2025
+Data/Training/synthetic/syn_03046.jpg	BB 28042026
+Data/Training/synthetic/syn_03047.jpg	L9307B
+Data/Training/synthetic/syn_03048.jpg	ZV78172FE9
+Data/Training/synthetic/syn_03049.jpg	L7421C
+Data/Training/synthetic/syn_03050.jpg	FD04954QF8
+Data/Training/synthetic/syn_03051.jpg	L432A
+Data/Training/synthetic/syn_03052.jpg	PRD ZYA79I
+Data/Training/synthetic/syn_03053.jpg	BEST BEFORE 09/07/2024
+Data/Training/synthetic/syn_03054.jpg	L7921Y
+Data/Training/synthetic/syn_03055.jpg	BATCH P1FLSU
+Data/Training/synthetic/syn_03056.jpg	BEST BEFORE 14/04/2024
+Data/Training/synthetic/syn_03057.jpg	06012027
+Data/Training/synthetic/syn_03058.jpg	BATCH A012UF
+Data/Training/synthetic/syn_03059.jpg	TR72088EX3
+Data/Training/synthetic/syn_03060.jpg	XD06689FS6
+Data/Training/synthetic/syn_03061.jpg	2P8RAYOXI1
+Data/Training/synthetic/syn_03062.jpg	L8785G
+Data/Training/synthetic/syn_03063.jpg	BEST BEFORE 26/07/2027
+Data/Training/synthetic/syn_03064.jpg	9JGHA6EY3
+Data/Training/synthetic/syn_03065.jpg	WY60249TP0
+Data/Training/synthetic/syn_03066.jpg	GJ92500SJ7
+Data/Training/synthetic/syn_03067.jpg	BEST BEFORE 11/12/2024
+Data/Training/synthetic/syn_03068.jpg	09122024
+Data/Training/synthetic/syn_03069.jpg	08/02/2025
+Data/Training/synthetic/syn_03070.jpg	LOT EAY31E
+Data/Training/synthetic/syn_03071.jpg	26/03/2024
+Data/Training/synthetic/syn_03072.jpg	LOT Z8G6I9
+Data/Training/synthetic/syn_03073.jpg	L070Q
+Data/Training/synthetic/syn_03074.jpg	L24534S
+Data/Training/synthetic/syn_03075.jpg	12/12/2027
+Data/Training/synthetic/syn_03076.jpg	445E4DF9
+Data/Training/synthetic/syn_03077.jpg	27-03-2025
+Data/Training/synthetic/syn_03078.jpg	XW45945FM3
+Data/Training/synthetic/syn_03079.jpg	2VVIUHKX
+Data/Training/synthetic/syn_03080.jpg	19082027
+Data/Training/synthetic/syn_03081.jpg	PS12898JE8
+Data/Training/synthetic/syn_03082.jpg	BEST BEFORE 20/07/2027
+Data/Training/synthetic/syn_03083.jpg	W9EAXT01
+Data/Training/synthetic/syn_03084.jpg	EXP 18APR26
+Data/Training/synthetic/syn_03085.jpg	IF81907TT1
+Data/Training/synthetic/syn_03086.jpg	11052024
+Data/Training/synthetic/syn_03087.jpg	RN4HO2WXN5
+Data/Training/synthetic/syn_03088.jpg	VU90928ZD0
+Data/Training/synthetic/syn_03089.jpg	JH76599TM1
+Data/Training/synthetic/syn_03090.jpg	PP8GAO5UN
+Data/Training/synthetic/syn_03091.jpg	K5VR6LWD1H
+Data/Training/synthetic/syn_03092.jpg	12/02/2027
+Data/Training/synthetic/syn_03093.jpg	L2749H
+Data/Training/synthetic/syn_03094.jpg	L67639R
+Data/Training/synthetic/syn_03095.jpg	L076J
+Data/Training/synthetic/syn_03096.jpg	EXP 21JUL26
+Data/Training/synthetic/syn_03097.jpg	17052025
+Data/Training/synthetic/syn_03098.jpg	SDLCKHRNA
+Data/Training/synthetic/syn_03099.jpg	BB 21062027
+Data/Training/synthetic/syn_03100.jpg	11 JUL 24
+Data/Training/synthetic/syn_03101.jpg	3IYNVWIU
+Data/Training/synthetic/syn_03102.jpg	23/03/2025
+Data/Training/synthetic/syn_03103.jpg	BEST BEFORE 09/09/2027
+Data/Training/synthetic/syn_03104.jpg	BEST BEFORE 19/08/2026
+Data/Training/synthetic/syn_03105.jpg	L24313S
+Data/Training/synthetic/syn_03106.jpg	L950I
+Data/Training/synthetic/syn_03107.jpg	LOT ASAZPG
+Data/Training/synthetic/syn_03108.jpg	BEST BEFORE 07/01/2027
+Data/Training/synthetic/syn_03109.jpg	12/02/2024
+Data/Training/synthetic/syn_03110.jpg	PRD J4CLUJ
+Data/Training/synthetic/syn_03111.jpg	L71GU912
+Data/Training/synthetic/syn_03112.jpg	HV62184RL2
+Data/Training/synthetic/syn_03113.jpg	L1682A
+Data/Training/synthetic/syn_03114.jpg	AJ0WQ6XK9
+Data/Training/synthetic/syn_03115.jpg	PRD 95JBHZ
+Data/Training/synthetic/syn_03116.jpg	F634XSOU
+Data/Training/synthetic/syn_03117.jpg	BATCH HM8GDB
+Data/Training/synthetic/syn_03118.jpg	U68UFJ81
+Data/Training/synthetic/syn_03119.jpg	L733O
+Data/Training/synthetic/syn_03120.jpg	BATCH DU1PMR
+Data/Training/synthetic/syn_03121.jpg	9GF60C4OBW
+Data/Training/synthetic/syn_03122.jpg	VY48410ZE9
+Data/Training/synthetic/syn_03123.jpg	25/06/2027
+Data/Training/synthetic/syn_03124.jpg	BB 22122024
+Data/Training/synthetic/syn_03125.jpg	BEST BEFORE 24/11/2024
+Data/Training/synthetic/syn_03126.jpg	BEST BEFORE 22/02/2025
+Data/Training/synthetic/syn_03127.jpg	15 APR 24
+Data/Training/synthetic/syn_03128.jpg	PRD JAXOUZ
+Data/Training/synthetic/syn_03129.jpg	L17739Z
+Data/Training/synthetic/syn_03130.jpg	KD12961XX1
+Data/Training/synthetic/syn_03131.jpg	OK2LMKX1QA
+Data/Training/synthetic/syn_03132.jpg	UZ74980SA0
+Data/Training/synthetic/syn_03133.jpg	21 JUN 27
+Data/Training/synthetic/syn_03134.jpg	L06436K
+Data/Training/synthetic/syn_03135.jpg	BB 26022024
+Data/Training/synthetic/syn_03136.jpg	W6L12GARRX
+Data/Training/synthetic/syn_03137.jpg	RN94501CB7
+Data/Training/synthetic/syn_03138.jpg	DW01L7K21N
+Data/Training/synthetic/syn_03139.jpg	BATCH REY6B7
+Data/Training/synthetic/syn_03140.jpg	07092026
+Data/Training/synthetic/syn_03141.jpg	PRD 6I6NWU
+Data/Training/synthetic/syn_03142.jpg	L66256N
+Data/Training/synthetic/syn_03143.jpg	PRD TUIS2I
+Data/Training/synthetic/syn_03144.jpg	IB38689OS8
+Data/Training/synthetic/syn_03145.jpg	HLTYEH43S
+Data/Training/synthetic/syn_03146.jpg	FS5KDG17Y
+Data/Training/synthetic/syn_03147.jpg	8ZTU1VJQ
+Data/Training/synthetic/syn_03148.jpg	BRG4BSE6
+Data/Training/synthetic/syn_03149.jpg	26 JUL 25
+Data/Training/synthetic/syn_03150.jpg	BN58767JS9
+Data/Training/synthetic/syn_03151.jpg	22032027
+Data/Training/synthetic/syn_03152.jpg	YX66713JX9
+Data/Training/synthetic/syn_03153.jpg	GC69057IT3
+Data/Training/synthetic/syn_03154.jpg	L774S
+Data/Training/synthetic/syn_03155.jpg	24/04/2026
+Data/Training/synthetic/syn_03156.jpg	BATCH 9K3S1F
+Data/Training/synthetic/syn_03157.jpg	25 MAY 25
+Data/Training/synthetic/syn_03158.jpg	13-02-2026
+Data/Training/synthetic/syn_03159.jpg	07-11-2026
+Data/Training/synthetic/syn_03160.jpg	L13260V
+Data/Training/synthetic/syn_03161.jpg	PRD PVHRQN
+Data/Training/synthetic/syn_03162.jpg	L027H
+Data/Training/synthetic/syn_03163.jpg	EXP 16DEC25
+Data/Training/synthetic/syn_03164.jpg	CC61641OH4
+Data/Training/synthetic/syn_03165.jpg	01-01-2024
+Data/Training/synthetic/syn_03166.jpg	EXP 08SEP25
+Data/Training/synthetic/syn_03167.jpg	15/04/2026
+Data/Training/synthetic/syn_03168.jpg	03092024
+Data/Training/synthetic/syn_03169.jpg	LOT E0HAIN
+Data/Training/synthetic/syn_03170.jpg	PRD 0X05V4
+Data/Training/synthetic/syn_03171.jpg	01012024
+Data/Training/synthetic/syn_03172.jpg	PRD 5M1E7E
+Data/Training/synthetic/syn_03173.jpg	19/06/2026
+Data/Training/synthetic/syn_03174.jpg	BB 06102024
+Data/Training/synthetic/syn_03175.jpg	YR76955UC1
+Data/Training/synthetic/syn_03176.jpg	L955J
+Data/Training/synthetic/syn_03177.jpg	06 JUN 26
+Data/Training/synthetic/syn_03178.jpg	LOT FD4U3Y
+Data/Training/synthetic/syn_03179.jpg	L64713L
+Data/Training/synthetic/syn_03180.jpg	15-08-2025
+Data/Training/synthetic/syn_03181.jpg	LOT UGM93E
+Data/Training/synthetic/syn_03182.jpg	12 OCT 24
+Data/Training/synthetic/syn_03183.jpg	EXP 02MAY25
+Data/Training/synthetic/syn_03184.jpg	08102025
+Data/Training/synthetic/syn_03185.jpg	LOT SF8HPH
+Data/Training/synthetic/syn_03186.jpg	PRD 3XRN9Q
+Data/Training/synthetic/syn_03187.jpg	OJ76931MD1
+Data/Training/synthetic/syn_03188.jpg	BB 28052026
+Data/Training/synthetic/syn_03189.jpg	16032025
+Data/Training/synthetic/syn_03190.jpg	01-06-2026
+Data/Training/synthetic/syn_03191.jpg	10-01-2027
+Data/Training/synthetic/syn_03192.jpg	ET72676HW2
+Data/Training/synthetic/syn_03193.jpg	L3057Z
+Data/Training/synthetic/syn_03194.jpg	PX08460YR5
+Data/Training/synthetic/syn_03195.jpg	02122024
+Data/Training/synthetic/syn_03196.jpg	86YTFRRTBG
+Data/Training/synthetic/syn_03197.jpg	M0FB8KQK9D
+Data/Training/synthetic/syn_03198.jpg	L8787L
+Data/Training/synthetic/syn_03199.jpg	L254D
+Data/Training/synthetic/syn_03200.jpg	ARPPWOCX
+Data/Training/synthetic/syn_03201.jpg	ERQNOLQ0B
+Data/Training/synthetic/syn_03202.jpg	LGUW3R3A5Z
+Data/Training/synthetic/syn_03203.jpg	02-04-2024
+Data/Training/synthetic/syn_03204.jpg	LOT N3QXKT
+Data/Training/synthetic/syn_03205.jpg	27/08/2024
+Data/Training/synthetic/syn_03206.jpg	BATCH 2P38AC
+Data/Training/synthetic/syn_03207.jpg	05/07/2025
+Data/Training/synthetic/syn_03208.jpg	BB 10042024
+Data/Training/synthetic/syn_03209.jpg	04/10/2025
+Data/Training/synthetic/syn_03210.jpg	A6O43N59W
+Data/Training/synthetic/syn_03211.jpg	BATCH D8BZDO
+Data/Training/synthetic/syn_03212.jpg	07122024
+Data/Training/synthetic/syn_03213.jpg	AIGNEF4KA
+Data/Training/synthetic/syn_03214.jpg	10-08-2025
+Data/Training/synthetic/syn_03215.jpg	BEST BEFORE 24/09/2026
+Data/Training/synthetic/syn_03216.jpg	L4NZZZ6X3
+Data/Training/synthetic/syn_03217.jpg	LOT 9GTDD3
+Data/Training/synthetic/syn_03218.jpg	EXP 17JAN24
+Data/Training/synthetic/syn_03219.jpg	L393Y
+Data/Training/synthetic/syn_03220.jpg	LOT 7GXAY0
+Data/Training/synthetic/syn_03221.jpg	01102025
+Data/Training/synthetic/syn_03222.jpg	L888U
+Data/Training/synthetic/syn_03223.jpg	EZJ7ZVJ7
+Data/Training/synthetic/syn_03224.jpg	L2673H
+Data/Training/synthetic/syn_03225.jpg	JK30679PR4
+Data/Training/synthetic/syn_03226.jpg	BB 07012027
+Data/Training/synthetic/syn_03227.jpg	8T5QZ2UXA
+Data/Training/synthetic/syn_03228.jpg	L406G
+Data/Training/synthetic/syn_03229.jpg	BATCH GNXRU4
+Data/Training/synthetic/syn_03230.jpg	26-07-2026
+Data/Training/synthetic/syn_03231.jpg	BATCH 7SF6AE
+Data/Training/synthetic/syn_03232.jpg	9HCL7KLB6
+Data/Training/synthetic/syn_03233.jpg	QO67178NG1
+Data/Training/synthetic/syn_03234.jpg	L2296B
+Data/Training/synthetic/syn_03235.jpg	NB11689BW0
+Data/Training/synthetic/syn_03236.jpg	21/06/2026
+Data/Training/synthetic/syn_03237.jpg	L36679Q
+Data/Training/synthetic/syn_03238.jpg	24052025
+Data/Training/synthetic/syn_03239.jpg	MWJC2KH2PM
+Data/Training/synthetic/syn_03240.jpg	L83757A
+Data/Training/synthetic/syn_03241.jpg	BATCH CDLWY4
+Data/Training/synthetic/syn_03242.jpg	FI80710SH9
+Data/Training/synthetic/syn_03243.jpg	L65180D
+Data/Training/synthetic/syn_03244.jpg	EXP 23MAY24
+Data/Training/synthetic/syn_03245.jpg	NY65804VM7
+Data/Training/synthetic/syn_03246.jpg	5WV2FD6F0
+Data/Training/synthetic/syn_03247.jpg	14/05/2027
+Data/Training/synthetic/syn_03248.jpg	L75891Y
+Data/Training/synthetic/syn_03249.jpg	8YLK9MVD1
+Data/Training/synthetic/syn_03250.jpg	RX68657UJ1
+Data/Training/synthetic/syn_03251.jpg	17042025
+Data/Training/synthetic/syn_03252.jpg	15 APR 27
+Data/Training/synthetic/syn_03253.jpg	NO71900QQ8
+Data/Training/synthetic/syn_03254.jpg	LOT ZAW4BW
+Data/Training/synthetic/syn_03255.jpg	10 JAN 26
+Data/Training/synthetic/syn_03256.jpg	LOT MYDKCM
+Data/Training/synthetic/syn_03257.jpg	UBVWSNMV7V
+Data/Training/synthetic/syn_03258.jpg	18 NOV 27
+Data/Training/synthetic/syn_03259.jpg	WD5M6ZHGU3
+Data/Training/synthetic/syn_03260.jpg	EXP 09FEB27
+Data/Training/synthetic/syn_03261.jpg	23 NOV 26
+Data/Training/synthetic/syn_03262.jpg	HBH4HLQ3
+Data/Training/synthetic/syn_03263.jpg	L8949I
+Data/Training/synthetic/syn_03264.jpg	24022027
+Data/Training/synthetic/syn_03265.jpg	KJ78251RV9
+Data/Training/synthetic/syn_03266.jpg	L6478D
+Data/Training/synthetic/syn_03267.jpg	UBXJ73PSZK
+Data/Training/synthetic/syn_03268.jpg	VBS6V8Z6
+Data/Training/synthetic/syn_03269.jpg	GV93899UW2
+Data/Training/synthetic/syn_03270.jpg	DM45074PN5
+Data/Training/synthetic/syn_03271.jpg	28 APR 26
+Data/Training/synthetic/syn_03272.jpg	DT15191DR9
+Data/Training/synthetic/syn_03273.jpg	LOT ST8BH9
+Data/Training/synthetic/syn_03274.jpg	L797L
+Data/Training/synthetic/syn_03275.jpg	BATCH OE0QXQ
+Data/Training/synthetic/syn_03276.jpg	9BJI5R1L7
+Data/Training/synthetic/syn_03277.jpg	L835Z
+Data/Training/synthetic/syn_03278.jpg	Z6N8NNQG
+Data/Training/synthetic/syn_03279.jpg	EXP 27AUG26
+Data/Training/synthetic/syn_03280.jpg	BB 10072025
+Data/Training/synthetic/syn_03281.jpg	LOT A4INBE
+Data/Training/synthetic/syn_03282.jpg	L56111S
+Data/Training/synthetic/syn_03283.jpg	HAY04OF4
+Data/Training/synthetic/syn_03284.jpg	28-06-2026
+Data/Training/synthetic/syn_03285.jpg	BB 15022026
+Data/Training/synthetic/syn_03286.jpg	ZKH30TPE
+Data/Training/synthetic/syn_03287.jpg	UBSSH7XXI
+Data/Training/synthetic/syn_03288.jpg	BATCH VQDYGB
+Data/Training/synthetic/syn_03289.jpg	KA78367ZT3
+Data/Training/synthetic/syn_03290.jpg	BEST BEFORE 21/05/2025
+Data/Training/synthetic/syn_03291.jpg	L378E
+Data/Training/synthetic/syn_03292.jpg	9EBMUY23V
+Data/Training/synthetic/syn_03293.jpg	LOT 10ONSS
+Data/Training/synthetic/syn_03294.jpg	L70730P
+Data/Training/synthetic/syn_03295.jpg	ZI03079YA4
+Data/Training/synthetic/syn_03296.jpg	04-09-2027
+Data/Training/synthetic/syn_03297.jpg	ER20707DQ2
+Data/Training/synthetic/syn_03298.jpg	JQ76155UE5
+Data/Training/synthetic/syn_03299.jpg	EXP 20MAR27
+Data/Training/synthetic/syn_03300.jpg	EXP 17APR25
+Data/Training/synthetic/syn_03301.jpg	BEST BEFORE 21/10/2026
+Data/Training/synthetic/syn_03302.jpg	PRD 9WEDC0
+Data/Training/synthetic/syn_03303.jpg	EJ58947LU2
+Data/Training/synthetic/syn_03304.jpg	MLGAOL32L
+Data/Training/synthetic/syn_03305.jpg	L54752R
+Data/Training/synthetic/syn_03306.jpg	OA10053YU0
+Data/Training/synthetic/syn_03307.jpg	PENL490V
+Data/Training/synthetic/syn_03308.jpg	EXP 21JUN26
+Data/Training/synthetic/syn_03309.jpg	YG61YSAYPE
+Data/Training/synthetic/syn_03310.jpg	2QAR0J3VJ
+Data/Training/synthetic/syn_03311.jpg	W41DSBX4CC
+Data/Training/synthetic/syn_03312.jpg	EXP 04MAR24
+Data/Training/synthetic/syn_03313.jpg	16062026
+Data/Training/synthetic/syn_03314.jpg	BB 14072027
+Data/Training/synthetic/syn_03315.jpg	YS61152SJ5
+Data/Training/synthetic/syn_03316.jpg	KT89687WW6
+Data/Training/synthetic/syn_03317.jpg	14/07/2026
+Data/Training/synthetic/syn_03318.jpg	LOT 1GOUM2
+Data/Training/synthetic/syn_03319.jpg	28/06/2024
+Data/Training/synthetic/syn_03320.jpg	02072027
+Data/Training/synthetic/syn_03321.jpg	EXP 12JUL27
+Data/Training/synthetic/syn_03322.jpg	L09212Y
+Data/Training/synthetic/syn_03323.jpg	BATCH SFERG9
+Data/Training/synthetic/syn_03324.jpg	L27757L
+Data/Training/synthetic/syn_03325.jpg	L0237B
+Data/Training/synthetic/syn_03326.jpg	BATCH NHUY2U
+Data/Training/synthetic/syn_03327.jpg	PQHUQTBTBV
+Data/Training/synthetic/syn_03328.jpg	19/08/2024
+Data/Training/synthetic/syn_03329.jpg	28-12-2025
+Data/Training/synthetic/syn_03330.jpg	L0471P
+Data/Training/synthetic/syn_03331.jpg	BEST BEFORE 13/10/2024
+Data/Training/synthetic/syn_03332.jpg	EXP 12SEP27
+Data/Training/synthetic/syn_03333.jpg	DI90313FE7
+Data/Training/synthetic/syn_03334.jpg	JR89980FP0
+Data/Training/synthetic/syn_03335.jpg	19-02-2027
+Data/Training/synthetic/syn_03336.jpg	YL62283ZL9
+Data/Training/synthetic/syn_03337.jpg	BEST BEFORE 04/08/2024
+Data/Training/synthetic/syn_03338.jpg	L8750I
+Data/Training/synthetic/syn_03339.jpg	L19273D
+Data/Training/synthetic/syn_03340.jpg	BB 03082024
+Data/Training/synthetic/syn_03341.jpg	22-09-2027
+Data/Training/synthetic/syn_03342.jpg	BATCH ITZJP1
+Data/Training/synthetic/syn_03343.jpg	BB 22042024
+Data/Training/synthetic/syn_03344.jpg	25/09/2024
+Data/Training/synthetic/syn_03345.jpg	B1LUREBGMJ
+Data/Training/synthetic/syn_03346.jpg	22012024
+Data/Training/synthetic/syn_03347.jpg	11/05/2024
+Data/Training/synthetic/syn_03348.jpg	BATCH OQ5FAE
+Data/Training/synthetic/syn_03349.jpg	L256H
+Data/Training/synthetic/syn_03350.jpg	L4475Y
+Data/Training/synthetic/syn_03351.jpg	08042027
+Data/Training/synthetic/syn_03352.jpg	26122027
+Data/Training/synthetic/syn_03353.jpg	WO40643BP9
+Data/Training/synthetic/syn_03354.jpg	BEST BEFORE 08/08/2025
+Data/Training/synthetic/syn_03355.jpg	22042024
+Data/Training/synthetic/syn_03356.jpg	AD19400KF1
+Data/Training/synthetic/syn_03357.jpg	L829X
+Data/Training/synthetic/syn_03358.jpg	EXP 13JUL25
+Data/Training/synthetic/syn_03359.jpg	25 MAY 24
+Data/Training/synthetic/syn_03360.jpg	BB 04092027
+Data/Training/synthetic/syn_03361.jpg	L209L
+Data/Training/synthetic/syn_03362.jpg	03SMWBW6US
+Data/Training/synthetic/syn_03363.jpg	L1396M
+Data/Training/synthetic/syn_03364.jpg	BB 01022026
+Data/Training/synthetic/syn_03365.jpg	LF8V016D
+Data/Training/synthetic/syn_03366.jpg	24-03-2027
+Data/Training/synthetic/syn_03367.jpg	24 MAY 26
+Data/Training/synthetic/syn_03368.jpg	L23160E
+Data/Training/synthetic/syn_03369.jpg	BB 17102025
+Data/Training/synthetic/syn_03370.jpg	LOT YR0Y1A
+Data/Training/synthetic/syn_03371.jpg	17022027
+Data/Training/synthetic/syn_03372.jpg	BEST BEFORE 28/07/2025
+Data/Training/synthetic/syn_03373.jpg	PRD 9E12D9
+Data/Training/synthetic/syn_03374.jpg	L59058L
+Data/Training/synthetic/syn_03375.jpg	BB 22092027
+Data/Training/synthetic/syn_03376.jpg	PRD O6EVH2
+Data/Training/synthetic/syn_03377.jpg	L405V
+Data/Training/synthetic/syn_03378.jpg	UP62778CE6
+Data/Training/synthetic/syn_03379.jpg	IOG468UNY
+Data/Training/synthetic/syn_03380.jpg	BEST BEFORE 15/04/2025
+Data/Training/synthetic/syn_03381.jpg	EXP 06MAY27
+Data/Training/synthetic/syn_03382.jpg	XH81005AM6
+Data/Training/synthetic/syn_03383.jpg	PRD NT3913
+Data/Training/synthetic/syn_03384.jpg	L072R
+Data/Training/synthetic/syn_03385.jpg	WP07915NA6
+Data/Training/synthetic/syn_03386.jpg	18 NOV 24
+Data/Training/synthetic/syn_03387.jpg	JE75329TH4
+Data/Training/synthetic/syn_03388.jpg	09/05/2027
+Data/Training/synthetic/syn_03389.jpg	7DLSXPI45N
+Data/Training/synthetic/syn_03390.jpg	OKCP1DZQY
+Data/Training/synthetic/syn_03391.jpg	03/03/2025
+Data/Training/synthetic/syn_03392.jpg	09 APR 26
+Data/Training/synthetic/syn_03393.jpg	Q7Y49L9W
+Data/Training/synthetic/syn_03394.jpg	L92969A
+Data/Training/synthetic/syn_03395.jpg	X2SSXY1M
+Data/Training/synthetic/syn_03396.jpg	L5853A
+Data/Training/synthetic/syn_03397.jpg	O33Q0ZLFO
+Data/Training/synthetic/syn_03398.jpg	10/07/2024
+Data/Training/synthetic/syn_03399.jpg	XH50434BU3
+Data/Training/synthetic/syn_03400.jpg	11/10/2024
+Data/Training/synthetic/syn_03401.jpg	WV30246RZ0
+Data/Training/synthetic/syn_03402.jpg	GG25657ET8
+Data/Training/synthetic/syn_03403.jpg	BB 06022027
+Data/Training/synthetic/syn_03404.jpg	EXP 10NOV25
+Data/Training/synthetic/syn_03405.jpg	EXP 24MAR26
+Data/Training/synthetic/syn_03406.jpg	17/11/2024
+Data/Training/synthetic/syn_03407.jpg	XH59500BC7
+Data/Training/synthetic/syn_03408.jpg	03/02/2027
+Data/Training/synthetic/syn_03409.jpg	A85UNY108W
+Data/Training/synthetic/syn_03410.jpg	T68LLPYFM
+Data/Training/synthetic/syn_03411.jpg	13092025
+Data/Training/synthetic/syn_03412.jpg	BATCH G9SNAP
+Data/Training/synthetic/syn_03413.jpg	L4492C
+Data/Training/synthetic/syn_03414.jpg	L08860U
+Data/Training/synthetic/syn_03415.jpg	BEST BEFORE 11/10/2025
+Data/Training/synthetic/syn_03416.jpg	02 SEP 27
+Data/Training/synthetic/syn_03417.jpg	V9KLEZ7FC
+Data/Training/synthetic/syn_03418.jpg	04112027
+Data/Training/synthetic/syn_03419.jpg	PRD WIWLJD
+Data/Training/synthetic/syn_03420.jpg	L159H
+Data/Training/synthetic/syn_03421.jpg	18 MAY 26
+Data/Training/synthetic/syn_03422.jpg	LOT AY9J6N
+Data/Training/synthetic/syn_03423.jpg	12-06-2025
+Data/Training/synthetic/syn_03424.jpg	BATCH WOMCLG
+Data/Training/synthetic/syn_03425.jpg	26 MAY 24
+Data/Training/synthetic/syn_03426.jpg	RN91282GJ7
+Data/Training/synthetic/syn_03427.jpg	Z6FVUMSYI
+Data/Training/synthetic/syn_03428.jpg	22 AUG 27
+Data/Training/synthetic/syn_03429.jpg	08012025
+Data/Training/synthetic/syn_03430.jpg	PRD V5R28R
+Data/Training/synthetic/syn_03431.jpg	EXP 05DEC27
+Data/Training/synthetic/syn_03432.jpg	LOT PF8NHE
+Data/Training/synthetic/syn_03433.jpg	XUI6R1AX
+Data/Training/synthetic/syn_03434.jpg	MS21441EY4
+Data/Training/synthetic/syn_03435.jpg	EXP 23APR25
+Data/Training/synthetic/syn_03436.jpg	FN5TIJKG
+Data/Training/synthetic/syn_03437.jpg	UQ253Z8MZY
+Data/Training/synthetic/syn_03438.jpg	PY36655JO4
+Data/Training/synthetic/syn_03439.jpg	23/10/2026
+Data/Training/synthetic/syn_03440.jpg	14-06-2025
+Data/Training/synthetic/syn_03441.jpg	09 JUL 27
+Data/Training/synthetic/syn_03442.jpg	11 MAR 26
+Data/Training/synthetic/syn_03443.jpg	EXP 19MAY27
+Data/Training/synthetic/syn_03444.jpg	BEST BEFORE 07/01/2025
+Data/Training/synthetic/syn_03445.jpg	LOT ODWGMV
+Data/Training/synthetic/syn_03446.jpg	L587O
+Data/Training/synthetic/syn_03447.jpg	QK33767ZQ8
+Data/Training/synthetic/syn_03448.jpg	02 FEB 25
+Data/Training/synthetic/syn_03449.jpg	BATCH 2VI4LK
+Data/Training/synthetic/syn_03450.jpg	10042024
+Data/Training/synthetic/syn_03451.jpg	N7NMCS7GC
+Data/Training/synthetic/syn_03452.jpg	OC78305QX2
+Data/Training/synthetic/syn_03453.jpg	BATCH V2HN6Z
+Data/Training/synthetic/syn_03454.jpg	L0005Q
+Data/Training/synthetic/syn_03455.jpg	EXP 27JAN24
+Data/Training/synthetic/syn_03456.jpg	18072027
+Data/Training/synthetic/syn_03457.jpg	LOT 5UXEK7
+Data/Training/synthetic/syn_03458.jpg	26/01/2024
+Data/Training/synthetic/syn_03459.jpg	28/10/2024
+Data/Training/synthetic/syn_03460.jpg	25/05/2027
+Data/Training/synthetic/syn_03461.jpg	BATCH TP4SDT
+Data/Training/synthetic/syn_03462.jpg	EXP 14FEB25
+Data/Training/synthetic/syn_03463.jpg	HUIUG03I8
+Data/Training/synthetic/syn_03464.jpg	MRM93I3R9
+Data/Training/synthetic/syn_03465.jpg	24 SEP 26
+Data/Training/synthetic/syn_03466.jpg	WM11264NO9
+Data/Training/synthetic/syn_03467.jpg	L903D
+Data/Training/synthetic/syn_03468.jpg	KQ75611JR5
+Data/Training/synthetic/syn_03469.jpg	22102026
+Data/Training/synthetic/syn_03470.jpg	6BB899ICPZ
+Data/Training/synthetic/syn_03471.jpg	08 FEB 24
+Data/Training/synthetic/syn_03472.jpg	28-11-2026
+Data/Training/synthetic/syn_03473.jpg	BATCH XL9Z91
+Data/Training/synthetic/syn_03474.jpg	21/07/2025
+Data/Training/synthetic/syn_03475.jpg	EXP 04JUL24
+Data/Training/synthetic/syn_03476.jpg	EXP 04JUN25
+Data/Training/synthetic/syn_03477.jpg	17 NOV 26
+Data/Training/synthetic/syn_03478.jpg	Z80OKFAAKB
+Data/Training/synthetic/syn_03479.jpg	L3569V
+Data/Training/synthetic/syn_03480.jpg	BEST BEFORE 03/01/2025
+Data/Training/synthetic/syn_03481.jpg	EJ54989UO1
+Data/Training/synthetic/syn_03482.jpg	BEST BEFORE 23/08/2024
+Data/Training/synthetic/syn_03483.jpg	O00KEMFR4
+Data/Training/synthetic/syn_03484.jpg	FP87179YO5
+Data/Training/synthetic/syn_03485.jpg	AN39537JT9
+Data/Training/synthetic/syn_03486.jpg	TUAH0G1D9
+Data/Training/synthetic/syn_03487.jpg	LOT 5JSJX2
+Data/Training/synthetic/syn_03488.jpg	091V51FFND
+Data/Training/synthetic/syn_03489.jpg	LOT 1HYVM9
+Data/Training/synthetic/syn_03490.jpg	25072025
+Data/Training/synthetic/syn_03491.jpg	L38813V
+Data/Training/synthetic/syn_03492.jpg	23 FEB 27
+Data/Training/synthetic/syn_03493.jpg	15/06/2024
+Data/Training/synthetic/syn_03494.jpg	QN50174XB5
+Data/Training/synthetic/syn_03495.jpg	L5796P
+Data/Training/synthetic/syn_03496.jpg	BATCH 1764UH
+Data/Training/synthetic/syn_03497.jpg	04LAFQDA0U
+Data/Training/synthetic/syn_03498.jpg	C8P74UDCKI
+Data/Training/synthetic/syn_03499.jpg	7R0VCF0E
+Data/Training/synthetic/syn_03500.jpg	20 NOV 24
+Data/Training/synthetic/syn_03501.jpg	EXP 04MAY25
+Data/Training/synthetic/syn_03502.jpg	L701F
+Data/Training/synthetic/syn_03503.jpg	HIF9BR2QP
+Data/Training/synthetic/syn_03504.jpg	20 DEC 26
+Data/Training/synthetic/syn_03505.jpg	BATCH 4GYWN8
+Data/Training/synthetic/syn_03506.jpg	VO77336GJ4
+Data/Training/synthetic/syn_03507.jpg	LOT ERKORK
+Data/Training/synthetic/syn_03508.jpg	BB 15012024
+Data/Training/synthetic/syn_03509.jpg	BEST BEFORE 28/12/2026
+Data/Training/synthetic/syn_03510.jpg	L15008E
+Data/Training/synthetic/syn_03511.jpg	BB 18072024
+Data/Training/synthetic/syn_03512.jpg	PRD NNJ24J
+Data/Training/synthetic/syn_03513.jpg	L195O
+Data/Training/synthetic/syn_03514.jpg	13/04/2025
+Data/Training/synthetic/syn_03515.jpg	BATCH O24IRI
+Data/Training/synthetic/syn_03516.jpg	BATCH 6H6CQO
+Data/Training/synthetic/syn_03517.jpg	19EYBBT8
+Data/Training/synthetic/syn_03518.jpg	BATCH RW0PWD
+Data/Training/synthetic/syn_03519.jpg	L110V
+Data/Training/synthetic/syn_03520.jpg	PRD MNZA00
+Data/Training/synthetic/syn_03521.jpg	BB 17062027
+Data/Training/synthetic/syn_03522.jpg	V4LL6FXC4F
+Data/Training/synthetic/syn_03523.jpg	RJ31570FP1
+Data/Training/synthetic/syn_03524.jpg	BATCH Y9H4NT
+Data/Training/synthetic/syn_03525.jpg	L028E
+Data/Training/synthetic/syn_03526.jpg	XPARFL38N
+Data/Training/synthetic/syn_03527.jpg	KR66737XZ5
+Data/Training/synthetic/syn_03528.jpg	PRD RH9G04
+Data/Training/synthetic/syn_03529.jpg	BB 09102026
+Data/Training/synthetic/syn_03530.jpg	10112026
+Data/Training/synthetic/syn_03531.jpg	LOT 5IFS2O
+Data/Training/synthetic/syn_03532.jpg	L74375X
+Data/Training/synthetic/syn_03533.jpg	FU7XGS5R15
+Data/Training/synthetic/syn_03534.jpg	EXP 14DEC25
+Data/Training/synthetic/syn_03535.jpg	EZM0VQBW
+Data/Training/synthetic/syn_03536.jpg	BB 20092026
+Data/Training/synthetic/syn_03537.jpg	PRD 654983
+Data/Training/synthetic/syn_03538.jpg	L05540B
+Data/Training/synthetic/syn_03539.jpg	BATCH J494DJ
+Data/Training/synthetic/syn_03540.jpg	28012026
+Data/Training/synthetic/syn_03541.jpg	BB 02042024
+Data/Training/synthetic/syn_03542.jpg	BATCH F66UTG
+Data/Training/synthetic/syn_03543.jpg	BEST BEFORE 23/07/2024
+Data/Training/synthetic/syn_03544.jpg	EXP 11JAN27
+Data/Training/synthetic/syn_03545.jpg	LNYGCO2K
+Data/Training/synthetic/syn_03546.jpg	L2131Z
+Data/Training/synthetic/syn_03547.jpg	PRD V6O24C
+Data/Training/synthetic/syn_03548.jpg	13 OCT 26
+Data/Training/synthetic/syn_03549.jpg	28 NOV 27
+Data/Training/synthetic/syn_03550.jpg	LOT VHML0E
+Data/Training/synthetic/syn_03551.jpg	BEST BEFORE 08/05/2024
+Data/Training/synthetic/syn_03552.jpg	IN71237CR7
+Data/Training/synthetic/syn_03553.jpg	Q3JQ4QQ7L
+Data/Training/synthetic/syn_03554.jpg	ZT23338ID7
+Data/Training/synthetic/syn_03555.jpg	23052027
+Data/Training/synthetic/syn_03556.jpg	BB 15032026
+Data/Training/synthetic/syn_03557.jpg	11052026
+Data/Training/synthetic/syn_03558.jpg	BATCH OJ183L
+Data/Training/synthetic/syn_03559.jpg	LOT RVWWI0
+Data/Training/synthetic/syn_03560.jpg	LOT 2BTX8P
+Data/Training/synthetic/syn_03561.jpg	14-09-2026
+Data/Training/synthetic/syn_03562.jpg	L166P
+Data/Training/synthetic/syn_03563.jpg	WQ70423OW7
+Data/Training/synthetic/syn_03564.jpg	JU59605KV3
+Data/Training/synthetic/syn_03565.jpg	WWCLBN3ZF
+Data/Training/synthetic/syn_03566.jpg	06-06-2026
+Data/Training/synthetic/syn_03567.jpg	FT99877XM0
+Data/Training/synthetic/syn_03568.jpg	22-02-2025
+Data/Training/synthetic/syn_03569.jpg	L6065I
+Data/Training/synthetic/syn_03570.jpg	18/12/2026
+Data/Training/synthetic/syn_03571.jpg	17072024
+Data/Training/synthetic/syn_03572.jpg	RY29363HG0
+Data/Training/synthetic/syn_03573.jpg	16-01-2024
+Data/Training/synthetic/syn_03574.jpg	T6HEMJZ7
+Data/Training/synthetic/syn_03575.jpg	H6ODM7O1
+Data/Training/synthetic/syn_03576.jpg	11/03/2025
+Data/Training/synthetic/syn_03577.jpg	LOT P5F5F2
+Data/Training/synthetic/syn_03578.jpg	L282E
+Data/Training/synthetic/syn_03579.jpg	EXP 01JAN26
+Data/Training/synthetic/syn_03580.jpg	HH53514TE2
+Data/Training/synthetic/syn_03581.jpg	L659A
+Data/Training/synthetic/syn_03582.jpg	BATCH WSGZNC
+Data/Training/synthetic/syn_03583.jpg	16/10/2025
+Data/Training/synthetic/syn_03584.jpg	L1348X
+Data/Training/synthetic/syn_03585.jpg	05FGIYAP
+Data/Training/synthetic/syn_03586.jpg	01/07/2027
+Data/Training/synthetic/syn_03587.jpg	09/11/2024
+Data/Training/synthetic/syn_03588.jpg	L8045T
+Data/Training/synthetic/syn_03589.jpg	PRD 3SNQTA
+Data/Training/synthetic/syn_03590.jpg	L4947L
+Data/Training/synthetic/syn_03591.jpg	BATCH 51BS8A
+Data/Training/synthetic/syn_03592.jpg	L37052Y
+Data/Training/synthetic/syn_03593.jpg	BATCH 676DYL
+Data/Training/synthetic/syn_03594.jpg	PRD 92L4L4
+Data/Training/synthetic/syn_03595.jpg	05 NOV 26
+Data/Training/synthetic/syn_03596.jpg	L6103R
+Data/Training/synthetic/syn_03597.jpg	L0946P
+Data/Training/synthetic/syn_03598.jpg	EXP 01JUL24
+Data/Training/synthetic/syn_03599.jpg	WQ97142YA8
+Data/Training/synthetic/syn_03600.jpg	EXP 02DEC24
+Data/Training/synthetic/syn_03601.jpg	KONDH5RAPD
+Data/Training/synthetic/syn_03602.jpg	L500E
+Data/Training/synthetic/syn_03603.jpg	L201R
+Data/Training/synthetic/syn_03604.jpg	CKG9Y79M5I
+Data/Training/synthetic/syn_03605.jpg	LOT TXATKT
+Data/Training/synthetic/syn_03606.jpg	PRD 7XB24D
+Data/Training/synthetic/syn_03607.jpg	BEST BEFORE 23/07/2027
+Data/Training/synthetic/syn_03608.jpg	L8509A
+Data/Training/synthetic/syn_03609.jpg	27 MAR 27
+Data/Training/synthetic/syn_03610.jpg	D9ANZUTM1
+Data/Training/synthetic/syn_03611.jpg	PW00098DK2
+Data/Training/synthetic/syn_03612.jpg	N452IM1VUS
+Data/Training/synthetic/syn_03613.jpg	ID98289LG8
+Data/Training/synthetic/syn_03614.jpg	SS06573JI7
+Data/Training/synthetic/syn_03615.jpg	EXP 20AUG24
+Data/Training/synthetic/syn_03616.jpg	L6390P
+Data/Training/synthetic/syn_03617.jpg	L4885O
+Data/Training/synthetic/syn_03618.jpg	L45169I
+Data/Training/synthetic/syn_03619.jpg	BATCH FES0QH
+Data/Training/synthetic/syn_03620.jpg	BEST BEFORE 17/07/2026
+Data/Training/synthetic/syn_03621.jpg	10 JUL 27
+Data/Training/synthetic/syn_03622.jpg	BB 17042024
+Data/Training/synthetic/syn_03623.jpg	BATCH T1KTFV
+Data/Training/synthetic/syn_03624.jpg	BEST BEFORE 01/07/2027
+Data/Training/synthetic/syn_03625.jpg	L65372U
+Data/Training/synthetic/syn_03626.jpg	L3882S
+Data/Training/synthetic/syn_03627.jpg	BB 14032024
+Data/Training/synthetic/syn_03628.jpg	N8ODNSZ3U
+Data/Training/synthetic/syn_03629.jpg	EXP 03AUG27
+Data/Training/synthetic/syn_03630.jpg	BB 18022025
+Data/Training/synthetic/syn_03631.jpg	L084P
+Data/Training/synthetic/syn_03632.jpg	IC68922KX4
+Data/Training/synthetic/syn_03633.jpg	BEST BEFORE 14/07/2025
+Data/Training/synthetic/syn_03634.jpg	20-03-2027
+Data/Training/synthetic/syn_03635.jpg	BEST BEFORE 16/05/2026
+Data/Training/synthetic/syn_03636.jpg	BEST BEFORE 09/11/2026
+Data/Training/synthetic/syn_03637.jpg	04/05/2026
+Data/Training/synthetic/syn_03638.jpg	AFGP63Y99R
+Data/Training/synthetic/syn_03639.jpg	L6397D
+Data/Training/synthetic/syn_03640.jpg	06 OCT 25
+Data/Training/synthetic/syn_03641.jpg	BEST BEFORE 13/01/2025
+Data/Training/synthetic/syn_03642.jpg	EXP 11FEB25
+Data/Training/synthetic/syn_03643.jpg	UO07992VN1
+Data/Training/synthetic/syn_03644.jpg	28 DEC 24
+Data/Training/synthetic/syn_03645.jpg	BATCH 4UFU1K
+Data/Training/synthetic/syn_03646.jpg	L7611S
+Data/Training/synthetic/syn_03647.jpg	BATCH F1TWC0
+Data/Training/synthetic/syn_03648.jpg	LOT YSTC9I
+Data/Training/synthetic/syn_03649.jpg	11 SEP 26
+Data/Training/synthetic/syn_03650.jpg	16012025
+Data/Training/synthetic/syn_03651.jpg	NC24777FS9
+Data/Training/synthetic/syn_03652.jpg	L6492C
+Data/Training/synthetic/syn_03653.jpg	BATCH C8O3UV
+Data/Training/synthetic/syn_03654.jpg	15-06-2025
+Data/Training/synthetic/syn_03655.jpg	BATCH FXKR1B
+Data/Training/synthetic/syn_03656.jpg	UC74131NS7
+Data/Training/synthetic/syn_03657.jpg	L83193Y
+Data/Training/synthetic/syn_03658.jpg	EXP 17FEB26
+Data/Training/synthetic/syn_03659.jpg	BB 27062024
+Data/Training/synthetic/syn_03660.jpg	D945KE16O
+Data/Training/synthetic/syn_03661.jpg	03/09/2024
+Data/Training/synthetic/syn_03662.jpg	01-11-2024
+Data/Training/synthetic/syn_03663.jpg	L4201S
+Data/Training/synthetic/syn_03664.jpg	EXP 04JUL26
+Data/Training/synthetic/syn_03665.jpg	QV01788TN0
+Data/Training/synthetic/syn_03666.jpg	09 MAR 25
+Data/Training/synthetic/syn_03667.jpg	PRD ZLP94M
+Data/Training/synthetic/syn_03668.jpg	L66768U
+Data/Training/synthetic/syn_03669.jpg	15 MAY 25
+Data/Training/synthetic/syn_03670.jpg	GT28835IB2
+Data/Training/synthetic/syn_03671.jpg	L0322A
+Data/Training/synthetic/syn_03672.jpg	LOT 1IAJDO
+Data/Training/synthetic/syn_03673.jpg	BATCH JW6BWZ
+Data/Training/synthetic/syn_03674.jpg	05 JAN 27
+Data/Training/synthetic/syn_03675.jpg	19122025
+Data/Training/synthetic/syn_03676.jpg	WD26822VL0
+Data/Training/synthetic/syn_03677.jpg	0Y4LN7EI
+Data/Training/synthetic/syn_03678.jpg	VL64348SV4
+Data/Training/synthetic/syn_03679.jpg	05062025
+Data/Training/synthetic/syn_03680.jpg	18-05-2027
+Data/Training/synthetic/syn_03681.jpg	09-05-2027
+Data/Training/synthetic/syn_03682.jpg	L628W
+Data/Training/synthetic/syn_03683.jpg	LOT A2KE2E
+Data/Training/synthetic/syn_03684.jpg	BEST BEFORE 02/05/2025
+Data/Training/synthetic/syn_03685.jpg	1S6EOM63R8
+Data/Training/synthetic/syn_03686.jpg	24 MAY 27
+Data/Training/synthetic/syn_03687.jpg	BATCH L7TY8O
+Data/Training/synthetic/syn_03688.jpg	04 OCT 26
+Data/Training/synthetic/syn_03689.jpg	JL06118AM4
+Data/Training/synthetic/syn_03690.jpg	ZG34147JW5
+Data/Training/synthetic/syn_03691.jpg	BB 26082027
+Data/Training/synthetic/syn_03692.jpg	J7O9D1UJZM
+Data/Training/synthetic/syn_03693.jpg	27-12-2026
+Data/Training/synthetic/syn_03694.jpg	L19023D
+Data/Training/synthetic/syn_03695.jpg	EXP 28JAN24
+Data/Training/synthetic/syn_03696.jpg	L7154A
+Data/Training/synthetic/syn_03697.jpg	L611L
+Data/Training/synthetic/syn_03698.jpg	BB 23112024
+Data/Training/synthetic/syn_03699.jpg	L208Y
+Data/Training/synthetic/syn_03700.jpg	EXP 25APR24
+Data/Training/synthetic/syn_03701.jpg	PRD WRSCGA
+Data/Training/synthetic/syn_03702.jpg	PRD ZO479O
+Data/Training/synthetic/syn_03703.jpg	BB 16012024
+Data/Training/synthetic/syn_03704.jpg	03/04/2026
+Data/Training/synthetic/syn_03705.jpg	17-03-2024
+Data/Training/synthetic/syn_03706.jpg	X3LA49SZ46
+Data/Training/synthetic/syn_03707.jpg	BATCH D1VVGI
+Data/Training/synthetic/syn_03708.jpg	BATCH 4EC3AL
+Data/Training/synthetic/syn_03709.jpg	26 MAY 25
+Data/Training/synthetic/syn_03710.jpg	L241N
+Data/Training/synthetic/syn_03711.jpg	RJ77QV9D
+Data/Training/synthetic/syn_03712.jpg	22-07-2027
+Data/Training/synthetic/syn_03713.jpg	19112025
+Data/Training/synthetic/syn_03714.jpg	07-03-2027
+Data/Training/synthetic/syn_03715.jpg	BEST BEFORE 14/06/2026
+Data/Training/synthetic/syn_03716.jpg	18/08/2025
+Data/Training/synthetic/syn_03717.jpg	36LTPJYV
+Data/Training/synthetic/syn_03718.jpg	V16HRC6QVQ
+Data/Training/synthetic/syn_03719.jpg	L89861H
+Data/Training/synthetic/syn_03720.jpg	28082025
+Data/Training/synthetic/syn_03721.jpg	EXP 02SEP26
+Data/Training/synthetic/syn_03722.jpg	LN31018ZI1
+Data/Training/synthetic/syn_03723.jpg	22122026
+Data/Training/synthetic/syn_03724.jpg	BEST BEFORE 12/06/2024
+Data/Training/synthetic/syn_03725.jpg	EXP 28JAN26
+Data/Training/synthetic/syn_03726.jpg	11-04-2025
+Data/Training/synthetic/syn_03727.jpg	EB65454UF7
+Data/Training/synthetic/syn_03728.jpg	L390L
+Data/Training/synthetic/syn_03729.jpg	ES80529KO9
+Data/Training/synthetic/syn_03730.jpg	LOT RXW88P
+Data/Training/synthetic/syn_03731.jpg	07042024
+Data/Training/synthetic/syn_03732.jpg	BATCH 3YU72N
+Data/Training/synthetic/syn_03733.jpg	21/01/2024
+Data/Training/synthetic/syn_03734.jpg	PRD DKK28U
+Data/Training/synthetic/syn_03735.jpg	OIIKCH6F
+Data/Training/synthetic/syn_03736.jpg	QS78185EZ9
+Data/Training/synthetic/syn_03737.jpg	ZB20350BQ0
+Data/Training/synthetic/syn_03738.jpg	BEST BEFORE 05/02/2027
+Data/Training/synthetic/syn_03739.jpg	BKS1RRQNU0
+Data/Training/synthetic/syn_03740.jpg	L8498Z
+Data/Training/synthetic/syn_03741.jpg	KHB66I3XAM
+Data/Training/synthetic/syn_03742.jpg	PRD Y15GK6
+Data/Training/synthetic/syn_03743.jpg	11/12/2027
+Data/Training/synthetic/syn_03744.jpg	LOT 25IIDQ
+Data/Training/synthetic/syn_03745.jpg	L0295D
+Data/Training/synthetic/syn_03746.jpg	L08989Q
+Data/Training/synthetic/syn_03747.jpg	L786H
+Data/Training/synthetic/syn_03748.jpg	BB 06062025
+Data/Training/synthetic/syn_03749.jpg	27-08-2024
+Data/Training/synthetic/syn_03750.jpg	UES2GXTS8
+Data/Training/synthetic/syn_03751.jpg	06 FEB 24
+Data/Training/synthetic/syn_03752.jpg	BATCH TNWFDZ
+Data/Training/synthetic/syn_03753.jpg	EU52567XI5
+Data/Training/synthetic/syn_03754.jpg	LOT QGDJ37
+Data/Training/synthetic/syn_03755.jpg	PRD HK8F8N
+Data/Training/synthetic/syn_03756.jpg	AO71445JB9
+Data/Training/synthetic/syn_03757.jpg	IX84244WM2
+Data/Training/synthetic/syn_03758.jpg	EXP 13NOV24
+Data/Training/synthetic/syn_03759.jpg	BB 04012026
+Data/Training/synthetic/syn_03760.jpg	L106E
+Data/Training/synthetic/syn_03761.jpg	UW23206UU2
+Data/Training/synthetic/syn_03762.jpg	04-03-2027
+Data/Training/synthetic/syn_03763.jpg	BB 11062024
+Data/Training/synthetic/syn_03764.jpg	18/02/2024
+Data/Training/synthetic/syn_03765.jpg	86AW890S
+Data/Training/synthetic/syn_03766.jpg	25 DEC 27
+Data/Training/synthetic/syn_03767.jpg	V61GUU4B
+Data/Training/synthetic/syn_03768.jpg	08/04/2024
+Data/Training/synthetic/syn_03769.jpg	BB 24112026
+Data/Training/synthetic/syn_03770.jpg	10-04-2026
+Data/Training/synthetic/syn_03771.jpg	22-09-2026
+Data/Training/synthetic/syn_03772.jpg	L1303Q
+Data/Training/synthetic/syn_03773.jpg	36UY8NE4V
+Data/Training/synthetic/syn_03774.jpg	BB 14082025
+Data/Training/synthetic/syn_03775.jpg	WW17245EU4
+Data/Training/synthetic/syn_03776.jpg	LOT ZPE897
+Data/Training/synthetic/syn_03777.jpg	PRD ULT1VS
+Data/Training/synthetic/syn_03778.jpg	6IDIWCQX1Q
+Data/Training/synthetic/syn_03779.jpg	BATCH FXKJJO
+Data/Training/synthetic/syn_03780.jpg	PT52879TE0
+Data/Training/synthetic/syn_03781.jpg	HB20560YG1
+Data/Training/synthetic/syn_03782.jpg	18-02-2027
+Data/Training/synthetic/syn_03783.jpg	EXP 23SEP24
+Data/Training/synthetic/syn_03784.jpg	BATCH ZOMOIA
+Data/Training/synthetic/syn_03785.jpg	L006M
+Data/Training/synthetic/syn_03786.jpg	EXP 11JUN27
+Data/Training/synthetic/syn_03787.jpg	BB 19042027
+Data/Training/synthetic/syn_03788.jpg	L92535U
+Data/Training/synthetic/syn_03789.jpg	VX99089WD3
+Data/Training/synthetic/syn_03790.jpg	07112027
+Data/Training/synthetic/syn_03791.jpg	L057Q
+Data/Training/synthetic/syn_03792.jpg	L4288D
+Data/Training/synthetic/syn_03793.jpg	OTJ9A9QBCG
+Data/Training/synthetic/syn_03794.jpg	18082025
+Data/Training/synthetic/syn_03795.jpg	5PHYO03DY7
+Data/Training/synthetic/syn_03796.jpg	BATCH L5HDX8
+Data/Training/synthetic/syn_03797.jpg	L973W
+Data/Training/synthetic/syn_03798.jpg	MT51314SE7
+Data/Training/synthetic/syn_03799.jpg	BATCH 4DOXUA
+Data/Training/synthetic/syn_03800.jpg	03 AUG 26
+Data/Training/synthetic/syn_03801.jpg	38AG60JU
+Data/Training/synthetic/syn_03802.jpg	15-06-2027
+Data/Training/synthetic/syn_03803.jpg	BEST BEFORE 11/01/2025
+Data/Training/synthetic/syn_03804.jpg	EG44092YY6
+Data/Training/synthetic/syn_03805.jpg	L6526L
+Data/Training/synthetic/syn_03806.jpg	BATCH EHSPA7
+Data/Training/synthetic/syn_03807.jpg	28 MAR 27
+Data/Training/synthetic/syn_03808.jpg	14122026
+Data/Training/synthetic/syn_03809.jpg	BEST BEFORE 15/09/2025
+Data/Training/synthetic/syn_03810.jpg	22092027
+Data/Training/synthetic/syn_03811.jpg	20/05/2025
+Data/Training/synthetic/syn_03812.jpg	L6064M
+Data/Training/synthetic/syn_03813.jpg	VQ94398YE2
+Data/Training/synthetic/syn_03814.jpg	O7MHAW57
+Data/Training/synthetic/syn_03815.jpg	JS17801NQ1
+Data/Training/synthetic/syn_03816.jpg	14022024
+Data/Training/synthetic/syn_03817.jpg	L6217Z
+Data/Training/synthetic/syn_03818.jpg	25072026
+Data/Training/synthetic/syn_03819.jpg	PF63032PY2
+Data/Training/synthetic/syn_03820.jpg	L432D
+Data/Training/synthetic/syn_03821.jpg	L98497S
+Data/Training/synthetic/syn_03822.jpg	Z367TV8S
+Data/Training/synthetic/syn_03823.jpg	BB 17042026
+Data/Training/synthetic/syn_03824.jpg	EXP 23FEB24
+Data/Training/synthetic/syn_03825.jpg	PRD K64ATL
+Data/Training/synthetic/syn_03826.jpg	BATCH 9HC3X9
+Data/Training/synthetic/syn_03827.jpg	23/11/2026
+Data/Training/synthetic/syn_03828.jpg	BEST BEFORE 08/07/2025
+Data/Training/synthetic/syn_03829.jpg	AN9GU7K9VK
+Data/Training/synthetic/syn_03830.jpg	G3MRRUMJTM
+Data/Training/synthetic/syn_03831.jpg	BEST BEFORE 17/09/2027
+Data/Training/synthetic/syn_03832.jpg	15-03-2024
+Data/Training/synthetic/syn_03833.jpg	BB 12072026
+Data/Training/synthetic/syn_03834.jpg	27 DEC 25
+Data/Training/synthetic/syn_03835.jpg	BEST BEFORE 22/04/2027
+Data/Training/synthetic/syn_03836.jpg	LOT 81TGQJ
+Data/Training/synthetic/syn_03837.jpg	L4872C
+Data/Training/synthetic/syn_03838.jpg	27/06/2025
+Data/Training/synthetic/syn_03839.jpg	PRD HYV01G
+Data/Training/synthetic/syn_03840.jpg	01 SEP 26
+Data/Training/synthetic/syn_03841.jpg	PW15544NV9
+Data/Training/synthetic/syn_03842.jpg	BB 02112027
+Data/Training/synthetic/syn_03843.jpg	08/07/2026
+Data/Training/synthetic/syn_03844.jpg	L53843T
+Data/Training/synthetic/syn_03845.jpg	BEST BEFORE 08/01/2027
+Data/Training/synthetic/syn_03846.jpg	L054R
+Data/Training/synthetic/syn_03847.jpg	09 MAR 26
+Data/Training/synthetic/syn_03848.jpg	FP89406XG2
+Data/Training/synthetic/syn_03849.jpg	EXP 01DEC26
+Data/Training/synthetic/syn_03850.jpg	15 NOV 25
+Data/Training/synthetic/syn_03851.jpg	BATCH BSTYB0
+Data/Training/synthetic/syn_03852.jpg	ZD06712LU6
+Data/Training/synthetic/syn_03853.jpg	WF28114ZZ1
+Data/Training/synthetic/syn_03854.jpg	L2897V
+Data/Training/synthetic/syn_03855.jpg	L6310I
+Data/Training/synthetic/syn_03856.jpg	FI68924QQ9
+Data/Training/synthetic/syn_03857.jpg	AY81162FE0
+Data/Training/synthetic/syn_03858.jpg	10-04-2024
+Data/Training/synthetic/syn_03859.jpg	L721U
+Data/Training/synthetic/syn_03860.jpg	L0788J
+Data/Training/synthetic/syn_03861.jpg	22/02/2027
+Data/Training/synthetic/syn_03862.jpg	PRD KFEIVZ
+Data/Training/synthetic/syn_03863.jpg	28 NOV 24
+Data/Training/synthetic/syn_03864.jpg	EXP 01FEB26
+Data/Training/synthetic/syn_03865.jpg	BEST BEFORE 17/12/2027
+Data/Training/synthetic/syn_03866.jpg	15-12-2024
+Data/Training/synthetic/syn_03867.jpg	VWM1U4MK0
+Data/Training/synthetic/syn_03868.jpg	19-09-2025
+Data/Training/synthetic/syn_03869.jpg	ZJ83948CA5
+Data/Training/synthetic/syn_03870.jpg	04-01-2027
+Data/Training/synthetic/syn_03871.jpg	XJILUK7U
+Data/Training/synthetic/syn_03872.jpg	LOT 5P1ZMK
+Data/Training/synthetic/syn_03873.jpg	GP2UBOX02
+Data/Training/synthetic/syn_03874.jpg	CQSPL1WFM
+Data/Training/synthetic/syn_03875.jpg	27 JUN 24
+Data/Training/synthetic/syn_03876.jpg	L72469F
+Data/Training/synthetic/syn_03877.jpg	L27452W
+Data/Training/synthetic/syn_03878.jpg	EX80789VT2
+Data/Training/synthetic/syn_03879.jpg	YWBCJNZIH
+Data/Training/synthetic/syn_03880.jpg	SF63702VA8
+Data/Training/synthetic/syn_03881.jpg	02/02/2025
+Data/Training/synthetic/syn_03882.jpg	LOT 4NRMRX
+Data/Training/synthetic/syn_03883.jpg	15 DEC 24
+Data/Training/synthetic/syn_03884.jpg	EXP 13MAR27
+Data/Training/synthetic/syn_03885.jpg	Q8LEPEG9U
+Data/Training/synthetic/syn_03886.jpg	CPX877JI
+Data/Training/synthetic/syn_03887.jpg	L43102R
+Data/Training/synthetic/syn_03888.jpg	L001O
+Data/Training/synthetic/syn_03889.jpg	OWJ1XKFA3C
+Data/Training/synthetic/syn_03890.jpg	13/03/2024
+Data/Training/synthetic/syn_03891.jpg	L4209J
+Data/Training/synthetic/syn_03892.jpg	XO52942DE7
+Data/Training/synthetic/syn_03893.jpg	16 JUL 25
+Data/Training/synthetic/syn_03894.jpg	PRD 28RD74
+Data/Training/synthetic/syn_03895.jpg	AN37020BI5
+Data/Training/synthetic/syn_03896.jpg	LOT 1ZDU5N
+Data/Training/synthetic/syn_03897.jpg	G0EZ5NWC3H
+Data/Training/synthetic/syn_03898.jpg	BATCH 1P5FQ9
+Data/Training/synthetic/syn_03899.jpg	BB 25022026
+Data/Training/synthetic/syn_03900.jpg	26-11-2024
+Data/Training/synthetic/syn_03901.jpg	GM49267QR7
+Data/Training/synthetic/syn_03902.jpg	LOT LVMPHC
+Data/Training/synthetic/syn_03903.jpg	AY26558BM4
+Data/Training/synthetic/syn_03904.jpg	LOT PNCV3N
+Data/Training/synthetic/syn_03905.jpg	L129E
+Data/Training/synthetic/syn_03906.jpg	06-03-2027
+Data/Training/synthetic/syn_03907.jpg	L22665O
+Data/Training/synthetic/syn_03908.jpg	LOT AZA7TL
+Data/Training/synthetic/syn_03909.jpg	BATCH B6UV18
+Data/Training/synthetic/syn_03910.jpg	PRD 050032
+Data/Training/synthetic/syn_03911.jpg	PRD UCP0JZ
+Data/Training/synthetic/syn_03912.jpg	BEST BEFORE 01/06/2026
+Data/Training/synthetic/syn_03913.jpg	BEST BEFORE 03/01/2026
+Data/Training/synthetic/syn_03914.jpg	PRD C18DZA
+Data/Training/synthetic/syn_03915.jpg	23/09/2025
+Data/Training/synthetic/syn_03916.jpg	BB 06052027
+Data/Training/synthetic/syn_03917.jpg	7BNDU8LX
+Data/Training/synthetic/syn_03918.jpg	K9Z7QI7G
+Data/Training/synthetic/syn_03919.jpg	TK15776VN5
+Data/Training/synthetic/syn_03920.jpg	BF89290JV6
+Data/Training/synthetic/syn_03921.jpg	L650X
+Data/Training/synthetic/syn_03922.jpg	PRD 0TSBS4
+Data/Training/synthetic/syn_03923.jpg	L86012O
+Data/Training/synthetic/syn_03924.jpg	WJ14459OO9
+Data/Training/synthetic/syn_03925.jpg	NP11331WV0
+Data/Training/synthetic/syn_03926.jpg	BEST BEFORE 09/04/2024
+Data/Training/synthetic/syn_03927.jpg	01 JUL 26
+Data/Training/synthetic/syn_03928.jpg	L121N
+Data/Training/synthetic/syn_03929.jpg	SUKQIW0F9
+Data/Training/synthetic/syn_03930.jpg	SO66179OV3
+Data/Training/synthetic/syn_03931.jpg	21-08-2025
+Data/Training/synthetic/syn_03932.jpg	27082026
+Data/Training/synthetic/syn_03933.jpg	24/04/2024
+Data/Training/synthetic/syn_03934.jpg	EXP 18MAY24
+Data/Training/synthetic/syn_03935.jpg	L91373Q
+Data/Training/synthetic/syn_03936.jpg	07 NOV 27
+Data/Training/synthetic/syn_03937.jpg	6NODDH1L
+Data/Training/synthetic/syn_03938.jpg	BB 01062025
+Data/Training/synthetic/syn_03939.jpg	11-09-2027
+Data/Training/synthetic/syn_03940.jpg	EXP 26JUL25
+Data/Training/synthetic/syn_03941.jpg	L913W
+Data/Training/synthetic/syn_03942.jpg	06/12/2024
+Data/Training/synthetic/syn_03943.jpg	BEST BEFORE 17/01/2025
+Data/Training/synthetic/syn_03944.jpg	BB 23122024
+Data/Training/synthetic/syn_03945.jpg	17-01-2024
+Data/Training/synthetic/syn_03946.jpg	AQQYIJ2GG1
+Data/Training/synthetic/syn_03947.jpg	LOT XU8H2G
+Data/Training/synthetic/syn_03948.jpg	08/03/2027
+Data/Training/synthetic/syn_03949.jpg	21/06/2025
+Data/Training/synthetic/syn_03950.jpg	L6701K
+Data/Training/synthetic/syn_03951.jpg	RCA0NN36XN
+Data/Training/synthetic/syn_03952.jpg	BATCH 1DV1JA
+Data/Training/synthetic/syn_03953.jpg	SV32567DW2
+Data/Training/synthetic/syn_03954.jpg	NP17896BS3
+Data/Training/synthetic/syn_03955.jpg	KE46819JG5
+Data/Training/synthetic/syn_03956.jpg	PRD 5GU64A
+Data/Training/synthetic/syn_03957.jpg	BB 15062025
+Data/Training/synthetic/syn_03958.jpg	KE94455LK5
+Data/Training/synthetic/syn_03959.jpg	N66I2952Y9
+Data/Training/synthetic/syn_03960.jpg	09-10-2027
+Data/Training/synthetic/syn_03961.jpg	27 OCT 27
+Data/Training/synthetic/syn_03962.jpg	08-11-2026
+Data/Training/synthetic/syn_03963.jpg	13 JUL 25
+Data/Training/synthetic/syn_03964.jpg	24 APR 24
+Data/Training/synthetic/syn_03965.jpg	PRD 9ZBC94
+Data/Training/synthetic/syn_03966.jpg	BB 08062024
+Data/Training/synthetic/syn_03967.jpg	14 MAR 27
+Data/Training/synthetic/syn_03968.jpg	L29909M
+Data/Training/synthetic/syn_03969.jpg	L4376L
+Data/Training/synthetic/syn_03970.jpg	L91059V
+Data/Training/synthetic/syn_03971.jpg	BATCH 1FBFS5
+Data/Training/synthetic/syn_03972.jpg	03-10-2025
+Data/Training/synthetic/syn_03973.jpg	L8793P
+Data/Training/synthetic/syn_03974.jpg	L146G
+Data/Training/synthetic/syn_03975.jpg	BEST BEFORE 11/07/2025
+Data/Training/synthetic/syn_03976.jpg	L42442U
+Data/Training/synthetic/syn_03977.jpg	22/05/2026
+Data/Training/synthetic/syn_03978.jpg	L5251F
+Data/Training/synthetic/syn_03979.jpg	W08X0T3BCA
+Data/Training/synthetic/syn_03980.jpg	U9G9J183Z
+Data/Training/synthetic/syn_03981.jpg	13/10/2026
+Data/Training/synthetic/syn_03982.jpg	21012025
+Data/Training/synthetic/syn_03983.jpg	BB 01032024
+Data/Training/synthetic/syn_03984.jpg	L055S
+Data/Training/synthetic/syn_03985.jpg	LOT 8EYI28
+Data/Training/synthetic/syn_03986.jpg	BEST BEFORE 06/07/2026
+Data/Training/synthetic/syn_03987.jpg	L35953Y
+Data/Training/synthetic/syn_03988.jpg	PRD VJGR9J
+Data/Training/synthetic/syn_03989.jpg	L7919U
+Data/Training/synthetic/syn_03990.jpg	ZESG6E30XO
+Data/Training/synthetic/syn_03991.jpg	EXP 17MAR24
+Data/Training/synthetic/syn_03992.jpg	06052026
+Data/Training/synthetic/syn_03993.jpg	K3NVZ9GQ
+Data/Training/synthetic/syn_03994.jpg	19/01/2024
+Data/Training/synthetic/syn_03995.jpg	LOT WVH8UD
+Data/Training/synthetic/syn_03996.jpg	PRD X7KNDO
+Data/Training/synthetic/syn_03997.jpg	MK64759HD4
+Data/Training/synthetic/syn_03998.jpg	EXP 02JUN25
+Data/Training/synthetic/syn_03999.jpg	19-04-2025
