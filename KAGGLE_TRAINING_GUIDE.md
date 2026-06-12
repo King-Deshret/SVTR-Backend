@@ -301,3 +301,95 @@ print("  /kaggle/working/hasil.zip         (grafik+tabel+log)")
 - Training 200 epoch ~2-4 jam (GPU). Session Kaggle maks 12 jam.
 - Kalau putus, jalankan ulang Cell 3-4 (auto-resume dari latest checkpoint).
 - save_epoch_step=10 → checkpoint tersimpan tiap 10 epoch.
+
+
+---
+
+# BAGIAN 3: Resume Training 100 -> 200 epoch (di device lain)
+
+Checkpoint v2 (epoch 100) sudah tersimpan via "Save Version" di Kaggle.
+Tidak perlu download apapun. Ikuti ini di device lain (akun Kaggle sama).
+
+## Setup input
+1. Login Kaggle (akun sama)
+2. Buat notebook baru, aktifkan **GPU**
+3. **Add Input** (panel kanan):
+   - Tab "Your Datasets" -> tambahkan `svtr-dataset-v2` (gambar + label)
+   - Tab "Notebook Output" -> tambahkan notebook training v2 yang sudah di-Save
+     (yang isinya folder output/PP-OCRv5_v2/)
+
+## Cell A - Cek path checkpoint
+```python
+import os
+for root, dirs, files in os.walk('/kaggle/input'):
+    if any(f.startswith('iter_epoch_100') for f in files):
+        print("CHECKPOINT DITEMUKAN DI:", root)
+        print("  isi:", [f for f in files if f.startswith(('iter_epoch_100','best_accuracy','latest'))])
+```
+Catat path yang muncul -> pakai sebagai CKPT_SRC di Cell C.
+
+## Cell 1 & 2 - sama seperti Bagian 1 (install + clone)
+```python
+!pip install paddlepaddle-gpu==2.6.1 -f https://www.paddlepaddle.org.cn/whl/linux/mkl/avx/stable.html -q
+!pip install "paddleocr==2.7.3" lmdb -q
+!pip install "numpy==1.26.4" "opencv-python-headless==4.6.0.66" -q
+print("RESTART KERNEL setelah cell ini, lalu lanjut")
+```
+(Restart kernel, lalu)
+```python
+import os
+if not os.path.exists('/kaggle/working/PaddleOCR'):
+    os.system('git clone https://github.com/PaddlePaddle/PaddleOCR.git /kaggle/working/PaddleOCR -q')
+    os.system('git -C /kaggle/working/PaddleOCR checkout release/2.7 -q')
+print("OK")
+```
+
+## Cell C - Config resume (epoch 100 -> 200)
+```python
+import os, re, shutil
+
+DATASET_ROOT = '/kaggle/input/datasets/erpandeeplearning/svtr-dataset-v2/svtr_kaggle_upload'
+# GANTI dengan path dari Cell A:
+CKPT_SRC = '/kaggle/input/NAMA-NOTEBOOK-OUTPUT/output/PP-OCRv5_v2'
+
+DICT = f'{DATASET_ROOT}/custom_dict.txt'
+YML_SRC = f'{DATASET_ROOT}/svtr_finetune_v2.yml'
+OUTPUT_DIR = '/kaggle/working/output/PP-OCRv5_v2'
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+# salin checkpoint ke working dir (supaya bisa di-resume + ditimpa)
+for f in os.listdir(CKPT_SRC):
+    if f.startswith(('latest','best_accuracy','iter_epoch_100')):
+        shutil.copy(os.path.join(CKPT_SRC, f), os.path.join(OUTPUT_DIR, f))
+print("checkpoint disalin:", sorted(os.listdir(OUTPUT_DIR)))
+
+# resume dari iter_epoch_100 (atau latest)
+resume = f'{OUTPUT_DIR}/iter_epoch_100'
+if not os.path.exists(resume + '.pdparams'):
+    resume = f'{OUTPUT_DIR}/latest'
+
+with open(YML_SRC, encoding='utf-8') as f:
+    cfg = f.read()
+cfg = cfg.replace('USE_GPU_PLACEHOLDER', 'true')
+cfg = cfg.replace('DICT_PATH_PLACEHOLDER', DICT)
+cfg = cfg.replace('CHECKPOINT_PLACEHOLDER', resume)
+cfg = cfg.replace('PROJECT_PATH', DATASET_ROOT)
+cfg = re.sub(r'epoch_num:\s*\d+', 'epoch_num: 200', cfg)
+cfg = re.sub(r'save_model_dir:.*', f'save_model_dir: {OUTPUT_DIR}/', cfg)
+cfg = re.sub(r'save_res_path:.*', f'save_res_path: {OUTPUT_DIR}/predicts.txt', cfg)
+cfg = cfg.replace(f'{DATASET_ROOT}/train_v2.txt', f'{DATASET_ROOT}/Data/Annotation/train_v2.txt')
+cfg = cfg.replace(f'{DATASET_ROOT}/val_v2.txt',   f'{DATASET_ROOT}/Data/Annotation/val_v2.txt')
+
+with open('/kaggle/working/train_v2.yml','w',encoding='utf-8') as f:
+    f.write(cfg)
+print("resume dari:", resume, "-> target 200")
+os.system("grep -E 'checkpoints|epoch_num' /kaggle/working/train_v2.yml")
+```
+
+## Cell D - Training (lanjut 100->200) + Cell export/eval
+Sama seperti Cell 4-11 di Bagian 1 & 2.
+
+## PENTING
+- Sebelum tinggalkan: klik "Save Version" -> "Save & Run All (Commit)"
+  supaya jalan di background, device boleh dimatikan.
+- Setelah 200 epoch: download inference_v2.zip + hasil.zip + checkpoint baru.
