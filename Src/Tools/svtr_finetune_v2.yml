@@ -85,7 +85,7 @@ Train:
     data_dir: PROJECT_PATH/
     ext_op_transform_idx: 1
     label_file_list:
-      - PROJECT_PATH/train_v2.txt
+      - PROJECT_PATH/train_v3.txt
     transforms:
       - DecodeImage:
           img_mode: BGR
@@ -123,7 +123,7 @@ Eval:
     name: SimpleDataSet
     data_dir: PROJECT_PATH/
     label_file_list:
-      - PROJECT_PATH/val_v2.txt
+      - PROJECT_PATH/val_v3.txt
     transforms:
       - DecodeImage:
           img_mode: BGR

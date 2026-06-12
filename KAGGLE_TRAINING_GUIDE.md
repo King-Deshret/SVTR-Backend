@@ -22,8 +22,8 @@ svtr_kaggle_upload/
 │   │   ├── synthetic/            (baru)
 │   │   └── roboflow_crops/       (baru)
 │   └── Annotation/
-│       ├── train_v2.txt
-│       └── val_v2.txt
+│       ├── train_v3.txt
+│       └── val_v3.txt
 ├── custom_dict.txt
 └── svtr_finetune_v2.yml
 ```
@@ -75,8 +75,8 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # cek file penting ada
 for f in [DICT, YML_SRC,
-          f'{DATASET_ROOT}/Data/Annotation/train_v2.txt',
-          f'{DATASET_ROOT}/Data/Annotation/val_v2.txt']:
+          f'{DATASET_ROOT}/Data/Annotation/train_v3.txt',
+          f'{DATASET_ROOT}/Data/Annotation/val_v3.txt']:
     print(("OK  " if os.path.exists(f) else "HILANG ") + f)
 
 # auto-resume kalau ada checkpoint
@@ -93,10 +93,10 @@ cfg = cfg.replace('PROJECT_PATH', DATASET_ROOT)
 cfg = re.sub(r'save_model_dir:.*', f'save_model_dir: {OUTPUT_DIR}/', cfg)
 cfg = re.sub(r'save_res_path:.*', f'save_res_path: {OUTPUT_DIR}/predicts.txt', cfg)
 
-# Karena label_file_list di yml = PROJECT_PATH/train_v2.txt, tapi file ada di
+# Karena label_file_list di yml = PROJECT_PATH/train_v3.txt, tapi file ada di
 # PROJECT_PATH/Data/Annotation/ -> betulkan:
-cfg = cfg.replace(f'{DATASET_ROOT}/train_v2.txt', f'{DATASET_ROOT}/Data/Annotation/train_v2.txt')
-cfg = cfg.replace(f'{DATASET_ROOT}/val_v2.txt',   f'{DATASET_ROOT}/Data/Annotation/val_v2.txt')
+cfg = cfg.replace(f'{DATASET_ROOT}/train_v3.txt', f'{DATASET_ROOT}/Data/Annotation/train_v3.txt')
+cfg = cfg.replace(f'{DATASET_ROOT}/val_v3.txt',   f'{DATASET_ROOT}/Data/Annotation/val_v3.txt')
 
 with open('/kaggle/working/train_v2.yml', 'w', encoding='utf-8') as f:
     f.write(cfg)
@@ -156,7 +156,7 @@ args.use_gpu = True
 rec = TextRecognizer(args)
 
 # baca val_v2
-val_path = f'{DATASET_ROOT}/Data/Annotation/val_v2.txt'
+val_path = f'{DATASET_ROOT}/Data/Annotation/val_v3.txt'
 gts, paths = [], []
 with open(val_path, encoding='utf-8') as f:
     for line in f:
@@ -377,8 +377,8 @@ cfg = cfg.replace('PROJECT_PATH', DATASET_ROOT)
 cfg = re.sub(r'epoch_num:\s*\d+', 'epoch_num: 200', cfg)
 cfg = re.sub(r'save_model_dir:.*', f'save_model_dir: {OUTPUT_DIR}/', cfg)
 cfg = re.sub(r'save_res_path:.*', f'save_res_path: {OUTPUT_DIR}/predicts.txt', cfg)
-cfg = cfg.replace(f'{DATASET_ROOT}/train_v2.txt', f'{DATASET_ROOT}/Data/Annotation/train_v2.txt')
-cfg = cfg.replace(f'{DATASET_ROOT}/val_v2.txt',   f'{DATASET_ROOT}/Data/Annotation/val_v2.txt')
+cfg = cfg.replace(f'{DATASET_ROOT}/train_v3.txt', f'{DATASET_ROOT}/Data/Annotation/train_v3.txt')
+cfg = cfg.replace(f'{DATASET_ROOT}/val_v3.txt',   f'{DATASET_ROOT}/Data/Annotation/val_v3.txt')
 
 with open('/kaggle/working/train_v2.yml','w',encoding='utf-8') as f:
     f.write(cfg)

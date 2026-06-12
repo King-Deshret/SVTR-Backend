@@ -24,8 +24,8 @@ IMG_FOLDERS = [
 ]
 
 FILES = [
-    ("Data/Annotation/train_v2.txt", "Data/Annotation/train_v2.txt"),
-    ("Data/Annotation/val_v2.txt", "Data/Annotation/val_v2.txt"),
+    ("Data/Annotation/train_v3.txt", "Data/Annotation/train_v3.txt"),
+    ("Data/Annotation/val_v3.txt", "Data/Annotation/val_v3.txt"),
     ("Src/Model/Inference/custom_dict.txt", "custom_dict.txt"),
     ("Src/Tools/svtr_finetune_v2.yml", "svtr_finetune_v2.yml"),
 ]

@@ -1,0 +1,913 @@
+Data/Training/synthetic/syn_03352.jpg	26122027
+Data/Training/synthetic/syn_01402.jpg	EXP 13FEB26
+Data/Training/synthetic/syn_03551.jpg	BEST BEFORE 08/05/2024
+Data/Training/Dataset_train_1/word_4101.png	PTE
+Data/Training/synthetic/syn_00869.jpg	BEST BEFORE 04/11/2024
+Data/Training/train_data_Real+Sintetik/train/sintetik_1321.png	U0NU3B6KSI
+Data/Training/Dataset_train_1/word_2457.png	Yellow
+Data/Training/synthetic/syn_03359.jpg	25 MAY 24
+Data/Training/train_data_Real+Sintetik/train/sintetik_784.png	4ACM10G2BU
+Data/Training/synthetic/syn_03104.jpg	BEST BEFORE 19/08/2026
+Data/Training/train_data_Real+Sintetik/train/sintetik_1987.png	EB1XWNKE15
+Data/Training/Dataset_train_1/word_4056.png	one
+Data/Training/train_data_real+icdar/train/word_402.png	KING
+Data/Training/roboflow_crops/rfcrop_00326.jpg	06.04
+Data/Training/Dataset_train_1/word_2925.png	CONNECTION
+Data/Training/train_data_Real+Sintetik/train/sintetik_326.png	TJK0CEZ6MV
+Data/Training/Dataset_train_1/word_945.png	Tap
+Data/Training/synthetic/syn_01962.jpg	L845J
+Data/Training/Dataset_train_1/word_421.png	BLKS
+Data/Training/synthetic/syn_03196.jpg	86YTFRRTBG
+Data/Training/synthetic/syn_03871.jpg	XJILUK7U
+Data/Training/synthetic/syn_00706.jpg	LOT GEEMPW
+Data/Training/synthetic/syn_02938.jpg	I1NM8VWIZC
+Data/Training/synthetic/syn_00492.jpg	EXP 01JUN25
+Data/Training/synthetic/syn_00340.jpg	17 JUN 25
+Data/Training/synthetic/syn_02439.jpg	11/09/2026
+Data/Training/Dataset_train_1/word_4119.png	PTE
+Data/Training/train_data_Real+Sintetik/train/sintetik_153.png	ITI0OZ844B
+Data/Training/train_data_Real+Sintetik/train/sintetik_940.png	OXSTM266YN
+Data/Training/Dataset_train_1/word_417.png	#14-01
+Data/Training/Dataset_train_1/word_424.png	Offer
+Data/Training/synthetic/syn_03168.jpg	03092024
+Data/Training/train_data_Real+Sintetik/train/sintetik_765.png	I6EB1OWRB7
+Data/Training/synthetic/syn_03844.jpg	L53843T
+Data/Training/train_data_real+icdar/train/word_917.png	Office
+Data/Training/Dataset_train_1/word_1303.png	Car
+Data/Training/train_data_Real+Sintetik/train/sintetik_1216.png	4QL8M35FE5
+Data/Training/synthetic/syn_03601.jpg	KONDH5RAPD
+Data/Training/synthetic/syn_00392.jpg	EXP 01OCT27
+Data/Training/roboflow_crops/rfcrop_00378.jpg	21.10.09D
+Data/Training/synthetic/syn_03394.jpg	L92969A
+Data/Training/synthetic/syn_01712.jpg	20112027
+Data/Training/Dataset_train_1/word_2632.png	HarbourFront
+Data/Training/roboflow_crops/rfcrop_00389.jpg	03.13.00:51 A3
+Data/Training/synthetic/syn_02571.jpg	08 OCT 25
+Data/Training/synthetic/syn_02307.jpg	EXP 15JUN27
+Data/Training/Dataset_train_1/word_1270.png	ICED
+Data/Training/synthetic/syn_01803.jpg	BEST BEFORE 10/02/2024
+Data/Training/synthetic/syn_01211.jpg	L440C
+Data/Training/Dataset_train_1/word_2309.png	Payless
+Data/Training/Dataset_train_1/word_1002.png	$24
+Data/Training/synthetic/syn_02850.jpg	BB 25032026
+Data/Training/synthetic/syn_03537.jpg	PRD 654983
+Data/Training/synthetic/syn_00963.jpg	BATCH Y8SHF7
+Data/Training/Dataset_train_1/word_4165.png	FRIED
+Data/Training/Dataset_train_1/word_632.png	CREATE
+Data/Training/train_data_Real+Sintetik/train/sintetik_569.png	37G4WXDK6M
+Data/Training/Dataset_train_1/word_23.png	Gen is
+Data/Training/synthetic/syn_02156.jpg	13 JUL 27
+Data/Training/synthetic/syn_03193.jpg	L3057Z
+Data/Training/train_data_Real+Sintetik/train/sintetik_453.png	7UUPZH821H
+Data/Training/Dataset_train_1/word_4219.png	LASTIC
+Data/Training/train_data_real+icdar/train/word_1361.png	TODS
+Data/Training/synthetic/syn_01145.jpg	EXP 08JUN25
+Data/Training/Dataset_train_1/word_64.png	Pasenger
+Data/Training/Dataset_train_1/word_3750.png	Limited
+Data/Training/Dataset_train_1/word_346.png	UOB
+Data/Training/synthetic/syn_01943.jpg	JO21072ZO7
+Data/Training/synthetic/syn_01596.jpg	KG97902UN5
+Data/Training/train_data_Real+Sintetik/train/sintetik_440.png	D0TQ4Y3BUR
+Data/Training/train_data_real+icdar/train/word_1884.png	Our
+Data/Training/Dataset_train_1/word_498.png	Event
+Data/Training/train_data_Real+Sintetik/train/sintetik_14.png	SX4P53I2XD
+Data/Training/synthetic/syn_03215.jpg	BEST BEFORE 24/09/2026
+Data/Training/synthetic/syn_01839.jpg	08042025
+Data/Training/synthetic/syn_01686.jpg	28/09/2026
+Data/Training/synthetic/syn_03740.jpg	L8498Z
+Data/Training/synthetic/syn_02503.jpg	L4425A
+Data/Training/train_data ICDAR/rec/train/word_707.png	all
+Data/Training/Dataset_train_1/word_125.png	Raffles
+Data/Training/synthetic/syn_02782.jpg	IC41812PC5
+Data/Training/synthetic/syn_03275.jpg	BATCH OE0QXQ
+Data/Training/synthetic/syn_02314.jpg	UQ33268BV9
+Data/Training/train_data ICDAR/rec/train/word_385.png	Jollibean
+Data/Training/synthetic/syn_03549.jpg	28 NOV 27
+Data/Training/synthetic/syn_00926.jpg	TANLHQPC
+Data/Training/synthetic/syn_00169.jpg	9U3HOC0EKY
+Data/Training/train_data ICDAR/rec/train/word_36.png	residential
+Data/Training/Dataset_train_1/word_930.png	PTE
+Data/Training/train_data_Real+Sintetik/train/sintetik_448.png	QW2OOETVEA
+Data/Training/train_data_real+icdar/train/word_1320.png	RLD
+Data/Training/synthetic/syn_01862.jpg	15/12/2026
+Data/Training/synthetic/syn_00944.jpg	25 JAN 26
+Data/Training/roboflow_crops/rfcrop_00396.jpg	2.11.19
+Data/Training/Dataset_train_1/word_2167.png	WINE&SPIRITS
+Data/Training/synthetic/syn_01332.jpg	L111H
+Data/Training/synthetic/syn_02233.jpg	27092025
+Data/Training/Dataset_train_1/word_2228.png	TICKETING
+Data/Training/synthetic/syn_03775.jpg	WW17245EU4
+Data/Training/synthetic/syn_00052.jpg	BATCH 3JZKX5
+Data/Training/Dataset_train_1/word_2047.png	Blanc
+Data/Training/Dataset_train_1/word_546.png	CARD
+Data/Training/train_data_Real+Sintetik/train/sintetik_1356.png	OA8F36AQP8
+Data/Training/Dataset_train_1/word_1953.png	UOB
+Data/Training/roboflow_crops/rfcrop_00278.jpg	06.06 08
+Data/Training/synthetic/syn_03709.jpg	26 MAY 25
+Data/Training/train_data_Real+Sintetik/train/sintetik_1781.png	J90HW5CWSC
+Data/Training/train_data ICDAR/rec/train/word_856.png	OOD
+Data/Training/synthetic/syn_01271.jpg	27052026
+Data/Training/synthetic/syn_03378.jpg	UP62778CE6
+Data/Training/synthetic/syn_02275.jpg	26/08/2026
+Data/Training/train_data_Real+Sintetik/train/sintetik_1845.png	WQQAB8XIQR
+Data/Training/Dataset_train_1/word_4382.png	Discovery
+Data/Training/Dataset_train_1/word_4298.png	FREE
+Data/Training/train_data_Real+Sintetik/train/sintetik_1552.png	M40X9FVO59
+Data/Training/synthetic/syn_00055.jpg	XL15528DVP
+Data/Training/synthetic/syn_03121.jpg	9GF60C4OBW
+Data/Training/Dataset_train_1/word_735.png	M1-A1
+Data/Training/synthetic/syn_02595.jpg	FZX1S0FZ
+Data/Training/synthetic/syn_00469.jpg	MU25493CR8
+Data/Training/Dataset_train_1/word_2472.png	one
+Data/Training/train_data_Real+Sintetik/train/sintetik_13.png	74ZT6KQWL6
+Data/Training/train_data ICDAR/rec/train/word_888.png	Prego
+Data/Training/synthetic/syn_03269.jpg	GV93899UW2
+Data/Training/synthetic/syn_01612.jpg	BB 07112027
+Data/Training/roboflow_crops/rfcrop_00037.jpg	2023.01.20.B7
+Data/Training/synthetic/syn_03989.jpg	L7919U
+Data/Training/train_data_real+icdar/train/word_344.png	Reking
+Data/Training/synthetic/syn_03880.jpg	SF63702VA8
+Data/Training/synthetic/syn_03495.jpg	L5796P
+Data/Training/synthetic/syn_00000.jpg	BATCH RY5YZ5
+Data/Training/synthetic/syn_02380.jpg	PRD UCTB0Q
+Data/Training/synthetic/syn_03892.jpg	XO52942DE7
+Data/Training/train_data_Real+Sintetik/train/sintetik_920.png	43B1VM6RH6
+Data/Training/synthetic/syn_00142.jpg	JO52129JN1
+Data/Training/synthetic/syn_01121.jpg	AV69433EE9
+Data/Training/synthetic/syn_01298.jpg	GI97001BI6
+Data/Training/synthetic/syn_01916.jpg	28 JAN 27
+Data/Training/synthetic/syn_03843.jpg	08/07/2026
+Data/Training/train_data_Real+Sintetik/train/sintetik_1020.png	OIAIE9ISMX
+Data/Training/roboflow_crops/rfcrop_00088.jpg	2021.5.15 0 S
+Data/Training/Dataset_train_1/word_2907.png	UOB
+Data/Training/Dataset_train_1/word_362.png	banking
+Data/Training/synthetic/syn_01988.jpg	JK05368RL8
+Data/Training/Dataset_train_1/word_690.png	toastwich
+Data/Training/synthetic/syn_01377.jpg	L59152X
+Data/Training/synthetic/syn_00912.jpg	LOT YMX3ID
+Data/Training/Dataset_train_1/word_1478.png	Readers
+Data/Training/synthetic/syn_00854.jpg	LOT IDW7Q4
+Data/Training/synthetic/syn_01963.jpg	BATCH O1MXDF
+Data/Training/synthetic/syn_01356.jpg	EFPSNU0W
+Data/Training/Dataset_train_1/word_2905.png	Standard
+Data/Training/synthetic/syn_02004.jpg	LOT K9RWX9
+Data/Training/roboflow_crops/rfcrop_00201.jpg	2022.09.27
+Data/Training/train_data_Real+Sintetik/train/sintetik_438.png	OYPCPEP53M
+Data/Training/synthetic/syn_02946.jpg	08 APR 25
+Data/Training/synthetic/syn_03704.jpg	03/04/2026
+Data/Training/Dataset_train_1/word_4091.png	PRICE
+Data/Training/synthetic/syn_03540.jpg	28012026
+Data/Training/synthetic/syn_00348.jpg	20-09-2025
+Data/Training/Dataset_train_1/word_4108.png	RESTAURANT
+Data/Training/synthetic/syn_01872.jpg	L07187H
+Data/Training/Dataset_train_1/word_4237.png	FREE
+Data/Training/synthetic/syn_02725.jpg	28/10/2026
+Data/Training/synthetic/syn_03227.jpg	8T5QZ2UXA
+Data/Training/Dataset_train_1/word_1466.png	Strip
+Data/Training/synthetic/syn_02811.jpg	02/12/2024
+Data/Training/synthetic/syn_00281.jpg	UE26710NJ3
+Data/Training/synthetic/syn_01934.jpg	BATCH 51ZM58
+Data/Training/train_data_real+icdar/train/word_1335.png	RESTAURANT
+Data/Training/synthetic/syn_02131.jpg	BB 13072026
+Data/Training/synthetic/syn_01436.jpg	PRD KT9FKJ
+Data/Training/train_data_real+icdar/train/word_1036.png	BAY
+Data/Training/train_data_real+icdar/train/word_830.png	HOSEREEH
+Data/Training/synthetic/syn_03699.jpg	L208Y
+Data/Training/synthetic/syn_00238.jpg	22072026
+Data/Training/synthetic/syn_02045.jpg	BEST BEFORE 23/08/2026
+Data/Training/synthetic/syn_02646.jpg	L6969V
+Data/Training/synthetic/syn_00820.jpg	XP35617EK8
+Data/Training/train_data_Real+Sintetik/train/sintetik_372.png	0S1FR4C1ZH
+Data/Training/Dataset_train_1/word_339.png	Panadol
+Data/Training/train_data ICDAR/rec/train/word_46.png	Care
+Data/Training/Dataset_train_1/word_2096.png	Care
+Data/Training/roboflow_crops/rfcrop_00006.jpg	06.04
+Data/Training/synthetic/syn_00883.jpg	09 APR 24
+Data/Training/Dataset_train_1/word_2976.png	RLD
+Data/Training/roboflow_crops/rfcrop_00344.jpg	2021.07.04
+Data/Training/train_data_Real+Sintetik/train/sintetik_1363.png	V6C5W8YWFF
+Data/Training/roboflow_crops/rfcrop_00232.jpg	21.09.24 H 2
+Data/Training/train_data_Real+Sintetik/train/sintetik_625.png	HOHVI2A5C4
+Data/Training/Dataset_train_1/word_2340.png	sale!
+Data/Training/synthetic/syn_02605.jpg	BB 23012027
+Data/Training/Dataset_train_1/word_2118.png	m&m's
+Data/Training/synthetic/syn_02008.jpg	25-02-2027
+Data/Training/synthetic/syn_00614.jpg	S3W1KBMF8F
+Data/Training/synthetic/syn_00540.jpg	BEST BEFORE 05/08/2026
+Data/Training/roboflow_crops/rfcrop_00151.jpg	2022.09.09
+Data/Training/synthetic/syn_00666.jpg	BATCH C092CB
+Data/Training/roboflow_crops/rfcrop_00289.jpg	2022.05.02  2023.11.01  09
+Data/Training/synthetic/syn_01956.jpg	BATCH OIZ9VE
+Data/Training/Dataset_train_1/word_4167.png	SINCE
+Data/Training/synthetic/syn_02807.jpg	CEYHQK6V
+Data/Training/synthetic/syn_02747.jpg	BATCH K70NFE
+Data/Training/train_data_Real+Sintetik/train/sintetik_1157.png	3ZTTXICDYJ
+Data/Training/train_data_real+icdar/train/word_857.png	Admission.
+Data/Training/train_data_Real+Sintetik/train/sintetik_877.png	RAXKJPZHIX
+Data/Training/synthetic/syn_02432.jpg	BATCH X3SOSO
+Data/Training/synthetic/syn_03640.jpg	06 OCT 25
+Data/Training/synthetic/syn_03101.jpg	3IYNVWIU
+Data/Training/synthetic/syn_02330.jpg	26-06-2027
+Data/Training/roboflow_crops/rfcrop_00114.jpg	06.04
+Data/Training/train_data_real+icdar/train/word_2059.png	minimum
+Data/Training/Dataset_train_1/word_1255.png	Mayo
+Data/Training/train_data_Real+Sintetik/train/sintetik_923.png	ZBEJADI97P
+Data/Training/Dataset_train_1/word_3110.png	BAY
+Data/Training/synthetic/syn_01459.jpg	BEST BEFORE 26/03/2027
+Data/Training/Dataset_train_1/word_835.png	all
+Data/Training/synthetic/syn_01448.jpg	EXP 01MAR24
+Data/Training/Dataset_train_1/word_4128.png	REMITTANCE
+Data/Training/train_data_Real+Sintetik/train/sintetik_876.png	6SE3AIKL50
+Data/Training/synthetic/syn_00874.jpg	21 JAN 27
+Data/Training/synthetic/syn_01065.jpg	MS48778VV7
+Data/Training/synthetic/syn_03743.jpg	11/12/2027
+Data/Training/synthetic/syn_03924.jpg	WJ14459OO9
+Data/Training/synthetic/syn_01791.jpg	06/12/2026
+Data/Training/Dataset_train_1/word_2458.png	Standard
+Data/Training/Dataset_train_1/word_1178.png	TELECOM
+Data/Training/train_data_Real+Sintetik/train/sintetik_755.png	78TSDLTJ4S
+Data/Training/Dataset_train_1/word_3063.png	VITALITY
+Data/Training/Dataset_train_1/word_885.png	Unrail
+Data/Training/synthetic/syn_00086.jpg	BEST BEFORE 09/08/2025
+Data/Training/Dataset_train_1/word_2811.png	Yau
+Data/Training/synthetic/syn_02106.jpg	LPZMQBHH
+Data/Training/synthetic/syn_03635.jpg	BEST BEFORE 16/05/2026
+Data/Training/Dataset_train_1/word_4456.png	YOGA
+Data/Training/synthetic/syn_02928.jpg	TJFFDBQJ
+Data/Training/synthetic/syn_01732.jpg	UYJ3JIVG2
+Data/Training/train_data_Real+Sintetik/train/sintetik_1108.png	5RC61EXO4Q
+Data/Training/Dataset_train_1/word_1428.png	Assistant
+Data/Training/train_data_Real+Sintetik/train/sintetik_527.png	0UQDXTWOX2
+Data/Training/synthetic/syn_00601.jpg	PRD HD2Q6S
+Data/Training/synthetic/syn_01794.jpg	19 SEP 27
+Data/Training/train_data_real+icdar/train/word_1391.png	TIME!
+Data/Training/synthetic/syn_02055.jpg	EPSSKATS
+Data/Training/synthetic/syn_02674.jpg	L0300A
+Data/Training/train_data ICDAR/rec/train/word_405.png	KING
+Data/Training/Dataset_train_1/word_3909.png	STORES,
+Data/Training/synthetic/syn_00696.jpg	28072026
+Data/Training/train_data_real+icdar/train/word_1768.png	RESTAURANT
+Data/Training/Dataset_train_1/word_555.png	CARD
+Data/Training/train_data_Real+Sintetik/train/sintetik_339.png	4NLA73IXEW
+Data/Training/synthetic/syn_03480.jpg	BEST BEFORE 03/01/2025
+Data/Training/synthetic/syn_03772.jpg	L1303Q
+Data/Training/Dataset_train_1/word_60.png	Value
+Data/Training/synthetic/syn_03171.jpg	01012024
+Data/Training/synthetic/syn_02362.jpg	1IJIVCGV71
+Data/Training/synthetic/syn_03660.jpg	D945KE16O
+Data/Training/train_data ICDAR/rec/train/word_567.png	cafes
+Data/Training/train_data_real+icdar/train/word_1508.png	ntre
+Data/Training/train_data_Real+Sintetik/train/sintetik_502.png	OW58H9YDVZ
+Data/Training/synthetic/syn_03954.jpg	NP17896BS3
+Data/Training/synthetic/syn_03396.jpg	L5853A
+Data/Training/Dataset_train_1/word_83.png	NOTES
+Data/Training/Dataset_train_1/word_2134.png	Care
+Data/Training/Dataset_train_1/word_2845.png	3.15
+Data/Training/synthetic/syn_02660.jpg	0Q68WZ6E
+Data/Training/train_data_Real+Sintetik/train/sintetik_1116.png	4G10CFFA48
+Data/Training/synthetic/syn_02986.jpg	BATCH 67IJAA
+Data/Training/train_data_Real+Sintetik/train/sintetik_837.png	KMF76GGWYL
+Data/Training/train_data ICDAR/rec/train/word_344.png	Reking
+Data/Training/synthetic/syn_03525.jpg	L028E
+Data/Training/train_data_Real+Sintetik/train/sintetik_1572.png	EIS0559SIG
+Data/Training/synthetic/syn_02844.jpg	BEST BEFORE 22/02/2027
+Data/Training/synthetic/syn_02552.jpg	BEST BEFORE 11/10/2026
+Data/Training/train_data_Real+Sintetik/train/sintetik_1400.png	HXBI22PC1D
+Data/Training/synthetic/syn_03108.jpg	BEST BEFORE 07/01/2027
+Data/Training/train_data ICDAR/rec/train/word_830.png	HOSEREEH
+Data/Training/train_data_real+icdar/train/word_281.png	CUT
+Data/Training/Dataset_train_1/word_1587.png	Office
+Data/Training/synthetic/syn_01349.jpg	C291XD6YM
+Data/Training/Dataset_train_1/word_1181.png	Results
+Data/Training/synthetic/syn_01807.jpg	KL17254CV3
+Data/Training/synthetic/syn_00597.jpg	LOT Q7EOUZ
+Data/Training/Dataset_train_1/word_2057.png	SAYAN
+Data/Training/synthetic/syn_00983.jpg	L422A
+Data/Training/synthetic/syn_01158.jpg	L694M
+Data/Training/synthetic/syn_02373.jpg	DW383XIVLV
+Data/Training/train_data ICDAR/rec/train/word_281.png	CUT
+Data/Training/roboflow_crops/rfcrop_00196.jpg	21.09.21 00:47 A2.F4
+Data/Training/synthetic/syn_00798.jpg	LOT C0UUQU
+Data/Training/synthetic/syn_03000.jpg	C5J6U01QG2
+Data/Training/synthetic/syn_01367.jpg	XG81013PB4
+Data/Training/synthetic/syn_03605.jpg	LOT TXATKT
+Data/Training/train_data_Real+Sintetik/train/sintetik_1789.png	4CG5F9IZK5
+Data/Training/Dataset_train_1/word_3746.png	Limited
+Data/Training/synthetic/syn_01155.jpg	L189O
+Data/Training/Dataset_train_1/word_1452.png	FREE
+Data/Training/synthetic/syn_00416.jpg	BATCH ILN7AD
+Data/Training/synthetic/syn_01140.jpg	4ZBCYQGVUB
+Data/Training/synthetic/syn_01572.jpg	PRD 03CZGT
+Data/Training/synthetic/syn_02868.jpg	12/12/2026
+Data/Training/synthetic/syn_00728.jpg	L586K
+Data/Training/synthetic/syn_03214.jpg	10-08-2025
+Data/Training/Dataset_train_1/word_685.png	5367
+Data/Training/Dataset_train_1/word_3894.png	FORMULA
+Data/Training/Dataset_train_1/word_750.png	UOB
+Data/Training/train_data_Real+Sintetik/train/sintetik_1044.png	ZLGOYJ241R
+Data/Training/synthetic/syn_03945.jpg	17-01-2024
+Data/Training/synthetic/syn_00899.jpg	BATCH LV426X
+Data/Training/Dataset_train_1/word_2531.png	CARD
+Data/Training/synthetic/syn_00993.jpg	09/04/2024
+Data/Training/synthetic/syn_00962.jpg	RT52M4JZ
+Data/Training/train_data_Real+Sintetik/train/sintetik_1012.png	PT42DMBFT0
+Data/Training/synthetic/syn_03205.jpg	27/08/2024
+Data/Training/Dataset_train_1/word_684.png	Sav
+Data/Training/train_data_real+icdar/train/word_1578.png	DOWN
+Data/Training/Dataset_train_1/word_100.png	DOWN
+Data/Training/synthetic/syn_01010.jpg	13-06-2024
+Data/Training/synthetic/syn_00035.jpg	VK87067ZS9
+Data/Training/train_data_Real+Sintetik/train/sintetik_1694.png	KWAMHSYIMF
+Data/Training/train_data_Real+Sintetik/train/sintetik_436.png	ATBD7TEIFI
+Data/Training/roboflow_crops/rfcrop_00181.jpg	22.10.13
+Data/Training/Dataset_train_1/word_2866.png	Color
+Data/Training/train_data_Real+Sintetik/train/sintetik_198.png	6ZZUQINKVC
+Data/Training/train_data_Real+Sintetik/train/sintetik_1769.png	SITIJIBI85
+Data/Training/synthetic/syn_03420.jpg	L159H
+Data/Training/synthetic/syn_00154.jpg	BB 16092027
+Data/Training/Dataset_train_1/word_1234.png	shell.
+Data/Training/train_data_Real+Sintetik/train/sintetik_1175.png	75HHWGGLEN
+Data/Training/Dataset_train_1/word_951.png	Charcoal
+Data/Training/synthetic/syn_00898.jpg	01/06/2026
+Data/Training/train_data_Real+Sintetik/train/sintetik_1341.png	OTCMONX4H9
+Data/Training/train_data ICDAR/rec/train/word_240.png	715/717
+Data/Training/roboflow_crops/rfcrop_00451.jpg	18.09.12 23:25
+Data/Training/roboflow_crops/rfcrop_00422.jpg	22.09.19
+Data/Training/train_data ICDAR/rec/train/word_103.png	JUR
+Data/Training/synthetic/syn_01022.jpg	A4W4C0L97Y
+Data/Training/synthetic/syn_03482.jpg	BEST BEFORE 23/08/2024
+Data/Training/Dataset_train_1/word_2844.png	3.15
+Data/Training/Dataset_train_1/word_1463.png	SHEETS
+Data/Training/synthetic/syn_01644.jpg	EN85690FK2
+Data/Training/synthetic/syn_03749.jpg	27-08-2024
+Data/Training/train_data_real+icdar/train/word_567.png	cafes
+Data/Training/synthetic/syn_01798.jpg	09/07/2027
+Data/Training/synthetic/syn_02919.jpg	SQBCPXW6YT
+Data/Training/synthetic/syn_00794.jpg	L9884G
+Data/Training/synthetic/syn_03738.jpg	BEST BEFORE 05/02/2027
+Data/Training/synthetic/syn_02497.jpg	4UXU7K627
+Data/Training/synthetic/syn_00750.jpg	12-03-2024
+Data/Training/Dataset_train_1/word_3296.png	CONNECTION
+Data/Training/synthetic/syn_03522.jpg	V4LL6FXC4F
+Data/Training/synthetic/syn_02032.jpg	6BY8EXE3TZ
+Data/Training/synthetic/syn_00705.jpg	41SU0ICH
+Data/Training/synthetic/syn_02970.jpg	L1960R
+Data/Training/train_data ICDAR/rec/train/word_842.png	Admission.
+Data/Training/train_data_real+icdar/train/word_1779.png	Actor
+Data/Training/synthetic/syn_03016.jpg	OUPVE4KL9Y
+Data/Training/synthetic/syn_00143.jpg	03072024
+Data/Training/synthetic/syn_01317.jpg	ZT61756ME0
+Data/Training/synthetic/syn_02215.jpg	BB 18052026
+Data/Training/synthetic/syn_00095.jpg	L62283S
+Data/Training/Dataset_train_1/word_4123.png	RESTAURANT
+Data/Training/synthetic/syn_01620.jpg	IL8OMR52
+Data/Training/synthetic/syn_03216.jpg	L4NZZZ6X3
+Data/Training/Dataset_train_1/word_3249.png	CCI
+Data/Training/train_data_real+icdar/train/word_405.png	KING
+Data/Training/synthetic/syn_00372.jpg	YGDZBS1NB
+Data/Training/train_data_Real+Sintetik/train/sintetik_96.png	AZOIY42I62
+Data/Training/synthetic/syn_01132.jpg	L4397H
+Data/Training/train_data_Real+Sintetik/train/sintetik_1195.png	4O140BRY1W
+Data/Training/roboflow_crops/rfcrop_00440.jpg	06.06 08
+Data/Training/synthetic/syn_03468.jpg	KQ75611JR5
+Data/Training/synthetic/syn_01372.jpg	BATCH 2GV2WX
+Data/Training/train_data_Real+Sintetik/train/sintetik_1471.png	1LD5OHHHRU
+Data/Training/train_data ICDAR/rec/train/word_846.png	KING
+Data/Training/train_data_Real+Sintetik/train/sintetik_582.png	ZX88KYVUQ1
+Data/Training/Dataset_train_1/word_836.png	life!
+Data/Training/train_data_Real+Sintetik/train/sintetik_1683.png	H11O1SQ7BA
+Data/Training/train_data_Real+Sintetik/train/sintetik_1188.png	JI5Q2QP6Y0
+Data/Training/synthetic/syn_02216.jpg	TW6JN5TB2N
+Data/Training/synthetic/syn_01965.jpg	L613P
+Data/Training/synthetic/syn_01382.jpg	PK10709MY7
+Data/Training/Dataset_train_1/word_2044.png	FREE
+Data/Training/Dataset_train_1/word_840.png	Space
+Data/Training/Dataset_train_1/word_4415.png	VERANDAH
+Data/Training/Dataset_train_1/word_2124.png	m&m's
+Data/Training/synthetic/syn_03366.jpg	24-03-2027
+Data/Training/synthetic/syn_02081.jpg	22 AUG 26
+Data/Training/train_data_Real+Sintetik/train/sintetik_399.png	14NNNT2PJB
+Data/Training/train_data_Real+Sintetik/train/sintetik_1283.png	1M738TNA9K
+Data/Training/Dataset_train_1/word_2625.png	HarbourFront
+Data/Training/Dataset_train_1/word_1582.png	YOGA
+Data/Training/Dataset_train_1/word_4118.png	RESTAURANT
+Data/Training/Dataset_train_1/word_2026.png	SH O
+Data/Training/Dataset_train_1/word_590.png	Results
+Data/Training/synthetic/syn_03958.jpg	KE94455LK5
+Data/Training/synthetic/syn_03136.jpg	W6L12GARRX
+Data/Training/Dataset_train_1/word_454.png	Pillow.
+Data/Training/synthetic/syn_03758.jpg	EXP 13NOV24
+Data/Training/synthetic/syn_01475.jpg	F3D9LP80
+Data/Training/Dataset_train_1/word_1330.png	CARD
+Data/Training/synthetic/syn_02475.jpg	4HTTZR5JN
+Data/Training/synthetic/syn_02874.jpg	CK86481HC1
+Data/Training/roboflow_crops/rfcrop_00226.jpg	20.01.18B
+Data/Training/roboflow_crops/rfcrop_00066.jpg	06.03.06
+Data/Training/train_data ICDAR/rec/train/word_402.png	KING
+Data/Training/synthetic/syn_03887.jpg	L43102R
+Data/Training/synthetic/syn_03848.jpg	FP89406XG2
+Data/Training/synthetic/syn_03048.jpg	ZV78172FE9
+Data/Training/synthetic/syn_00108.jpg	21-08-2024
+Data/Training/Dataset_train_1/word_804.png	RMS
+Data/Training/Dataset_train_1/word_2078.png	Care
+Data/Training/train_data_Real+Sintetik/train/sintetik_1417.png	92F5G0FH21
+Data/Training/synthetic/syn_03293.jpg	LOT 10ONSS
+Data/Training/synthetic/syn_02647.jpg	BYFXDZ425W
+Data/Training/Dataset_train_1/word_856.png	CASH
+Data/Training/train_data_Real+Sintetik/train/sintetik_1504.png	WSMKJXL11A
+Data/Training/train_data_Real+Sintetik/train/sintetik_1162.png	MKGYQKD4LF
+Data/Training/Dataset_train_1/word_2403.png	TRADING
+Data/Training/Dataset_train_1/word_2135.png	Care
+Data/Training/train_data_real+icdar/train/word_1432.png	Space
+Data/Training/synthetic/syn_01989.jpg	D0IUD7I5JB
+Data/Training/synthetic/syn_01946.jpg	L6418M
+Data/Training/Dataset_train_1/word_1071.png	than
+Data/Training/roboflow_crops/rfcrop_00362.jpg	2022.05.13
+Data/Training/synthetic/syn_03682.jpg	L628W
+Data/Training/Dataset_train_1/word_4276.png	Our
+Data/Training/synthetic/syn_03555.jpg	23052027
+Data/Training/Dataset_train_1/word_4277.png	Choice
+Data/Training/synthetic/syn_01120.jpg	SE05212CJ5
+Data/Training/Dataset_train_1/word_19.png	HarbourFront
+Data/Training/train_data_Real+Sintetik/train/sintetik_1807.png	H8WDX27FNB
+Data/Training/train_data_Real+Sintetik/train/sintetik_1724.png	LUWMTHOQ8N
+Data/Training/synthetic/syn_02063.jpg	14-10-2025
+Data/Training/synthetic/syn_00733.jpg	BEST BEFORE 10/01/2025
+Data/Training/synthetic/syn_00124.jpg	BB 12102024
+Data/Training/Dataset_train_1/word_1539.png	Canon
+Data/Training/synthetic/syn_00807.jpg	EXP 24JUN27
+Data/Training/Dataset_train_1/word_1350.png	727
+Data/Training/synthetic/syn_02246.jpg	BB 05102024
+Data/Training/train_data_Real+Sintetik/train/sintetik_930.png	9FCRN63KQA
+Data/Training/train_data_Real+Sintetik/train/sintetik_1235.png	M6WDITAKRT
+Data/Training/synthetic/syn_01911.jpg	EXP 04DEC26
+Data/Training/synthetic/syn_02086.jpg	LOT LJXW5U
+Data/Training/synthetic/syn_02569.jpg	BATCH VL6VOX
+Data/Training/synthetic/syn_00219.jpg	12 OCT 25
+Data/Training/train_data_Real+Sintetik/train/sintetik_1435.png	NKZ2B6O6Y1
+Data/Training/synthetic/syn_01864.jpg	VVP5GDMA
+Data/Training/synthetic/syn_00538.jpg	LOT 5N3IQ2
+Data/Training/synthetic/syn_02479.jpg	BEST BEFORE 24/12/2026
+Data/Training/Dataset_train_1/word_2490.png	acer
+Data/Training/Dataset_train_1/word_4006.png	MINIMART
+Data/Training/synthetic/syn_02287.jpg	2VGMP87CR7
+Data/Training/train_data_real+icdar/train/word_1615.png	VICTORIAS
+Data/Training/synthetic/syn_01441.jpg	BEST BEFORE 08/04/2024
+Data/Training/Dataset_train_1/word_1486.png	MEDICAL
+Data/Training/synthetic/syn_01057.jpg	17 MAY 25
+Data/Training/synthetic/syn_00026.jpg	SGW4R6TKJ
+Data/Training/synthetic/syn_00310.jpg	15 FEB 25
+Data/Training/roboflow_crops/rfcrop_00421.jpg	06.02
+Data/Training/roboflow_crops/rfcrop_00272.jpg	2028.12.23
+Data/Training/synthetic/syn_00989.jpg	09 APR 25
+Data/Training/train_data_Real+Sintetik/train/sintetik_1730.png	856MALKNYB
+Data/Training/Dataset_train_1/word_3569.png	BARTOUX
+Data/Training/Dataset_train_1/word_4392.png	all
+Data/Training/synthetic/syn_01109.jpg	BB 20042025
+Data/Training/synthetic/syn_01927.jpg	13 FEB 25
+Data/Training/train_data_real+icdar/train/word_622.png	panic
+Data/Training/Dataset_train_1/word_1411.png	RESTAURANT
+Data/Training/synthetic/syn_01532.jpg	BEST BEFORE 22/07/2024
+Data/Training/train_data_Real+Sintetik/train/sintetik_1263.png	XODXW7M3NG
+Data/Training/Dataset_train_1/word_3714.png	Eli
+Data/Training/train_data_Real+Sintetik/train/sintetik_376.png	MQPVI2KHMW
+Data/Training/synthetic/syn_02162.jpg	YP47761CQ7
+Data/Training/synthetic/syn_03208.jpg	BB 10042024
+Data/Training/synthetic/syn_02168.jpg	BEST BEFORE 13/10/2026
+Data/Training/synthetic/syn_02447.jpg	HV32701PA6
+Data/Training/train_data_Real+Sintetik/train/sintetik_1633.png	34SBPU1L1D
+Data/Training/train_data_Real+Sintetik/train/sintetik_885.png	A0JRIAV6OS
+Data/Training/synthetic/syn_03532.jpg	L74375X
+Data/Training/train_data_Real+Sintetik/train/sintetik_1371.png	SIS7SCCCJO
+Data/Training/synthetic/syn_03365.jpg	LF8V016D
+Data/Training/synthetic/syn_00222.jpg	L3014O
+Data/Training/Dataset_train_1/word_1365.png	CHINATOWN
+Data/Training/Dataset_train_1/word_543.png	Canon
+Data/Training/synthetic/syn_00813.jpg	04-10-2024
+Data/Training/train_data_real+icdar/train/word_215.png	UOB
+Data/Training/train_data_real+icdar/train/word_1757.png	after
+Data/Training/train_data ICDAR/rec/train/word_43.png	Care
+Data/Training/synthetic/syn_01108.jpg	BB 02062025
+Data/Training/synthetic/syn_03103.jpg	BEST BEFORE 09/09/2027
+Data/Training/synthetic/syn_01338.jpg	L106O
+Data/Training/train_data_real+icdar/train/word_846.png	KING
+Data/Training/synthetic/syn_02942.jpg	BB 05052024
+Data/Training/synthetic/syn_00235.jpg	BB 28032024
+Data/Training/synthetic/syn_00871.jpg	XJ2S0PXH
+Data/Training/Dataset_train_1/word_1896.png	WESTON
+Data/Training/train_data_Real+Sintetik/train/sintetik_632.png	2VRF1EJ28Q
+Data/Training/synthetic/syn_02922.jpg	24 MAR 26
+Data/Training/synthetic/syn_00312.jpg	EXP 02AUG25
+Data/Training/synthetic/syn_02666.jpg	18022025
+Data/Training/synthetic/syn_02675.jpg	QQ99066RV4
+Data/Training/train_data_Real+Sintetik/train/sintetik_1772.png	ZYKL1L2QZC
+Data/Training/synthetic/syn_03575.jpg	H6ODM7O1
+Data/Training/train_data ICDAR/rec/train/word_622.png	panic
+Data/Training/Dataset_train_1/word_1956.png	Marks
+Data/Training/train_data_Real+Sintetik/train/sintetik_416.png	00TNPKUXBD
+Data/Training/train_data_real+icdar/train/word_96.png	Emergency
+Data/Training/synthetic/syn_02867.jpg	K4GZIHK7IY
+Data/Training/synthetic/syn_00272.jpg	BB 09082027
+Data/Training/synthetic/syn_02276.jpg	VT06591QP0
+Data/Training/train_data_real+icdar/train/word_914.png	UOB
+Data/Training/train_data_real+icdar/train/word_1572.png	DOWN
+Data/Training/Dataset_train_1/word_832.png	than
+Data/Training/synthetic/syn_01250.jpg	L60912B
+Data/Training/train_data ICDAR/rec/train/word_940.png	ODI
+Data/Training/Dataset_train_1/word_2116.png	FERRERO
+Data/Training/synthetic/syn_01682.jpg	04/08/2026
+Data/Training/synthetic/syn_00137.jpg	L773Y
+Data/Training/Dataset_train_1/word_3919.png	CARD
+Data/Training/synthetic/syn_00252.jpg	4MRIYN7HG
+Data/Training/Dataset_train_1/word_1390.png	January
+Data/Training/Dataset_train_1/word_2818.png	ZTP
+Data/Training/synthetic/syn_03688.jpg	04 OCT 26
+Data/Training/train_data ICDAR/rec/train/word_172.png	SPEEDS.
+Data/Training/train_data_real+icdar/train/word_1308.png	MONACO
+Data/Training/synthetic/syn_00113.jpg	BEST BEFORE 20/02/2024
+Data/Training/synthetic/syn_00356.jpg	BATCH BTSAYE
+Data/Training/train_data ICDAR/rec/train/word_215.png	UOB
+Data/Training/train_data_real+icdar/train/word_43.png	Care
+Data/Training/synthetic/syn_01409.jpg	BATCH DTM8ZF
+Data/Training/synthetic/syn_02125.jpg	LC71122WT3
+Data/Training/train_data_Real+Sintetik/train/sintetik_575.png	3TMMQH4MUD
+Data/Training/synthetic/syn_03281.jpg	LOT A4INBE
+Data/Training/synthetic/syn_02264.jpg	12/07/2027
+Data/Training/synthetic/syn_03073.jpg	L070Q
+Data/Training/train_data_Real+Sintetik/train/sintetik_1770.png	T4WS51UMDZ
+Data/Training/train_data_Real+Sintetik/train/sintetik_823.png	8Y1EZ8OBCD
+Data/Training/synthetic/syn_02093.jpg	BMIPMFP9ME
+Data/Training/synthetic/syn_03031.jpg	06 MAR 27
+Data/Training/synthetic/syn_03590.jpg	L4947L
+Data/Training/synthetic/syn_03847.jpg	09 MAR 26
+Data/Training/synthetic/syn_03628.jpg	N8ODNSZ3U
+Data/Training/synthetic/syn_02892.jpg	GAGWB6H2
+Data/Training/train_data_Real+Sintetik/train/sintetik_754.png	95CM934PZJ
+Data/Training/train_data_Real+Sintetik/train/sintetik_1106.png	K2ON4968KA
+Data/Training/roboflow_crops/rfcrop_00144.jpg	06.02
+Data/Training/synthetic/syn_01993.jpg	01-02-2025
+Data/Training/Dataset_train_1/word_2070.png	save
+Data/Training/train_data_Real+Sintetik/train/sintetik_1763.png	7F2ZR158BW
+Data/Training/synthetic/syn_02152.jpg	HB44ZFEPZ
+Data/Training/synthetic/syn_03829.jpg	AN9GU7K9VK
+Data/Training/synthetic/syn_03939.jpg	11-09-2027
+Data/Training/synthetic/syn_00922.jpg	L348O
+Data/Training/Dataset_train_1/word_2262.png	DeMille
+Data/Training/synthetic/syn_03901.jpg	GM49267QR7
+Data/Training/synthetic/syn_03038.jpg	F19YZQEYH
+Data/Training/Dataset_train_1/word_648.png	CREATE
+Data/Training/synthetic/syn_02159.jpg	L65232C
+Data/Training/synthetic/syn_00639.jpg	PE27084OO7
+Data/Training/synthetic/syn_01228.jpg	PRD TIRFWS
+Data/Training/Dataset_train_1/word_3575.png	BARTOUX
+Data/Training/Dataset_train_1/word_2448.png	Stretch
+Data/Training/Dataset_train_1/word_1489.png	MEDICAL
+Data/Training/train_data ICDAR/rec/train/word_917.png	Office
+Data/Training/synthetic/syn_02642.jpg	BATCH 91Z4NV
+Data/Training/synthetic/syn_02522.jpg	LOT QZ26P2
+Data/Training/Dataset_train_1/word_678.png	$24
+Data/Training/roboflow_crops/rfcrop_00306.jpg	06.03.00:49  05.23.00:4
+Data/Training/synthetic/syn_03819.jpg	PF63032PY2
+Data/Training/train_data ICDAR/rec/train/word_914.png	UOB
+Data/Training/Dataset_train_1/word_4088.png	TRADING
+Data/Training/Dataset_train_1/word_815.png	all
+Data/Training/train_data_real+icdar/train/word_707.png	all
+Data/Training/synthetic/syn_01337.jpg	BEST BEFORE 23/01/2026
+Data/Training/train_data_Real+Sintetik/train/sintetik_1386.png	CAKZ004WM3
+Data/Training/Dataset_train_1/word_2043.png	FREE
+Data/Training/synthetic/syn_01322.jpg	PRD 6OQVWQ
+Data/Training/Dataset_train_1/word_3214.png	BAY
+Data/Training/synthetic/syn_02332.jpg	18102026
+Data/Training/Dataset_train_1/word_2418.png	Our
+Data/Training/train_data_real+icdar/train/word_1295.png	MONACO
+Data/Training/Dataset_train_1/word_4063.png	FREE
+Data/Training/train_data_Real+Sintetik/train/sintetik_12.png	H7TUDETA3C
+Data/Training/synthetic/syn_00655.jpg	MN95122DV9
+Data/Training/roboflow_crops/rfcrop_00410.jpg	06.04
+Data/Training/synthetic/syn_00758.jpg	EXP 14NOV25
+Data/Training/synthetic/syn_03884.jpg	EXP 13MAR27
+Data/Training/synthetic/syn_03691.jpg	BB 26082027
+Data/Training/synthetic/syn_02147.jpg	01 JUN 24
+Data/Training/synthetic/syn_02392.jpg	L392L
+Data/Training/synthetic/syn_01355.jpg	01-08-2027
+Data/Training/synthetic/syn_02921.jpg	LOT SNKOD2
+Data/Training/train_data_Real+Sintetik/train/sintetik_140.png	7E9TMUY9AR
+Data/Training/synthetic/syn_00680.jpg	BATCH 3DDHS8
+Data/Training/Dataset_train_1/word_3125.png	DOWN
+Data/Training/synthetic/syn_00738.jpg	23 JUN 25
+Data/Training/train_data ICDAR/rec/train/word_857.png	Admission.
+Data/Training/synthetic/syn_02124.jpg	LOT 0MCES3
+Data/Training/train_data_Real+Sintetik/train/sintetik_1805.png	4I2LULJIBB
+Data/Training/synthetic/syn_02813.jpg	6F5E30ZLUK
+Data/Training/synthetic/syn_01493.jpg	YU79086UQ9
+Data/Training/synthetic/syn_03203.jpg	02-04-2024
+Data/Training/synthetic/syn_00198.jpg	WQ51682DD7
+Data/Training/synthetic/syn_00985.jpg	BEST BEFORE 20/01/2027
+Data/Training/train_data_Real+Sintetik/train/sintetik_753.png	QK93W9LD1O
+Data/Training/Dataset_train_1/word_2777.png	love
+Data/Training/roboflow_crops/rfcrop_00177.jpg	17.11.03(23:54)  18.05.02(A11)
+Data/Training/Dataset_train_1/word_1022.png	CARD
+Data/Training/synthetic/syn_02114.jpg	KTOEF8W8D
+Data/Training/synthetic/syn_03134.jpg	L06436K
+Data/Training/train_data_real+icdar/train/word_36.png	residential
+Data/Training/synthetic/syn_03272.jpg	DT15191DR9
+Data/Training/Dataset_train_1/word_205.png	SAFETY
+Data/Training/synthetic/syn_03676.jpg	WD26822VL0
+Data/Training/train_data ICDAR/rec/train/word_5.png	727
+Data/Training/synthetic/syn_01999.jpg	LOT 3701QX
+Data/Training/synthetic/syn_02602.jpg	BB 13112025
+Data/Training/synthetic/syn_03007.jpg	28022027
+Data/Training/Dataset_train_1/word_1292.png	PHOTOS
+Data/Training/synthetic/syn_01470.jpg	03-08-2026
+Data/Training/train_data_Real+Sintetik/train/sintetik_397.png	ZX9NNVEQT3
+Data/Training/train_data_Real+Sintetik/train/sintetik_666.png	CK526CNYEE
+Data/Training/synthetic/syn_02323.jpg	LOT F51CB2
+Data/Training/synthetic/syn_03947.jpg	LOT XU8H2G
+Data/Training/synthetic/syn_00479.jpg	LOT I9BRD5
+Data/Training/train_data_real+icdar/train/word_213.png	WEALTH
+Data/Training/synthetic/syn_00965.jpg	L41947B
+Data/Training/Dataset_train_1/word_2121.png	WANTS
+Data/Training/synthetic/syn_00806.jpg	E7PC6505O
+Data/Training/synthetic/syn_01187.jpg	15 DEC 27
+Data/Training/train_data_real+icdar/train/word_856.png	OOD
+Data/Training/Dataset_train_1/word_4169.png	Miguel
+Data/Training/synthetic/syn_01813.jpg	12-05-2025
+Data/Training/synthetic/syn_00697.jpg	D5IOZLT6
+Data/Training/train_data_Real+Sintetik/train/sintetik_1145.png	MLCDJ1NKPV
+Data/Training/Dataset_train_1/word_3966.png	PBOTHERS
+Data/Training/synthetic/syn_00158.jpg	08-09-2027
+Data/Training/synthetic/syn_03747.jpg	L786H
+Data/Training/synthetic/syn_00342.jpg	BATCH V2RPFY
+Data/Training/roboflow_crops/rfcrop_00105.jpg	06.06 08
+Data/Training/synthetic/syn_03157.jpg	25 MAY 25
+Data/Training/roboflow_crops/rfcrop_00406.jpg	2022.09.09
+Data/Training/Dataset_train_1/word_613.png	grain
+Data/Training/train_data_real+icdar/train/word_888.png	Prego
+Data/Training/synthetic/syn_00207.jpg	02 FEB 27
+Data/Training/train_data_Real+Sintetik/train/sintetik_450.png	NBB48UJACE
+Data/Training/synthetic/syn_01815.jpg	BB 26112026
+Data/Training/train_data_real+icdar/train/word_1282.png	all
+Data/Training/train_data_real+icdar/train/word_1032.png	BUD
+Data/Training/synthetic/syn_01819.jpg	EXP 01MAY25
+Data/Training/synthetic/syn_01621.jpg	ST71808XC9
+Data/Training/synthetic/syn_00486.jpg	RFEI7R5S
+Data/Training/synthetic/syn_03789.jpg	VX99089WD3
+Data/Training/synthetic/syn_03959.jpg	N66I2952Y9
+Data/Training/Dataset_train_1/word_4107.png	PTE
+Data/Training/Dataset_train_1/word_1321.png	CARD
+Data/Training/roboflow_crops/rfcrop_00432.jpg	2022.10.18
+Data/Training/Dataset_train_1/word_3893.png	EVA
+Data/Training/synthetic/syn_00082.jpg	EXP 13DEC25
+Data/Training/roboflow_crops/rfcrop_00178.jpg	21.09.14
+Data/Training/Dataset_train_1/word_2397.png	Choice
+Data/Training/synthetic/syn_00205.jpg	L073Y
+Data/Training/Dataset_train_1/word_2206.png	TELL
+Data/Training/synthetic/syn_02248.jpg	Q1FBE84A81
+Data/Training/synthetic/syn_03301.jpg	BEST BEFORE 21/10/2026
+Data/Training/synthetic/syn_02885.jpg	L63121G
+Data/Training/synthetic/syn_01016.jpg	EXP 09AUG26
+Data/Training/synthetic/syn_03475.jpg	EXP 04JUL24
+Data/Training/synthetic/syn_01697.jpg	BATCH 543D74
+Data/Training/synthetic/syn_03145.jpg	HLTYEH43S
+Data/Training/synthetic/syn_01011.jpg	BATCH 0LKDNB
+Data/Training/synthetic/syn_01246.jpg	UK13719IF3
+Data/Training/roboflow_crops/rfcrop_00414.jpg	2022.04.30/07:22  2022.12.29/F-2
+Data/Training/train_data ICDAR/rec/train/word_119.png	Lecture
+Data/Training/synthetic/syn_03107.jpg	LOT ASAZPG
+Data/Training/Dataset_train_1/word_932.png	correct
+Data/Training/synthetic/syn_02752.jpg	BF87616PX9
+Data/Training/synthetic/syn_00424.jpg	23/12/2025
+Data/Training/synthetic/syn_02852.jpg	1308KBTBC5
+Data/Training/synthetic/syn_00006.jpg	11032027
+Data/Training/train_data_real+icdar/train/word_1329.png	one
+Data/Training/synthetic/syn_00687.jpg	EXP 12MAY24
+Data/Training/roboflow_crops/rfcrop_00304.jpg	06.02
+Data/Training/train_data_Real+Sintetik/train/sintetik_361.png	T68U37O83Z
+Data/Training/roboflow_crops/rfcrop_00009.jpg	06.03.06
+Data/Training/train_data_Real+Sintetik/train/sintetik_118.png	QD7X2XM3NF
+Data/Training/train_data_real+icdar/train/word_403.png	Beanstro
+Data/Training/synthetic/syn_01863.jpg	08 FEB 25
+Data/Training/train_data_real+icdar/train/word_1202.png	PATEK
+Data/Training/roboflow_crops/rfcrop_00220.jpg	2024.04.11
+Data/Training/synthetic/syn_00522.jpg	BATCH YO5LMP
+Data/Training/Dataset_train_1/word_3135.png	CARD
+Data/Training/synthetic/syn_03973.jpg	L8793P
+Data/Training/synthetic/syn_03002.jpg	PRD 551RWU
+Data/Training/Dataset_train_1/word_2819.png	KOI
+Data/Training/train_data_Real+Sintetik/train/sintetik_1707.png	UIMHG9RVSK
+Data/Training/synthetic/syn_00578.jpg	CX12451DB1
+Data/Training/synthetic/syn_00248.jpg	76GHT5NG9X
+Data/Training/train_data_Real+Sintetik/train/sintetik_633.png	QK4TTUFO4A
+Data/Training/train_data_Real+Sintetik/train/sintetik_151.png	0284SKP6V7
+Data/Training/synthetic/syn_03566.jpg	06-06-2026
+Data/Training/train_data_Real+Sintetik/train/sintetik_491.png	CBX5CS6DKX
+Data/Training/train_data_Real+Sintetik/train/sintetik_1538.png	GDG4QWL2YS
+Data/Training/synthetic/syn_01040.jpg	5TIHPNTX2Z
+Data/Training/synthetic/syn_02190.jpg	L33620F
+Data/Training/train_data_Real+Sintetik/train/sintetik_1682.png	G35E8U6SBY
+Data/Training/Dataset_train_1/word_4214.png	ASIAN
+Data/Training/synthetic/syn_01800.jpg	PRD NLYIBA
+Data/Training/synthetic/syn_00595.jpg	16 JUL 26
+Data/Training/roboflow_crops/rfcrop_00412.jpg	2023.03.24
+Data/Training/synthetic/syn_01835.jpg	10/10/2027
+Data/Training/train_data_Real+Sintetik/train/sintetik_1272.png	S6PBDKOTEU
+Data/Training/synthetic/syn_02501.jpg	YA83135RZ2
+Data/Training/synthetic/syn_00844.jpg	BEST BEFORE 04/03/2024
+Data/Training/synthetic/syn_02418.jpg	09-11-2025
+Data/Training/Dataset_train_1/word_3932.png	CARD
+Data/Training/synthetic/syn_03371.jpg	17022027
+Data/Training/synthetic/syn_01671.jpg	02/04/2027
+Data/Training/Dataset_train_1/word_812.png	than
+Data/Training/Dataset_train_1/word_3624.png	NUE
+Data/Training/synthetic/syn_03524.jpg	BATCH Y9H4NT
+Data/Training/synthetic/syn_00088.jpg	13052025
+Data/Training/synthetic/syn_01213.jpg	L55957U
+Data/Training/synthetic/syn_01313.jpg	01/05/2027
+Data/Training/train_data_Real+Sintetik/train/sintetik_1719.png	85BA3C3KLT
+Data/Training/synthetic/syn_00195.jpg	13/11/2027
+Data/Training/Dataset_train_1/word_1458.png	Office
+Data/Training/synthetic/syn_01687.jpg	BATCH RDTB8A
+Data/Training/train_data_real+icdar/train/word_1645.png	Deals
+Data/Training/synthetic/syn_00906.jpg	EXP 05OCT24
+Data/Training/synthetic/syn_02704.jpg	JNHVBFBQ
+Data/Training/synthetic/syn_03898.jpg	BATCH 1P5FQ9
+Data/Training/train_data_Real+Sintetik/train/sintetik_1560.png	F6U89LEO3B
+Data/Training/synthetic/syn_03731.jpg	07042024
+Data/Training/train_data_real+icdar/train/word_1433.png	Office
+Data/Training/synthetic/syn_02302.jpg	VB571WAF
+Data/Training/train_data_real+icdar/train/word_1130.png	Care
+Data/Training/synthetic/syn_00708.jpg	20072024
+Data/Training/synthetic/syn_00351.jpg	BATCH I3N08V
+Data/Training/synthetic/syn_03864.jpg	EXP 01FEB26
+Data/Training/Dataset_train_1/word_2065.png	Care
+Data/Training/train_data_real+icdar/train/word_843.png	SINCE
+Data/Training/Dataset_train_1/word_3126.png	DOWN
+Data/Training/Dataset_train_1/word_4113.png	PTE
+Data/Training/synthetic/syn_02910.jpg	Y05XBTGBR
+Data/Training/synthetic/syn_01131.jpg	C31AX3TJCH
+Data/Training/synthetic/syn_00557.jpg	L09388Z
+Data/Training/synthetic/syn_00979.jpg	L765V
+Data/Training/synthetic/syn_01202.jpg	CAFFJLF5MC
+Data/Training/train_data_real+icdar/train/word_1861.png	after
+Data/Training/roboflow_crops/rfcrop_00012.jpg	200922
+Data/Training/synthetic/syn_02980.jpg	05-11-2024
+Data/Training/Dataset_train_1/word_1194.png	DOWN
+Data/Training/train_data ICDAR/rec/train/word_167.png	Beaute
+Data/Training/train_data_Real+Sintetik/train/sintetik_1071.png	T1UNCV6VAN
+Data/Training/synthetic/syn_03630.jpg	BB 18022025
+Data/Training/train_data_real+icdar/train/word_167.png	Beaute
+Data/Training/train_data_Real+Sintetik/train/sintetik_250.png	CE0W3WVLYO
+Data/Training/synthetic/syn_01797.jpg	XL80555ID1
+Data/Training/synthetic/syn_03156.jpg	BATCH 9K3S1F
+Data/Training/synthetic/syn_01413.jpg	BEST BEFORE 13/12/2026
+Data/Training/train_data_real+icdar/train/word_385.png	Jollibean
+Data/Training/synthetic/syn_01038.jpg	XP17964RQ8
+Data/Training/Dataset_train_1/word_4247.png	FREE
+Data/Training/synthetic/syn_00001.jpg	LOT HAUUE0
+Data/Training/train_data_real+icdar/train/word_1034.png	Charcoal
+Data/Training/Dataset_train_1/word_895.png	Lecture
+Data/Training/synthetic/syn_01257.jpg	BEST BEFORE 05/04/2026
+Data/Training/synthetic/syn_03560.jpg	LOT 2BTX8P
+Data/Training/synthetic/syn_03637.jpg	04/05/2026
+Data/Training/Dataset_train_1/word_634.png	Residence
+Data/Training/synthetic/syn_02699.jpg	PRD O0CDQG
+Data/Training/synthetic/syn_01941.jpg	PRD RKMSIX
+Data/Training/train_data ICDAR/rec/train/word_96.png	Emergency
+Data/Training/train_data_Real+Sintetik/train/sintetik_1945.png	WQPSOLGVT6
+Data/Training/train_data_Real+Sintetik/train/sintetik_422.png	T5HCIC1BG1
+Data/Training/train_data_Real+Sintetik/train/sintetik_951.png	75YZ2ZYDP2
+Data/Training/synthetic/syn_00636.jpg	L43513U
+Data/Training/synthetic/syn_03133.jpg	21 JUN 27
+Data/Training/synthetic/syn_01725.jpg	TM58461PR8
+Data/Training/synthetic/syn_01842.jpg	01/08/2025
+Data/Training/synthetic/syn_01226.jpg	L2411H
+Data/Training/synthetic/syn_00840.jpg	11 JUL 26
+Data/Training/synthetic/syn_03910.jpg	PRD 050032
+Data/Training/Dataset_train_1/word_3489.png	HAT
+Data/Training/synthetic/syn_03335.jpg	19-02-2027
+Data/Training/Dataset_train_1/word_745.png	MEPS
+Data/Training/train_data_Real+Sintetik/train/sintetik_947.png	1IQWT8G6UN
+Data/Training/train_data_Real+Sintetik/train/sintetik_549.png	HI93UB5FAQ
+Data/Training/synthetic/syn_03068.jpg	09122024
+Data/Training/Dataset_train_1/word_619.png	UOB
+Data/Training/synthetic/syn_00354.jpg	BATCH H4ETND
+Data/Training/train_data_Real+Sintetik/train/sintetik_1280.png	T4PHCAM7ZI
+Data/Training/synthetic/syn_01309.jpg	RJ02976AO2
+Data/Training/synthetic/syn_01449.jpg	LOT U1EEO2
+Data/Training/synthetic/syn_01856.jpg	S4EDZ54J3R
+Data/Training/train_data ICDAR/rec/train/word_213.png	WEALTH
+Data/Training/synthetic/syn_03631.jpg	L084P
+Data/Training/Dataset_train_1/word_1456.png	Office
+Data/Training/Dataset_train_1/word_1037.png	McDonald's
+Data/Training/roboflow_crops/rfcrop_00125.jpg	22.05.27  02
+Data/Training/synthetic/syn_00107.jpg	EXP 06DEC25
+Data/Training/synthetic/syn_02976.jpg	BATCH XETD34
+Data/Training/train_data_real+icdar/train/word_1860.png	months
+Data/Training/synthetic/syn_02692.jpg	L84990Q
+Data/Training/synthetic/syn_02399.jpg	L94253X
+Data/Training/synthetic/syn_00346.jpg	WPQO38ZR
+Data/Training/synthetic/syn_01750.jpg	01/06/2025
+Data/Training/synthetic/syn_03109.jpg	12/02/2024
+Data/Training/synthetic/syn_02478.jpg	4L8GEFGQ6M
+Data/Training/synthetic/syn_02901.jpg	L26959V
+Data/Training/train_data_Real+Sintetik/train/sintetik_607.png	CF1DY17RC2
+Data/Training/synthetic/syn_00050.jpg	BATCH 7CW5WT
+Data/Training/train_data_Real+Sintetik/train/sintetik_1696.png	7T1HS6O4NX
+Data/Training/roboflow_crops/rfcrop_00263.jpg	2020.09.10 .23:37
+Data/Training/train_data_Real+Sintetik/train/sintetik_1161.png	C12D1AUTDN
+Data/Training/synthetic/syn_03003.jpg	6I0XOO8KPQ
+Data/Training/synthetic/syn_01642.jpg	GQ36423JE0
+Data/Training/Dataset_train_1/word_2174.png	DAIRY
+Data/Training/train_data ICDAR/rec/train/word_494.png	Organto
+Data/Training/synthetic/syn_00693.jpg	PL47694WW3
+Data/Training/synthetic/syn_01542.jpg	BATCH Z4L7VY
+Data/Training/synthetic/syn_02736.jpg	PVF8CV176L
+Data/Training/synthetic/syn_02612.jpg	QK03092ES1
+Data/Training/train_data_Real+Sintetik/train/sintetik_1691.png	JQOKDANSXW
+Data/Training/synthetic/syn_00322.jpg	LOT 9UCT1M
+Data/Training/roboflow_crops/rfcrop_00298.jpg	06.02
+Data/Training/train_data_real+icdar/train/word_172.png	SPEEDS.
+Data/Training/roboflow_crops/rfcrop_00185.jpg	2022.08.11
+Data/Training/synthetic/syn_03664.jpg	EXP 04JUL26
+Data/Training/train_data_real+icdar/train/word_1049.png	UOB
+Data/Training/synthetic/syn_03375.jpg	BB 22092027
+Data/Training/train_data ICDAR/rec/train/word_403.png	Beanstro
+Data/Training/Dataset_train_1/word_2194.png	PRICE
+Data/Training/synthetic/syn_01824.jpg	JB35673QZ3
+Data/Training/roboflow_crops/rfcrop_00231.jpg	2023.03.24
+Data/Training/train_data_Real+Sintetik/train/sintetik_1878.png	UKNZP6CV4S
+Data/Training/synthetic/syn_03140.jpg	07092026
+Data/Training/Dataset_train_1/word_1404.png	$0.50
+Data/Training/synthetic/syn_02861.jpg	AA02634GR6
+Data/Training/Dataset_train_1/word_2069.png	save
+Data/Training/synthetic/syn_00125.jpg	9CSI5XWE7
+Data/Training/synthetic/syn_01418.jpg	09-01-2027
+Data/Training/synthetic/syn_02984.jpg	WZ84883QA1
+Data/Training/synthetic/syn_00181.jpg	01 FEB 27
+Data/Training/synthetic/syn_01762.jpg	14 APR 25
+Data/Training/train_data_real+icdar/train/word_1052.png	Value
+Data/Training/Dataset_train_1/word_3677.png	all
+Data/Training/synthetic/syn_03692.jpg	J7O9D1UJZM
+Data/Training/synthetic/syn_02805.jpg	L9815J
+Data/Training/synthetic/syn_02172.jpg	L60933H
+Data/Training/synthetic/syn_01854.jpg	28-07-2024
+Data/Training/synthetic/syn_03428.jpg	22 AUG 27
+Data/Training/roboflow_crops/rfcrop_00205.jpg	23.04.29 03:10
+Data/Training/Dataset_train_1/word_353.png	credit
+Data/Training/synthetic/syn_02670.jpg	23 AUG 25
+Data/Training/Dataset_train_1/word_340.png	banking
+Data/Training/Dataset_train_1/word_4115.png	RESTAURANT
+Data/Training/synthetic/syn_03090.jpg	PP8GAO5UN
+Data/Training/synthetic/syn_01159.jpg	11/10/2026
+Data/Training/synthetic/syn_01720.jpg	L379T
+Data/Training/synthetic/syn_01146.jpg	01-03-2024
+Data/Training/Dataset_train_1/word_1788.png	acer
+Data/Training/synthetic/syn_02900.jpg	PZ86393GF5
+Data/Training/synthetic/syn_03137.jpg	RN94501CB7
+Data/Training/roboflow_crops/rfcrop_00327.jpg	06.02
+Data/Training/Dataset_train_1/word_370.png	particulary
+Data/Training/synthetic/syn_02525.jpg	DH88238IN9
+Data/Training/Dataset_train_1/word_2692.png	Dress
+Data/Training/roboflow_crops/rfcrop_00053.jpg	06.04
+Data/Training/train_data_Real+Sintetik/train/sintetik_1143.png	R151BFZV3S
+Data/Training/train_data_Real+Sintetik/train/sintetik_693.png	OQB9C49M3F
+Data/Training/synthetic/syn_02452.jpg	L13116W
+Data/Training/synthetic/syn_02206.jpg	GL33496IX4
+Data/Training/synthetic/syn_03921.jpg	L650X
+Data/Training/synthetic/syn_00957.jpg	L967U
+Data/Training/synthetic/syn_02748.jpg	BB 20022025
+Data/Training/synthetic/syn_02734.jpg	PRD 06Y30A
+Data/Training/synthetic/syn_00306.jpg	BATCH 0MYBZH
+Data/Training/synthetic/syn_03472.jpg	28-11-2026
+Data/Training/synthetic/syn_01374.jpg	PRD PHZTWM
+Data/Training/synthetic/syn_01608.jpg	1HWCHWKU
+Data/Training/synthetic/syn_00563.jpg	W8URRX0V
+Data/Training/train_data ICDAR/rec/train/word_843.png	SINCE
+Data/Training/synthetic/syn_03542.jpg	BATCH F66UTG
+Data/Training/train_data_Real+Sintetik/train/sintetik_55.png	ZE5T10V8ZW
+Data/Training/synthetic/syn_01141.jpg	LOT XZBXOB
+Data/Training/synthetic/syn_02461.jpg	LOT QXQNOV
+Data/Training/roboflow_crops/rfcrop_00189.jpg	2022.11.26
+Data/Training/synthetic/syn_00596.jpg	23/08/2027
+Data/Training/synthetic/syn_00019.jpg	EXP 04FEB26
+Data/Training/synthetic/syn_02241.jpg	PRD JVOYM8
+Data/Training/Dataset_train_1/word_3233.png	FUTURE
+Data/Training/synthetic/syn_01892.jpg	L2497G
+Data/Training/synthetic/syn_02080.jpg	EXP 22AUG25
+Data/Training/synthetic/syn_01921.jpg	BEST BEFORE 01/01/2027
+Data/Training/synthetic/syn_01351.jpg	09/10/2027
+Data/Training/synthetic/syn_01814.jpg	L010Q
+Data/Training/Dataset_train_1/word_289.png	DOWN
+Data/Training/Dataset_train_1/word_1238.png	Crackers
+Data/Training/synthetic/syn_03776.jpg	LOT ZPE897
+Data/Training/Dataset_train_1/word_2402.png	YEO
+Data/Training/synthetic/syn_00812.jpg	PRD 4CMYNK
+Data/Training/Dataset_train_1/word_2834.png	UOB
+Data/Training/Dataset_train_1/word_2088.png	sale!
+Data/Training/train_data_Real+Sintetik/train/sintetik_1110.png	FW3K5QJZ1Z
+Data/Training/synthetic/syn_02273.jpg	L444Q
+Data/Training/synthetic/syn_03424.jpg	BATCH WOMCLG
+Data/Training/synthetic/syn_03311.jpg	W41DSBX4CC
+Data/Training/synthetic/syn_02356.jpg	PRD 43GKN8
+Data/Training/train_data_real+icdar/train/word_46.png	Care
+Data/Training/Dataset_train_1/word_338.png	Panadol
