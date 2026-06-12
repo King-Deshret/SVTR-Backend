@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Korelasi Metode Numerik dengan Proyek SVTR</title>
+<style>
+  body { font-family: 'Segoe UI', Arial, sans-serif; max-width: 900px; margin: 30px auto;
+         padding: 0 24px; line-height: 1.65; color: #1a1a2e; background: #fafafa; }
+  h1 { color: #16213e; border-bottom: 3px solid #0f3460; padding-bottom: 10px; }
+  h2 { color: #0f3460; margin-top: 32px; border-left: 5px solid #0f3460; padding-left: 12px; }
+  h3 { color: #533483; margin-top: 24px; }
+  .intro { background: #eef2f7; padding: 16px 20px; border-radius: 8px; border-left: 5px solid #533483; }
+  table { border-collapse: collapse; width: 100%; margin: 18px 0; font-size: 14px; }
+  th, td { border: 1px solid #ccd; padding: 9px 12px; text-align: left; }
+  th { background: #0f3460; color: #fff; }
+  tr:nth-child(even) { background: #f0f2f8; }
+  .kuat { color: #1b7a3d; font-weight: bold; }
+  .sedang { color: #b8860b; font-weight: bold; }
+  .lemah { color: #b03030; font-weight: bold; }
+  .rumus { background: #1a1a2e; color: #7fdbca; padding: 12px 16px; border-radius: 6px;
+           font-family: 'Consolas', monospace; font-size: 13px; overflow-x: auto; margin: 10px 0; }
+  .data { background: #fff8e1; padding: 10px 14px; border-radius: 6px; border-left: 4px solid #f0a500; margin: 8px 0; }
+  .why { background: #e8f5e9; padding: 10px 14px; border-radius: 6px; border-left: 4px solid #1b7a3d; margin: 8px 0; }
+  .box { background: #fff; border: 1px solid #ddd; border-radius: 8px; padding: 4px 20px; margin: 16px 0;
+         box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+  .highlight { background: #533483; color:#fff; padding: 20px; border-radius: 8px; }
+  code { background: #eee; padding: 1px 5px; border-radius: 3px; font-size: 13px; }
+  @media print { body { background:#fff; } .box{ box-shadow:none; } }
+</style>
+</head>
+<body>
+
+<h1>Korelasi Metode Numerik dengan Proyek SVTR</h1>
+<p><em>Scene Text Recognition pada kemasan pangan — bahan belajar</em></p>
+
+<div class="intro">
+<strong>Prinsip korelasi:</strong> ada <b>DATA</b> + ada <b>RUMUS</b> + <b>MASUK AKAL</b>.
+Bukan sekadar menempelkan istilah. Setiap materi di bawah punya: sumber data nyata,
+rumus sesuai silabus, dan justifikasi mengapa relevan.
+</div>
+
+<h2>Peta Korelasi 9 Materi</h2>
+<table>
+<tr><th>Materi Silabus</th><th>Kekuatan</th><th>Cukup 1 model?</th><th>Data</th></tr>
+<tr><td>2.1 Galat &amp; Angka Signifikan</td><td class="kuat">KUAT</td><td>Ya</td><td>CER/WER/loss</td></tr>
+<tr><td>2.2 Regresi / Curve Fitting</td><td class="kuat">KUAT</td><td>Ya</td><td>(epoch, loss)</td></tr>
+<tr><td>2.9 Optimasi Numerik</td><td class="kuat">KUAT</td><td>Ya</td><td>kurva loss + Adam</td></tr>
+<tr><td>2.4 Root Finding</td><td class="sedang">SEDANG</td><td>Ya</td><td>persamaan regresi loss</td></tr>
+<tr><td>2.7 Sistem Persamaan Linear</td><td class="sedang">SEDANG</td><td>Ya</td><td>normal equation (Gauss)</td></tr>
+<tr><td>2.8 Diferensiasi Numerik</td><td class="sedang">SEDANG</td><td>Ya</td><td>turunan kurva loss</td></tr>
+<tr><td>2.5 Interpolasi</td><td class="sedang">SEDANG</td><td>Ya</td><td>preprocessing resize citra</td></tr>
+<tr><td>2.3 Integrasi Numerik</td><td class="lemah">LEMAH</td><td>lebih baik 2 model</td><td>luas bawah kurva loss</td></tr>
+<tr><td>2.6 ODE</td><td class="lemah">LEMAH</td><td>Ya (abstrak)</td><td>model peluruhan loss</td></tr>
+</table>
+<div class="box"><p><strong>Kesimpulan peta:</strong> Sebagian besar materi bisa dikorelasikan
+<b>hanya dengan satu model (v2)</b>. Perbandingan dua model (v2 vs v3) hanya pelengkap
+untuk Galat &amp; Integrasi, bukan keharusan.</p></div>
+
+<h2>2.1 Galat — KORELASI PALING KUAT</h2>
+<div class="box">
+<div class="why"><b>Kenapa:</b> CER (Character Error Rate) secara harfiah ADALAH galat.
+Confidence score yang menolak hasil di bawah ambang = penerapan galat untuk keputusan.</div>
+<div class="data"><b>Data:</b> prediksi model vs ground truth (teks asli).</div>
+<div class="rumus">RMSE = sqrt( (1/n) · Σ (x_sejati − x_pendekatan)² )<br>
+MAE  = (1/n) · Σ |x_sejati − x_pendekatan|<br>
+Galat relatif = |sejati − pendekatan| / |sejati| × 100%<br>
+CER = edit_distance / jumlah_karakter_ground_truth</div>
+</div>
+
+<h2>2.2 Regresi / Curve Fitting — KUAT</h2>
+<div class="box">
+<div class="why"><b>Kenapa:</b> (a) Kurva loss bisa di-fit jadi fungsi matematis.
+(b) Training NN itu sendiri = regresi (minimasi selisih prediksi vs aktual).</div>
+<div class="data"><b>Data:</b> titik (epoch, loss) dari log training.</div>
+<div class="rumus">y = a0 + a1·x<br>
+a1 = (nΣxy − ΣxΣy) / (nΣx² − (Σx)²)<br>
+R² = 1 − (SS_res / SS_tot)</div>
+<p><b>Hasil nyata (v2):</b> regresi polinomial derajat-3 → <b>R² ≈ 0.87</b>.</p>
+</div>
+
+<h2>2.9 Optimasi Numerik — KUAT (paling inti)</h2>
+<div class="box">
+<div class="why"><b>Kenapa:</b> Training = optimasi numerik meminimalkan loss.
+Optimizer proyek = <b>Adam</b> (di config training).</div>
+<div class="data"><b>Data:</b> kurva loss menurun 132.98 → 6.63 (reduksi 95%).</div>
+<div class="rumus">Gradient Descent: θ_baru = θ_lama − α · ∇L(θ)<br>
+Adam = momentum + adaptive learning rate<br>
+(α = learning rate = 0.0005, Cosine schedule)</div>
+<p><b>Masuk akal:</b> Kurva loss menurun = bukti visual gradient descent bekerja.</p>
+</div>
+
+<h2>2.4 Root Finding — SEDANG (didukung silabus)</h2>
+<div class="box">
+<div class="why"><b>Kenapa:</b> Silabus: "pencarian akar berkaitan dengan kondisi
+gradien nol (stationary point) pada optimasi loss." Cari epoch saat turunan loss = 0.</div>
+<div class="data"><b>Data:</b> persamaan regresi loss (dari 2.2).</div>
+<div class="rumus">Biseksi: c = (a+b)/2, cek tanda f(a)·f(c)<br>
+Newton-Raphson: x_{n+1} = x_n − f(x_n)/f'(x_n)<br>
+Secant: x_{n+1} = x_n − f(x_n)·(x_n−x_{n-1})/(f(x_n)−f(x_{n-1}))</div>
+<p><b>Masuk akal:</b> "Decode grafik loss → persamaan → cari akar turunan = epoch konvergen."
+Newton-Raphson konvergen tercepat, Biseksi paling stabil.</p>
+</div>
+
+<h2>2.7 Sistem Persamaan Linear — SEDANG (otomatis terpakai)</h2>
+<div class="box">
+<div class="why"><b>Kenapa:</b> (a) Regresi least-squares diselesaikan via SPL.
+(b) Tiap layer NN = transformasi linear Wx + b.</div>
+<div class="data"><b>Data:</b> matriks normal equation dari regresi.</div>
+<div class="rumus">A·x = b<br>
+Eliminasi Gauss → segitiga atas + substitusi mundur<br>
+Dekomposisi LU: A = L·U</div>
+</div>
+
+<h2>2.8 Diferensiasi Numerik — SEDANG</h2>
+<div class="box">
+<div class="why"><b>Kenapa:</b> (a) Backpropagation = diferensiasi (chain rule).
+(b) Turunan kurva loss = laju penurunan (kapan training melambat).</div>
+<div class="data"><b>Data:</b> kurva loss per epoch.</div>
+<div class="rumus">Beda maju: f'(x) ≈ (f(x+h) − f(x)) / h<br>
+Beda tengah: f'(x) ≈ (f(x+h) − f(x−h)) / 2h<br>
+Turunan kedua: f''(x) ≈ (f(x+h) − 2f(x) + f(x−h)) / h²</div>
+<p><b>Masuk akal:</b> Turunan loss → 0 = konvergen. Menyambung ke Root Finding.</p>
+</div>
+
+<h2>2.5 Interpolasi — SEDANG (korelasikan ke PREPROCESSING)</h2>
+<div class="box">
+<div class="why"><b>Kenapa:</b> Silabus: interpolasi dipakai di image resizing &amp; warping.
+Proyek BENAR memakainya: <code>cv2.resize</code> dengan <code>INTER_CUBIC</code>/<code>INTER_AREA</code>.</div>
+<div class="data"><b>Data:</b> citra sebelum &amp; sesudah resize (ke tinggi 48px).</div>
+<div class="rumus">Linear: f(x) = f(x0) + (x−x0)·(f(x1)−f(x0))/(x1−x0)<br>
+Lagrange &amp; Newton (selisih terbagi)</div>
+<p><b>Masuk akal:</b> Resize citra teks = interpolasi piksel. Ini korelasi paling
+jujur untuk interpolasi (bukan dipaksakan ke kurva loss).</p>
+</div>
+
+<h2>2.3 Integrasi Numerik — LEMAH (untuk perbandingan model)</h2>
+<div class="box">
+<div class="why"><b>Kenapa (tipis):</b> "Area under loss curve" = akumulasi loss.
+Metrik efisiensi: area kecil = konvergen cepat.</div>
+<div class="data"><b>Data:</b> kurva loss dua model (v2 vs v3).</div>
+<div class="rumus">Trapesium: ∫ ≈ (h/2)·[f0 + 2f1 + ... + 2f_{n-1} + fn]<br>
+Simpson 1/3: ∫ ≈ (h/3)·[f0 + 4f1 + 2f2 + ... + fn]</div>
+<p><b>Masuk akal:</b> Pakai untuk membandingkan efisiensi v2 vs v3.</p>
+</div>
+
+<h2>2.6 ODE — LEMAH / ABSTRAK</h2>
+<div class="box">
+<div class="why"><b>Kenapa (abstrak):</b> Silabus: ODE relevan dengan dinamika pembaruan
+weight. Penurunan loss dimodelkan peluruhan: dL/dt = −k·L.</div>
+<div class="data"><b>Data:</b> kurva loss.</div>
+<div class="rumus">Euler: y_{i+1} = y_i + h·f(x_i, y_i)<br>
+Heun: rata-rata slope awal &amp; akhir<br>
+RK4: kombinasi 4 slope</div>
+<p><b>Masuk akal:</b> Bandingkan solusi numerik (Euler/RK4) vs data aktual loss.</p>
+</div>
+
+<h2>Alur Elegan: 1 Model → 4 Materi Sekaligus</h2>
+<div class="highlight">
+<p>Dari <b>satu</b> kurva loss model v2:</p>
+<ol>
+<li><b>Regresi (2.2)</b> → fit kurva loss jadi persamaan polinomial</li>
+<li><b>SPL (2.7)</b> → persamaan regresi diselesaikan via Eliminasi Gauss</li>
+<li><b>Diferensiasi (2.8)</b> → turunkan persamaan untuk laju penurunan</li>
+<li><b>Root Finding (2.4)</b> → cari akar turunan = epoch konvergen</li>
+</ol>
+<p>+ <b>Galat (2.1)</b> ukur kualitas fitting (RMSE/MAE) &amp;
+<b>Optimasi (2.9)</b> sebagai konteks. → <b>6 materi dari 1 model.</b></p>
+</div>
+
+<h2>Kesimpulan</h2>
+<div class="box">
+<ol>
+<li>Metode Numerik <b>bukan tempelan</b> — ia fondasi nyata: training = optimasi,
+loss = galat, preprocessing = interpolasi.</li>
+<li><b>7 dari 9 materi</b> bisa dikorelasikan kuat/sedang dengan data satu model (v2).</li>
+<li>Korelasi jujur butuh: data nyata + rumus silabus + interpretasi masuk akal.</li>
+<li>Perbandingan dua model hanya nilai tambah untuk Galat &amp; Integrasi.</li>
+</ol>
+</div>
+
+<p style="text-align:center; color:#888; margin-top:30px; font-size:13px;">
+Bahan belajar — angka (R²=0.87, reduksi loss 95%) dari log training nyata model v2 proyek SVTR.
+</p>
+
+</body>
+</html>

@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Overview Proyek SVTR</title>
+<style>
+  body { font-family: 'Segoe UI', Arial, sans-serif; max-width: 920px; margin: 30px auto;
+         padding: 0 24px; line-height: 1.65; color: #1a1a2e; background: #fafafa; }
+  h1 { color: #16213e; border-bottom: 3px solid #0f3460; padding-bottom: 10px; }
+  h2 { color: #0f3460; margin-top: 34px; border-left: 5px solid #0f3460; padding-left: 12px; }
+  .intro { background: #eef2f7; padding: 16px 20px; border-radius: 8px; border-left: 5px solid #533483; }
+  table { border-collapse: collapse; width: 100%; margin: 16px 0; font-size: 14px; }
+  th, td { border: 1px solid #ccd; padding: 9px 12px; text-align: left; }
+  th { background: #0f3460; color: #fff; }
+  tr:nth-child(even) { background: #f0f2f8; }
+  pre { background: #1a1a2e; color: #7fdbca; padding: 16px; border-radius: 8px;
+        font-family: 'Consolas', monospace; font-size: 13px; overflow-x: auto; line-height:1.4; }
+  .box { background:#fff; border:1px solid #ddd; border-radius:8px; padding:4px 20px; margin:16px 0;
+         box-shadow:0 1px 3px rgba(0,0,0,0.05); }
+  .done { color:#1b7a3d; font-weight:bold; }
+  .proc { color:#b8860b; font-weight:bold; }
+  .lesson { background:#e8f5e9; padding:12px 18px; border-radius:8px; border-left:4px solid #1b7a3d; margin:10px 0; }
+  code { background:#eee; padding:1px 5px; border-radius:3px; font-size:13px; }
+  @media print { body{background:#fff;} .box{box-shadow:none;} }
+</style>
+</head>
+<body>
+
+<h1>Overview Proyek SVTR</h1>
+<p><em>Scene Text Recognition pada Kemasan Pangan — bahan belajar</em></p>
+
+<div class="intro">
+Sistem yang membaca <b>tanggal kadaluarsa</b> & <b>kode produksi</b> pada kemasan
+pangan secara otomatis dari foto, memakai Deep Learning <b>SVTR</b> +
+mekanisme <b>confidence-aware</b> (menolak hasil ragu, minta foto ulang).
+</div>
+
+<h2>1. Masalah & Solusi</h2>
+<div class="box">
+<p><b>Masalah:</b> OCR biasa gagal baca kemasan karena permukaan mengilap (glare),
+cetakan dot-matrix kecil, permukaan melengkung, pencahayaan rendah/blur.</p>
+<p><b>Solusi:</b> Model SVTR di-fine-tune khusus teks kemasan + confidence-aware OCR.</p>
+<p><b>Target:</b> Akurasi &gt;85% (normal), &gt;75% (degradasi), CER/WER &lt;15%,
+inferensi &lt;10 detik, terintegrasi ke Android.</p>
+</div>
+
+<h2>2. Tech Stack</h2>
+<table>
+<tr><th>Lapisan</th><th>Teknologi</th><th>Fungsi</th></tr>
+<tr><td>Framework DL</td><td>PaddlePaddle 2.6</td><td>Mesin deep learning</td></tr>
+<tr><td>Toolkit OCR</td><td>PaddleOCR 2.7.3</td><td>Pipeline OCR + training</td></tr>
+<tr><td>Arsitektur</td><td>SVTR_LCNet</td><td>Recognition (baca karakter)</td></tr>
+<tr><td>API</td><td>Flask + Gunicorn</td><td>REST API server</td></tr>
+<tr><td>Image processing</td><td>OpenCV</td><td>Preprocessing citra</td></tr>
+<tr><td>Mobile</td><td>Flutter + Provider</td><td>Aplikasi Android</td></tr>
+<tr><td>Hosting</td><td>HuggingFace Spaces</td><td>Server cloud 24/7</td></tr>
+<tr><td>Training</td><td>Kaggle GPU</td><td>Latih model</td></tr>
+<tr><td>Data sintetik</td><td>TRDG</td><td>Generate teks buatan</td></tr>
+<tr><td>Dataset riil</td><td>Roboflow</td><td>Gambar kemasan</td></tr>
+</table>
+
+<h2>3. Arsitektur Sistem (End-to-End)</h2>
+<pre>
+[HP Android - Flutter]
+      |  foto kemasan (base64)
+      v
+[HuggingFace Spaces - Flask API]
+      v
+  Preprocessing (OpenCV: CLAHE, gamma, denoise)
+      v
+  Pipeline PaddleOCR:
+    1. Deteksi teks      -- cari lokasi teks (model bawaan)
+    2. Orientasi         -- betulkan teks miring
+    3. Recognition       -- BACA karakter (MODEL FINE-TUNE SENDIRI)
+      v
+  Confidence filter + ekstraksi (regex tanggal/kode)
+      v  JSON {exp_date, kode_produksi, confidence}
+[HP Android] -- tampilkan hasil + indikator keyakinan
+</pre>
+<div class="box"><b>Penting:</b> Deteksi pakai model bawaan PaddleOCR,
+tapi <b>recognition (baca karakter) pakai model hasil fine-tuning sendiri</b>.</div>
+
+<h2>4. Pipeline Pengembangan Model</h2>
+<pre>
+1. KUMPUL DATA (riil + sintetik TRDG + Roboflow)
+      v
+2. PREPROCESSING & LABELING (konversi format, anotasi, validasi dict)
+      v
+3. PEMBERSIHAN (anti data-leakage: 60% -> 0%, seimbangkan komposisi)
+      v
+4. TRAINING (Kaggle GPU, Adam optimizer, checkpoint /10 epoch)
+      v
+5. EXPORT & EVALUASI (CER, WER, F1, confusion matrix)
+      v
+6. DEPLOY (HuggingFace + APK pakai URL cloud)
+</pre>
+
+<h2>5. Progress Kerja</h2>
+<table>
+<tr><th>Tahap</th><th>Status</th><th>Catatan</th></tr>
+<tr><td>Backend Flask + API</td><td class="done">SELESAI</td><td>Endpoint scan, health</td></tr>
+<tr><td>Deploy cloud (HuggingFace)</td><td class="done">SELESAI</td><td>Live 24/7</td></tr>
+<tr><td>Integrasi Flutter</td><td class="done">SELESAI</td><td>URL cloud</td></tr>
+<tr><td>Training model v1</td><td class="done">SELESAI</td><td>masalah leakage 60%</td></tr>
+<tr><td>Perbaiki leakage</td><td class="done">SELESAI</td><td>split bersih 0%</td></tr>
+<tr><td>Data sintetik TRDG</td><td class="done">SELESAI</td><td>4000 kode/tanggal</td></tr>
+<tr><td>Data Roboflow + labeling</td><td class="done">SELESAI</td><td>378 crop riil</td></tr>
+<tr><td>Training model v2</td><td class="done">SELESAI</td><td>CER ~20%, acc ~42% (jujur)</td></tr>
+<tr><td>Dataset v3 seimbang</td><td class="done">SELESAI</td><td>domain 33->56%</td></tr>
+<tr><td>Training v3 (200 epoch)</td><td class="proc">PROSES</td><td>di Kaggle</td></tr>
+<tr><td>Analisis Metode Numerik</td><td class="proc">PROSES</td><td>untuk laporan</td></tr>
+</table>
+
+<h2>6. Pelajaran Penting</h2>
+<div class="lesson"><b>1. Konsistensi versi krusial.</b> Model dilatih PaddleOCR 2.7,
+harus di-inference versi sama. Beda versi = output rusak.</div>
+<div class="lesson"><b>2. Data leakage = metrik palsu.</b> v1 tampak 91% tapi nyatanya jelek
+— 60% val "bocor" dari train (menghafal, bukan belajar). Setelah bersih: ~42-66% (jujur).</div>
+<div class="lesson"><b>3. Dictionary harus sinkron.</b> Model keluarkan index angka →
+dipetakan ke karakter via dict. Geser 1 = semua huruf salah.</div>
+<div class="lesson"><b>4. Sintetik + riil saling melengkapi.</b> Sintetik untuk variasi pola,
+riil untuk kondisi nyata (glare, dot-matrix).</div>
+<div class="lesson"><b>5. Komposisi data menentukan fokus.</b> Terlalu banyak teks umum
+membuat model terdistraksi dari target (kode/tanggal).</div>
+
+<p style="text-align:center; color:#888; margin-top:30px; font-size:13px;">
+Bahan belajar proyek SVTR — disusun berdasarkan kondisi nyata pengembangan.
+</p>
+
+</body>
+</html>
