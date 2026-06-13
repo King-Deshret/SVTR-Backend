@@ -24,16 +24,20 @@ sesuai keputusanmu kita fresh 200 biar log & grafik kontinu 0-200 otomatis.
 
 ---
 
-## CELL 1 — Install + fix numpy (lalu RESTART KERNEL)
+## CELL 1 — Install (urutan penting, TANPA perlu restart di mode Commit)
 ```python
+# Install paddle + paddleocr, lalu PIN numpy 1.26.4 PALING AKHIR.
+# Di mode Commit (kernel fresh), tidak perlu restart karena belum ada
+# cell yang meng-import numpy/paddle sebelum ini.
 !pip install paddlepaddle-gpu==2.6.1 -f https://www.paddlepaddle.org.cn/whl/linux/mkl/avx/stable.html -q
 !pip install "paddleocr==2.7.3" lmdb -q
-!pip install "numpy==1.26.4" "opencv-python-headless==4.6.0.66" -q
-print("Install selesai. RESTART KERNEL lalu jalankan Cell 2 dst.")
+!pip install "opencv-python-headless==4.6.0.66" -q
+!pip install "numpy==1.26.4" -q --force-reinstall
+print("Install selesai. (Mode Commit: TIDAK perlu restart kernel.)")
 ```
-> Setelah cell ini: menu Run -> Restart & Clear Cell Outputs. WAJIB.
-> (Kalau pakai Commit, restart otomatis ditangani — tapi saat menyusun
->  manual, restart dulu.)
+> CATATAN: Jangan tambahkan import numpy/paddle/cv2 di Cell 1.
+> Import pertama harus di Cell 2 dst, supaya numpy 1.26.4 yang terpakai.
+> Di mode Commit kernel selalu fresh, jadi urutan ini aman tanpa restart.
 
 ## CELL 2 — Clone PaddleOCR release/2.7
 ```python
